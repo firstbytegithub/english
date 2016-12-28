@@ -1,0 +1,476 @@
+国家名
+Asia Asian
+    Russia Russian
+    Mongolia Mangolian
+    China Chinese
+    Korea Korean
+    Japan Japanese
+    India Indian
+    Thailand Thai
+    Philippines Philippine
+    Afghanistan Afghanistani
+    Iran Iranian
+    Malaysia Malaysian
+    Indonesia Indonesian
+    Iraq Iraqi
+Europe European
+    Sweden Swedish
+    Finland Finnish
+    Norway Norwegian
+    Germany German
+    England/Britain British
+    France French
+    Italy Italian
+    Spain Spanish
+    Iceland Icelandic
+Australia Australian
+New Zealand Zelanian
+
+North America
+    Canada Canadian
+    America American
+South America
+    Mexico Mexican
+the North Pole
+the South Pole
+
+颜色
+    
+物品
+
+建筑
+warehouse
+
+亲戚
+    nephew
+    niece
+    cousin
+食物
+职业
+    teather
+    engineer
+    doctor
+    farmer
+    worker
+    postman
+菜谱
+
+不规则动词
+常见动词各时态，现在 过去 完成
+形容词-人
+optimistic
+I know he is too optimistic but I don't want to depress him. 
+
+independent
+There were benefits to being a single independent woman.
+
+out-going active 
+Having an active youngster about the house can be quite wearing.
+
+able 
+They are bright, intelligent, able and confident.
+
+adaptable 
+I can adapt. I'm very adaptable as a matter of fact. 
+
+aggressive 
+Some children are much more aggressive than others.
+He is respected as a very aggressive and competitive executive.
+
+ambitious 
+Chris is so ambitious, so determined to do it all 
+
+amiable
+She was a very kind and amiable old woman.
+He is an amiable young man.
+
+amicable 
+analytical 
+
+apprehensive 
+People are still terribly apprehensive about the future. 
+
+aspiring
+In fact, I were an aspiring chemist and a regular soldier in the army. 
+
+audacious 
+capable 
+She's a very capable speaker
+
+careful 
+Be very careful with this stuff, it can be dangerous if it isn't handled properly 
+
+candid 
+She is very candid.
+
+competent 
+He is a highly competent teacher.
+
+constructive 
+He do have some constructive suggestions.
+
+cooperative 
+James is a very helpful and cooperative lad
+
+creative 
+It shows your creative spirit!
+
+dedicated 
+He's too serious and dedicated, wrapped up in his career 
+
+dependable 
+She is a dependable companion. 
+
+diplomatic 
+She is very direct. I tend to be more diplomatic, I suppose.
+
+disciplined 
+Children should be disciplined and not indulged.
+
+dutiful 
+He's the dutiful son.
+
+well--educated 
+efficient 
+She was efficient and reliable
+
+energetic
+He was hardworking and energetic. 
+
+expressivity 
+You can train people to be more expressive.
+
+faithful 
+I'm very faithful when I love someone.
+
+frank 
+To be frank, I don't like him.
+
+generous 
+He was a warm, generous and kind-hearted man.
+
+genteel 
+He came from a genteel family.
+
+gentle
+His movements were gentle and deliberate.
+
+humorous 
+He was quite humorous, and I liked that about him.
+
+impartial 
+He is perfectly fair and impartial and never tries to spare anybody's feelings.
+
+industrious
+She was an industrious and willing worker.
+
+ingenious 
+She is an ingenious girl.
+
+motivated 
+I am working with mostly highly motivated people
+
+intelligent 
+Susan's a very bright and intelligent woman who knows her own mind.
+
+learned 
+He is a serious scholar, a genuinely learned man.
+
+logical 
+Mathematics requires logical thinking.
+
+methodical 
+She is a methodical worker. 
+
+modest 
+He's modest, as well as being a great player
+
+objective 
+Plainly, a more objective method of description must be adopted
+
+precise 
+He is precise and mildly donnish in manner.
+
+punctual 
+He is an extremely punctual person.
+
+realistic 
+He's realistic enough to know he's not going to succeed overnight 
+
+responsible
+He's a very responsible sort of person
+
+sensible
+She was a sensible girl and did not panic 
+
+porting
+
+steady 
+He is a steady fellow.
+
+systematic 
+They went about their business in a systematic way.
+
+purposeful
+What the company needs is a strong and purposeful manager.
+
+sweet-tempered
+She is a sweet-tempered girl.
+
+temperate 
+
+tireless
+He was a tireless worker for justice.
+
+adroit
+John is an adroit negotiator. 
+
+argumentative 
+You're in an argumentative mood today!
+
+aspiring 
+She's an aspiring photographer. 
+
+attractive  
+She's a very attractive woman.
+
+audacious 大胆的，有冒险精神的 
+
+bad-tempered 
+He is a bad-tempered boy.
+
+bigmouth 
+She's got a round face, very round face, and a very bigmouth.
+
+bland 
+I'm so fed up with the bland food.
+
+bossy 
+I'm not bossy. I just have better ideas.
+
+brave 
+You're very brave.
+
+brilliant 
+He was a brilliant musician.
+
+caring
+He is a lovely boy, very gentle and caring.
+
+clever 
+He's a very clever man
+
+cheerful 
+Jack sounded quite cheerful about the idea. 
+
+childish  
+Don't be so childish. 
+
+comical
+Her expression is almost comical
+
+competent
+He is a highly competent teacher.
+
+conceited 自以为是的 
+confident 有信心的 
+She is confident that everybody is on her side
+
+conscientious 认真的，自觉的 
+Lao Zhang is very conscientious in doing his work
+
+considerate 体贴的 
+She's a very considerate and caring person.
+
+contemplative 好沉思的 
+Martin is a quiet, contemplative sort of chap
+
+courageous 勇敢的，有胆量的 
+
+cultured 有教养的 
+He is a suave, cool and cultured man.
+
+dashing 有一股子冲劲的，有拼搏精神的 
+He was dashing, self-confident and flirtatious. 
+
+demanding 苛刻的 
+Ricky was a very demanding child 
+
+determined 坚决的 
+He is determined to delay no more.
+
+devoted 有献身精神的 
+I was a devoted train spotter.
+
+depressing 沉闷的 
+The film is rather depressing. 
+
+discreet （在行动，说话等方面）谨慎的 
+He is discreet in making friends.
+
+dishonest 不诚实的 
+Don't be too familiar with him, he's a dishonest man.
+
+disorganized 无组织的 
+She's a good girl really, a bit lazy and disorganized sometimes, but she's very bright. 
+
+dynamic 精悍的 富有干劲
+He seemed a dynamic and energetic leader
+
+earnest 认真的 
+Ella was a pious, earnest woman
+
+easy-going 随和的 
+He was easy-going and good-natured 
+
+efficient 有效率的 
+energetic 精力充沛的 
+enthusiastic 充满热情的 
+expressive 善于表达 
+
+faithful 守信的，忠诚的 
+forceful （性格）坚强的 
+forgetful 健忘的 
+frank 直率的，真诚的 
+friendly 友好的 
+frugal 俭朴的 
+funny 有趣的，古怪的 
+
+generous 宽宏大量的 
+genteel 有教养的 
+gentle 有礼貌的 
+greedy贪婪的 
+gullible 容易受骗上当的 
+
+happy 开心的 
+hard-working 勤劳的 
+have an inquiring mind 爱动脑筋的 
+hearty 精神饱满的 
+helpful 助人的,有益的 
+helpless 无助的，没用的 
+honest 诚实的 
+hospitable 殷勤的 
+humble 恭顺的 
+humorous 幽默的 
+
+impartial 公正的 
+inconsiderate 不顾及别人的，轻率的 
+independent 有主见的 
+industrious 勤奋的 
+ingenious 有独创性的 
+initiative 首创精神 
+intellective 有智力的 
+intelligent 理解力强的 
+inventive 有发明才能的，有创造力的 
+
+just 正直的 
+
+kind 仁慈的，和蔼的 
+kind-hearted 好心的 
+knowledgeable 有见识的 
+
+lazy 懒惰的，懒散的 
+learned 精通某门学问的 
+liberal 心胸宽大的 
+logical 条理分明的 
+loyal 忠心耿耿的 
+
+mean 吝啬的 
+methodical 有方法的 
+modest 谦虚的 
+moody 情绪化的 
+motivated 目的明确的 
+
+narrow-minded 心胸狭窄的 
+nasty 下流的，令人厌恶的 
+nice 和蔼的，挑剔的，正派的 
+noisy 聒噪的 
+
+obedient 听话孝顺的 
+objective 客观的 
+open-minded 虚心的 
+optimistic 乐观的 
+orderly 守纪律的 
+original 有独创性的 
+outgoing 外向友好的 
+
+painstaking 辛勤的，苦干的，刻苦的 
+passionate 充满热情的 
+persevering 不屈不挠的 
+pessimistic 悲观的 
+polite 有礼貌的 
+popular 受欢迎的 
+practical 实际的 
+precise 一丝不苟的 
+punctual 严守时刻的 
+purposeful 意志坚强的 
+pushy 有进取心的 
+
+qualified 合格的 
+
+rational 有理性的 
+realistic 实事求是的 
+reasonable 讲道理的 
+reliable 可信赖的 
+responsible 负责的 
+romantic 浪漫的，空想的 
+
+self-conscious 自觉的 
+selfish 自私的 
+selfless 无私的 
+sensible 明白事理的 
+sensitive 敏感的 
+sincere 真诚的 
+skeptical 多疑的 
+smart 精明的 
+sociable 好交际的 
+spirited 生气勃勃的 
+sporting 光明正大的 
+steady 塌实的 
+straightforward 老实的 
+strict 严格的 
+stubborn 顽固的固执的 
+supportive 助人的 
+systematic 有系统的 
+strong-willed 意志坚强的 
+sympathetic确有同情心的 
+sweet-tempered 性情温和的 
+
+talented 有才能的 
+temperate 稳健的 
+thoughtful 体贴人的 
+timid 但小的，羞怯的 
+tireless 孜孜不倦的 
+tolerant 容忍的 
+trustful 容易相信人的 
+trustworthy 值得信任的 
+
+understanding 理解人的 
+ungrateful 不领情的 
+unselfish 无私的 
+upright 正直的 
+
+virtuous 善良的，贞洁的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
