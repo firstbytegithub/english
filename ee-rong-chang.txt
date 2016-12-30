@@ -278,7 +278,7 @@ at the moment
     Heard it's supposed to rain.
 ...hear...from...
     Where did you hear that from?
-...probability...
+...probability of...
     The weatherman said there is a high probability of rain.
 since when have you started...
     Since when have you started watching the news?
@@ -298,7 +298,7 @@ Let's go ... where ...
     Let's go for a drink at the bar where we went last week.
 ...only have enough for...
     I only have enough for three beers.
-...that...
+...so...that...
     You date so many girls that I get confused.
 ...the only one...
     She's the only one with blonde hair.
@@ -457,6 +457,7 @@ Can't you...
 ...at least...
     Can we at least study together?
 ...take...hours...
+    I spent two hours to find my classroom.
     It takes me hours to find my classroom.
 ...might be able to...
     I might be able to help you.
@@ -678,6 +679,569 @@ What kind of...
     It depends on when you go.
 ...being disgusted
     I can't read this book without being disgusted.
+I'm starving
+    I'm starving
+...get...to...
+    Let's get something to eat.
+What do they sell ...
+    What do they sell to eat there?
+What makes it...
+    What makes it so great?
+Can't we just...
+    Can't we just go to the supermarket?
+...don't compare at all!
+    Those vegetables don't compare at all!
+I don't feel like...
+    I don't feel like cooking.
+...make dinner for...
+    Can you make dinner for your sister tonight?
+she only eats...
+    she only eats macaroni and cheese!
+...super easy
+    It's super easy
+...follow...instructions
+    It's super easy, just follow the box instructions.
+...out of...
+    We're all out of instant macaroni and cheese.
+...make...from...
+    Well, make it from scratch, then.
+It can't be...
+    It can't be that easy.
+...at all
+    Cooking isn't hard at all.
+...accidentally...
+    If I accidentally burn the house down, it's not my fault.
+...book the hotel...
+    Did you book the hotel for the trip?
+...it comes with...
+    Yes and it comes with something extra!
+...exactly
+    What would that be, exactly?
+...with...and..
+    Oh, with syrup and fresh fruit.
+I can't wait to ...
+    I can't wait to see it all!
+...more excited for...than...
+    I think I'm more excited for breakfast than the trip.
+...is the most important...
+    Well, breakfast is the most important meal of the day.
+What are we having...
+    What are we having for lunch?
+...make...to drink...
+    Can I make some lemonade to drink?
+That'd be...
+    That would be great.
+...already...
+    We just ate breakfast, but I'm already hungry.
+It's amazing...
+    It's amazing how hungry I get so soon!
+I'm really looking forward to...
+    I'm really looking forward to those sandwiches.
+I just realized...
+    I just realized we're out of bread!
+...will have to be...
+    I guess lunch will have to be delayed.
+Can you please...
+    Can you please go to the store and buy some?
+Have you decided...
+    Have you decided what you're going to order?
+I think I want to...
+    I think I want to eat a steak today.
+...sounds...
+    That sounds delicious!
+I've been craving...
+    I've been craving one all day.
+...make me...
+    You're making me crave one now!
+Do you mind if...
+    Do you mind if I try some of that?
+Only if...
+    Only if you give me some steak!
+...thirsty...
+    I'm so thirsty!
+You might want to...
+    You might want to buy something refreshing.
+It is kind of..., isn't it?
+    It is kind of hot, isn't it?
+I was only kidding!
+    I was only kidding!
+I'm afraid I don't know.
+    I'm afraid I don't know.
+Especially...
+    Especially if you throw it at him.
+...as often as...
+    I do eat fruit: just not as often as you do.
+...doubt..
+    I don't doubt it.
+...still...
+    I still want pizza for lunch.
+...also...
+    I'll also eat an apple.
+What...are you waiting for?
+    What order are you waiting for?
+...on a diet
+    Are you on a diet?
+...just felt like...
+    I just felt like eating a salad.
+What do you think I should get for dessert?
+    What do you think I should get for dessert?
+...sounds good to me
+    That sounds good to me! Let's go.
+What kind of meat...
+    What kind of meat are you buying?
+It's ... if...
+    It's tenderer if you do it that way.
+...sure...
+    You sure are buying a lot of meat.
+...how well...
+    I'd like to see how well you cook.
+What's so bad about...
+    What's so bad about potato chips?
+...much better...
+    That is a much better snack!
+I'd still like to...
+    I'd still like to eat potato chips though.
+...very often
+    I don't eat them very often.
+...cut the vegetables...
+    Can you cut the vegetables, please?
+How do you want me to...
+    How do you want me to cut them?
+Cut...into...
+    Cut the potatoes into big chunks.
+Do I do the same to...
+    Do I do the same to the celery?
+There are so many ways...
+    There are so many ways to cut these things!
+...really be...
+    Yes, there really are!
+...get started...
+    Great! I'll get started now.
+You really need...
+    You really need a more balanced diet!
+...always eating...
+    I'm not always eating junk food!
+Why should I...
+    Why should I measure the portions that way?
+...take your advice
+    I'll take your advice.
+What size drink...
+    What size drink would you like?
+Can I also...
+    Can I also buy this banana, please?
+What is my total
+    What is my total?
+Where do I go to...
+    Where do I go to get my food?
+What are you getting to...
+    What are you getting to drink?
+Where do we pay for...
+    Where do we pay for all of this?
+This reminds me of...
+    This reminds me of the school lunch line.
+it does work the same way.
+    Well, it does work the same way.
+...grab napkins
+    Don't forget to grab napkins!
+What are you carrying?
+    What are you carrying?
+Why do you keep...
+    Why do you keep looking at it?
+Is it on sale...
+    Is it on sale here?
+Lucky for...
+    Lucky for me.
+You sure...
+    You sure save a lot of money!
+I find it funny that...
+    I find it funny that Americans think this rice is exotic!
+Check out...
+    Check out my birthday haul!
+...for later
+    I know, but I want to save some for later.
+Do you want to come with me to...
+    Do you want to come with me to Walmart?
+What do you need...
+    What do you need to buy?
+...move in
+    When do you move in?
+Is there anything...
+    Is there anything you have to take?
+What do you want...for?
+    What do you want new clothes for?
+That sounds like something...
+    That sounds like something my mom would do.
+...are good at...
+    Hey, moms are good at saving money.
+I don't know which size
+    I don't know which size to get.
+Why don't you...
+    Why don't you check your shoes?
+...will have to...
+    I guess you'll have to measure your foot.
+I found it
+    Oh, I found it, thanks.
+What size...
+    What size are you?
+where are you headed?
+    Hey, where are you headed?
+I'm tired of...
+    I'm tired of having mismatched furniture.
+What are you planning to...
+    What are you planning to buy?
+...have it delivered
+    Will you have it delivered?
+What do you mean by that?
+    What do you mean by that?
+What did you have in mind?
+    What did you have in mind?
+something with more functions
+    Maybe something with more functions!
+It's settled
+    It's settled, then!
+How much for
+    Excuse me, sir. How much for this lamp?
+...sell...for...
+    I'll sell it to you for $50.
+...way too...
+    That's way too expensive.
+What price...
+    What price did you have in mind?
+What day...
+    What day do you need the cake?
+Would you like to have it...
+    Would you like to have it delivered?
+Sometime in the morning...
+    Sometime in the morning would be perfect.
+I can have someone...
+    I can have someone drop it off at 10:30 a.m.
+...was scheduled to...
+    The delivery was scheduled to arrive over an hour ago.
+...behind schedule
+    we're a bit behind schedule.
+...sorry for the inconvenience
+    I'm sorry for the inconvenience.
+may I please...
+    Hello, may I please talk to a store manager?
+I scheduled...
+    I scheduled some furniture to be delivered today.
+...be aware of...
+    Please tell the deliverymen to be aware of my dog.
+...stopped doing...
+    All the channels suddenly stopped working.
+Did you make sure...
+    Did you make sure all the cables are plugged in?
+...checked and double checked...
+    Yes, I checked and double checked them.
+...may be some kind of...
+    There may be some kind of signal interference.
+Is there any way...
+    Is there any way you can test that?
+...will be able to...
+    Well, you'll be able to once you change the remote batteries.
+When did it start...
+    When did it start having problems?
+As soon as...
+    As soon as I took it out of the box.
+I'd just like...
+    I think I'd just like my money back.
+...pay with..
+    Did you pay with a credit card?
+How does it work?
+    How does it work?
+It costs...
+    It costs $550 without tax.
+I'll be fine with just...
+    I think I'll be fine with just the laptop.
+I need assistance...
+    Hi, I need assistance, please.
+Just have...
+    Just have the phone.
+What do you mean...
+    What do you mean use the warranty?
+...drop...
+    I did drop it many times.
+What am I supposed to do...
+    What am I supposed to do with a busted phone?
+...warranty on...
+    I suggest you buy a longer warranty on this one, sir.
+I suggest...
+    I suggest you buy a longer warranty on this one, sir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
