@@ -1,0 +1,211 @@
+如何准确听出英语中的数字——我知道你们不光乱读还乱写！！
+十三 十三 2013-05-08 15:10:33
+我知道你们对英语数字不光乱读，还乱写！！所以第二部分主要关于：哪些场合用单词表示，哪些场合用阿拉伯数字表示，以英语为母语的国家，在书写数字时已形成几条约定俗成的规则。前半部分看完的请直接拉到后半部分。
+
+
+我想了想，还是在最开头加一个最最基础的规则吧。虽然很快就有人喜欢推荐了这篇文章，但是，你们别骗我了，你们推荐完了，喜欢完了，再也不会看了！
+...........................................不到二十分钟加的分割线.................................................
+先看两个例子：
+1, 345, 233 = one million, three hundred and forty-five thousand, two hundred and thirty-three.
+1,684,234,465 = one billion, six hundred and eighty-four million, two hundred and thirty-four thousand, four hundred and sixty-five.
+仔细看看，有没有发现规则？
+英语里把一个基数词的基础上进一位用ten表示，进两位用one hundred，进三位时就用一个新的基数词来代替，然后在新词的基础上进位用相同的方法！
+
+...........................................一个小时候再加分割线...........................................................
+好吧，我再讲一个实用的规则，这次是关于“teen”和“ty”的区别，15、50听起来傻傻分不清楚！
+“-teen”和“-ty”是比较容易混淆的一对读音。我们可以通过音和音素的差异来区别两者。 含有“- t een ”的词有两个重音， 即“-teen”要重读，且“-teen”中的元音为长元音[ti:n]，发音长而清晰；而含有 “-ty”的词只有一个重音，即“-ty”不重读，且“-ty ”中的元音为短元音[ti]，发音短而急促。 
+例子：   
+    fifteen['fif'ti:n] fifty['fifti] 
+    nineteen['nai'ti:n] ninety['naiti]
+.......................................................................................................................................
+对话中，数字往往是关键信息，然而我发现，大多人却对这部分信息稀里糊涂。主要的原因并不是听不出来，而是根本对英语数字的读法规则不清楚。和身边的一些人交流发现，相当一部分的同学就没有系统性的学习过数字读法规则。
+
+因此，想要解决这个问题，最根本的是普及英语数字读法规则。
+
+当然，英美数字读法略有不同，如在英式英语中，一个数的最后两位(十位和个位)得用"and''，但美式英语中则不用，但这都无伤大雅。
+
+顺便吐槽一句，发音的目的是什么？是交流！首先要保证的是流畅，这是根本。所以，英式还是美式发音，是细节问题，而非根本问题，做事得分清主次关键。纠结于英式还是美式发音，在我看来是本末倒置。这里倒也不是说，发音并不重要，发音当然重要，如果在有选择的情况下，我当然优先录入发音标准的职员，然而，这些都是在能够流利顺畅表意的基础上。
+
+当我在谈口语时，我首先想的是流利。
+
+以下开始普及数字读法规则。
+
+...................................................不到五分钟加的分隔线.......................................................
+中间插点话：请自问：年月日的正确表达法是什么？
+还有，大多时候你听不懂对话，并不是里面所使用的词汇有多复杂，也不是你的词汇量不够。你听到一个词，这个词也很简单，如apple（从学英语时就接触过这个词吧），但是你就是反应不过来。词汇量再多也没用，active words才是真正有意义的部分，A bird in hand is worth two in bush. （一鸟在手胜过两鸟在林），这么表述可能有问题，一句话说到底就是得想办法提高自己的active words。多输入，还有很远的路要走。
+...........................................................................................................................
+
+     一、我们们先从基数词人手。首先掌握三位以内数字的读法，因为它是多位数字的基础，一旦熟练掌握，再借助一个逗号，便可轻松应付四位以上任何庞大的数字。我们可以通过例子来说明这一点。 
+　　 
+　　（1）3-5位数的读法 
+　　202读作：two hundred(and)two 
+　　234读作：two hundred(and)thirty-four 
+　　1， 234读作：one thousand two hundred(and)thirtyfour 
+　　 
+　　（2）在读法上须注意以下几点： 
+　　a．在英式英语中，一个数的最后两位(十位和个位)得用"and\''，但美式英语中则不用。如：3，077读作：U.S：three thousand seventy-seven． 
+　　b．不定冠词"a"只在数的开头才和hundred，thousand等连用。试比较： 
+　　146读作：ahundred(and)forty-six 
+　　2，146读作：twothousand，one hundred(and)fortysix 
+　　c.1，000这个整数我们说athousand，在and前我们也说a thousand，但是在一个有百位数的数目前就得说one thousand试比较： 
+　　1，031读作：a thousand，(and)thirty-one， 
+　　1，150读作：one thousand，one hundred(and)fifty 
+　　d.hundred，thousand和million这几个词的单数可以和："a"者"one"连用，但是不能单独使用。在非正式文体中"a"比较常见；当我们说话比较准确的时候就用"one"试比较： 
+　　I Want to live for a hundred years． 
+　　The journey took exactly one hundred days． 
+　　e.我们常常说eleven hundred(1，100)，twelve hundred(1，200)等，而不说one thous and one hundred．从1，100到1，900之间的整数，这种说法最常见。 
+　　 
+　　（3）5位以上数字的读法 
+　　11，234读作：eleven thousand two hundred(and)，thirty-four 
+　　155，721读作：one hundred(and)fifly-fivethous and seven hundred(and)twenty-one 
+　　6，155，702读作：six million one hundred(and)fifly-five thous and seven hundred and two 
+　　26，000，008读作：twenty-six million and eight 
+　　326，414，718读作：three hundred(and)twenty-six mil-lion，four hundred(and)four teen thous and，seven hundred(and)eigh-teen 
+　　4，302，000，000读作：four billion three hundred(and)two million 
+　　由以上一组数字可以看出，多位数由右向左每3位有一逗号，这个逗号的作用非同小可，在记忆数字时，它可以帮我们很大的忙！ 
+　　逆向第一个逗号读thousand；向左再推三位，第二个逗号读million；第三个逗号读billion；第四个逗号就是trillion。这几个逗号的作用在于，当我们听到若干thousand时，立即写下这个数，并在其后打一个逗号，并留出3位；当听到若干million，则写下数字，并在其后打一逗号，留出6位；听到若干billion，方法同上，在后面留出9位，后面的million、thousand依此法类推，让所有数字各就其位。 
+　　例如，当你听到"twenty thous and andfour\''写出20，"and four"意为后一组仅有个位，即：004，那么，这个数字完整地写下来就是20，004；若听到"six million twenty thousand four hundred and twenty-three，"则第一步先写：6，020，再将最后一组423写在第一个逗号后面。完整的翠字为6，020，423。若听到"One billion，one hundred and four million，twenty thousand four hundred and twenty-three"：主第一步写出1，104，第二步接下去写第三组020，第三步二写423，这样得到的完整数字便是 1，104，020，423，由此：见这个三位一逗号的作用有多大。只要我们在平时的训练中加强对三位数读写的训练，能分辨"ty"与"teen\''，并能借助这个不可缺少的"逗号"，无论数字多么大，也不会对我们造成障碍。 
+　　 
+　　二、序数词的读法 
+　　 
+　　lst读作：(the)first 
+　　2nd读作：(the)second 
+　　3nd读作：(the)third 
+　　4th读作：(the)fourth 
+　　20th读作：(the)twentieth 
+　　21st读作：(the)twenty-first 
+　　22nd读作：(the)twenty-second 
+　　23rd读作：(the)twenty-third其它以此类推。 
+　　 
+　　三、分数、小数和百分比的读法 
+　　 
+　　（1）分数 
+分数中分子用基数词表示，分母用序数词表示。先读分子，后读分母。当分子大于1时，分母要加"s"。例如 
+　　1/2读作：a／one half(口语中更倾向于用"a"代替"one") 
+　　1/3读作：a／one third 
+　　1/8读作：an／one eighth 
+　　1/4读作：a／one quarter(fourth) 
+　　2/3读作：two thirds 
+　　1/5/9读作one and five ninths 
+　　比较复杂的分数常常用over这个词表示。如： 
+　　317/509读作：three hundred and seventeen over five hundred and nine 
+　　3/4hour，7／lOmile则说three quarters of an hour(三刻钟)，seven tenths of a mile(十分之七英里)。 
+　　 
+　　（2）小数 
+　　含小数点的数字，小数点"．"读"point"，小数点后的数若是两位以上，则分别读出。 
+　　0．5读作：(nought) * point five 
+　　0．25读作：(nought) point two five 
+　　0．125读作；(nought)point one two five 
+　　93.64m读作：ninety-three point six four meters 
+　　2'15．11''读作：two minutes fifteen point one one seconds 
+　　 
+　　（3）百分比 
+　　读百分比只需在相应的数字后加"percent"。如： 
+　　25％读作twenty-five percent 
+　　11．3％读作eleven point three percent 
+　　 
+　　四、年代及日期的读法 
+　　 
+　　数字表示的年份通常分成两半来说。 
+　　2000B．C．读作：two thousand BC 
+　　1558读作：fifteen fifty-eight 
+　　1603读作：six teen(hundred and)three／sixteen oh three 
+　　921读作：nine twenty-one 
+　　日期的表达英式和美式有所不同，请注意区别。 
+　　在日期的写法上，英式先写日子，美式先写月份。 
+　　英1999年4月6日=6th April l999 
+　　美1999年4月6日=April 6，1999 
+　　在读法上，英国人有两种表达方式： 
+　　1．April the sixth，nineteen ninety-nine 
+　　2．The sixth of April，nineteen ninety-nine 
+　　美国人则一般这样表示： 
+　　April sixth，nineteen ninety-nine(省略"the") 
+　　 
+　　五、钟点的读法 
+　　 
+　　钟点的读法分英式和美式两种，我们应对此加以注意。 
+　　英7：00 seveno'clock a．m．／p．m． 
+　　8：15 a quarter past eight／eight fifteen 
+　　9：30 half past nine／nine thirty 
+　　9：45 a quarter to ten／nine forty-five 
+　　10：03 three(minutes)pastten／ten ohthree 
+　　美用法基本相似，只是英国用past之处，美国通常用after；英国用to之处，美国常用fo。美5：15 a quarter after five／five fifteen 
+　　9：30 nine thirty／half past nine* 
+　　9：45 a quarter of ten／nine forty-five 
+　　9：55 five of ten／nine fifty-five 
+　　当用于军事命令和旅行时间表时，其读法如下： 
+　　07：00 (Oh)seven hundred hours=7：00a．m． 
+　　09：15 (Oh) nine fifteen=9：15a．m． 
+　　12：00 twelve hundred hours=midday／noon 
+　　13：45 thirteen forty-five-1：45p．m． 
+　　19：00 nineteen hundred hours：7：OOp．m． 
+　　23：05 twenty-three(Oh)five--11：05p．m． 
+　　24：00 twenty-four hundred hours=midnight 
+　　24：10 twenty-fourten'ten past midnight 
+　　 
+　　六、电话号码、温度与门牌号的读法 
+　　 
+　　（1）电话号码 
+　　读电话号码时，每个数字一一读出，"o"英式读d1［ou]；美式则读zero(有时也读nought)。英国人在读两个相同数字时，通常读成doublex尤其是当这两个数处在同一组时(电话号码由右向左每两位一组)。例如： 
+　　345-6638读作：three four five，double six three eight 
+　　307-4922读作：three oh seven，four nine double two而美式则读成：three zero seven，four nine two two但如果相同的两个数不在同一组，则可以有两种读法。例如：62899033即可读成six two eight double nine oh double three，也可读作six two eight nine nine oh double three，但99033绝不可读作nine nine oh three three。相反，在遇到号码中数字相同时，美式则一律重复念出该数字。但英式有一例外，英国的紧急电话999却总读成nine，nine，nine。 
+　　 
+　　（2）温度 
+　　表示温度有华氏(Fahrenheit)和摄氏(Centigrade)两种。英美均使用华氏作为温度的计量单位。摄氏用法现已日渐普及。 
+　　15℃读作：fifteen degrees Centigrade(或Celsius) 
+　　32℉读作：thirty-two degrees Fahrenheit 
+　　0C读作：nought degrees Centigrade 
+　　-5C读作：five degrees below zero 
+　　 
+　　（3）门牌号． 
+　　门牌号遇三位数分别读出各数字，遇四位数时则分成两半来读。例如： 
+　　Room 302读作：Room three O two／three zero two 
+　　3491 King Street读作：thirty-four ninety-one King Stred
+
+
+............恭喜你看到了这里，我们来两条meko 给的Tips，偷懒的人就看不到（5月9日）................
+美国人在日常口语中，一般长数字就说的比较随便。有时连hundren & thousand之类的都不说。543会说five forty-three, 1234变成twelve thirty-four。 
+
+在说电话号码的时候，他们比较习惯3个3个数字说。因为头三个数是美国区号。
+
+...........................看到分割线你们很开心（5月10日），下半部分来了......................................
+
+我知道，你们不光英语数字乱读，还乱写！！！
+
+这部分主要是关于：哪些场合用单词表示，哪些场合用阿拉伯数字表示，以英语为母语的国家，在书写数字时已形成几条约定俗成的规则。
+
+一、英美等国的出版社在排版时遵循一条原则，即1至10用单词表示，10以上的数目用阿拉伯数字（也有的以100为界限）。
+That table measures ten feet by five. 
+那个工作台长10英尺，宽5英尺。 
+The traditional pattern of classroom experience at the college level brings the professor and a group of 20 to 30 students together for a 45-to-50-minute class session two or three times a week. 
+大学课堂的传统的教学方式是，一个教授和二三十名学生每周见面两三次，每次授课时间45到50分钟。 
+
+二. 人数用阿拉伯数字表示显得更简洁明了，但不定数量、近似值用单词表示较恰当。 
+There are 203817 voters on the electoral rolls. 
+选举名单上有203817个投票人。 
+Nearly thirty thousand voters took part in this election. 
+近3万个投票人参加了这次选举。
+
+三. 遇到日期、百分比、带单位的特殊数字，通常用阿拉伯数字。 
+Maximum swivel of table is l20. 
+工作台的最大旋转角度是120度。
+Eg. 3rd March l991或3 March l991； 
+a discount of 5 percent（5%的折扣）； 
+purchased 7 yards of carpet（买7码地毯）； 
+ordered 2 pounds of minced steak（订购2磅肉馅） 
+如果涉及的数目和单位是不定数，可用单词表示。 
+about five miles per hour（每小时大约5英里） 
+at least ten yards away（至少有10码远） 
+hesitated for a moment or two（犹豫了片刻） 
+I have warned you a hundred times（我已经警告你多少遍了。） 
+
+四. 在科技文章中，数字频繁出现，用阿拉伯数字比用单词陈述更有利。
+The new engine has a capacity of 4.3 litres and a power output of 153 kilowatts at 4400 revolutions per minute. 
+这台新发动机的容积为4.3升，转速为每分钟4400转，时输出功率是153千瓦。 
+We know that the weight of a cubic foot of air at 0?C and 76cm，pressure is 0.08l pound, or 12 cubic feet of air weigh a pound. 
+我们知道，1立方英尺的空气在0摄氏度和760毫米汞柱压力下，重量是0.81磅，也就是说12立方英尺空气的重量是1磅。
+
+五. 句首不用阿拉伯数字，句末要尽量避免用阿拉伯数字。 
+4th July is an important date in American history. 
+应该写成The fourth of July...
+  

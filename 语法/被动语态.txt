@@ -1,0 +1,637 @@
+第1章 get与be的纠葛　　
+
+■山东  刘永科　　
+
+有网友问：我们经常见到被动语态不用“be+过去分词”，而是用“get+过去分词”的情况。例如，有这样一句话：She got burned while she was cooking in the kitchen. 请问，这个句子不用was burned，而用了got burned，为什么？　　　　
+
+英语中，“be+过去分词”和“get+过去分词”都表示被动语态，但它们是有区别的。请比较：　　　　
+
+The vase was broken by the maid, but the master wanted to know how it got broken. 花瓶被女仆人打破了，但主人想知道它是怎样被打破的。　　　　
+
+通过分析对比，我们发现：was broken 表示“一种既成的结果”，说明花瓶被人打破了；got broken则强调“一种过程或动作”，说明它是怎么被打破的。　　　　
+
+刚才问的那个句子也属于这种情况。又如：　　　　
+
+The children were lost in the forest. I wonder how they got lost. 孩子们在森林里迷了路。我不知道他们是怎么迷路的。　　　　
+
+除此以外，“get +过去分词”和“be +过去分词”还有一些其他的区别。　　　　
+
+1.“get+过去分词”往往强调一种突发或偶发事件，多为不愿看到的事情。例如：　　　　
+
+He got injured by a car when he was crossing the road. 过马路时他被车撞伤了。　　　　
+
+The picture got damaged when we were moving. 我们搬家时，这幅画受了损。　　　　
+
+The miners got trapped in the deep mine last Tuesday. 上周二矿工们被困在深井中。　　　　
+
+2.“get+过去分词”在表示强调、否定和疑问时，需借助助动词do或did，而“be +过去分词”则不需要。例如：　　　　
+
+They did get caught in the rain last night. 他们昨天晚上确实被雨淋着了。　　　　
+
+Tom didn’t get beaten yesterday evening. 汤姆昨天晚上没有挨打。　　　　
+
+Did your letter get answered? 你收到回信了吗？　　　　
+
+3.“get+过去分词”可以有进行时态，表示一种“渐变过程”；而“be+过去分词”则没有。例如：　　　　
+
+The students are getting prepared for the sports meeting. 学生们正在为运动会做准备。　　　　
+
+She was getting worried about her exams. 她当时正在为考试发愁呢。　　　　
+
+You will be getting puzzled if you don’t know the truth. 如果你不了解实情，你会变得迷惑不解。　　　　
+
+除了上述的区别外，“get +过去分词”还常用于以下几种情况： 　　　　
+
+1. 强调进入或者变为某种不利状态。例如：　　　　
+
+We don’t want any of you to get lost in the crowd. 我们不想你们任何人在人群中迷路。　　　　
+
+He went out and got drunk. 他出去喝醉了酒。　　　　
+
+The secret got known at 10 o’clock. 秘密在十点钟就被人们知道了。　　　　
+
+2. 常用于日常生活起居，过去分词具有反身意义（相当于“主动语态+oneself”）。例如：　　　　
+
+He could not wash himself or get dressed. 他既不会洗刷，也不会穿衣。(=dress himself)　　　　
+
+She got washed after she came back home from work. 她下班回到家后洗了澡。(=washed herself)　　　　
+
+They began to watch TV as soon as they got seated. 他们一坐下就看电视。(=seated themselves)　　　　
+
+3. 强调由一种状态渐渐变为另一种状态，如习惯、好恶等。例如：　　　　
+
+She soon got tired of learning English. 很快她就对学英语厌倦了。　　　　
+
+You will soon get used to this kind of work.你很快就会习惯这种工作。　　　　
+
+4. 强调引起心理和情感上的变化。例如：　　　　
+
+She got very pleased with her new room. 她对她的新房间颇为满意。　　　　
+
+I got surprised at the news. 这消息使我吃惊。
+
+第2章 英语被动语态主要知识归纳
+
+ 
+
+1. 被动语态的构成与用法
+
+英语的语态有主动语态和被动语态两种。决定动词用主动语态还是被动语态主要看动词和主语的关系。如果主语是动作的执行者，也就是说它们是主动关系，此时动词用主动语态；如果主语是动作的承受者，也就是说它们是被动关系，此时动词则用被动语态。英语的被动语态由“助动词be＋过去分词”构成，其中be有时态、人称和数的变化。如：
+
+English is taught in most schools. 大多数学校都教英语。
+
+The children are not allowed (permitted) to play on the grass. 孩子们不允许在草地上玩耍。
+
+After the accident, the injured were taken to hospital. 事故发生之后受伤的人被送往医院急救。
+
+2. 九种时态的被动语态
+
+各种时态的被动语态
+ 被动语态的构成
+ 
+be
+ 过去分词
+ 
+1
+ 一般现在时的被动语态
+ am / is / are
+ 过去分词
+ 
+2
+ 一般过去时的被动语态
+ was / were
+ 过去分词
+ 
+3
+ 现在进行时的被动语态
+ am / is / are +being
+ 过去分词
+ 
+4
+ 过去进行时的被动语态
+ was / were +being
+ 过去分词
+ 
+5
+ 现在完成时的被动语态
+ have / has been
+ 过去分词
+ 
+6
+ 过去完成时的被动语态
+ had been
+ 过去分词
+ 
+7
+ 将来完成时的被动语态
+ will / shall have been
+ 过去分词
+ 
+8
+ 一般将来时的被动语态
+ will / shall be
+ 过去分词
+ 
+9
+ 过去将来时的被动语态
+ would / should be
+ 过去分词
+ 
+
+请看以下用例：
+
+We are given a lot of homework to do. 我们有很多作业要做。
+
+They were given a warm send-off. 他们受到热烈的欢送。
+
+I think we are being followed. 我想有人在跟踪我们。
+
+They told me that the case was being investigated. 他们告诉我案子正在调查。
+
+The documents for which they were searching have been recovered. 他们找寻的文件已找到了。
+
+He asked if Mary had been sent to hospital. 他问玛丽是否已被送进医院。
+
+Check carefully, so any mistakes will be caught. 仔细检查一遍，把所有错误都找出来。
+
+He knew he would be punished for it. 他知道他会为此受到惩罚。
+
+3. 含有情态动词的被动语态
+
+含有情态动词的被动语态由“情态动词＋be＋过去分词”构成。如：
+
+You might be asked to speak at the meeting. 可能请你在会上发言。
+
+Whenever (they are) known, such facts should be reported. 这类情况一旦发现就要报告。
+
+All the above items can be obtained from our office. 所有上述资料可向我们办公室索取。
+
+Something must be done to stop these accidents. 必须采取某种措施以防止这些事故。
+
+These books may be appreciated better by older children. 年龄稍大的孩子可能更会欣赏这些书。
+
+4. 短语动词的被动语态
+
+“动词＋介词或副词”构成的短语动词，以及“动词＋名词＋介词”构成的短语动词，在被动语态中不要漏掉后面的介词或副词。如：
+
+Good use is made of the library. 这图书馆的利用率很高。
+
+A man who is much talked about is always very attractive. 被人谈论多的人经常是很有吸引力的人。
+
+Many interesting experiments are carried out in our laboratory. 我们实验室做了许多有趣的实验。
+
+5. 关于“get+过去分词”
+
+在英语口语中，有时可用“get+过去分词”构成被动语态。如：
+
+I got dressed as quickly as l could. 我尽快穿上衣服。
+
+I wasn’t surprised she get elected after all the efforts she made. 她尽了一切力量之后，当选了，这不使我感到奇怪。
+
+We got delayed because of the holiday traffic. 因为节日交通阻塞，所以我们被耽误了。
+
+I tried to find my way round London without a map and got lost. 我试图不带地图在伦敦寻路，结果迷路了。
+
+注：这样结构比较常见的搭配有get arrested, get caught, get confused, get delayed, get divorced, get dressed, get drowned, get drunk, get elected, get engaged, get hit, get killed, get lost, get married, get stuck等。
+
+
+
+第3章 使用被动语态的若干注意点
+
+ 
+
+一要注意被动语态的不同时态
+
+被动语态由“be+过去分词”，其中的助动词 be 根据情况可使用各种不同时态。如：
+
+She is respected by everyone. 她受到大家的尊重。(一般现在时)
+
+The book will be reprinted soon. 这本书很快会重印。(一般将来时)
+
+The road is being repaired. 路正在修整。(现在进行时)
+
+They have been given a warning. 他们受到警告。(现在完成时)
+
+二要注意带情态动词的被动语态
+
+该结构的基本形式为“情态动词+be(或be的适当形式)+过去分词”。这类结构非常有可能作为语境题出现在考卷中。如：
+
+The rules must be obeyed. 这些规章制度必须遵守。
+
+They shouldn’t have been told about it. 这事是不应当告诉他们的。
+
+三要注意非谓语动词的被动语态
+
+1. 不定式一般式的被动语态。由“to be+过去分词”构成。如：
+
+She asked to be given some work to do. 她要求给她一些工作做。
+
+He was the last person to be asked to speak. 他是最后被邀请发言的人。
+
+2. 不定式完成式的被动语态。由“to have been+过去分词”构成。如：
+
+I should like to have been told the result earlier. 我本想让人把结果早点告诉我的。
+
+3. 现在分词一般式的被动语态。由“being+过去分词”构成。如：
+
+I saw him being taken away. 我看见有人把他带走了。
+
+Being protected by a wall, he felt quite safe. 有墙作保护，他感到很安全。
+
+4. 现在分词完成式的被动语态。由“having been+过去分词”构成。如：
+
+Having been invited to speak, I’ll start making preparations tomorrow. 因为邀请我去讲话，我明天就得做准备。
+
+The subject having been opened，he had to go on with it. 话题已经开始了，他不得不谈下去。
+
+5. 动名词一般式的被动语态。由“being+过去分词”构成。如：
+
+She likes being looked at. 她喜欢被人瞧。
+
+He hates being made a fool of. 他讨厌被别人愚弄。
+
+This question is far from being settled. 这个问题远没解决。
+
+6. 动名词完成式的被动语态。由“having been+过去分词”构成。如：
+
+Jenny’s not having been trained as a dancer is her one regret. 杰妮没受过舞蹈的专业训练是她感到遗憾的事。
+
+After having been instructed to drive out of town, I began to acquire confidence. 在接到把车开出城的指令后，我开始信心十足了。
+
+注：过去分词没有被动式，因为它本身可以表示被动意义。如：
+
+The door remained locked. 门仍然锁着。
+
+四要注意“get+过去分词”构成的被动语态
+
+英语被动语态通常由“助动词be+过去分词”构成，有时也可用“get+过去分词”构成。如：
+
+James got beaten last night. 詹姆斯昨晚被打了。
+
+How did that window get opened? 那个窗户是如何打开的？
+
+但总的说来，用get构成的被动语态不如用be构成的被动语态常见，尤其是在含有施动者的by短语时，用get构成被动语态更是少见。不过有时用be+过去分词构成被动语态构成误解时，人们可能会选get+过去分词来避免这种误解：
+
+The window was broken. 窗户破了(表状态)。/ 窗户被打破了(表动作)
+
+The window got broken. 窗户被打破了(表动作)
+
+五要注意哪些动词不用于被动语态
+
+1. 不及物动词没有被动语态。因为不及物动词没有宾语，所以若将其用于被动语态则没有主语，故不能用于被动语态。但是值得注意的是，有些英语中的不及物动词，译成汉语时却可能是“及物”的，很容易出错，这类动词如：take place(发生)，happen(发生)，come about(发生)，break out(爆发)，appear(出现)，disappear(消失)，last(持续)，arise(出现，发生)等：
+
+Influenza usually breaks out in winter. 流感通常发生在冬季。
+
+Use this money when the need arises. 有需要时就使用这笔钱。
+
+2. 英语中的静态动词(如have, lack, fit, hold, suit, resemble 等)通常不用于被动语态：
+
+My shoes don’t fit me. 我的鞋不合适。
+
+The young man lacks experience. 这个年轻人缺乏经验
+
+
+六要注意两类被动句型的相互转换
+
+英语中有一种主动句可以转换成两种被动句型，它们通常是一些表示客观说明的句子。如：
+
+People believed that she is honest. 大家相信她是诚实的。
+
+It’s believed that she is honest. 大家相信她是诚实的。
+
+She is believed to be honest. 大家相信她是诚实的。
+
+比较上面两类被动句型可以发现，一类是“it+be+过去分词+that从句”，另一类则是“主语+be+过去分词+不定式”(其中的“主语”为前一类句型中that从句中的主语)，通常可用于这两类被动句型的动词有assume, believe, expect, fear, feel, know, presume, report, say, suppose, think, understand等，比较(同时注意其中时态和动词形式的变化)：
+
+It’s known that he was a good singer. / He is known to have been a good singer. 大家知道他曾是位优秀的歌手。
+
+It’s reported that he was driving fast. / He is reported to have been driving fast. 据说他当时车开得很快。
+
+七要注意主动表被动的若干情形
+
+1. 某些连系动词(如look, sound, smell, feel, taste, prove等)要用主动表被动，因为连系动词为不及物动词，它们没有被动语态形式。如：
+
+That dog looks dangerous.  那只狗看起来很危险。
+
+My advice proved to be wrong. 我的意见证实是错的。
+
+2. 当open, shut, lock, move等用作不及物动词且表示主语的某种属性时，通常用主动形式表示被动意义。如：
+
+The door won’t shut. 这门关不上。
+
+The window won’t lock. 这窗户锁不住。
+
+注：该用法的不及物动词通常与can’t, won’t 等连用，注意它与用被动语态含义不同：
+
+The window won’t shut. 这窗户关不上。(说明主语的属性——窗户有问题了)
+
+The window won’t be shut. 这窗户将不用关上。(窗户本身没问题，只是不用关上)
+
+3. 当read, wash, clean, cook, cut, wear, carry等用作不及物动词且表示主语的某种属性时，通常要用主动形式表示被动意义。如：
+
+The cloth washes well. 这种布料好洗。
+
+His book doesn’t sell well. 他的书不好销。
+
+This shirt will wear very long. 这衬衫可以穿很久。
+
+The parcel carries easily. 包裹容易搬运。
+
+注：该用法通常与well, easily, slowly, quickly等副词连用，并且在用于以上意思时通常不宜直接使用被动语态形式，如下面这道高考题答案是A，而不是C：
+
+Books of this kind _________ well. (1999年上海卷)
+
+A. sell      B. sells       C. are sold    D. is sold
+
+4. 某些表示开始和结束的动词(begin, start, finish, end等)，当主语为事物且不强调动作的执行者时，可用主动语态表示被动意义。如：
+
+School begins in September. 九月开学。
+
+When does the concert begin? 音乐会什么时候开始？
+
+5. 有的动词本身含有被动意味，通常用主动形式来表示被动含义。如：
+
+My skirt caught on a nail. 我的裙子被钉子钩住了。
+
+Soon the house filled with people. 很快房子就挤满了人。
+
+The plan worked out successfully. 计划进行得很顺利。
+
+6. 不定式to blame, to let用作表语时，通常要用主动表被动。如：
+
+Who is to blame? 该怪谁呢？
+
+The house is to let. 此屋出租。
+
+7. 某些“be+形容词+to do”结构中的不定式通常要用主动形式表示被动意义。如：
+
+The poem is not easy to understand. 这首诗不容易理解。
+
+Your writing is impossible to read. 你的书法没法认。
+
+Do you think the water is safe to drink? 你认为这水喝起来安全吗? 
+
+注：这类结构的特点是句子主语就是其后不定式的逻辑宾语，按理说其中的不定式要用被动形式，但习惯上却要用主动表被动。这类形容词常见的有awkward, convenient, dangerous, difficult, easy, hard, impossible, interesting, nice, pleasant, safe, tough, tricky, unpleasant 等。
+
+8. be worth后的动名词要用主动表被动。如：
+
+This might be worth thinking about. 这可能值得考虑。
+
+9. 在need, want, require等少数表示“需要”的动词后的动名词用主动形式表被动意义。如：
+
+The plants want watering every day. 这些花草得天天浇水。
+
+He needs operating on at once. 他需要马上做手术。
+
+注：以上结构中的动名词改用不定式则要用被动式表示被动意义。如：
+
+This sentence needs explaining [to be explained]. 这个句子需要解释。
+
+
+
+第4章 过去分词作表语与被动语态的区别
+
+ 
+
+1. 过去分词用作表语时，其动作意味很弱，在功能上更接近形容词，它不仅可用于系动词be之后，也可根据需要用于其他系动词之后。如：
+
+Be prepared! 大家准备好! 
+
+Please remain seated. 请不要站起来。
+
+He seemed embarrassed. 他似乎有点尴尬。
+
+Soon he grew used to it. 不久他变得对它习惯了。
+
+2. 被动语态中的过去分词动作意味较强，它只能与助动词be（有时可能是get）构成被动结构，不宜用于其他动词之后。如：
+
+He was driven away in a police car. 他被用警车带走了。
+
+The guests were introduced to Jane. 客人们被介绍给了简。
+
+The food was cooked last night. 饭是昨天晚上做的。
+
+所以如果语义需要，其后可以接表示动作执行者的by短语。如：
+
+He was killed by a falling stone. 他被一块掉下来的石头砸死了。
+
+This tree was planted by my grandfather. 这棵树是我祖父种的。
+
+第5章 “get+过去分词”的四个特点
+
+ 
+
+特点1  通常不接be sb. ，但有时接by sth. 。如：
+
+The road is getting rebuilt. 那条公路正在重修。
+
+He nearly got hit by that car. 他差不多被车撞上了。
+
+特点2  用get的地方，一般可用be代替，但用be的地方不一定能用get代替。如：
+
+The book was written by him. 这本书是他写的。(不用got) 
+
+特点3  get多用于一般过去时。如：
+
+James got beaten last night. 詹姆斯昨晚被打了。
+
+特点4  这种结构大多是表示状态的系表结构。如：
+
+He got drunk. 他喝醉了。
+
+第6章 被动语态与系表结构的区别
+
+ 
+
+动词“be+过去分词”这一结构既可以是被动语态，也可以是系表结构。这两种结构主要的区别是：被动语态强调动作，系表结构强调状态。我们还可以通过以下方法来判断： 
+
+■从形式上来看，被动语态往往接by施动者，而系表结构往往有固定的搭配，如be joined to, be connected with, be separated from, be covered with, be interested in, be surprised at, be satisfied with, be concerned about等。
+
+We were surprised at the unexpected news. 听到这个意外消息，我们感到惊讶。(系表结构) 
+
+注意：句中有“by+人”时，多用被动语态；而“by+物”时，多属系表结构。如：
+
+The house was surrounded by the police. 这房子被警察包围了。(被动语态) 
+
+The house was surrounded by trees. 这房子四周都是树。(系表结构，表示静止的状态) 
+
+■从时态上来看，被动语态的be时态要与动作发生的时间一致；而系表结构的be只有一般时或完成时，表示目前或过去的性质或状态。如：
+
+This window was broken by Kate yesterday. (被动语态) 这窗户是凯特昨天打破的。 (被动语态) 
+
+This glass is broken. 这块玻璃是破的。(系表结构，指目前的状态) 
+
+■从句中的状语来看，过去分词前有well, very, quite等副词修饰的是系表结构；若句中有时间、方式或目的状语时，一般为被动语态。 
+
+The play is well written. 这剧本写得很好。(系表结构) 
+
+The play was written with great care. 这剧本是非常用心地写出来的。(被动语态，有方式状语) 
+
+■被动语态中的过去分词必须是及物动词，而系表结构中的过去分词可以是gone, fallen, risen等不及动词。如下列两句是系表结构：
+
+My pen is gone. 我的钢笔不见了。
+
+The sun is risen. 太阳升起来了。
+
+第7章 英语两类有用的被动句型
+
+ 
+
+■ It be +过去分词+that…句型
+
+It is said that…据说……
+
+It is reported that…据报导……
+
+It is supposed that…据推测……
+
+It is hoped that…希望……
+
+It is well known that…众所周知……
+
+It is generally considered that…普遍认为……
+
+It is suggested that…有人建议……
+
+注：这类结构有的还可改用接不定式的形式来表达。如：
+
+It is said that he has been to Japan. 据说他去过日本。
+
+He is said to have been to Japan. 
+
+■ be +过去分词+to do…结构(www.yygrammar.com)
+
+The meeting is scheduled to take place next week. 会议定于下周举行。
+
+All are supposed to come to the meeting on time. 所有人都应该按时到会。
+
+第8章 也谈主动形式表被动含义
+
+ 
+
+■ 某些系动词，如feel, look, seem, appear, taste, sound, smell, prove, remain等用主动形式表示被动意义；主语通常是事物，且表示该事物本身具有某一固有特征。。如：
+
+The material feels very soft. 这种料子摸起来很柔软。
+
+误：The material is felt very soft. 
+
+The music sounds beautiful. 这音乐听起来很美妙。
+
+误：The music is sounded beautiful. 
+
+■ 表示主语由内在品质或性能，使得主语得以实现或不能实现，用主动表示被动，常见的这类动词有：write, read, clean, sell, wash, cook, open, close, lock等。
+
+1. 同well, badly, easily等副词连用。如：
+
+The cloth washes easily. 这布很好洗。
+
+The book sells well. 那本书很畅销。
+
+The pen writes smoothly. 这支笔很好写。
+
+2. 谓语动词用否定式。如：
+
+The window won’t open. 这扇窗开不了。
+
+The door won’t lock. 这门锁不上。
+
+3. 主语+谓语(blow, wear等) +主补。如：
+
+The door blew open. 门被风吹开了。
+
+■ 某些日常用语，cook, bake, make, print, pack, build, work out等动词用于进行时态时，可用主动形式表示被动意义。如：
+
+The fish is cooking. 鱼正在煮。
+
+The book is printing. 那本书正在印刷中。
+
+The plan is working out. 计划正在制订。
+
+■ 不定式在下列情况下用主动形式表示被动意义：
+
+1. 在“be+形容词+fit to do”句型中。如：
+
+English words are difficult to remember. 英语单词很难记。
+
+注：常用于此句型形容词有easy, hard, difficult, heavy, light, comfortable等。
+
+2. 在作补语的形容词后作状语的不定式。如：
+
+We found the book easy to understand. 我们觉得这本书的容易懂。
+
+3. 在This /That /These /Those be后的名词后的不定式。如：
+
+This is a difficult problem to solve. 这是一个很难解决的问题。
+
+4. 在“there be/have/with sth. to do(有……要……) ”结构中。如：
+
+I have a lot of work to do. 我有许多事要做。
+
+5. 在“疑问代词+不定式”结构。如：
+
+The question is what to do next. 问题是接下来做什么。
+
+6. 在“be to blame/seek/let”结构中。如：
+
+The house is to let. 此房出租。
+
+He is to blame for this. 他因此事应受到责备(www.yygrammar.com)。
+
+■ 在表示“需要”的need, want, require，及be worth后的动词-ing形式，用主动形式表示被动含义。如：
+
+The floor needs sweeping. 这地需要打扫了。
+
+That picture is worth looking at. 那幅画值得看
+
+
+第9章 英语不能用被动语态的若干情况
+
+ 
+
+■不及物动词没有被动语态，如rise, happen, succeed, remain, lie, disappear, last等。如：
+
+After the fire, nothing remained. 那场大火之后，什么也没留下来了。
+
+误：After the fire, nothing was remained. 
+
+■不及物动词短语没有被动语态，如：take place, break out, belong to等。如： 
+
+Great changes have taken place here since 1990. 自1990年以来这里发生了巨大的变化. 
+
+误：Great changes have been taken place here since 1990. 
+
+■有的及物动词也没有被动语态，如cost, leave, enter, reach, suit, have, wish, hold, own, lack, fit, resemble, jump, mind等。如：
+
+She entered the room just now. 他刚才进过房间。
+
+误：The room was entered by her just now. 
+
+       Tom jumped the queue. 汤姆插队。
+
+误：The queue was jumped by Tom. 
+
+■有些及物的短语动词也没有被动语态，如agree with, arrive at/in, shake hands with, succeed in, suffer from, happen to, walk into, belong to等。如：
+
+I don’t agree with him. 我不同意他的看法。
+
+误：He isn’t agreed with by me. (www.yygrammar.com)
+
+■宾语是反身代词、相互代词、同源宾语、不定式、v-ing形式及抽象名词等，都不能变为被动句子的主语，如： 
+
+I taught myself French. 我自学法语。
+
+误：Myself was taught French. 
+
+They love each other. 他们相爱。
+
+误：Each other is loved.
+
+We live a happy life. 我们过着幸福的生活。
+
+误：A happy is lived by us. 
+
+She likes to swim. 她喜欢游泳。
+
+误：To swim is liked by her. 
+
+第10章 

@@ -1,0 +1,92 @@
+英语发音连读规则
+
+连读的条件：相邻的两词在意义上必须密切相关，同属一个意群。连读所构成的音节一般都不重读，只需顺其自然地一带而过，不可读得太重，也不可音。(连读符号：~)  
+
+
+1)“辅音+元音”型连读
+
+在同一个意群里，如果相邻两词中的前一个词是以辅音结尾，后一个词是以元音开头，这就要将辅音与元音拼起来连读。
+
+I’m~an~English boy.
+It~is~an~old book. 
+Let me have~a look~at~it. 
+Ms Black worked~in~an~office last~year. 
+I called~you half~an~hour~ago. 
+Put~it~on, please. 
+Not~at~all. 
+Please pick~it~up.
+
+(2)“r/re+元音”型连读
+
+如果前一个词是以-r或者-re结尾，后一个词是以元音开头，这时的r或re不但要发/r/，而且还要与后面的元音拼起来连读。 
+
+They’re my father~and mother. 
+I looked for~it here~and there. 
+There~is a football under~it. 
+There~are some books on the desk. 
+Here~is a letter for you. 
+Here~are four~eggs. 
+But where~is my cup? 
+Where~are your brother~and sister?
+
+但是，如果一个音节的前后都有字母r，即使后面的词以元音开头，也不能连读。
+
+The black clouds are coming nearer and nearer.（nearer与and不可连读）
+
+(3)“辅音+半元音”型连读
+英语语音中的/j/和/w/是半元音，如果前一个词是以辅音结尾，后一个词是以半元音，特别是/j/开头，此时也要连读。
+
+Thank~you. 
+Nice to meet~you. 
+Did~you get there late~again? 
+Would~you like~a cup~of tea？ 
+Could~you help me, please?
+
+“音的同化” 
+—常把/d/+/j/读成/dV/，didyou听上成了/dIdVu/，wouldyou成了/wudVu/，couldyou成了/kudVu/。
+
+(4)“元音+元音”型连读
+如果前一个词以元音结尾，后一个词以元音开头，这两个音往往也要自然而不间断地连读到一起。
+
+I~am Chinese. 
+He~is very friendly to me. 
+She wants to study~English. 
+How~and why did you come here? 
+She can’t carry~it. 
+It’ll take you three~hours to walk there. 
+The question is too~easy for him to answer.
+
+(5)不可连读的情况
+当短语或从句之间按意群进行停顿时，意群与意群之间即使有两个相邻的辅音与元音出现，也不可连读。
+
+Is~it a~hat or a cat?（hat与or之间不可以连读） 
+There~is~a good book in my desk.（book与in之间不可以连读） 
+Can you speak~English or French?（English与or之间不可以连读） 
+Shall we meet at~eight or ten tomorrow morning?（meet与at，eight与or之间不可以连读） 
+She opened the door and walked~in.（door与and之间不可以连读）
+
+(6)失爆造成的“连读” 6个爆破音有3对/p/，/b/，/t/，/d/，/k/，/g/失去爆破，又叫不完全爆破，就是在某些情况下，只须做出发音的准备，但并不发音，稍稍停顿后就发后面的音。
+
+The girl in the re(d) coat was on a bla(ck) bike jus(t) now. 
+The bi(g) bus from the fa(c)tory is full of people. 
+Wha(t) time does he get up every morning? 
+This is an ol(d) pi(c)ture of a bi(g) car. 
+The ol(d) do(c)tor has a ca(t), too. 
+We’re going to work on a farm nex(t) Tuesday. 
+What would you like, ho(t) tea or bla(ck) coffee? 
+It’s a very col(d) day, but it’s a goo(d) day. 
+You can put i(t) down in the bi(g) garden. 
+I bought a chea(p) book, but it’s agoo(d) book.
+
+(b)“爆破音+摩擦音”型如果前面是爆破音，其后紧跟着某些摩擦音（如/f/，/s/，/W/，/T/等），那么前面那个爆破音仅有十分轻微的爆破，而后面那个摩擦音则要完全爆破。
+
+Goo(d) morning, Mr. Bell. 
+Goo(d) morning, dear. 
+Uncle Li’s fa(c)tory is qui(te) near to the cinema. 
+I wen(t) there alone a(t) nine las(t) night. 
+-Do you know his bi(ke) number? 
+-Sorry, I don’(t) know. 
+The forty-firs(t) lesson is qui(te) difficult. 
+Goo(d) luck, Richard.
+
+(a)“爆破音+爆破音”型6个爆破音中的任意2个相临时，前一个爆破音会失去爆破，即由相关的发音器官做好这个发音的姿势，稍做停顿后即发后面的爆破音。

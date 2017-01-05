@@ -1,0 +1,809 @@
+邮件的开头
+
+感谢读者是邮件开场白的好办法。感谢您的读者能让对方感到高兴，特别是之后你有事相求的情况下会很有帮助。
+
+1.Thank you for contacting us.
+
+分析：如果有人写信来询问公司的服务，就可以使用这句句子开头。向他们对公司的兴趣表示感谢。
+
+2.Thank you for your prompt reply.
+
+分析：当一个客户或是同事很快就回复了你的邮件，一定记得要感谢他们。如果回复并不及时，只要将“prompt”除去即可，你还可以说，“Thank you for getting back to me.”
+
+3.Thank you for providing the requested information.
+
+分析：如果你询问某人一些信息，他们花了点时间才发送给你，那就用这句句子表示你仍然对他们的付出表示感激。
+
+4.Thank you for all your assistance.
+
+分析：如果有人给了你特别的帮助，那一定要感谢他们！如果你想对他们表示特别的感激，就用这个句子，“I truly appreciate …your help in resolving the problem.”
+
+5.Thank you raising your concerns.
+
+分析：就算某个客户或是经理写邮件给你对你的工作提出了一定的质疑，你还是要感谢他们。这样你能表现出你对他们的认真态度表示尊重及感激。同时，你也可以使用，“Thank you for your feedback.”
+
+邮件的结尾
+
+在邮件开头表示感谢一般是表示对对方过去付出的感谢，而在邮件结尾处表示感谢是对将来的帮助表示感谢。事先表示感谢，能让对方在行动时更主动更乐意。
+
+1.Thank you for your kind cooperation.
+
+分析：如果你需要读者帮助你做某事，那就先得表示感谢。
+
+2.Thank you for your attention to this matter.
+
+分析：与以上的类似，本句包含了你对对方将来可能的帮助表示感谢。
+
+3.Thank you for your understanding.
+
+分析：如果你写到任何会对读者产生负面影响的内容那就使用这句句子吧。   
+
+4.Thank you for your consideration.
+
+分析：如果您是在寻求机会或是福利，例如你在求职的话，就用这封邮件结尾。
+
+5.Thank you again for everything you've done.
+
+分析：这句句子可以用在结尾，和以上有所不同。如果你在邮件开头已经谢过了读者，你就可以使用这句话，但是因为他们的帮助，你可以着重再次感谢你们的付出。
+
+
+
+
+
+
+1.发传真必备第一句：你能把它传真给我吗
+
+经典表达：
+
+Could you please fax the invoice/invitation/quotation to me?
+你能把发票/邀请函/报价单传真给我吗？
+
+举一反三：
+
+Would you like to fax XXX to me?
+
+Please send me a fax. My fax number is XXX.
+
+白骨精须知：传真机号码的构成
+
+国内传真号码：区号（北京010，广州020，上海021，天津022，重庆023）+传真号码
+
+国际传真号码：国际代码（00）+国家代码（中国86，美国1，日本81，德国49）+区号（去掉区号前的0）+传真号码
+
+2.发传真必备第二句：我要给XXX发传真，请给我个信号。
+
+经典表达：
+
+I’m sending a fax to XXX. Please give me a signal.
+我要给XXX发传真，请给我个信号。
+
+举一反三：
+
+I guess there is something wrong with their fax machine. It is unavailable now. I’ll send it later.
+
+白骨精须知：发传真一般步骤
+
+Step1：把要传真的纸张，一般有字的一面朝下（各传真机不同，请根据指示操作）放入传真机；
+
+Step2：拨号。
+
+（1）有单独的传真号码时：拨号，在电话接通后，听到“嘀”一声后，按启动键；传真机显示“send”状态后，放下话筒，听到“嘟”一声后，说明传真已发送完成。听到忙音，则重新拨号。
+
+（2） 电话和传真机共用一个号码时：拨号，在电话接通后，请对方给你一个传真信号，听到“嘀”一声后，按启动键；后面步骤同上。
+
+3.发传真必备第三句：传真已发，请查收。
+
+经典表达：
+
+I have faxed you XXX. Please have a check.
+我已经把XXX传真给您，请查收。
+
+举一反三：
+
+It would be great if you sign it and fax it back to me.
+
+白骨精须知：有些文件需要对方在收到传真后签名、批注，那么就请对方稍后再把以签名或批注的传真再发还给你。
+
+4.发传真必备第四句：传真有些问题，请再发一次。
+
+经典表达：
+
+I have received your fax. But some pages were missing. Could you please fax it again?
+传真已收到，不过有缺页，请再发一次。
+
+举一反三：
+
+There were some pages too blurred to read. Please send it again.
+
+I’m afraid you have sent the wrong file. Could you check it and send it again?
+
+5.写邮件必备：详细信息我会发电邮告诉你。
+
+经典表达：
+
+I’ll email you tomorrow with the details.
+我明天发电邮说明详细信息。
+
+举一反三：
+
+I’ll send an email to the parties concerned ASAP.
+
+I’ll write an email to explain the details.
+
+Let me check the email and report to you later.
+
+白骨精须知：外企邮件制度
+
+TO：收件人，主要阅读邮件的人。
+
+CC：CC的全名是Carbon Copy，即抄送。只要是和该邮件所涉及信息相关的人，需要了解该邮件信息的人都要去CC。
+
+BCC：BCC的全名是Blind Carbon Copy，即加密抄送。BCC一般用来放你的下属。
+
+FW：FW的全名是Foward，即转发。你在发邮件给某人的时候，同时转发给其他很多人。
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Greeting message 祝福
+
+　　Hope you have a good trip back. 祝旅途愉快。
+
+　　How are you? 你好吗？
+
+　　How is the project going on? 项目进行顺利吗？
+
+　　2. Initiate a meeting 发起会议
+
+　　I suggest we have a call tonight at 9:30pm (China Time) with you and Brown. Please let me know if the time is okay for you and Ben. 我建议我们今晚九点半和Brown小聚一下，你和Ben有没有空？
+
+　　I would like to hold a meeting in the afternoon about our development planning for the project A. 今天下午我建议我们就A项目的发展计划开会讨论一下。
+
+　　We'd like to have the meeting on Thu Oct 30. Same time. 十月三十号(周三)，老时间，开会。
+
+　　Let's make a meeting next Monday at 5:30 PM SLC time. 下周一盐湖城时区下午五点半开会。
+
+　　I want to talk to you over the phone regarding issues about report development and the XXX project. 我想跟你电话讨论下报告进展和XXX项目的情况。
+
+　　3. Seeking for more information/feedbacks/suggestions 咨询信息/反馈/建议
+
+　　Shall you have any problem accessing the folders, please let me knows. 如果存取文件有任何问题请和我联系。
+
+　　Thank you and look forward to having your opinion on the estimation and schedule. 谢谢你，希望能听到更多你对评估和日程计划的建议。
+
+　　Look forward to your feedbacks and suggestions soon. 期待您的反馈建议！
+
+　　What is your opinion on the schedule and next steps we proposed? 你对计划方面有什么想法？下一步我们应该怎么做？
+
+　　What do you think about this? 这个你怎么想？
+
+　　Feel free to give your comments. 请随意提出您的建议。
+
+　　Any question, please don't hesitate to let me know. 有任何问题，欢迎和我们联系。
+
+　　Any question, please let me know. 有任何问题，欢迎和我们联系。
+
+　　Please contact me if you have any questions. 有任何问题，欢迎和我们联系。
+
+　　Please let me know if you have any question on this. 有任何问题，欢迎和我联系。
+
+　　Your comments and suggestions are welcome! 欢迎您的评论和建议！
+
+　　Please let me know what you think? 欢迎您的评论和建议！
+
+　　Do you have any idea about this? 对于这个您有什么建议吗？
+
+　　It would be nice if you could provide a bit more information on the user's behavior. 您若是能够就用户行为方面提供更多的信息就太感激了！
+
+　　At your convenience, I would really appreciate you looking into this matter/issue. 如果可以，我希望你能负责这件事情。
+
+　　4. Give feedback 意见反馈
+
+　　Please see comments below. 请看下面的评论。
+
+　　My answers are in blue below. 我的回答已标蓝。
+
+　　I add some comments to the document for your reference. 我就文档添加了一些备注，仅供参考。
+
+　　5. Attachment 附件
+
+　　I enclose the evaluation report for your reference. 我附加了评估报告供您阅读。
+
+　　Attached please find today's meeting notes. 今天的会议记录在附件里。
+
+　　Attach is the design document, please review it. 设计文档在附件里，请评阅。
+
+　　For other known issues related to individual features, please see attached release notes. 其他个人特征方面的信息请见附件。
+
+　6. Point listing 列表
+
+　　Today we would like to finish following tasks by the end of today:1…….2……. 今天我们要完成的任务：1…….2……。
+
+　　Some known issues in this release:1…….2……. 声明中涉及的一些问题：1…….2……。
+
+　　Our team here reviewed the newest SCM policy and has following concerns:1…….2……. 我们阅读了最新的供应链管理政策，做出如下考虑：1…….2……。
+
+　　Here are some more questions/issues for your team:1…….2……. 以下是对你们团队的一些问题：1…….2……。
+
+　　The current status is as following: 1…… 2…… 目前数据如下： 1…… 2……
+
+　　Some items need your attention:1…….2……. 以下方面需提请注意：1…….2……。
+
+　　7. Raise question 提出问题
+
+　　I have some questions about the report XX-XXX 我对XX-XXX报告有一些疑问。
+
+　　For the assignment ABC, I have the following questions:… 就ABC协议，我有以下几个问题：……
+
+　　8. Proposal 提议
+
+　　For the next step of platform implementation, I am proposing… 关于平台启动的下一步计划，我有一个提议……
+
+　　I suggest we can have a weekly project meeting over the phone call in the near future. 我建议我们就一周项目开一个电话会议。
+
+　　Achievo team suggest to adopt option A to solve outstanding issue…… Achievo团队建议应对突出问题采用A办法。
+
+　　9. Thanks note 感谢信
+
+　　Thank you so much for the cooperation感谢你的合作！
+
+　　Thanks for the information 谢谢您提供的信息！
+
+　　I really appreciate the effort you all made for this sudden and tight project. 对如此紧急的项目您做出的努力我表示十分感谢。
+
+　　Thanks for your attention! 谢谢关心！
+
+　　Your kind assistance on this are very much appreciated. 我们对您的协助表示感谢。
+
+　　Really appreciate your help! 非常感谢您的帮助！
+
+　　10. Apology 道歉
+
+　　I sincerely apologize for this misunderstanding! 对造成的误解我真诚道歉！
+
+　　I apologize for the late asking but we want to make sure the correctness of our implementation ASAP. 很抱歉现在才进行询问，但是我们需要尽快核实执行信息。
+
+
+
+
+英文商务邮件开场白&结尾
+2011-04-26 15:29:07
+
+网络搜集哦··
+
+
+初次开场白：
+It is my pleasure to write here for you.
+回复开场白：
+Further to our conversation earlier,  .........
+As discussed over the phone,  .......
+Thanks for you kind reply.
+Thank you for your inquiry/email.
+Thanks for your letter. It is my pleasure to receive your reply!
+Thanks for your mail of 日期............
+
+结尾：
+We will noted and many thanks!
+I hope everything with you is fine.
+Many thanks for your support. 
+I hope you are well and in good health! 
+FYI: for your information 仅供参考
+
+深盼贵公司及早回复
+(1) We hope to receive your favors at early date. 
+(2) We hope to be favored with a reply with the least delay. 
+(3) We await good news with patience. 
+(4) We hope to receive a favorable reply per return mail. 
+(5) We await the favor of your early (prompt) reply. 
+(6) A prompt reply would greatly oblige us. 
+(7) We trust you will favor us with an early (prompt) reply. 
+(8) We trust that you will reply us immediately. 
+(9) We should be obliged by your early (prompt) reply.
+(10) Will you please reply without delay what your wishes are in this matter? 
+(11) Will you kindly inform us immediately what you wish us to do? 
+(12) We request you to inform us of your decision by return of post. 
+(13) We are waiting (anxious to receive) your early reply. 
+(14) We should appreciate an early reply. 
+(15) We thank you for the courtesy to your early attention. 
+(16) We hope to receive your reply with the least possible delay. 
+(17) Kindly reply at your earliest convenience. 
+(18) Please send your reply by the earliest delivery. 
+(19) Please send your reply by messenger. 
+(20) Please reply immediately. 
+(21) Please favor us with your reply as early as possible. 
+(22) Please write to us by tonight's mail, without fail. 
+(23) May we remind you that we are awaiting your early reply? 
+(24) May we request the favor of your early reply? 
+(25) A prompt reply would help us greatly. 
+(26) A prompt reply will greatly oblige us. 
+(27) Your prompt reply would be greatly appreciated. 
+(28) Your prompt attention to this matter would be greatly esteemed. 
+(29) We look forward to receiving your early reply. 
+(30) As the matter is urgent, an early reply will reply. 
+(31) We reply on receiving your reply by return of post. 
+(32) We request you to accept our warmest thanks for the anticipated favor. 
+(33) We thank you in advance for the anticipated favor.
+盼望以传真答复
+(1) We await your reply by fax. 
+(2) Please fax reply to fax this morning. 
+(3) We are anxiously awaiting your reply by fax. 
+(4) Please arrange for your fax reply, or long distance call, to reach us before noon Monday. 
+(5) Fax reply immediately. 
+(6) Please acknowledge by fax the receipt of these instructions. 
+(7) Please do not fail to fax your reply immediately on receipt of this letter. 
+(8) Please fax your decision without delay as we have offers waiting. 
+(9) Oblige us by replying by fax before noon tomorrow, as we have another offer. 
+(10) Inform us by fax of your lowest quotations. 
+(11) Fax in time for us to write you in reply by 7 pm mail. 
+(12) Fax me from Osaka before noon stating your telephone number. 
+(13) Kindly reply me by wire.
+ 承蒙贵公司重视, 感谢之至
+(1) Please accept our thanks for your usual kind attention. 
+(2) Please accept our thanks for the trouble you have taken. 
+(3) We are obliged to you for your kind attention in this matter. 
+(4) We are greatly obliged for your trial order just received. 
+(5) We wish to assure you of your appreciation of your courtesy in this matter. 
+(6) We thank you for your order just received. 
+(7) We thank you for the special care you have given to the matter. 
+(8) We tender you our sincere thanks for your generous treatment of us in this affair. 
+(9) Allow us to thank you for the kindness extended to us. 
+(10) We are very sensible of your friendly services on our behalf,for which please accept our sincere thanks.
+ 回函迟误, 请见谅
+(1) Please excuse my late reply to your very friendly letter of March 1. 
+(2) I hope you will forgive me for not having written you for so long. 
+(3) I hope you will excuse me for not having replied to you until today. 
+(4) I humbly apologize to you for my delay in answering your kind letter of May 5. 
+(5) I have to (must) apologize you for not answering your letter in time.
+我们将随时为你服务
+(1) We assure you of our best services at all times. 
+(2) We shall spare no efforts in endeavoring to be of service to you. 
+(3) We shall be pleased to be of service to you at all times. 
+为贵公司带来不便,特此致歉,并请原谅
+(1) We hope you will pardon us for troubling you. 
+(2) We regret the trouble we are causing you. 
+(3) I regret the trouble it caused you. 
+(4) We trust you will excuse us for this inconvenience. 
+(5) We wish to crave your kind forbearance for this trouble. 
+(6) We solicit your forbearance for such an annoyance. 
+(7) Kindly excuse me for troubling you in this matter. 
+对此错误, 谨致歉意, 务请原谅
+(1) Please excuse this clerical error. 
+(2) We tender you our apology for the inconvenience this error may have caused you. 
+(3) We request you to accept our regret for the error of our clerk. 
+(4) We greatly regret that we have caused you such an inconvenience. 
+(5) We wish to express our regret for the annoyance this mistake has caused you. 
+(6) We frankly admit we were at fault and we are anxious to repair the consequences. 
+恳请贵公司支持惠顾
+(1) We solicit a continuance of your valued favors. 
+(2) We solicit a continuance of your confidence and support. 
+(3) We hope we may receive your further favors. 
+(4) We hope to receive a continuance of your kind patronage. 
+(5) We request you to favors us with a continuance of your kind support. 
+(6) We solicit a continuance of your kind patronage.
+若有机会本公司也愿提供类似服务
+(1) It would give us great pleasure to render you a similar service should an opportunity occur. 
+(2) We wish to reciprocate the goodwill. 
+(3) We shall on a similar occasion be pleased to reciprocate. 
+(4) We hope to be able to reciprocate your good offices on a similar occasion. 
+(5) We are always ready to render you such of similar services. 
+(6) We shall at all times be willing to reciprocate such of similar favors. 
+(7) We shall be happy to have an opportunity of reciprocating to you on a similar occasion.
+
+1. Initiate a meeting 发起会议 
+
+I would like to hold a meeting this afternoon about our development planning for project A. 
+
+今天下午我将举行一个会议，就A项目的发展计划开会讨论一下。 
+
+I suggest we have a call tonight at 9:30pm (GMT +8) with Brown. Please let me know if the time is okay for you and Ben. 
+
+我建议我们今晚九点半和Brown小聚一下，你和Ben有没有空? 
+
+We'd like to have the meeting on Thu Oct 30. Same time. 
+
+十月三十号(周四),老时间,开会。 
+
+Let's make a meeting next Monday at 5:30 PM SLC time. 
+
+下周一盐湖城时区下午五点半开会。 
+
+I want to have a teleconference with you regarding issues about report development and the XX project. 
+
+我想跟你开一个电话会议，讨论下报告进展和XXX项目的情况。 
+
+
+2. Seeking for more information/feedbacks/suggestions 咨询信息/反馈/建议 
+
+Shall you have any problem accessing the folders, please let me know. 
+
+如果存取文件有任何问题请和我联系。 
+
+Thank you and look forward to having your opinion on the estimation and schedule. 
+
+谢谢你,希望能听到更多你对评估和日程计划的建议。 
+
+Look forward to your feedbacks and suggestions soon. 
+
+期待您的反馈建议! 
+
+What is your opinion on the schedule and next steps we proposed? 
+
+你对计划方面有什么想法?下一步我们应该怎么做? 
+
+What do you think about this? 
+
+这个你怎么想? 
+
+Feel free to give your comments. 
+
+请随意提出您的建议。 
+
+If you have any questions, please do not hesitate to let me know. 
+
+有任何问题,欢迎和我们联系。 
+
+If you have any questions, please feel free to contact me. 
+
+有任何问题,欢迎和我们联系。 
+
+Please contact me if you have any questions. 
+
+有任何问题,欢迎和我们联系。 
+
+Your comments and suggestions are welcome! 
+
+欢迎您的评论和建议! 
+
+Please let me know what you think? 
+
+欢迎您的评论和建议! 
+
+Do you have any idea about this? 
+
+对于这个您有什么建议吗? 
+
+It would be nice if you could provide a bit more information on the user's behavior. 
+
+您若是能够就用户行为方面提供更多的信息就太感激了! 
+
+At your convenience, I would really appreciate you looking into this case/matter/issue. 
+
+如果可以,我希望你能负责这件事情。 
+
+
+3. Give feedback 意见反馈 
+
+Please see comments below. 
+
+请看下面的评论。 
+
+My answers are in blue below. 
+
+我的回答已标蓝。 
+
+I have added some comments to the document for your reference. 
+
+我就文档添加了一些备注,仅供参考。 
+
+
+
+4. Attachment 附件 
+I enclose the evaluation report for your reference. 
+
+我附加了评估报告供您阅读。 
+
+Attached please find today's meeting notes. 
+
+今天的会议记录在附件里。 
+
+Attachment is the design document, please review. 
+
+设计文档在附件里,请评阅。 
+
+For other known issues related to individual features, please see attached release notes. 
+
+其他个人特征方面的信息请见附件。 
+
+5. Point listing 列表 
+Today we would like to finish following tasks by the end of day:1…….2……. 
+
+今天我们要完成的任务:1…….2……. 
+
+Some known issues in this release:1…….2……. 
+
+声明中涉及的一些问题:1…….2……. 
+
+Our team here reviewed the newest SCM policy and has following concerns:1…….2……. 
+
+我们阅读了最新的供应链管理政策,做出如下考虑:1…….2……. 
+
+Here are some more questions/issues for your team:1…….2……. 
+
+以下是对你们团队的一些问题:1…….2……. 
+
+The current status is as following: 1……2…… 
+
+目前数据如下: 1……2…… 
+
+Some items need your attention:1…….2……. 
+
+以下方面需提请注意:1…….2……. 
+
+6. Raise question 提出问题 
+I have some questions about the report XX-XXX 
+
+我对XX-XXX报告有一些疑问。 
+
+For the assignment ABC, I have the following questions:… 
+
+就ABC协议,我有以下几个问题:…… 
+
+7. Proposal 提议 
+
+For the next step of platform implementation, I am proposing… 
+
+关于平台启动的下一步计划,我有一个提议…… 
+
+I suggest we can have a weekly project meeting over the phone call in the near future. 
+
+我建议我们就一周项目开一个电话会议。 
+
+Achievo team suggest to adopt option A to solve outstanding issue…… 
+
+Achievo团队建议应对突出问题采用A办法。
+
+8. Thanks note 感谢信 
+
+Thank you so much for the cooperation感谢你的合作! 
+
+I really appreciate the effort you all made for this sudden and tight project. 
+
+对如此紧急的项目您做出的努力我表示十分感谢。 
+
+Thanks for your attention! 
+
+谢谢关心! 
+
+Your kind assistance on this are very much appreciated. 
+
+我们对您的协助表示感谢。 
+
+Really appreciate your help! 
+
+非常感谢您的帮助! 
+
+
+9. Apology 道歉 
+
+I sincerely apologize for this misunderstanding! 
+
+对造成的误解我真诚道歉! 
+
+I apologize for the late asking but we want to make sure the correctness of our implementation ASAP. 
+
+很抱歉现在才进行询问,但是我们需要尽快核实执行信息。 
+
+
+
+英文缩写及解释（用于MSN或Office Communicator，非正式用语） 
+
+
+ 
+AAMOF 
+as a matter of fact 
+实际上 
+
+AFAIK 
+as far as I know 
+据我所知 
+
+AKA 
+also know as 
+亦称 
+
+ASAP 
+as soon as possible 
+尽快 
+
+BBL 
+be back later 
+等一下回来 
+
+B/C 
+because 
+因为 
+
+BITMT 
+but in the meantime 
+但是与此同时 
+
+BOT 
+back on topic 
+回到主题上来 
+
+BRB 
+be right back 
+马上回来 
+
+BTW 
+by the way 
+顺便说一句 
+
+BSY 
+be seeing you 
+再见 
+
+CWOT 
+complete waste of time 
+完全是浪费时间 
+
+EOD 
+end of discussion 
+结束争论 
+
+EOT 
+end of transmission 
+通话结束 
+
+FAI 
+frequently argued issue 
+经常讨论的问题 
+
+FAQ 
+frequently ask question 
+常见问题 
+
+FITB 
+fill in the blank 
+特别强调 
+
+
+F2F/FTF 
+face to face 
+面对面 
+
+FTTT 
+from time to time 
+有时 
+
+FOS 
+freedom of speech 
+言论自由 
+
+FUA 
+frequently used acronyms 
+经常用的缩写词 
+
+FWIW 
+for what it抯 worth 
+不论真伪 
+
+FYI 
+for your information 
+为你提供信息 
+
+HHOK 
+ha ha,only kidding 
+哈哈，只不过开个玩笑 
+
+HHOJ 
+ha ha only joking 
+哈哈，只不过开个玩笑 
+
+IAC 
+in any case 
+总之 
+
+IAE 
+in any event 
+无论如何 
+
+IC 
+I see 
+我明白了 
+
+ICQ 
+I seek you 
+我寻找你 
+
+ILY 
+I love you 
+我爱你 
+
+IMO 
+In my opinion 
+按我的意见 
+
+IMHO 
+in my humble opinion 
+依我拙见 
+
+IOW 
+in other way 
+换句话说 
+
+JIC 
+just in case 
+以防万一 
+
+LOL 
+laughing out loud 
+放声大笑 
+
+NC 
+no response necessary 
+无需答复 
+
+OIC 
+oh, I see 
+哦，我明白了 
+
+OTOH 
+on the other hand 
+另一方面 
+
+PLS 
+please 
+请 
+
+RTM 
+read the manual 
+阅读手册吧 
+
+SYSOP 
+system operator 
+系统操作员 
+
+THX 
+thanks 
+多谢 
+
+TFS 
+thanks for sharing 
+多谢你与我分享 
+
+TIA 
+thanks in advance 
+事先表示感谢 
+
+TMK 
+to my knowledge 
+尽我所能 
+
+TTBOMK 
+To The Best Of My Knowledge 
+尽我所知 
+
+WB 
+welcome back 
+欢迎你回来 
+
+WIIWD 
+what it is we do 
+这正是我们要做的 
+
+WYSIWYG 
+what you see is what you get 
+所见即所得 
+
+WRT 
+with respect to 
+很荣幸 
+
+BRB 
+be right back 
+马上就回来 
+
+PMFJI 
+pardon me for jumping in 
+请原谅我突然加入你们的谈话
+

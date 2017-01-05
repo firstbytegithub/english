@@ -1,0 +1,155 @@
+宾语补足语
+百科名片
+宾语补足语：某些及物动词的宾语后面还需要有一个补足语，意思才完整，宾语和它的补足语构成复合宾语。而复合宾语的第一部分通常由名词或代词充当，第二部分表示第一部分的名词或代词发出的动作或身份、特征等，称为宾语补足语。
+目录
+
+举例
+注意
+适用
+说明
+用法
+编辑本段举例I'm going to paint it pink.
+我打算把它涂成粉红色。
+句子中的“it”显然是宾语。但是主语将要做的并不是it，而是“paint it pink”。“pink” 是句子中的宾语补足语。它和宾语之间是逻辑上的主谓关系，也就是说从逻辑上来讲，是pink呈现了it的状态，让句子意思更加完整。这里的宾语it与宾补pink的关系是，主系表的关系，如大家所知，主系表结构是为了呈现主语的特点特征、状态、身份等信息。本质意思是it is pink，形式表现是it pink。
+句子中的“pink”是形容词做宾语补足语。能够充当宾补的大致还有：不定式，现在分词，过去分词，形容词，副词，介宾短语。一般情况下，宾补通常紧跟在宾语之后。
+比如：
+I find learning English difficult.（difficult是形容词做宾补）
+I saw the kite up and down.（up and down是副词做宾补）
+Tom made the girl cry.（cry是省略不定式符号to的动词不定式）
+常跟复合宾语的动词有：call（叫），name（叫做），make（做），think（思考），find（找），leave（离开），keep（保持），nominate（任命），choose，elect（选举），define（定义），regard（认为）， see（看），recognize（认出），treat，take，consider（考虑），look up，refer to（提到），accept（接受），acknowledge（承认），describe，depict（描述），represent（表现出），declare（宣称），denounce（指责），employ（雇佣），use（使用），show（展示），organize，express（表达）等。
+编辑本段注意☆当感官动词和使役动词，如：
+see，hear，notice，watch，feel，observe（感官动词）
+make，have，let，get（使役动词）
+接宾补时，不定式的符号to必须省略。
+在help后，不定式可以带to，也可不带。
+补充：简单句常见结构有：
+“主+谓”结构： 句子由主语和谓语两部分构成，谓语动词是不及物动词。
+“主+谓+宾”结构：谓语动词是及物动词，后面接有宾语。
+“主+系动+表”结构：表语通常是名词或形容词。
+“主+谓+间宾+直宾”结构：谓语动词是及物动词。
+“主+谓+宾+宾补”结构：有一些句子有了前3个成分后，还需要有一个宾语补足语对宾语做出补充说明，表明宾语的身份，特征等，使句意完整。宾语和宾语补足语一起构成复合宾语。
+如果宾语和宾补是逻辑上的被动关系，则宾补须用过去分词形式。如：
+Jenny hopes that Mr.Smith will suggest a good way to have her written English improved in a short period.
+珍妮希望史密斯先生建议一个好办法，让她在短期内提高英语写作。
+如果宾语和宾补是逻辑上的主动关系，则宾补须用过现在分词形式，如：
+He could hear his heart beating fast．
+他可以听见自己的心脏跳得很快。
+Do you smell something buring?（buring可以理解为现在分词，也可理解为形容词）
+你闻到烧焦的气味了吗？
+编辑本段适用1. 在表示心理状态的动词后作宾语补足语。
+这类动词有：consider，think，believe，discover，find，imagine，judge，suppose，prove等。这类动词后的不定式通常是“to be+形容词或名词”结构，think，consider，find后的to be常可省略。
+We consider him (to be) a good teacher.
+我们认为他是一个好老师。
+He proved that theory (to be) very important.
+他证明那个理论是很重要的。
+I thought her (to be) nice and honest the first time I met her.
+我第一次见到她的时候就认为她人很好，很诚实。
+2. 在表示情感状态的动词后作宾语补足语。
+这类动词有：love，like，prefer，hate，want，wish，expect等。
+I'd prefer you to leave him alone.
+我希望你不要打扰他。
+I don't want there to be any trouble.
+我不想有任何麻烦。
+3. 注意：hope，demand，suggest等动词后面不能接不定式作宾语补足语。
+I hope you can give me a hand.
+我希望你能帮我一把。
+I wish you to give me a hand.
+我希望你能帮我一把。
+He required us to be present at the meeting.
+他要求我们出席会议。
+Mr Li suggested that she should not go there alone.
+李先生建议她不要独自去那里。
+编辑本段说明在英语中有些及物动词，接了宾语意义仍不完整，还需要有1个其他的句子成分，来补充说明宾语的意义、状态等，称为宾语补足语，简称宾补，在英语中极为重要。比如说：I heard Jean singing this morning. 句子中的“Jean”显然是宾语。但是主语I听到的并不是“Jean”，而是“Jean singing”.“singing”是句子中的宾语补足语。它和宾语之间是逻辑上的主谓关系，也就是说从逻辑上来讲，是“Jean”执行了“singing”的动作。 句子中的“singing”是现在分词做宾语补足语。能够充当宾补的还有宾语补足语的大致有：不定式，现在分词，过去分词，形容词，副词，介宾短语等。一般情况下，宾补通常紧跟在宾语之后。例：I find learning English difficult.“difficult”是形容词作宾补。
+编辑本段用法复合宾语的两个组成部分在意义上是一种逻辑上的“主谓关系”，宾语补足语（简称为宾补）说明宾语所表示的人或物的属类、性质、状态等。宾补在句中的位置是相对固定的，单个跟在名词前，多个放在句尾
+如：
+(1)We call him Little Tiger.
+我们把他叫做“小老虎”。
+(2)Do you think him a good teacher?
+你认为他是个好老师吗？
+(3)We found the house empty
+.我们发现这房子是空的。
+但由于种种原因，宾补的这种相对固定的位置有时也会发生变异。一般说来，宾补的位置变异有四种句型：
+一、宾补+主语+谓语+宾语在这种句型中，宾补前移到句首（或从句的句首）。这主要有以下几种情况。
+1.为了强调而前移当我们要突出强调宾补时，就把它移至句首。置于句首的宾补可以是名词、形容词（短语）、分词短语、介词短语等。
+如：
+(1)Chairman of the committee they have electedEleanor.
+他们选举埃利诺担任这个委员会的主席。
+(2)Huddled up in a corner of their kitchenthey found a pup.
+他们发现一只小狗蜷伏在他们厨房的一角。
+(3)Mad extravagance,I call it.
+我管它叫疯狂的铺张浪费。
+(4)In a blur,rushing at him,he saw a whiteface,a club upraised...
+在朦胧中，他看见一个白人朝他冲来，手里举着一根木棒……
+2.为了句子的连贯而前移在并列句中，有时为了与前面的分句更好地衔接，使分句之间的意思连接得更加紧密，意思表达得更加清楚有力，就将后面分句的宾补提到句首。
+如：
+(1)Traitor he has become,and traitor we shacall him.
+他已经成了叛徒，我们就得叫他叛徒。
+(2)Bloggs my name is,so Bloggs you might as well call me.
+布洛格斯是我的名字，所以你不妨也叫我布洛格斯。
+3.为了对照而前移在并列句中，宾补的前移有助于鲜明地对照相邻的两个分句间提到的意义有差异的两件事情。
+如：
+(1) I knew you were careless,but dishonest never thought you.
+我知道你粗心大意，但从不认为你不诚实。
+(2)Tactless she may be,but ungrateful yoshould not think her.
+她可能不机敏，但你不能认为她忘恩负义。
+4.在感叹句中宾补的前移用感叹词what或how开头的对宾补进行强调的感叹句，宾补必须紧跟在what或how之后。
+如：
+(1)What a villain he must have thought.
+他一定会认为我是个大坏蛋！
+(2)How changed I found him,even in thosfew days!
+才几天功夫，他变得多么厉害啊！
+5.在疑问句中宾补的前移用疑问词作宾补或对“疑问词+宾补”进行提问，这时疑问词或“疑问词+宾补”须前移至句首。
+如：
+(1)What do you call this kind of flower?
+这种花你们叫什么？
+(2)What color shall we paint the door?
+我们把门漆成什么颜色？
+6.让步状语从句中宾补的前移中学英语在as，however等引导的让步状语从句中，有时也须把宾补提到从句的开头，其后采用正常语序。
+如：
+(1)Charming as he found her,she had struckhim as rather presumptuous.
+尽管他觉得她很美，他仍然认为她相当高傲。
+二、主语+谓语+宾补+宾语产生这种结构的原因主要有两个：
+1.宾语（或连带它的修饰语）较长，而宾补较短时，为了平衡句子结构，就把宾补提到宾语之前。我们常见的一些动词词组如cut open，cut short，lay bare，let slip，let go，make certain，make clear，make goodmake possible，set free等都属于这种情况。
+如：
+(1)Don’t let fly away this little strange bird.
+不要放走这只奇怪的小鸟。
+(2)Many people consider impossible whatreally is possible.
+很多人把本来可能做到的事认为不可能做到。
+(3)We should make clear which of them isprimary and which is secondary.
+我们应当搞清楚这两者中哪个是主要的，哪个是次要的。
+2.宾语本身带有一个较长的定语或同位语时,就把宾补放在宾语后。
+如：
+(1)They proved wrong the news brought bythe newly-arrived visitors.
+他们证明新到的客人们带来的消息是不确实的。
+(2)She saw playing in the garden a group ofchildren aged from six to ten.
+她看到一群大约6岁到10岁之间的孩子在花园里玩耍。
+(3)We call insulators those substances whichprevent the passage of electricity.
+我们把阻止电流通过的物质叫做绝缘体。
+(4)We find acting on the ball three forces:theresistance of the air,the resistance of the ground andthe attraction of gravity.
+我们发现作用到这个球上的力有三个：空气的阻力、地面的阻力和地心引力。
+三、宾语+主语+谓语+宾补有时为了强调宾语，就将其提到句首，宾补就跟在谓语之后了。
+如：
+(1)This substance we call water and comesnext only to oxygen.
+这种物质我们称之为水，其重要性仅次于氧。
+(2)These views we believe to be fair and true.
+我们认为这些见解是中肯而真实的。
+四、主语+谓语+宾语+其他成分+宾补有时在宾语和宾补之间插入了定语、同位语、状语或插入语，从而造成了宾语与宾补的分隔。
+1.插入定语或同位语因宾语后面带有一个无法分割的定语或同位语，因而只好把宾补放在宾语的定语或同位语之后。
+如：
+(1)He found the name he wanted writteobscurely on one of the doors.
+他看到他要寻找的人名模模糊糊地写在一扇门上。
+(2)We call atoms of the same element thhave different atomic weights isotopes.
+我们把具有不同原子量的同一种元素的原子叫作同位素。
+(3)He instructed Frau Junge,one of hsecretaries,to destroy the remaining papers in hfiles.
+他（希特勒）命令他的秘书荣格夫人焚毁档案中的残余文件。
+2.插入状语
+(1)I once saw a jewel fish,during such aevening transport of straying children,perform deed which absolutely astonished me.
+我有一次看到宝石鱼在转运迷路的小鱼的过程中做出了一个使我大吃一惊的动作。
+(2)She begs you,as youlove her,to do exactas I say.
+正因为你爱她，所以她恳求你完全照我说的做。
+3.插入插入语
+(1)Let us not,I beseech you,sir,deceivourselves any longer.
+先生，我恳求你们再不要继续自己欺骗自己了。
+(2)I never saw this boy,as far as I can remembereading the newspaper.
+据我能回忆的,我过去从未见过这个小孩看报纸。
+上述宾语补足语位置变异的种种情况在语言实践相关论文中是屡见不鲜的。我们只有对其熟悉才能进行顺利的阅读和正确的理解。

@@ -1,0 +1,4312 @@
+一、介词的定义
+　　介词（preposition)又称前置词，是十分活跃的一个词类，可以与名词或名词性词语结合成介词短语，说明地点、方向、时间、原因、方法等，在句中主要起状语和定语的作用，也可以充当表语和补语，还可以充当主语和介词宾语。例如：
+He stayed in his seat.
+An old farmer in the back row looked up towards the ceiling.
+The students are interested in the subject.
+上述第一句里的介词in 和is seat所构成的介词短语说明动词stayed的位置，第二句里的介词短语in the back row 限定名词an old farmer，第三句里的介词短语in the subject 表示are interested的范畴。
+二、介词的类型
+　　介词可分为简单介词和复合介词两类：
+（一）简单介词（Simple Prepositions）
+　　凡是由一个单词组成的介词都称为简单介词，例如：in, on, across, underneath等等。简单介词约有80个，其中包括一些由动词或形容词转化而成的介词，例如：except, excepting, concerning, considering, following, including, granted, pending, less, like, near, save, unlike, worth等。
+（二）复合介词（Complex Prepositions）
+　　凡是由两个或两个以上单词组成的介词都称为复合介词。根据它们的结构，复合介词可以细分为下列三种：
+A)副词+介词:along with, apart from, as for, as to, out of, together with, up to等。 
+B)动词（形容词、连词等）+介词：except for, owing to, due to, but for, because of等。 
+C)介词1+名词+介词2：by means of, in addition to, in comparison with, on account of, with regard to等等。
+　
+三、介词的宾语
+　　介词短语是由介词与介词宾语组成的。介词宾语通常是名词或代词（宾格）；此外，还可以是副词、形容词、短语（包括介词短语、动名词短语、不定式短语）、复合结构或名词性从句。
+（一）名词或代词做介词宾语
+（二）副词做介词宾语
+（三）形容词做介词宾语
+（四）短语做介词宾语
+（一）名词或代词做介词宾语
+例如：
+We saw your friend at the meeting last night.
+I supposed that the old lady in the flat above ours was moving the furniture about.
+While we are waiting for her, let's have some coffee.
+Note:
+A）介词之后的代词一般都要用宾格，但有时也用主格。例如，介词but（“除……以外”）之后的代词如果在意思上与句子的主语平行，则倾向于用主格，这时的but也可以看成是连词。
+例如：
+All but he had fled (= All had fled, but he had not fled.)
+I saw nothing but him.
+Ｂ）在口语中，如果动词或介词之后接两个代词作宾语，那么第二个代词常用主格。
+例如：
+He won't let my wife and I into the house.
+All debts are cleared between you and I.
+Ｃ）as, than, but, save 等连词有“准介词”之称，他们之后可接主格代词，也可接宾格代词。接主格代词时算是连词，接宾格代词时算是介词。例如：
+One day you will be as old as I /me.
+You are a better player than he/him.
+（二）副词做介词宾语
+例如：
+I met him a year ago, since then I haven't seen anything of him.
+Where does he come from?
+You should be out instead of in on such a fine day.
+Note:
+　　当副词作介词宾语时，其作用相当于一个名词或代词。这类介词短语通常用来表示时间或地点。
+例如：
+until now（到现在），since then（从那时以来），in there（在那里面），from here to there（从这里到那里），from abroad（从国外）等。
+（三）形容词做介词宾语
+　形容词作介词宾语主要见于某些固定词组，例如at worst（在最坏的情况下），of late（近来），of old（从前），for good（永远），for long（长久），in general（一般说来），in vain（徒然），on high（在高空），at first（最初），at least（最少)等。这些形容词本来可能接一个名词，如for long在意思上相当于for a long time,，但for long已经形成了固定的词组，其中的形容词实际上已经名词化了。
+例如：
+He is a fool at (the) best, but at (the) worst he's a criminal.
+We thought she'd come for a visit, but it seems she's staying for good.
+The drowning man shouted in vain, nobody heard him.
+（四）短语做介词宾语
+Ａ）介词短语做介词宾语
+　　介词短语象副词一样，也可以用作介词宾语，但也有人把from over his glasses 里的from over看成是一个复合介词，其中的over表示方位，from表示运动的出发点。例如：
+He was looking at me from over his glasses.
+They stayed here till after midnight.
+You can find that sort of thing nowhere but in England.
+Ｂ）动名词短语做介词宾语
+例如：
+He was trying to make a little money by selling newspaper.
+I am not in a position of complying with your request.
+Ｃ）不定式短语做介词宾语
+　不定式短语一般不用作介词宾语，仅出现于少数几个介词之后，介词之后的不定式符号to有时可以省略。
+例如：
+I had no choice but to accept the offer.
+She does nothing but complain.
+Their housemaid does everything except (to) wash the car.
+Ｄ）复合结构做介词宾语
+例如：
+He was annoyed at you saying that.
+You may depend on me to be there early.
+He lay on his bed with the bedroom door shut.
+Note:
+　　在口语中，介词之后的动名词的逻辑主语通常用名词或代词的通格，在书面语中则用名词或代词的所有格。例如上述的第一个句子在书面语中应改成：
+He was annoyed at your saying that.
+Ｅ） 名词性从句做介词宾语
+例如：
+Ｉam not interested in whether you like the plan or not.
+You have no idea as to how badly he writes.
+He is thankful for what I have done for him.
+四、介词短语的句法功能
+　　介词短语在句中主要用作状语和定语，此外，也可以用作表语和补语，偶尔还用作主语或介词宾语。
+（一）介词短语作状语
+（二）介词短语作定语
+（三）介词短语作表语
+（四）介词短语作补语
+（五）介词短语作主语、介词宾语
+（一）介词短语作状语
+Ａ）介词短语作状语，用来修饰动词。
+例如：
+We live quite near my office（地点）
+Who knows what will happen in the future? （时间）
+The sewing machine is worked by foot（方式）
+We're waiting for them to arrive for lunch（目的）
+He worked himself to death（结果）
+He is so useful to me that I can't do without him（条件）
+With all your faults, I still like you（让步）
+He lay on his bed with the sunlight falling on his face（伴随状语）
+I don't believe in dream（范畴）
+What country do you come from?（来源）
+Everything depends on whether he is punctual（根据）
+The men who govern the country are chosen by the people（行为者）
+B)介词短语作状语，用来修饰形容词
+例如：
+He was not conscious of my presence in the room.
+I am not interested in doing business with that firm.
+They are proud of their clever children.
+Ｃ）介词短语作状语，修饰副词（比较少用）
+例如：
+John is now somewhere on the high seas, and we wish him a pleasant holiday.
+Do you live here in Middle Town, Mr John?
+Ｄ）介词短语作状语，修饰整个句子
+例如：
+On the whole, Jack has been a good friend.
+（二）介词短语作定语
+例如：
+The weather during the last few days has been perfect.
+The hands of the clock pointed to half past six.
+He has had a quarrel with his father and left home.
+（三）介词短语作表语
+例如：
+Two soldiers are always on guard outside the president's house.
+His wife is a member of many committees and is always on the go.
+Short dresses have gone out of fashion.
+（四）介词短语作补语
+例如：
+The soldiers suddenly found themselves under fire on all sides.
+These things should be kept in repair.
+We were left with all the refugees on our hands.
+（五）介词短语作主语、介词宾语
+例如：
+Between six and seven will suit me. （主语）
+Before breakfast is when I do my best work. （主语）
+He went nowhere except to school. （介词宾语）
+五、介词宾语的转位
+　　介词宾语通常紧接在介词之后，但有时因结构、修辞等的需要，介词宾语反而位于介词之前。在口语中，特殊疑问句中的疑问词，限定性定语从句中的关系词以及不定式所带的关系代词或连接代词，通常与介词分离，使介词位于句末。
+Ａ特殊疑问句中介词宾语的转位
+例如：
+Which class are you in?
+What am I sitting on?
+Ｂ限定性定语从句中介词宾语的转位（介词与关系词分离时，这个关系词在口语中通常省略）。
+例如：
+Isn't that the man (whom) you came with?
+The little school (which) we used to go to has disappeared and now there's a vast comprehensive school in its place.
+Ｃ不定式中介词宾语的转位
+例如：
+Give me a knife to cut the bread with (=Give me a knife with which to cut the bread).
+I am not sure which restaurant to eat at (= I am not sure at which restaurant to eat).
+Note:
+1在口语中通常用who代替whom，用whom反而不自然。但是与介词连用时，只能用whom，不能用who。
+Who are you speaking to?
+To whom are you speaking?
+你在跟谁讲话？
+2带介词的不定式短语相当于一个带介词的定语从句。例如“Give me a knife with which to cut the bread” 相当于“Give me a knife with which I can cut the bread”但在口语中通常将介词移至句末。这时关系代词必须略去（即：Give me a knife to cut the bread with）
+3如果不定式短语前面有一个连接代词，介词通常移到句末。这种不定式短语相当于一个名词从句，连接代词不能省略。虽然可以说“I don't know to whom to give it”，但口语中通常说“I don't know who to give it to”
+在下列情况下，不论是否用于口语，介词都必须移至句末：
+Ａ）关系代词that引导定语从句时：
+There are several questions that I must talk to you about.
+Ｂ）连接代词what引导名词从句时：
+This is what I am looking for.
+Ｃ）在被动语态的结构中：
+When we first started such success was never dreamed of.
+Note:
+1在被动语态结构中，句子的主语常常是介词的逻辑宾语；在某种非被动语态结构中，有时句子的主语也是介词的逻辑宾语。例如：
+He is impossible to deal with. (=It is impossible to deal with him)
+2在下句中，介词与介词宾语形成相对固定的组合，因此介词与介词宾语不能分离。
+I don't know by what train he will go.
+3有时为了强调介词宾语而将介词宾语提前到句首。
+Two things I can not live without --truth and love.
+　
+六、时间介词的省略
+（一）表示时间的短语，如果冠有last, next, this, that以及every, some等词，它们的时间介词几乎总是省去。
+例如：
+It rained last night.
+The meeting will be held next January.
+Have anybody thought of a good way to spend our vacation this summer?
+I was very busy that day.
+The doctor came every other day.
+Some day I should go there.
+Note:
+1下列各句中的时间短语均带介词：
+He ought to have been here by this time.
+I send you my best wishes on this happy occasion.
+We have a meeting on every other day.
+2在下列词序倒装的时间短语里，英国英语通常要求带有介词：
+My vacation starts (on) Friday next (=starts next Friday).
+We met (in) June last (=met last June).
+（二）Today, tomorrow, yesterday等词分别含有this, next, last的意思，它们不带介词，直接用作时间副词。
+She wrote her grandmother a nice long letter yesterday.
+May we meet you at the hotel tomorrow morning at ten?
+（三）当我们间接地提到过去或将来某个时间时，这个时间短语前面的介词在口语中通常省略。例如：(on) the day after tomorrow（前天），(on) the day after his death（他死后的第二天）。
+We arrived in New York (in) the December before last.
+Would you like to drive around the city with me (on) the day after tomorrow?
+They are going to get married tomorrow week.
+She died (on) the following day.
+（四）在美国口语中，周日之前的介词on通常省略，在英国口语中偶尔也有省略现象。
+I usually leave here Friday night and come back Saturday or Sunday.
+（五）介词for用来表示行为或状态延续的时间长短时，经常可以省略，但在正式文体里最好不省略，而当时间长度短语前有all时，for必须省去。
+The performance lasted (for) three hours.
+We shall stay (for) two weeks.
+He has been working all (the)day.
+Note:
+　　表示时间延续长度的for用于句首或用于否定词之后时，一般不能省略。
+例如：
+For a year we waited to hear what had happened to him.
+The train will not arrive for two hours.
+　
+七、介词短语的强调词
+　　某些副词可以用来修饰介词短语，起强调作用。
+例如：
+I just at that moment thought of it.
+He must be well past forty.
+He has travelled all over the world.
+Go straight along the road and you'll find number 86 right at the end.
+Tell him to come as soon after nine as possible.
+　
+八、带介词的动词
+　　有些动词能跟介词组成比较固定的短语，它们的作用相当于一个及物动词，在它们之后需要接一个宾语。在意义上这个宾语可以看成是这个“及物动词”的宾语，但在语法上，这个宾语应是介词宾语。
+例如：
+His friends refused to deal with (associate with) him after his release from prison.
+Mr Robinson spends most of his time running after his secretary, many people think he will marry her.
+She came at (attacked) me like a tiger.
+Note:
+1动词之后带介词时，大多数介词并不影响动词的意思。
+2英语中有大量的动词能与副词组成固定的短语动词，这其中的副词大部分与介词同形。试比较下列句子：
+Peter turned on the boastful youth and stuck him.
+John turned on the got-water tap.
+上述句子都包含这样的结构：turn+on+宾语，但第一句中的on是介词，说明the boastful youth与动词turn之间的敌对关系，因此on之后接的是介词宾语；而第二句中的on却是副词，它与动词构成一个短语动词，相当于汉语的“开（水龙头、灯等）”，因此on之后接的是动词宾语。同样，下列第一句中的upon是介词，第二句中的off是副词：
+The president called upon the nation to economise as much as possible.
+The young couple decided to call off the wedding.
+3动词与副词结合可以形成不及物的短语动词，也可以形成及物的短语动词，及物短语动词中的副词可以与动词分离，移到宾语之后（而动词之后接介词时，介词则不能移到介词宾语之后。）
+Mrs. Brown cut up the cake (=cut the cake up) and gave each of us a piece.
+4如果短语动词的宾语是人称代词时，副词通常移到人称代词之后。例如：
+He knew he was being followed but could not shake them (his pursuers) off.
+I forgot to wind it (the clock) up.
+　
+九、介词性副词
+　　某些词既可以用作介词，又可以用作副词。
+例如：
+They climbed up the steep cliff.
+They climbed up and soon reached the steep cliff.
+The factory was by the river.
+The accident occurred when nobody was by.
+从以上例句可以看出，up,by等可以用作介词，后接介词宾语。这些介词说明了介词宾语和句中另一个词之间的某种关系。在从上下文可以理解的情况下，介词宾语常可以不表示出来，因此，up,by等又起副词作用。这类副词可以称为介词性副词。
+Note:
+1常见的介词性副词有：about, above, after, along, around, before, below, between, by, down, in, of, on, over, past, since, through, under, up, without等。
+2有些介词不能转为介词性副词，如at,beside,for,from,into,of ,till,to,until,with等；out of也永远是介词，转为副词时只能用out.
+The man jumped out of the window.
+The man ran to the window and jumped out.
+　
+十、介词的释义和用法
+aboard
+　　aboard原来是指“上船”、“在船上”，后又延伸表示“上车”、“在车上”、“上飞机”、“在飞机上”等，例如：
+We are aboard the ship.
+He got aboard the train.
+She came aboard a plane.
+He went aboard a horse.
+Note:
+aboard也可用作副词，如下例所示：
+He came aboard of the ship.
+about
+　　about表示“在……各处”、“向……各处”、“在……周围”、“在……附近”、“在……身边”等空间位置；又引申表示“大约”、“即将”、“关于”、“从事于”等意思。
+A“向……各处”、“在……各处”
+例如：
+We wandered about the city on our first evening there.
+The children had left their toys lying about the room.
+The cowslips dotted about the field.
+Note:
+　　在英国，口语中常用about表示“向……各处”、“在……各处”。在美国口语中常用，around代替about表示这个意思，about只用于正式文体。
+B“在……周围”
+例如：
+She has a gold chain about her neck.
+We could see the high wall about the prison.
+Note:
+　　about的这个意思只用于正式文体，一般口语中应说round或around。
+C“在……附近”
+例如：
+The streets about the castle are full of places of historic interest.
+The bomb fell about here.
+Note:
+1.around常用来代替about表示这个意思，尤其是在美国英语里。
+2.about有时不指“在……附近”，而含有“在……里头”的意思（somewhere within a given place or area)。
+Mrs Jones does not appear to be about the house, so I presume she has gone out.
+D“在……身边”、“在……身上”
+例如：
+Do you happen to have his letter about you?
+There is a strange smell about him.
+Note:
+　　介词on,with等也可以表示“在……身上”、“在……身边”的意思。
+E“大约”、“近于”、“左右”
+例如：
+I shall be home somewhere about lunch-time.
+My watch has been gaining about ten minutes a day for some time.
+His house is about ten miles from London.
+He is about my statue.
+Note:
+1介词about可以用于表示“时刻、数量、大小”等的“大约”数字或程度；表示“时刻”时，也可以说at about,但这里的about已转化为副词。
+Ｉ woke (at) about seven o'clock.
+2在其他情况下（不是表示“时刻”时），about之前的at是不能省略的（这里的about是副词）。
+They sold at about ＄3 a share.
+3.about之前可以根据表达的需要加用其他介词。
+He has been in the office for about an hour.
+I'll go for a fitting in about a week's time.
+F“正要”、“即将”
+例如：
+They are about to be married (=They are going to be married).
+I feel that something terrible is about to happen.
+Note:
+　　“be aboutto do sth” 表示即将发生的行为，因此不需要再用表示将来时间的状语。其主语可以是有生命的，也可以是无生命的，但用“on / upon the point of doing sth”时，主语通常是有生命的。
+We were on the point of telephoning you when your telegram arrived.
+G“关于”、“对于”
+例如：
+I hadn't heard about that.
+Roger is rather fussy about food.
+Be careful about the pronunciation of "quiet" and "quite"
+The story is about giants.
+Note:
+1在某些动词之后，有时可以用of代替 about表示“关于”的意思，例如speak of, tell of, dream of等。这些短语相当于speak about, tell about, dream about。但of通常用于比较正式的文体，因此平常比较少用。
+The soldier often dreams about / of home.
+2有些及物动词与about /of连用时转化为不及物动词，行为的直接对象变成了间接对象，语义也随之发生变化。
+I don't know Mr Smith but I know about / of him.
+我不认识史密斯先生，但我听说过这个人。
+I read the book.
+我曾读过这本书。
+I read about / of the book.
+我曾读过关于这本书的介绍。
+3动词think后面接about或接of，意思不一样。试比较：
+I've been thinking about (=considering) the question for a long time.
+这个问题我已经考虑很久了。
+Such a thing is not even to be thought of.
+(=to be brought to mind)
+这种事情不可思议。
+4当about所构成的短语修饰名词时，about通常不能改用of或concerning。
+Have you any books about stamp-collecting?
+5在口语中，“What/How about …?”这类句子用于表示“提议”或“提问”。
+例如：
+What about going there now?
+How about (having) a drink?
+What/How about it? (=What shall we do? 或Tell me more precisely what you mean.)
+H“就……的特征而言”
+例如：
+It's a funny thing about holidays; no matter how long a holiday we have, I always feel I want a few days more.
+Note:
+　　在口语中常说“He has something about him”，意思是”他很能干（很有个性）“（having energy, force of character, etc），反之就“He has nothing about him”　
+I“从事于……”
+例如：
+What are you about (=at)?
+I do not like to be interrupted when I am about an important piece of work.
+Note:
+1.set about与to about都含有“着手做……”的意思。
+例如：
+I must set about my packing.
+He went about the job half-heartedly.
+2. see about 含有“处理”、“照料”的意思。
+例如：
+He promised to see about the matter.
+　
+above
+　　above的原意是“在……上面”，表示地理位置，后又引申表示（地位）“在……之上”，（水平、数量、质量、价值等）“超过……”，此外，还含有（因为太好，以致）“不可能……”、（行为、意思）“不屑于……”、“不至于……”等意思。
+A“在……上面”（地理空间位置）
+例如：
+The shelf should be six feet above the level of the floor.
+The castle towers above all the land.
+Note:
+1.above只表示一物处于比另一物更高的位置（meaning simply that one object is on a higher level than the other),不一定在正上方，它与below相对应。
+over则通常表示两个物体之间垂直的相对位置（tending to indicate a direct vertical relationship),与under相对应。over可以用来代替above，above却不能用来代替over。
+例如：
+The falcon sailed above the clouds.
+A bird hovered over /above us.
+2.over与表示运动的记号连用时，有时含有“越过”的意思，相当于across，而above却没有这个意思，它只表示运动的位置是“在……上面”。试比较：
+We flewover /across the Sahara.
+We flew above the clouds.
+3.on(upon)也表示“在……上面”，但仅用于两个物体相互接触的情况下。如果两个物体没有接触，那就应该用over或above。试比较：
+In his room there is a clock over the fireplace.
+There is a cat on the roof.
+4.above有时还引申表示“在……上游”的意思。
+例如：
+The waterfall is above the bridge.
+B“在……之上”（位置）
+例如：
+A navy-captain ranks above an army-captain.
+He is above me in rank.
+Note:
+　above与over都可以表示地位、职位“高于……”；below与under都可以表示地位、职位“低于……”；但over与under还表示“统辖”、“支配”关系，above与below则只一般地说明地位、职位的高低。因此，表示“统辖”、“支配”时，只能用over或under。
+C“越过……”、“超出……”（能力、水平）
+例如：
+As a scholar, he is far above me.
+I must confess it is above my comprehension.
+D“在……之上”（数量）
+例如：
+Above two hundred people attended the meeting.
+The temperature was only a few degrees above the freezing-point.
+Note:
+　　表示数量“在 …以上”时，above与over可以互相替用。
+Over / Above five hundred people were present at the ceremony.
+E“胜于……”、“重于……”（质量、价值）
+例如：
+Health is above wealth.
+We should value honour above life.
+F“无可……”、“不胜……”（因为太好、太伟大而）
+例如：
+The missing boy's uncle was above suspicion.
+His behaviour is above praise.
+Note:
+　　这里的above经常可以与beyond互相替用。
+G“不屑于……”、“不至于……”（行为、思想）
+例如：
+William is above meanness (=He wouldn't ever be mean).
+All these men are honest and above bribery.
+Note:
+　　“not above”含有“不耻于……”等意思。
+例如：
+If we want to learn, we must not be above asking questions.
+He is not above telling a lie, if it will serve his purpose.
+H注意下列词组的意思：
+１）above all（首先，首要的是）
+Think about what I have told you; above all, don't breathe a word of it to Henry.
+２）keep one's head above water （脱离困境，摆脱债务）
+Erown's business is not doing well; he is finding it difficult to keep his head above water.
+３）get above oneself（自高自大）
+He got above himself.
+４）to be above oneself（兴高采烈）
+He is above himself.
+５）above sb's head（过于深奥使人不能理解）
+The lecture was above the heads of the audience.
+６）over and above（除……之外）
+He gets a number of perquisites, over and above his salary.
+７）above board（光明正大）
+There's nothing secret about what we are doing. It's all perfectly above board.
+　
+according to
+　　according to是由副词according 与介词to 组成的复合介词，表示“根据”、“按照”等意思。
+A“根据”、“按照”
+例如：
+Do this problem according to the way you have been showed.
+Take one to three tablets, according to the severity of the
+pain.
+B“据……所说”、“如……所示”
+例如：
+According to the Bible, Adam was the first man.
+According to my watch it is half past two.
+Note:
+　　according to 用作介词；而according as 则用作连词，后接从句，意思是“根据……而……”、“按照……而……”。例如：
+You may go or stay, according as you decide.
+People see things differently according as they are materialists or idealists.
+across
+　　across含有“横过”、“在……另一边”、“交叉”等意思，并上“横过”引申为“经过”（一段时间）、“遍及”（整个地区）。
+A“横过”、“穿过”
+例如：
+He went across the street to the baker's.
+He walked across the square.
+Note:
+1.along 与across 相对应，across表示“横过一条直线或一个平面的运动”；along则只表示“沿着一条直线的运动”。
+They walked not only along the paths but also across the grass.
+2.across表示“横过”时，可以与 over替用。
+They drove across /over the frontier.
+B“在……的另一边“
+例如：
+They bought those things across the river.
+Lincoln was carried unconscious to a house across the road from the theatre.
+Note:
+1我们可以把across与from短语搭配使用，具体表明“出发点”或“观察点”。
+He lived across the street from my house.
+2.across表示“静止空间位置”时，意思是“在……的另一边”；along表示“静止空间位置”时，含有“沿线”、“在……的另一端”等意思。
+There is a hotel across the road.
+There are trees all along the river banks.
+C“经过”（一整段时间），“遍及”（整个地区）
+例如：
+I can remember, across the years.
+They travelled across the country.
+D注意下列短语的意思：
+１）come (run) across（遭遇，巧遇）
+They came across a tiger in the jungle.
+An idea came across my mind.
+２）get across sb（引起某人的不满或反对）
+Dr. James has got across several of his patients because of his brusque outspoken manner.
+３）across the board（全体成员）
+It is an across-the-board pay rise.
+　
+after
+　　after的基本意思是“在……之后”，可以表示时间、顺序、位置等的先后，与before相对应。此外还表示“由于”、“尽管”、“仿照”、“依照”、“追踪”、“追赶”、“追求”、“关于”等意思。
+A表示时间,“在……之后”
+例如：
+After a sound sleep, he went for a swim.
+After a rain the air is much cleaner than at ordinary time.
+Note:
+1表示时间“已过几点”或“几点过后”，在英国多用past，在美国则用after.
+It's half after / past two.
+It's after / past two o'clock.
+2.after与具体的时间数字连用时，含有“在若干时间之后”的意思（at the end of a specified period），动词只能用过去时态。如：我们可以说“He came back after three years”（他三年之后回来了。）而当表示“从说话时间起经过若干时间之后”时，则不用after，而用in。如：He would (will) come back in （不用after）three years（他将于三年之后回来）。试比较：
+After a little time Mrs Priestley joined us again.
+He said he would come again in a few days.
+3.after也可以用作副词，与具体的时间数字连用。当表示“在若干时间之后”时，动词也只能用过去时态；如果副词after单独使用，动词的时态则不受限制，这时的after相当于later或later on。
+He fell ill on(upon) Monday and died three days after .
+(=after three days = three days later)
+We can do that after (= later = later on).
+4副词later与具体的时间数字连用表示“经过若干时间以后”时，时间起点可以是过去或将来，但不能是现在。如我们只能说I shall see you in a week而不能说I shall see you a week later.
+I called on(upon) him on 25 July, and called again a week later.
+I shall call on him on 20 October, and shall call again a week later.
+B表示顺序,“在……之后”（behind in place of position); （名望、地位）“次于”、“亚于”（below in rank or excellence); “跟着”、“接着”（following, behind)
+例如：
+They came to England after us (later than we did)
+Your name comes after mine in the list.
+Milton is usually placed after Shakespeare among English poets.
+we drove mile after mile through open moorland.
+Note:
+1表示位置“在……之后”时，用behind比用after更为普通。
+The sun was behind (hidden by) the clouds.
+The boy was hiding behind a tree.
+2.behind可以由表示位置的“在……后面”引申为“落后”、“不如”等意思，而after则不能。同样地，当after表示时间、顺序“在……之后”时，也不能代替behind。
+The train was behind time.
+The country is far behind its neighbours.
+C“后果”、“结果”
+after还可以由上述的“在……之后”、“经过……以后”引申出某种“后果”、“结果”的意思。
+A）“鉴于”、“由于”、“因为”（as a consequence of, as a result of, because of)
+例如：
+You must be feeling tired after that long walk.
+I dislike him after his treating us thus.
+B）“尽管……但……”（ in spite of)
+例如：
+After all my advice, he still went his own way.
+After all my care in packing it, the clock arrived broken.
+Note:
+after all单独用作状语时，有两种解释：
+1“不管怎么样”、“到底”、“毕竟”等（in spite of)
+He failed after all (in spite of all that had been done).
+After all it is not so hard as it looks.
+2“切记”、牢记“（It must be remembered that)
+I know he hasn't finished the work, but after all he is a very busy man.
+Why shouldn't she eat the cake? After all she baked it.
+D“仿照”、“模仿”
+例如：
+These ships are built after the same model.
+The painting is after the great master.
+E“依照”、“与……相一致”
+例如：
+It is a job after his own heart.
+(=of the kind he very much likes)
+The boy was named Samuel after his uncle.
+H“追赶”、“追求”、“追踪”
+例如：
+The boy raced after the butterfly.
+What are you after?
+They started after the enemy in hot haste.
+Note:
+1在call, shout等动词之后接after时，含有“唤起某人注意”的意思（attempting to attract attention)。例如：
+I shouted after him, but apparently he did not hear, for he still went on.
+2在某些动词（如seek,search, yearn, long等）之后。可以接after，也可以接for，同样表示“寻求”的对象、目的（to show the aim or object of certain actions)，但for 比after普通。例如：
+We searched after / for the lost kitten.
+He yearned after / for his son.
+3.look after与look for有语义上的差别，试比较：
+Will you look after my house while I'm away?
+我不在的时候，请你照看一下我的家好吗？
+He went to Australia to look for gold.
+他到澳大利亚去寻找金子。
+I“关于”
+例如：
+Mrs Jackson asked after you and the children.
+He inquired after your health.
+　
+　
+against
+　　against可以表示“朝着”、“逆”、“反抗、反对”、“违反”、“倚靠在……上”、“撞在……上”、“在……对面”、“以……为背景”、“与……对比（对照）”、“预备”、“预防”等意思。中心意思是“对立”。
+A“朝着”、“对着”
+例如：
+Stop knocking the stick against the fence.
+The rain beats against the window-panes.
+B“逆”
+例如：
+It is hard to swim against the current.
+They sailed against the wind.
+Note:
+　　against表示方向的“对立”时，与with相对应。例如：
+Sound waves go faster with the wind than against the wind.
+It is much easier to row with the current than against it.
+C“反抗”、“反对”
+例如：
+Is there a law against spitting in the streets in this country?
+Note:
+1在对某人某事表示反对或赞成时，against与for相对应。这里for的意思是in favour of。
+Are you for or against the motion?
+2在对处于冲突或竞争状态的双方中的一方表示反对或支持时，against与with相对应。这里的with的意思是on the same side of。
+Are you with us or against us?
+3.against在与fight连用、表示“跟”、“同”（……竞争、对抗）时，可与with互相替用。试比较：
+Great Britain fought with / against Germany in two wars.
+Great Britain fought with (on the side of) France against Germany.
+4.against有时引申为“对……不利”。
+Things have come out against us.
+D“违反”
+例如：
+Smoking is against the school rules.
+He did it against his will.
+E“倚靠在……”
+例如：
+He rested his bicycle against the wall.
+He stood with his back against the door.
+Note:
+　　动词lean之后有时接against，有时接on(upon)。如果依靠在某一侧面上，通常用against，但也可以用on；如果是倚靠在某一平面上，则只能用on。例如：
+He leaned the ladder against / on the wall.
+He leaned his elbows on the table.
+F“与……相碰或相撞”
+例如：
+He hit his forehead against the kerb when he fell.
+As I groped my way through the darkness of the room, I knocked against a chair.
+G“在……对面”
+例如：
+Against the laboratory stands a water tower.
+实验室对面有一座水塔。
+He lives over against the school.
+他住在学校对面。
+H“以……为背景”，“在……的衬托下”
+例如：
+The house looks very pretty against the white snow.
+The beautiful villa stood out against the slums surrounding it.
+I“与……对比”、“与……对照”
+例如：
+Four students have passed this year's examination against three of last year.
+3 against 0.
+Note:
+　as 可以与against连用，表示“对比”、“对照”。例如：
+The business done this year amounts to ￡2,000 as against ￡1,500 last year.
+J“防备”，“预防”
+例如：
+She always had a room ready against the arrival of unexpected visitors.
+We must take precaution against fire.
+　
+along
+　　along可以表示“沿着一条直线在水平方向上的运动”，也可以表示“在沿着一条直线边上的地理位置”，有时还含有“在……的另一端”的意思。
+A“沿着”、“顺着”
+----处于作为along的宾语的“道路”、“河流”等之中（in the direction of the length of）例如：
+A good walk by the sea or along the cliff every day would do you a world of good.
+Our boat made her way along the river.
+Note:
+1.along与“运动的动词连用，通常表示沿着一条直线在水平方向上的运动，与across相对应。
+2.up与down通常表示沿着垂直方向向上或向下的运动，但up与down也可以转用于水平方向的运动，这时，up与down实际上等于along。
+3.along可以跟here或there连用，表示朝着这个方向或那个方向(in this or that direction)。
+He is walking along here.
+It flew along there.
+----处于作为along的宾语的“河流”或“道路”的近旁。（in a line next to the length of）例如：
+He lives along the street.
+Farmhouses were to be found here and there along the river.
+Note:
+　　along可以表示“在沿着一条线的某些地方”，也可以表示“沿着整条线”（from one end to another of the length or of any part of the length）。但为了明确表示“沿着整条线”，along通常与副词all连用。例如：
+There are trees all along the river banks.
+There were muddy foot marks all along the corridor.
+B“在……的另一端”
+例如：
+There is a bank along the street.
+Note:
+　　表示在一条线的中部时，可以用half way along…这样的结构。例如：
+Half way along the street they stopped.
+　
+alongside
+　　alongside的意思是along和beside两者的结合，含有“在……旁边”，“与……一起（并肩）”，“横靠”等意思，此外还引申为“与……比较”的意思。
+A“在……旁边”、“与……一起（并肩）”、“横靠”（side by side with）。例如：
+The dog ran alongside me all the way.
+It's a pleasure to work alongside such men.
+Note:
+　　alongside经常与of连用，但这时它成了副词。例如：
+The dog trotted alongside of us.
+B“与……比较”（in comparison with）
+例如：
+His works are second-rate productions, alongside those of some of his contemporaries.
+　
+along with
+　　这里的along实际上是副词，with才是介词，但在许多情况下，along with结合得很紧密，起着一个复合介词的作用，意思是“与……一道（一起）”、“连同……”（in the company of, together with）。
+例如：
+He went on the dangerous journey along with his two friends.
+Put this letter in the file, along with the others.
+Note:
+在口语中常说“Get / go along with you”意思是“滚开”或“我不相信你的话”。这里的along是一个独立的副词，与动词get / go组成一个意群，不同于前面论述过的复合介词along with。
+　
+amid(st)
+　　amid也可以写成 amidst，意思是“在……当中”、“在……中” (in the middle of, among)。例如：
+He persevered amidst all these difficulties.
+The curtain fell amidst (= in the accompaniment of) the cheers of the audience.
+Note:
+1.amid(st)多见于文学用语。在英国口语中，amidst比amid常见，在美国口语中情况正好相反，即amid比amidst普通。
+2.amidst跟amongst一样，可以指“在某一数量不定的群体之中”(apply to an indefinite number of objects)。但amidst可以与物质名词或抽象名词连用，而amongst则只能与复数的名词或代词连用，试比较：
+Amidst / Amongst the flowers the rose is queen.
+They walked amid(st) the snow.
+　
+among(st)
+　　among也可以写成amongst，为了声音的和谐或句子的韵律，有时用among，有时则用，在美国通常用。含有“在……的包围中”、“在……之中（之间）”等意思，并引申为“其中之一”、“在……中间分配”、“通过……的联合行动”等意思。
+A“在……的包围之中”、“在……之中”、“在……之间”
+例如：
+My home is among the mountains of Switzerland.
+The mother is sitting among her children.
+Note:
+1.among(st)跟动词连用时，表示“从……中间（穿过）”（through the midst of）。
+He passed among /through the crowd.
+2当among(st )接具体物体时，有时可在among(st)之前加用in。例如：
+I found the letter in amongst some papers that were on(upon) the table.
+3.from among(st)…用来表示选择的“范围”。例如：
+Choose a book from among these.
+B“其中之一”、“包括在……当中”
+例如：
+Sir Winston Churchill can certainly be numbered among the great British Prime Ministers.
+This mountain is among the highest of the world.
+Note:
+1.among之后接最高级形容词时，意思是“……的其中之一”；among(st)之前接最高级形容词时，意思是“其中之最”。试比较：
+Shelley is among (one of) the world's greatest poets.
+What is the greatest among (of all) European powers?
+2.among others （或 among other things）的意思是“除……以外还（也）……” (in addition to others; along with others)。例如：
+He among other things, talked about the excellent situation at home and abroad.
+C“在……中间（分配）”
+例如：
+The sweets are to be shared among the five children.
+The prizes were distributed among ten winners.
+D“通过……的共同行动”（through the common action of），表示“合作”、“集体”的意思（cooperation or aggregation）例如：
+Among them they collected over a hundred pounds.
+They have settled the matter among themselves.
+Note:
+1.among(st)之后必须接复数名词或代词，但在口语中，有时用among(st) each other代替among(st) themselves / ourselves。例如：
+They agreed among each other (themselves).
+They are quarrelling among themselves.
+2.between通常表示“在两者之间”， among(st)则表示“在三者或三者以上之间”。试比较：
+The money was divided between the two persons.
+The money was divided among the three persons.
+3.between有时也可以表示“在三者或三者以上之间”，但它强调了每两者之间的关系或区别。例如：
+The five diplomats settled the question between them. (Between is here used to emphasize the fact that each member of the group agreed individually with each of the others.)
+4在表示地理位置时，通常也用between表示“在三者或三者以上之间”。例如：
+Switzerland lies between France, Germany, Italy and Austria.
+　
+apart from
+　　这里的apart是副词，from是介词。在许多情况下，apart from的作用相当于一个复合介词，它可以表示“扣除……以外”（except for），也可以表示“除……以外（还，也）”（=besides）。
+A“除开……（就，都）”、“只有……”
+例如：
+The children hardly see any one, apart from their parents.
+We had a pleasant time, apart from the weather.
+B“除开……（还，也）”、“不但”
+例如：
+What do you study apart from English?
+Apart from cost, the hat doesn't suit me.
+Note:
+1试比较下列两句：
+We had no trouble on(upon) the journey apart from (except for) a flat tyre.
+Apart from (In addition to) a flat tyre, we had faulty brakes.
+2有时，apart在意思上并没有与from组成复合介词，而是单独用作副词，如：
+One girl sat apart from the rest.
+3.aside from是美语的用法，意思等于apart from。
+　
+　
+apropos (of)_
+　　apropos 原是副词，来自法语，与介词of连用，组成复合介词，含有“关于”、“讲到”等意思。
+A“关于”、“至于”、“就……来说”，常和of一起组成复合介词。例如：
+Apropos of that matter I don't believe one half of it.
+B“谈到”、“提起”
+例如：
+Apropos of earthquakes, we felt one last night.
+Apropos of John's new job, did he tell you how much he is
+earning?
+Note:
+apropos of 偶尔也写成apropos to。
+　
+around
+　　around与round的意思基本相同，英国常用round，美国常用around。around表示“在……附近”、“到……各处”、“以……为中心（基础）”、“绕过……”等意思。
+A“在……四周”（on all sides of, all around, surrounding）例如：
+A thick grey mist was all around us.
+Many people stood around the injured man.
+Note:
+1.around和round都可以表示“围绕某个轴心的相对位置”。但当表示“围绕某个轴心转动”时，在正式文体里通常用round。
+2在口语中，不论表示什么意思，around通常都可以与round互相替用。
+B“在……附近”（in some place near to, in the area of）
+例如：
+Most of the houses around here were built between the two world wars.
+He lives somewhere around London.
+Note:
+在口语中，around和about都可以表示“在……附近”的意思；但about比around正规。
+C“到……各处”
+例如：
+The news soon travelled around the world.
+Would you like to walk around my garden?
+D“以……为中心（基础）”
+例如：
+The society was built around a belief in God.
+E“避开……”、“绕过……”
+例如：
+John did not weigh enough to join the navy, but he got around that; he drank a lot of water before his physical examination.
+　
+as
+　　as可以表示“象……”、“以……资格（身份）”、“扮演……角色”、“以……形式”、“为了……”、“因为……”、“当某人是……的时候”、“似乎是……”、“（看成）是……”、“例如……”等意思。
+A“象”、“如同”
+例如：
+They all rose together as one man.
+He behaved as a drunk.
+B“以……资格（身份）”
+例如：
+He came here as a specialist.
+She spent some weeks as a nurse in a hospital in Paris.
+C“扮演……角色”
+例如：
+The illustration shows Sir Henry Irving as Shylock in the "Merchant of Venice".
+He acted several times as Hamlet.
+D“以……形式”
+例如：
+We all start life as babies.
+E“为了……目的”、“作为……用途”
+例如：
+This watch was given as a birthday present.
+The building was originally intended as a house for aged workers.
+F“因为是 …”
+　　在这种用法中，as是as being的省略形式，所以含有“因为是……”的意思。如：
+We chose this one as the most suitable for our purpose.
+Three men were detained as suspects.
+G“当某人是……的时候”
+例如：
+As a schoolboy he showed every sign of genius.
+She showed me a portrait of her mother as a young woman.
+H“似乎是……”
+例如：
+Though their daughter was in her early twenties, they still treated her as a child (=as if she were a child).
+Disguised as a clergyman, Charles went aboard a small ship, the Doutelle, to sail for Scotland.
+I“把……看成……”
+例如：
+He viewed his son's lawless behaviours as an attack on himself.
+I acknowledged him as the best player (=to be the best player) in our team.
+Note:
+1在某些动词之后（例如count, elect, appoint等），引导补语的as可以省略；但在动词regard之后，引导补语的as 则不能省略。例如：
+I count him (as) my friend.
+They elected Nixon (as) president.
+They appointed him (as) chairman.
+I regarded him as my brother.
+2当consider的意思是“认为”、“以为”（regard as）时，它的补语之前不能带as； 但如果consider意思是“考虑”、“思考”（think about, give one's mind to）时，它的补语之前必须带as。例如：
+I consider it a good thing (not "as" a good thing).
+We will consider Hamlet as an example of a Shakespearian tragedy.
+3在动词take之后有时用as，有时用for来引导补语，意思不同。“to take … as…”意为“把……当作……来用”，而“to take … for …”则意为“把……（误）当作……来看待”。例如：
+He took these words as evidence.
+He took me for an actor.
+4在动词mistake之后，只能用for来引导补语。例如：
+I mistook the stick for a snake.
+J“例如……”
+例如：
+She has certain definite beauties, as her hair.
+In some words in English the initial "h" is not sounded, as "hour", "honour", "honesty", etc.
+Note:
+1在列举事例时，通常应该用such as而不要单独用as一个词。
+2英语常用“as…as…”这种结构进行同程度的两者间的比较。这里的第一个as是副词；第二个as是连接词，用于引导比较的对象。由于连接词as之后通常省略与主句重复的成分，使得as逐渐趋近于介词。
+He thought he would walk as quickly as his friend, but he couldn't.
+3在口语中，“He is as tall as me”比“He is as tall as I”更普通，因为这里的谓语动词是不及物的，所以as之后的代词不论用主格还是用宾格的形式，都不会引起句子意思的改变。但如果谓语动词是及物的，as之后就得用宾格代词，这时，这个代词可以理解为动词的宾语，也可以理解为动词的主语。为了避免这种意思上的含糊，在正式文体中主格和宾格代词是区别使用的。试比较：
+You hate him as much as I.
+你象我一样恨他。
+You hate him as much as me.
+你象恨我一样恨他。
+　
+as from
+　　as from是复合介词，意思是“从……时候起”（from the time stated），相当于复合介词as of，主要用于正式函件。例如：
+As from / of today you are in charge.
+The guarantee will cease to be operative as from 24th April, 1999.
+　
+as for
+　　as for是复合介词，意思是“至于……”、“就……方面说”。例如：
+As for the terms, they are quite agreeable to me.
+I could stay for one day or two days, but as for staying a week, it would be out of the question.
+Note:
+1.as to有时用来代替as for的这种用法。
+I don't blame George. As for (as to) John, he has behaved very badly.
+2. with regard to, with respect to, with reference to等词组也表示as for的意思，但它们用于较正式的文体，而且还可以用来引述新的话题，尤其是在商业函件中。
+With regard to your letter of June 22nd, I enclose our most-recent catagories.
+3.as for还经常用来对某人或某事表示轻蔑。
+As for you, I never want to see you here again.
+As for others, they didn't count.
+　
+as of
+　　as of的复合介词，含有“从……时起”和“到……时止”等意思。
+A“从……时起”
+例如：
+The rule takes effect as of July 1.
+B“到……时止”
+例如：
+As of this writing, no reply has been received.
+Note:
+短语as of right意思是“按法律”（according to law, by right）。
+All that money are now yours as of right.
+　
+as to
+　　as to是复合介词，含有“至于”、“关于”、“按照”等意思。
+A“至于”
+例如：
+As to your final grade, that depends on your final examination.
+As to your brother, I will deal with him later.
+B“关于”
+例如：
+I don't know anything as to the others.
+No agreement was reached as to how much we should pay.
+Note:
+1.as to表示“关于”时，常与表示疑问、争论、怀疑等意思的词连用。
+He inquired me as to the state of my health.
+I have no doubts as to your son's ability.
+2在动词之后用as to表示“关于”的这种用法不算正规，但很常见。
+We want to know from you as to whether you have ever experienced any cruelty.
+在名词或形容词之后用as to表示“关于”的用法完全正确。
+I am terribly uncertain as to whether he is the right person for me.
+C“按照”
+例如：
+They sorted the eggs as to size and colour.
+　
+astride
+　　astride的意思是“跨在……上”，又引申为“横跨在……的两旁”。严格地说，astride是副词，它和介词of连用，形成astride of这样的结构，表示“跨在……上”的意思。但现在astride已被单独用作介词。
+A“跨在……上”
+例如：
+He is sitting astride a horse.
+The boy sits astride a chair.
+B“横跨在……的两旁”
+例如：
+There is a bridge astride the river.
+　
+at
+　　介词at的释义及用法很多，现分述如下：
+A“在……（地方）”
+用来表示空间位置上的某一点（used with something seen as a point）。例如：
+The two rivers join at this point.
+Can you meet me at the station, as I shall have a lot of luggage?
+Note:
+1不管大地方或小地方，都可以从远处着眼，视为“一点”，而将其形态、大小忽略。因此，at所表示的是一种比较笼统的空间位置，不涉及与其周围的人或物的相对关系，意思相当于汉语的“在 …（地方）”，若要表示具体的相对位置，则用in（在……里面）、on(upon)（在……上面）、by（在……旁边）等介词。试比较：
+There was a ring at the door.
+There was woodworm (=damage caused by wood-worms) in the door.
+There was a new coat of paint on the door.
+There was a dog by the door.
+He is at the station.
+He is in the station.
+2.at可以表示端点、极点的位置。例如：
+He was standing at the top of the hill.
+You know you can't burn the candle at both ends and you need a good rest.
+3.at 还可以表示进出点。例如：
+I've noticed that everything you tell her goes in at one ear and out at the other.
+"When poverty comes in at the door, love flies out at the window." Don't believe it!
+4一般地说，在地址、建筑物、村庄或小城镇之前用at，在较重要的城镇、城市、省份、国家等之前用in，试比较：
+She lives at the white cottage.
+She lives in London.
+Germany is a country in Europe.
+5事物的大小是相对而言的，当我们把象纽约这样的大城市看成是地球上的一点时，我们可以用at New York；而当我们把它看成是一个区域，想到里头的街道、建筑物等时，则可以用in New York。试比较：
+We stopped to refuel at New York on(upon) our way to Tokyo.
+We have a house in New York.
+6在动词arrive后面，用at表示到达的地点，用in表示到达的区域，用on表示到达的现场。试比较：
+The train arrived at Beijing at 11:30.
+火车11点30分到达北京（车站）。
+The train arrived in Beijing at 11:30.
+火车11点30分到达北京（城）。
+Two policemen arrived on(upon) the scene after a few minutes.
+7在英国，街道（street），路（road）之前一般用in（在美国则一般用on），意思是“在街上”、“在马路上”；如果在街名、公路名之前用at时，则指该街的公共汽车站或该路的火车站。例如：
+For the British Museum, alight at Tottenham Court Road.
+Does this bus stop at Great Portland Street?
+8.in the corner of指“在……的角落里”，at the corner of则指“在……拐角处”。例如：
+He is sitting in the corner of the room.
+The house stands at / on(upon) the corner.
+9.at后接场所时，不一定指具体的地点名称，而可以引申为事件发生的场合。例如：
+How many people were there at the lecture？
+Ｉfirst met him at a dinner party given by a friend of mine.
+10注意下列由表示空间位置的引申出来的比喻用法：
+The British public was always solidly at her back.
+I think I ought to tell you how we arrived at the decision.
+B“在……（时刻）”
+表示时间上的某一点（used with a point of time)
+At seven o'clock tomorrow I shall be going to a party.
+I was a child at that time and soon forgot my sorrow.
+试比较下列两句：
+An examination is held at the end of the term.
+In the end (=at last) they reached a place of safety.
+Note:
+1一般地说，表示“在某一时刻”用at，如：at 5:15 am（上午5点15分）, at dawn/daybreak/noon/sunset/nightfall/dinner-time（在黎明、拂晓、中午、傍晚、黄昏、吃饭时间）；表示在“某一天”用on，例如：on(upon) Sunday（在星期天），(on) the following day （第二天）；表示“比一天长或比一天短的时间”用in /during，例如：in the week / month /season/year/century（在本周、本月、本季度、本年、本世纪），in the morning /afternoon/evening（上午、下午、晚上）。
+2泛指“在晚上”时用at night，指“在某一个晚上”时，用in the night或during the night。by night有时可以代替during the night。
+We always lock the door at night.
+I woke up three times in /during the night.
+3虽然“比一天短的时间”可以用in来表示，但如果要具体表明这段时间属于哪一天时，却要用on。例如：
+I do most of my work in the morning.
+They landed on(upon) the morning of May lst.
+We'll have a party on Sunday night.
+4圣诞、新年等节日通常被视为一个时节，因此用介词at，如：at Christmas（圣诞节期间），at Easter（复活节时节）等。如果指的是节日当天，则用介词on，如：on New Year's day（元旦那天），on Christmas Day (on Christmas-day（圣诞节那天），on Christmas Eve(on Christmas 圣诞节前夕）。
+How do people greet their friends at Christmas?The usual greeting is "A Merry Christmas".And at New Year, we say "A Happy New Year".
+We have a holiday at Easter.
+We will begin our journey on(upon) Easter Sunday.
+5表示“在周末”时，英国人用at the week-end，美国人则用on(upon) the weekend.
+6可以用来表示年龄。
+Shakespeare died at (the age of)fifty-two.
+He ought to be earning his own living at his age.
+He has to work hard in his old age.
+7.at还可以用来表示顺序。
+At first it seemed very easy, but it soon got more difficult.
+He was ill and at last he died.
+C“向……”、“针对……”
+　 表示行为的目标、对象（used with an attended aim or object towards which a thing or an action is directed）, 例如：
+It sounded as if someone was tapping at (on) the window.
+They are practising shooting at the target.
+Note:
+1.at可以表示瞄准者心目中的目标，但未必打中，试比较：
+He shot at a bird, but missed it.
+He shot a bird and killed it.
+2.at行为的目标与某些动词连用时，常含有敌意，而to则纯粹表示行为的方向，试比较：
+He threw the ball at me (tried to hit me).
+他掷球打我。
+He threw the ball to me (for me to catch).
+他把球传给我。
+3在look at、 gaze at 等词组里，at只表示视线的目标。如果用on代替at，on则表示视线的落处。这种视线还带有某种特殊的情感，因此它们常与with所构成的短语连用，表明这种情感的具体内容。试比较：
+The girl is pretty to look at.
+He seemed to look on(upon) me with distrust.
+The young American gazed at me in surprise.
+He gazed on her with rapture and admiration.
+4.smile at中的at表示以笑传情的对象、目标；这对象、目标有的滑稽可笑、有的愚昧无知（to have a feeling which a smile expresses; consider something slightly funny and silly）。而smile on则表示“对……的赞许”或“对……加以青睐”（to act or look favourably）。例如：
+What are you smiling at?
+She smiled at his threats.
+The weather smiled on(upon) us.
+His mother smiled on him.
+D“在……中”
+表示状态（a state or condition in which things, a person, group of persons are）例如：
+Tom is never at rest except when he is asleep.
+The countries are at war / at peace.
+E“从事于”,试比较：
+Mr Green is now at dinner.
+I hope to see you at dinner this evening.
+Were you at the meeting?
+I have been at the funeral.
+Note:
+1在口语中，at常用来表示doing的意思。
+What are you at ? (= What are you doing?)
+你在干什么？
+2在口语中，at it 用来表示doing something的意思，即泛指“在忙着什么事情”。就可分别与介词at，for, about连用，表示不同的情感。试比较：
+He was anxious at her non-arrival.
+她未到来使他感到忧虑不安。（刺激）
+The boy was anxious for a new bicycle.
+这男孩渴望得到一部新的自行车。（目的）
+Mrs Owens is anxious about her son's health.
+欧文斯太太担心着她儿子的健康。（内容）
+3在英国英语中，当引起感情刺激的是人或物、而不是抽象的言行时，则不用介词at，而用介词with。
+The children were pleased with their presents.
+They felt very pleased with themselves because they could speak English.
+但在美国英语中，即使引起刺激的是人或物，也常用介词at。
+I am angry at / with my wife.
+I was pleased at / with John's present.
+F“在……方面”
+　　用在某些表示能力或造诣的形容词或名词后面，说明某种能力或造诣所属的领域。例如：
+He is no good at describing things or expressing ideas.
+He is an expert at repairing clocks.
+试比较下列两句：
+He is skillful at using chopsticks.
+他筷子用得很熟练。（比较简单的动作）
+He is skillful in managing school.
+他善于管理学校。（比较复杂的工作）
+“以……”
+　　表示速度、比率、价格、代价等（the rate either of movement or of the charge made for goods or services）
+Ｈe is driving at (the rate of) sixty miles an hour.
+With the ground, the house is valued at 10,000 dollars.
+The ship was built at an immense cost.
+G“至”、“最”
+表示极端的状况：
+You might at least send me words that you were coming.
+You ought to hear at the latest by Friday.
+Note:
+at once, at all等短语也可以算是这一类用法。
+The doctor promised to come at once.
+You haven't done well at all.
+　
+athwart
+　　athwart含有“横过……”、“与……相反”等意思，多用于航海方面，而在一般口语或书面语中都少用。
+A“横过……”、“横跨……”
+A bridge was thrown athwart the river.
+B“与……相反”、“逆……”
+It went athwart his purpose.
+The ship sailed athwart our path.
+　
+atop
+　　atop是文学用语，意思是“在……顶上”，相当于on the top of, at the top of。例如：
+He is standing atop the tall building.
+The old man lived in a cottage atop the hill.
+　
+bar
+　　bar的意思是“除……以外”，相当于except 或excluding,但现在很少用了。例如：
+The group was at the party, bar John.
+He gave us all bar three of the sketches.
+　
+barring
+　　barring跟bar一样，可以表示“除……以外”；此外，它不含有“若无”、“除非”等意思。
+A“除……以外”
+The whole group was at the party, barring John.
+B“若无”、“除外”
+Barring rain, we leave tonight.
+We knew that barring a miracle, they could never be able to do it.
+　
+because of
+　　because of是由副词 because和介词of组成的复合介词，意思是“因为”、“由于”（owing to, on account of, as a result of）。例如：
+Because of his poor health, he could not work in a tropical country.
+I said nothing about it because of his wife's being there.
+Note:
+由because of所构成的介词短语通常用作状语，有时也用作表语，但不能用作定语。
+　
+before
+　　before的基本意思是“在……之前”。可以表示“位置”、“时间”、“次序”、“地位”等，并可引申表示“与其……（勿宁……）”的意思。
+A“在……的前面”
+表示位置（in front of）
+例如：
+He sat just before me.
+The ship sailed before the wind.
+Note:
+1.before表示位置时与behind相对应。
+2表示“在某建筑物的前面”这个意思时，不用before in引导的介词短语，而用复合介词in front of。
+例如：
+There are some trees in front of the house.
+A big oak tree stood in front of the building.
+3.before可以由“在……前面”引申为“在……面前”（on the presence of），尤指在权威者面前。它还可以引申为“在……前头”，常指“前途”、“前程”，等。
+例如：
+Your suggestion will be placed before the committee.
+The headmaster congratulated the boy before the whole school.
+We have a long journey before us.
+You are young men with the world before you.
+B“在……以前”
+表示时间（earlier in time than）
+例如：
+My sister arrived that night before ten o'clock.
+I met Smith yesterday, but I knew him long before that.
+Note:
+1.before表示时间时，与after相对应。
+2.before有时指“在……的前一个”(immediately proceeding)。
+例如：
+I don't quite know what I was doing the day before yesterday.
+He sold his shares in the company the year before last.
+3.before long的意思是“不久” (in a short time) ；而long before的意思是“很久以前” (a long time early)（前者中的before是介词，后者中的before是副词）。试比较：
+I'm afraid Susan will go, too, before long.
+I had been there long before.
+4.before有时与动名词短语连用，表示“在做……之前”。
+例如：
+Before crossing the road, you should look both ways.
+I should like to think the matter again before giving my reply.
+5在否定句中，before常与till(until)替用。
+例如：
+We did not leave before / until 9 o'clock.
+我们到9点才离开。
+6.before one's time含有“在某人所处的时代之前”，或“超越某人所处的时代所能接受的”等意思。
+The motorcar was invented before my time.
+Robert Owen, with his enlightened idea on(upon) working conditions in factories, was before (ahead of) his time.
+C“在……之前”，“先于……”
+表示次序或地位（occupying a superior place in order of precedence or importance）
+例如：
+Work should come before pleasure.
+He always puts the interests of others before his own.
+D“与其……（勿宁……）”（in preference to, rather than）
+例如：
+They would die before yielding.
+Death before dishonour.
+　
+behind
+　　behind可以表示“在（向）……后面”、“在……的那边”等空间位置，并引申表示“紧随在……之后”、“躲藏在……后面”、“作……的后盾”、“在……过后”、“遗留在……后面”、“落后于……”、“迟于……”等意思。
+A“在……后面”、“向……后面”
+　表示位置（at or to the back of），例如：
+One of the things I liked best was the garden behind the house.
+Look behind the tree.
+Note:
+1.behind表示位置时，不能与after替用。
+2.behind有时含有“紧随在……之后”的意思，相当于following。
+例如：
+There was rain behind the wind.
+The dog ran behind its master.
+3.behind还常用来表示“躲藏在……后面”，“隐藏在……之后”。
+例如：
+There is someone behind the door.
+Malice lay behind his smile.
+4.behind sb有时含有“置之脑后”、“不予考虑”等意思。
+例如：
+He put the idea behind him.
+He put unhappy memories behind him.
+5.behind one's back或behind the scenes都含有“在背后”、“秘密地”的意思。
+例如：
+Never say anything behind a person's back that you couldn't say to his face.
+The decisions were made behind the scenes.
+6.behind有时指“在……的那一端”。
+例如：
+The chemist's shop is a few yards behind the church.
+B“作……的后盾”、“支持……” (in support of)
+例如：
+In these proposals we have the whole party behind us.
+He has powerful men behind him.
+C“在……随后”、“随手”(after one has passed through)
+例如：
+She bolted the door behind her.
+Shut the door behind you.
+Note:
+　　behind表示“随手”时，可以与after替用，但behind更常用。
+D“在……身后”、“在……死后”（remaining after one has departed）
+例如：
+He left a wife and two children behind him.
+Though Milton is dead, he still lives in the works he has left behind him.
+E“落后于……”、“不如……”（inferior to, lower than）
+例如：
+John is rather behind the rest of the class in mathematics.
+She is in some things behind her years.
+F“迟于……”（later than, after）
+例如：
+He arrived at the office ten minutes behind me.
+G“对……来说成为过去”、“不复存在”（in the past and not likely to occur again）例如：
+Your hard days are behind you now.
+All our difficulties are now behind us.
+H注意下列短语的意思：
+1）behind time（迟、误）
+We are five minutes behind time already.
+The train is ten minutes behind its time.
+You are behind the appointed time.
+2）behind the times（落后于时代、过时的、老式的）
+These attitudes are behind the times.
+His ideas are well behind the times.
+　
+below
+　　below可以表示“在……下面”、“在……下游”、“在……这一边”、“在……以下地段”、“在……南部”等空间位置，并引申表示等级、地位、数量、年龄、价值、标准、水平、程度等的“在……之下”以及“与……不相称”、“有损……的尊严”等意思。
+A“在……下面”
+表示位置（in a lower place than, on a lower level than）
+例如：
+Sign your name below mine on this document.
+The sun sank below the horizon.
+Note:
+1.below泛指“在……下方”，而不一定是“在……的正下方”。below与above相对应。如：
+Shall I write my name on, above or below the line?
+2. under通常表示垂直向下而且靠得比较近的位置，below有时可用来取代under，表示上述意思，如：
+He had a bruise just below/under his left eye.
+但是，under却不能随意与below互相替用。试比较：
+They are the most distressed families under roof.
+他们是人间最贫苦的家庭。
+The Johnsons live in the flat below this one.
+约翰逊一家住在这下面一层套间。（不一定在垂直的下方）。
+3. below,beneath和underneath常可以互相替用，表示“在……下面”，但beneath比较不通用，多用于正式文体，“underneath”常对有互相接触的二者而言。例如：
+He is swimming below/beneath/underneath the surface.
+4. below有时还引申为“隐藏在……背后”的意思。如：
+Do you know the real reason below the mass of pretexts?
+B“在……的下游”、“在……的这一边”、“在……以下的地段”、“在……的南部”如：
+There was a boat a few yards below the bridge.
+The bus stop is a few yards below the post office.
+Below the village the valley opens into the broad flat meadow.
+Richmond is below (further south than) Washington.
+C“在……之下”
+　　表示程度、地位、数量、年龄、价值、标准、水平、等级等（lower I rank, amount, value, etc. than）如：
+He is a grade below me.
+I occupy only a humble position in the firm, but there are several people below me.
+The number is below ten.
+He cannot be much below sixty.
+There is nothing below 2 shillings.
+He is below the standard height for a soldier.
+The rainfall of this month is below the average.
+Note:
+1.below仅表示“等级低下”，under则可以表示支配、统辖关系。试比较：
+He is below me in rank.
+He has good men under his orders.
+2.under可以表示数量“在……之下”。注意：在下面句子中，below用于一般场合，under用于具体场合。例如：
+A gold dollar weighing under 28.5 grains is below the standard.
+D“与……不相称”、“有损……的尊严”（unworthy of ）
+例如：
+He thought manual labour below him.
+It is below him to say such a thing.
+Note:
+　　below表示“与……不相称”、“有损……的尊严”时，可以与beneath互相替用。
+E注意下列短语的意思：
+1）hit below the belt 暗中伤人
+The boxer was disqualified for hitting below the belt.
+Most of the criticisms hit below he belt.
+2）below one's breath 低声地
+He protested below his breath because he was afraid to speak up.
+　
+beneath
+　　beneath可以表示“在……（正）下方”、“在……脚下”等空间位置，并引申表示“比……不如”、“不值得……”、“有损……的尊严”等意思。
+A“在……（正）下方”
+如：
+Beneath his rough exterior was a heart of gold.
+Note:
+1.beneath可以与under或below互相替用，表示“在……正下方”、“在……下面”；但在诸如下列那些固定词组中，它们是不能互相替用的：
+beneath notice
+below average
+under the influence of drink
+beneath主要用于正式文体。
+2.under虽然可以与beneath或below互相替用，但under常起着突出“覆盖物”的作用。如下列两句中，第一句只一般表明猫睡觉的位置，人们的注意力集中在“猫”身上；第二句引起读者注意的则首先是“table”，其次才是“cat”，即突出了“猫”上面的“桌子”。
+A cat was sleeping beneath the table.
+A cat was sleeping under the table.
+B“在……脚下”（directly under or at the foot of）
+如：
+There was a flower border beneath the wall.
+C“比……不如”（inferior to, not suitable to the rank of）
+如：
+As writer of tragedy, most of the other Elizabethan dramatists are far beneath Shakespeare
+She is beneath him in birth and education.
+D“不值得……”、“有损……的尊严”、“有失……的身份”（unworth of）
+如：
+Such a fellow as that is beneath my notice.
+It is beneath his dignity to plead with her father.
+It is beneath you to say so.
+　
+beside
+　　beside可以表示“在……旁边”、“在……附近”、“沿着……的旁边”等空间位置，并引申表示“与……相比”、“与……无关”等意思。
+A“在……旁边”、“在……附近”
+如：
+The bride stands beside the bridegroom.
+There is an orchard beside the house, about half a mile off.
+Note:
+1.beside和by都可以表示“在……旁边”，也都可能泛指“在……附近”。
+2.beside有时表示“沿着……的旁边”。如：
+The road leads beside a branch of the White River.
+There was a ditch beside the road.
+3短语stand by sb，含有“支持某人”的意思；因此，单纯位置上的“站在……的旁边”应译成stand beside…。试比较：
+He stood beside me.
+He stood by me.
+B“与……相比”
+如：
+He isn't very good at arithmetic, but beside Harry, he is a genius at it.
+You are quite tall beside your sister.
+C“在……之外”、“与……无关”
+Your statements are beside the mark.
+D注意下列短语的意思：
+1）beside oneself（发狂，因为强烈的情绪而推动自制）
+He was beside himself with rage when the train left without him.
+She flung her arms around her son, beside herself with happiness.
+2）beside one's patience with（对……耐不住）
+At last he was beside his patience with them.
+　
+besides
+　　besides可以表示“除……外（还有）”的意思；在否定句中，还可以表示“除……外（不再）”的意思。
+A“除……外（还有）”
+　　用在肯定句里（as well as, in addition to），例如：
+There were three others present at the meeting besides Mr Day.
+Besides a mother, he has a sister to support.
+B“除……以外（就没有）”
+　　用在否定句里，例如：
+We spoke of no one besides you.
+Have you nothing to tell besides what I have already heard?
+Note:
+1用在肯定句里的except和besides含义不同。except的意思是“把……除外（不计）”，即所扣除的东西“不包括在内”（not including），是一种带否定的说法。besides则表示“除……以外（还、也……）”、“既……又……”，是一种带肯定的说法。试比较：
+All of us passed besides John (John passed, too).
+All of us passed except John (John didn't pass.).
+2除了besides外，我们还可以用in addition to, as well as等复合介词来表示“附加”。例如：
+They stole three valuable paintings, in addition to the money.
+You can go as well as Geore.
+3.besides之后除了接名词外，还可以接动名词短语；当besides之前的动词是do时，besides之后还可以用原形的动词。如：
+What has he done besides reading / read the paper?
+　
+between
+　　between的意思是“在……之间”、“在……之中”，可以表示时间、位置、数量、状态、相互关系、共同作用的结果（效果）等。
+A“在……之间”、“在……之中”
+　　表示位置或时间，例如：
+She lost her purse somewhere between the bank and the post office.
+The burglary took place between 9.30 and 10.30 p.m.
+B“在……之间”、“来往于……之间”、“从……到……”、“介乎……之间”
+　　表示数量和状态，例如：
+We must have walked between eleven and twelve miles.
+It occurred between his incoming and outgoing.
+The flavour is between sore and sweet.
+The liner sails between Southampton and New York.
+It is about thirty miles between Nottingham and Sheffield.
+C“把……隔开”
+例如：
+There is a wide river between the two villages.
+Don't let such a trivial matter as this come between us.
+D“在……之间”
+　　表示两者或两者以上的相互关系，例如：
+The relation between teacher and pupil is not what it used to be.
+Divide this between you four.
+E“由于……共同作用的结果（效果）”
+例如：
+Between us, we ought to be able to find a solution to the problem.
+The members of the class collected fifty dollars between them.
+Note:
+1.between通常指“在（两者）之间”，among(st)则指“在（三者或三者以上）之间”。不过，有时也可以用来表示“在（三者或三者以上）之间”，强调其中每两者之间的关系或区别。例如：
+There were flowers between the trees.
+We know the difference between gases, solids and liquids.
+2在表示地理上明显、准确的位置时，只能用between来表示“在……之间”，而不能用among，即使是指“处于三者或三者以上之间”也一样。例如：
+Ecuador lies between Columbia, Peru and the Pacific Ocean.
+3.between each house或between every house之类的短语，从语法上说是不规范的，因为在between之后通常不能接单数的名词或代词。但这种用法很常见，而且在许多名家的作品中也不乏其例。这种短语的意思是between each one and the next。
+4当between用来表示“由于……共同作用的结果 / 效果”时，也可以指三者或三者以上的“之间”。例如：
+Between cooking, cleaning, washing, sewing and knitting, she was very busy.
+Between the four factories, this project was soon completed.
+5短语between you and me 也可以写成between you, me and the gatepost或between ourselves，意思是“只限于咱们俩之间（不得外传）”。例如：
+Between you and me, I am considering resigning from the post of club secretary.
+Between you and me, he's rather stupid.
+　
+betwixt
+　　betwixt的意思相当于between,但现在很少用，仅出现于诗歌中，也偶尔见于带幽默的口语中。在诗句中常缩写成'twixt。例如：
+There's many a slip 'twixt cup and lip.
+Note:
+　　短语betwixt and between既可用作介词，也可用作副词，意思是“两者之间”。例如：
+Grey is neither white nor black, but betwixt and between (the two).
+　
+　
+beyond
+　　beyond表示位置“在（向）……的那边”，并引申表示范围、能力“超出……”、数量“多于……”、时间“迟于……”；以及“除……之外”等意思。
+A“在（向）……的那边”
+　　表示位置，例如：
+The woods go for about two miles beyond the river.
+Do not allow yourself to go beyond the limit.
+Note:
+　　表示“在（向）……的那边”时，past常用来代替beyond。它们的区别在于：beyond不但指明两点位置，而且还暗示了讲话人的位置，即“观察点”; past则没有这个意思，试比较：
+I could see the town beyond the lake.
+There is a village past / beyond the bus stop.
+B“超出……”
+　　表示范围、能力，例如：
+The scenery is beautiful beyond my description.
+That prisoner's guilt was proved beyond doubt.
+Note:
+　　beyond之后接某人时，常指“超出某人的能力”。例如：
+He soon realized the task he had undertaken was beyond him.
+If it is beyond George, it is certainly beyond me.
+C“迟于……”
+　　表示时间（later than），例如：
+Don't stay out beyond midnight.
+It is an hour beyond his usual time.
+Note:
+　　beyond表示时间“迟于……”时，相当于after。实际上，在这个意义上，after比beyond更常见。
+D“除……以外”
+例如：
+I know nothing about the newcomer beyond what I have been told.
+Note:
+1表示“除……以外”的beyond通常见于否定句或疑问句。例如：
+He has nothing beyond his pension.
+Is there anything else I can do for you, beyond what I've done?
+2短语“I wouldn't put it beyond him”的意思是“我不敢说他就不至于如此”。例如：
+I have no proof that he forged the signature, but I would not put it beyond him.
+　
+but
+　　but用作介词时的意思是“除……以外”，相当于except，但近来常与no, nobody, nothing, all, everybody, any where一类词或与who, what, where等疑问词连用。此外，它还与first, next, last等顺序词连用，表示与顺序有关的位置。
+A与no, nothing, nobody一类词连用。例如：
+No one but Shelock Holmes can solve this problem.
+You have no choice but marry her now.
+I heard nothing but the wind.
+B与all, anything, everything一类词连用。例如：
+They are all wrong but me.
+Everybody went but himself.
+They looked in every place but the right one.
+C与who, what, where等疑问词连用。例如：
+Who but a fool would do such a thing?
+What is he but a student?
+Note:
+1.but,except,save等是同义词，都表示“除……以外”，但save主要用于正式文体，but只能与no, nothing, all, anybody, who, what, where等词连用。在下列句子中，第一句中的but,except,save可以互相替用，但第二句不能用but。试比较：
+We have lessons every day but/except/save Sunday.
+The window is never opened except/save in summer.
+2.except, excepting通常用作后置修饰语，如all except three；而but则毫不例外地只用作后置修饰语，如any time but now因此，but用作介词时，不能出现于句首，如不能说“But me, everyone was tired”而应该说：“Everyone but me was tired”或“Everyone was tired but me”。在“But me no buts”这样的句子中，句首的but是动词，另一个but是名词，这句话的意思是“不要老是跟我说‘但是’、‘但是’了。”3.but之后接代词时，有时既可以是宾格，也可以是主格。但在口语中通常用宾格。接主格代词时，but算是连词。例如：
+No one can do it but him (but he).
+4在下面第一个句子里，因为but所组成的短语紧接在动词之前，貌似主语，所以but后的代词习惯上用主格he，若用宾格him反而觉得不自然。（实际上，all 才是真正的主语，而but he只是all的修饰语 。）试比较：
+The boy stood on(upon) the burning deck, whence all but he had fled.
+I haven't told this secret to anyone but her.
+5在口语中，nothing but常用来强调but后所接的名词，表示“不以为然”、“厌烦”等语气。例如：
+He is nothing but a student.
+That car has given me nothing but troubles ever since I have had it.
+6.anything but之后可以跟形容词或名词，常用于避免正面的陈述，即所谓的“不充分的陈述”。例如：
+She looks anything but well (She looks ill).
+He is anything but mad (far from being mad).
+He is anything but a clever man (he is a fool)
+7.but之后可以接动词不定式，也可以接动名词。到底该接哪一种，这取决于but之后的成分与句中的哪个成分相当。如下列第一句中的making money与nothing平行，第二句中的to make money与for nothing 平行。nothing but, anything but之后的不定式可以不带to。例如：
+He thinks of nothing but making money.
+He lives for nothing but to make money.
+D与first, next, last等顺序词连用。
+　　but与顺序词连用时，表示与顺序词隔若干距离。例如，first but one的意思是“顺数第二”（one from the first）， last but two的意思是“倒数第三”（two from the last）。例如：
+Mr Brown lives in the next house but one to us.
+Take the next turning but one on your left.
+　
+but for
+　　but for 是复合介词，意思是“若不是”、“要不是”（if not, without），作用相当于否定条件句。例如：
+But for the sun, we could not live.
+But for the doctor's skill, he would have died.
+Note:
+except for有时可以用来代替but for以表示这个意思。
+　
+by
+　　by的含意十分广泛，可以表示“被……”、“通过……”、“在……旁边（附近）”、“偏……方向”“经过……旁边”、“途经……”、“抓（握）某人或某物的……部位”、“（数量、程度）达到……”、“以…为单位”、“尺寸是……乘……”、“每次……地”、“由于……”、“按照（根据）……”、“就……而言”、“到……时（为止）”、“不迟于……”、“在（白天、夜晚等）的情况下”、“对……”、“由……（雄性动物）所生”等等意思。
+A“被”、“由”
+　　表示行为者，例如：
+The speaker was surrounded by a group of listeners.
+America was discovered by Columbus.
+Note:
+1.by在被动语态中用来表示动作的执行者，这个动作执行者通常指人，有时也可以指物。
+2在被动语态句子中，表示行为者用by，表示使用的工具用with。试比较：
+The lock was opened by the thieves with skeleton key.
+He was killed by a falling tile.
+(=A falling tile killed him).
+He was killed with a tile.
+(=some one killed him with a tile).
+3用with表示使用的工具时，暗示了有使用工具的动作执行者，因此我们说“we were driven indoors by the rain”（这阵雨迫使我们躲到屋里），却不能说“We were driven indoors with the rain”，除非认为天神在使用这个自然力。
+4.by还可以表示著作者。
+“War and Peace”was written by Leo Tolstoy.
+The book I read was "David Copperfield", by Charles Dickens.
+B“靠”、“用”、“通过”
+　　表示方法、手段，例如：
+I often ring them up and order what I want by phone.
+The various idiomatic uses can only be learned by experience.
+Note:
+1.by常可用来泛指所采用的交通手段，这时by后面的名词都不带定冠词。例如：
+Did you come by train or by car?
+He went by air, and sent his heavy boxes by sea.
+2一般用by表示交通手段，如by bus, by boat等，但有些交通手段却用on表示。例如：on foot, on horseback, on bicycle。例如：
+We shall go there on foot.
+3表示交通手段时既可以说by bus/boat/ plane，也可以说on the bus /the boat/ a plane， 这时介词宾语须带冠词。例如：
+Do you travel to school by bus (on the bus)?
+4.on the bus /the boat /a plane不但可以表示交通手段，也可以表示位置。在表示位置的情况时，on不能与by替用。例如下面句中的on the ship不能改成by the ship。例如：
+There were a lot of passengers on the ship.
+5在交通工具之前用in时，也表示位置，强调“在……里”（inside），on则是一般地指“在……上”。例如：
+Do you ever ride in a bus? What happens to people standing inside when the bus starts up?
+I shall have lunch on the train.
+6在下面的句子里，on之后虽然有定冠词，我们却可以用by来替代它。就是说，要说明交通工具的具体出发或到达时间时，on, by都可以用。例如：
+I shall go on / by the 10:30 train.
+7表示书写的方式用in，如in pencil（用铅笔），in ink（用墨水），with表示收发室的工具，如with a pencil, with a pen。工具是具体的东西，因此应加冠词。但讲“用钢笔与墨水”时，又能说“with pen and ink”，不能说“with a pen and ink”。例如：
+Write your composition in every other line with pen and ink, but not with a pencil.
+C“在……旁边”、“靠近……”
+例如：
+When I came to myself, I found my friends sitting by my bedside.
+On a cold evening it was pleasant to sit by the fire.
+Note:
+1短语have sth. by one中的by one含有“在手头”、“在身边”的意思。例如：
+It's useful to have a good dictionary by you when you're reading.
+stand by one含有“支持”、“拥护”的意思。例如：
+They all stood by the president.
+2.by之后接反身代词时，含有“独自地”（alone）的意思，by之前可以带all以加强语气。例如：
+The box is too heavy for me to lift by myself.
+He wasn't married; he lived in a little house all by himself.
+C“偏……方向”
+例如：
+The island lies south by east from here.
+D“经过……旁边”
+例如：
+I go by his office every day.
+He walked by the shop without realizing it.
+Note:
+1短语by the way的意思是“顺便问一下”、“顺便提一下”。
+By the way, what are you studying?
+By the way, don't confuse "already" and "all ready".
+2短语by way of的意思是“经由……”。
+We came to Oxford by way of Warwick and Banbury.
+E“途经……”、“由……”、”“沿……”
+例如：
+They travelled to India by South Africa.
+Did you come by the nearest road?
+F“（抓<握>某人或某物）的……（部位）”
+例如：
+He seized me by the hair/ arm.
+The prisoner was chained to a post by the ankle.
+Note:
+by之后接人或物的某一具体部位时，应带定冠词，例如by the hand。但在短语by hand里的hand被用作抽象名词，这里的by表示行为的方式或手段。例如：
+The nurse held the child by the hand.
+These things are made by machinery, not by hand.
+G“以 …”、“达……”
+　　表示数量、程度。例如：
+The price has been increased by five pounds.
+I know him by sight, but not by name.
+Note:
+短语by far与比较级、最高级词连用时，起加强语气的作用，含有“……得多”、“最……”等意思。 例如：
+It's better by far.
+He is by far the cleverest boy in the school.
+H“按……”、“以……（为单位）”
+　　表示度量、单位，例如：
+Milk is sold by the pint, butter by the pound, and eggs by the dozen.
+Most workmen are paid by the week.
+I“乘……”
+　　表示尺度，例如：
+The carpet is three yards by three and a half (3 yds×3.5 yds).
+They lived in a room 15feet by 20 feet.
+Note:
+　　在数学上，用by表示“乘数”或“除数”。例如：
+5 multiplied by 3 is 15 (5×3=15).
+20 divides by 5.
+J“每次……地”、“逐一”
+　　表示每次量，例如：
+Little by little his savings accumulated.
+His archers could kill the attackers one by one.
+K“由于……”
+　　表示原因，例如：
+He succeeded by hard work..
+I am sorry, I took it by mistake.
+L“（名）叫……”
+　　表示人名或地名，例如：
+A person by the name of Smith wants to see you.
+He lived in a small village by the name of Butly.
+Note:
+　　在短语by the name of里，by的意思相当于having。
+M“以……名义发誓”、“对着……起誓”
+例如：
+He swore by (the name of) God.
+I swear by everything I believe in.
+Note:
+1用by表示“发誓”的短语，有时可以转用来表示“感叹”。例如：
+By heaven I'll have.
+By heaven this is too much.
+2短语to swear by something的意思是“认为……是可靠的（有效的，有名望的）”， 表示对by之后的东西深信无疑。 例如：
+Our doctor swears by this mixture as a cure for colds.
+N“按照……”、“根据……”
+　　表示根据，例如：
+By my watch, the time is half past eleven.
+By your theory we should have a good summer, since we have had a hard winter.
+O“就……而言”
+例如：
+He is British by birth although he was born in France.
+She is very generous by nature.
+P“到……时（为止）”、“不迟于……”
+　　表示时间，例如：
+Please send me the tickets by next week (I want to have the tickets not later than next week).
+I hoped that by that time I should be able to run a business.
+Note:
+　　by表示在某一点的时间（at a point of time）,till(until) 则表示时间延续的终点（the end of a period）。例如：
+I shall be here by eight.
+I shall be here till eight.
+Q“在（白天，夜晚等）的情况下”
+例如：
+Cats sleep by day and hunt by night.
+What is done by night, appears by day.
+Note:
+　　表示方式、手段的by，可以引申来表示“在……环境（情况）下”，这时 by的意思相当于during，但by着重强调特殊的环境。这种用法，常见的只有by day, by night 这两个短语。例如：
+The enemy attacked by night.
+Everything was quiet during the night.
+R“对”
+例如：
+I want to do my duty by him.
+He did well by her.
+S“由……（雄性动物）所生”
+例如：
+Golden trumpet, by Golden Rain out of Silver Trumpet.
+Note:
+用by表示动物出生是技术用语，通用于马的繁殖。by之后接雄性动物，out of之后接雌性动物。
+　
+concerning
+　　concerning实际上是动词concern的现在分词，但它在句中所起的作用常相当于介词，意思是“关于”、“至于”、“就……而言"。介词concerning仅用于书面语，不用于口语。例如：
+We still have no information concerning his where abouts.
+Concerning your letter, I am pleased to inform you that your plans are quite acceptable to us.
+　
+considering
+　　considering原是动词consider的现在分词，但它在某些结构中常起介词的作用，意思是“考虑到”、“就……而言”、“鉴于……"。有时，由于所考虑的是令人意外的事实，构成鲜明的对照，因此还含有“虽然”、“尽管”等“让步”的意思。例如：
+It is excusable considering that he has no experience.
+She looks young considering her age.
+He did poorly in his examinations, considering how hard he had studied for them.
+Note:
+　　在口语中，considering有时可以不带宾语而单独用在句末，意为“全面地考虑”（all things considered）。这时候的considering 可以理解为副词。例如：
+We've not done very badly, considering.
+His speech was really quite good, considering.
+　
+cum
+　　cum是拉丁语介词，相当于“with”，含有“附有”、“联合”、“兼”等意思，主要用于构成复合词。例如：
+dinner-cum-tea （附有茶点的）小餐
+cum dividend附有红利
+house-cum-farm（兼有住房的）农场
+Note:
+1用cum连接两个地名时，表示两个地方联合成一个行政区或教区。
+Tudeley-cum-Capel图德莱和卡佩尔联区
+Chorton-cum-Hardy乔尔顿和哈帝联合教区
+2用cum连接两个建筑物用途的名称时，表示同一个建筑物兼有两用。
+a dwelling-cum-workshop住宅兼工厂
+a bed-cum-sitting room办公室兼书房
+　
+despite
+　　despite用于表示“让步”的意思，译为“尽管”、“不顾”、“任凭”，相当于in spite of， 但用于比较正式的场合，口语中一般不用。例如：
+He came to the meeting despite his serious illness.
+Despite all this, he managed to keep his temper.
+Note:
+1短语in despite of等于despite，但仅用于正式文体。有时还可以将in省略，写成despite of（但有人认为这种用法不算正确）。例如：
+They are generous (in) despite of their own economic troubles.
+2表示让步的同义介词还有：regardless of等。
+　
+down
+　　down可以表示“（由上）向……下”、“在……下”、“沿着……向下”、“沿着……”、“在……那一端”、“往（在）（市区、市内商业区）”、“向（在）……南部”等意思；表示时间时，含有“自……以来”、“自……以后”等意思。此外，down有时还含有“向……”的意思。
+A“（由上）向……下”、“在……下”
+例如：
+The child fell down the stairs.
+His office is down the stairs.
+Note:
+1.down与up相对应。
+2在阅读文件资料时，down表示从本页的开头读到结尾。
+例如：
+The secretary glanced down the list of names.
+I always look down the "Deaths" column in the Times before I start reading the news.
+B“沿着……往下”、“沿着……”、“在……那一端”
+例如：
+The tears ran down her face.
+I went down the country lane for a few miles.
+He is now in the shop down the road.
+Note:
+1沿着一条平路走，可以说down the road，也可以说up the road。如果这条道路通过市中心，那么走离市中心一般用down the road，向着市中心用up the road，在普通的路上则以说话者为中心，走离说话者一般用down the road，向着说话者走则用up the road。
+2沿着水平方向离开说话者的运动，可以说go down the road，也可以说come down the road。用go或come，取决于讲话者“心目中”的中心，离开“心目中”的中心，用go，向着“心目中”的中心用come。
+3从首都、城市、北方、上游、内地往边远地区、农村、南方、下游、海边等用down，反之用up。
+C“往（在）……的下游”
+例如：
+The ship sailed down the river.
+They hired a boat and went for a row down the river.
+D“（由郊区、城市的住宅区）往（市区、市内商业区）”，“在（市区、市内商业区）”。
+例如：
+He comes down town every morning.
+E“自……以来”、“自……以后”
+　　表示时间，例如：
+We can't look ahead down the years and know what the future will bring.
+F“向……去”
+例如：
+I'm just going down the shops.
+I'm going down the town.
+G.down与up连用时（up and down），表示“上下往返”的运动。
+例如：
+The passenger was walking up and down the station platform.
+due to
+　　due to是由形容词due和介词to构成的复合介词，意为“因为”、“由于”、“应归于”等，用于表示原因，相当于owing to。例如：
+The delay is due to heavy traffic.
+The first place was due to Milton.
+Note:
+1.due原是形容词，因此由due to所组成的介词短语是形容词性的短语，照理只能用作表语或定语，不能用作状语。但现在这个界限已经打破，越来越多的人把due to看成跟owing to,because of一样，可以用作状语。例如：
+The event was canceled due to inclement weather.
+2在有些句中，有due to代替owing to 作状语时，可能会引起意思上的含糊。例如“Many children were separated from their parents during the disturbance due to the huge crowd that quickly gathered",在这样的句中，人们无法理解到底是“人群引起分离”，还是“人群引起骚动”，如果将due to改成owing to，意思就明确了。
+Many children were separated from their parents during the disturbance owing to the huge crowd that quickly gathered.
+3下列句中的due to属于形容词性短语，相当于定语从句的省略。
+The number and influence of investors are increasing, (which is) due to several causes.
+　
+during
+　　during可以表示“在某一整个时期”，也可以表示“在某一时期中的某个时刻”。
+A“在（整个）……期间”
+例如：
+Sentries guarded the camp during the night.
+The doors will remain shut during the concert.
+B“在……期间”、“在……的时候”
+例如：
+I woke up three times during the night.
+The fire started during the workmen's dinner.
+Note:
+1.during与in常可以互相替用，但如果动词表示在某个时期的“状态”或“习惯”时，倾向于用during。例如：
+He was in the army during the war.
+He was injured in / during the war.
+2在stay, visit, meal等名词之前，只能用during表示“在……过程中”。例如：
+He took me to the "guest room" at his college where I was to stay during my visit.
+During the meal we talked about our plans.
+3在季节之前用in,如in summer（不带定冠词），系泛指每年夏季，而during the summer则特指某一年的夏季。试比较：
+In summer people go to the seaside.
+Where shall you be during the summer?
+4我们可以说“To whom did you give the letter?”，也可以说“Who(m) did you give the letter to?”，但during与wh-疑问词连用时，就不能分开。例如我们可以说“During which years was he Prime Minister?”却不能说“which years was he Prime Minister during?”。
+　
+ere
+　　ere与before同义，都是“在……以前”，但before是普通用语，而ere属于古用语，现在主要用于诗歌里。例如：
+Ere morning the storm had passed.
+He must leave ere long.
+Note:
+有时ere long（不久），ere now（以前）等可以分别写成erelong, erenow.
+　
+ex
+　　ex是拉丁语介词，为英语所借用，仅限于金融，商业界使用。含有“不、无”、“自从”、“在……交货”等意思。
+A“未”、“不”、“无”、“不包括”、“没有”、“无权获得”、“免收……费”。
+　　表示否定的意思，例如：
+ex divided红利未付
+ex coupon不付息票
+ex interest无利息
+ex rights无权认购新股
+ex all无一切利益
+ex new无权要求新股
+ex ship不收船费
+ex store不收栈租
+ex elevalor不收起卸费
+He was willing to buy the shares ex rights.
+他愿意买进这些无权认购新股的股票。
+B“从”、“自”、“依据”，例如：
+ex animo出自内心的，恳挚的
+ex libris藏书者签条
+ex officio依据职权的
+C“在……交货”，例如：
+ex rail铁路旁交货
+ex bond关栈交货
+The goods will be supplied ex stock or ex factory at the option of the buyer.
+从仓库或直接到工厂提货，由买者选择。
+Note:
+1表示价格时，ex还可由from引申出特殊的含义，例如，一部汽车定价为￡750 ex factory，表示出厂价为750英镑，交货时可能还得附加其他费用。
+2美国，ex还可以表示“from the class of”，“of the specified class”，用于表示某一年度入学的学生。如ex'75（七五级的)。比较：(in) the class of 1975(1975届毕业班的，这里指毕业年度)。
+　
+except
+　　except的意思是“除……之外”，即所扣除的“不包括在内”（not including, leaving out）。except之后可接名词、代词、副词、介词短语、动词不定式、名词从句、状语从句等。
+A.except之后接名词、代词
+例如：
+He won't eat anything except the largest, most splendid pieces of meat.
+All the pupils attended the meeting except him.
+B.except接副词、介词短语、状语从句
+例如：
+I looked everywhere except there.
+I take no orders except from the commander.
+He usually goes to work by bike except when it rains.
+C.except接动词不定式
+例如：
+I shan't have to do anything at all except sit back and enjoy the journey.
+Nothing remains for us to do except to enjoy the fruits of our labors.
+Our housemaid does everything except (to) wash the car.
+Note:
+　　except之后的不定式可以带to，也可以不带to。如果except之前的那个动词带有助动词，那么except之后的这个不定式的to可以省略，因为这个时候，我们可以模糊地感觉到这个不定式前似乎也有个助动词。例如：
+The children found there was nothing they could do with their money, except spend it on(upon) sweets.
+D.except接名词从句
+例如：
+I received nothing except what was due to me.
+I know nothing about him except that he lives next door.
+Note:
+1.except之后接名词从句时，有时转义为“只是”，即在说明基本情况后，对某个具体的细节问题加以修正。例如：
+He is a very good student except that he is occasionally careless.
+He is very clever except that he is a poor speaker.
+2复合介词except for也用来“在说明基本情况后，对某些细节加以修正”，相当于“except for the fact that……“。
+3表示“除……之外”的介词还有“excepting, but,bar,save,beyond,apart from等。
+　
+except for
+　　except for是复合介词，含有“除……之外”、“只是”、“若非”等意思。
+A“除……之外”（except）
+例如：
+He answered all the questions except for (=except) the last one.
+You can all go except for (=except ) George.
+Note:
+1表示“除……之外”时，except for 与except常可以换用。
+2在句首只能用except for，不能用except，例如在“Except for George, you can all go”这种句子中，我们不能用except代替except for。
+B“只是”
+例如：
+This essay is good except for the careless mistakes.
+We had no trouble on the journey except for a flat tyre.
+Note:
+　　except for主要用于“在说明基本情况后，对某个具体的细节问题加以修正”。这时候不能用except来代替except for。这里的except for含有“on condition that you ignore the following fact”的意思。试比较：
+There is not one in the streets, except the policeman on(upon) duty.
+The streets were deserted, except for the policeman on duty.
+C“若非”，“要不是”
+例如：
+She could leave her husband except for the children.
+Except for you, I should be dead by now.
+Note:
+复合介词except for可以代替复合介词but for，表示“要不是”这样相当于虚拟条件句的否定意思。但but for却不能表示“除……之外”，“只是”等意思。
+　
+excepting
+　　excepting用作介词时，意思相当于except（“除……之外”）。但excepting通常只用于句首，或用于not, without, always等词之后。
+A.excepting用于句首，例如：
+Excepting this one, they are all right.
+B用于not, without等否定词之后，例如：
+Everyone, not excepting the pilot, survived the crash.
+Note:
+　　当excepting与not 或without连用时，不能被except代替。例如：
+Everybody must observe the rule except the principal.
+Everybody must observe the rule not excepting the principal.
+C用于always 之后（这里的always 只起加强语气的作用），例如：
+Everyone was tired, always excepting John (=John was not tired).
+　
+excluding
+　　excluding实际上是动词exclude的现在分词，但它往往起着介词的作用，因此，在现代英语里，已经被确认为介词之一，意思是“不计算……在内”。例如：
+There were thirty people in the hotel, excluding the hotel workers.
+Note:
+1.excluding的意思相当于exclusive of, 与including或inclusive of相对应。试比较：
+The ship has a crew of 57, excluding (exclusive of ) officers.
+We were 57 persons, including (inclusive of) children.
+2.besides的意思是“除……之外（还有）”，表示“附加”，而excluding则表示“扣除”，即“不计算……在内（有）”。试比较：
+There were thirty others present besides me.
+There were thirty present excluding myself.
+3.except和excluding虽然都表示“扣除”，都含有“not including”的意思，但except说明的是“例外”的情况，excluding却表示一种“计算”方式。试比较：
+They were all present except the captain.
+There were fifty-two people present, excluding the officials.
+　
+following
+　　following是动词follow的现在分词，但在句中常起着介词的作用，因此在现代英语里也算是介词，意思是“紧接……之后”，用于表示时间上的先后。表示时间上“在……以后”时，通常用after，但强调两者之间在时间上和内容上的紧密关系时，宜用following。following所联系的两者都是某种安排的组成部分。例如：
+Following the speech, there will be a few minutes for questions.
+Following the lecture the meeting was open to discussion.
+　
+for
+　　for 可以表示如下意思：“往……（目的地）”，“向……”、“为了……”、“（希望）……”、“给……（接受者）”、“替……（服务）”、“（有益、有损）于……”，“（适合，不适合）于……”，“对于……”、“赞成（拥护）……”、“因为（由于）……”、“结果……”、“虽然（尽管）……”、“代表（代替）……”，“换……”，“作为……的代价”，“以……为价钱”、“作为（当作）……”、“每……”、“就……而言”，“至于……”、“（时间、距离）计……”，“第……（次）”、“在……时候”、“（时间约定）在……”。此外，for还和不定式连用，主要引导逻辑主语。
+A“往……”、“到……”
+　　表示目的地，例如：
+Tomorrow Jan and Fried leave for Switzerland.
+The ship sails for the Far East.
+B“向……”
+　　表示方向，例如：
+It's getting on for 2 o'clock.
+His illness took a turn for the better.
+C“为了……”
+　　表示目的，例如：
+He plays the piano for pleasure.
+He had an operation for a heart disease.
+Note:
+1由for组成的表示目的的短语介词有for the purpose of, for the sake of, for the benefit of, for the good of等。例如：
+For what purpose do you want it?
+For my sake, please be careful on the expedition.
+The money is to be used for the benefit of the poor.
+2表示目的的for常可以改写成in order to的形式。例如：
+I am going into this shop for (in order to buy) some cigarettes.
+He applied for (in order to gain) a post in Camford University.
+D“（希望）……”
+　　表示希望，愿望的内容，例如：
+His hopes for success in the election were soon shattered.
+How I long for a sight for my home.
+Note:
+在口语中，for用在感叹词oh之后，表示某种的愿望。例如：
+Oh for the days of our youth.
+E“给……”
+　　表示接受者，例如：
+Whom is that letter for? Is it for me?
+I gave her the flowers that I had brought for her.
+Note:
+1有些动词之后带有直接宾语和间接宾语，例如“They gave him the first prize”这里的him是间接宾语（通常是指人），the first prize是直接宾语。这样的间接宾语相当于由介词to或者for所引导的介词短语，to表示实际的接受者，for表示预定的接受者。这里的for常有“替”的意思。例如：
+They gave the first prize to him.
+I bought a new hat for her. (=I bought her a new hat.)
+2在“He bought a new fan for the office”这样的句子中，for之后的“预定接受者”不是人或动物，不能把此句改成“He bought the office a new fan”。
+F“为……”、“替……”
+　　表示“服务”的对象，例如：
+They gave their lives for their country.
+What can I do for you?
+G“（有益、有损）于……”、“（适合、不适合）于……”
+　　表示有利或不利于某一对象，例如：
+I am telling you this for your good.
+This holiday has been good for you.
+The place is fit for a walk.
+H“对于……”
+　　表示行为或感情的对象，例如：
+He has a taste for art.
+For some time now I have realized that the friendship and affection I have always had for her had turned to love.
+We felt deeply sorry for him in his great trouble.
+Note:
+　　在表示“关怀”、“悲怨”、“懊悔”等词之后皆可接for，说明流露感情的对象，如concern for, anxious for, solicitude for, fear for, grieve for, mourn for, regard for等。表示“为某事而悲愁（懊悔、关切）”时，则可以用at或over, at说明刺激感情的“因素”，over表示感情的“关联”。试比较：
+She grieved for her wayward son.
+She grieved at her son's waywardness.
+She is mourning for her son.
+She is mourning over her son's death.
+I“赞成……”、“拥护……”
+例如：
+I am all for anything that will make our work easier.
+I'll vote for Labour.
+Note:
+　　表示赞成的for与against相对应。 例如：
+How many are for the motion? How many are against it?
+J“因为……”、“由于……”
+例如：
+He went away for fear of disturbing you.
+Note:
+1当for表示“烦恼”、“困苦”的原因时，常相当于for want of。例如：
+I am rather pressed for time today.
+I found him to be distressed for a little money.
+2.for 有时还含有“为了纪念……”的意思，例如：
+This rare plant was named for a former governor of India.
+3.for在虚拟条件句if it were not for中表示“若不是因为……”，例如：
+If it were not for the generosity of his father he would be pretty badly off.
+4.for表示原因时，主要见于否定句或半否定句。在肯定句中，通常表示“奖赏”或“处罚”的原因。 例如：
+I shall reward him for his service.
+The motorist was fined for careless driving.
+5.for可以表示心理上的原因或动机，主要见于某些短语。如：for fear/love/want (of) /joy/sorrow等。例如：
+He trembled for fear.
+He danced for joy.
+K“结果……”
+　　表示结果，例如：
+We have had all our trouble for nothing.
+He is always looking for something for nothing.
+L“虽然……”、“尽管……”
+　　表示让步，例如：
+For all his efforts, he didn't succeed.
+Note:
+　　表示“让步”时，通常见于“for all…”的结构，但在下面的句子里，for也含有让步的意思。例如：
+I love him none the less for his faults.
+M“代……”、“替……”、“代替……”
+　　表示代表、代替，例如：
+I can only give my opinion, I cannot speak for others.
+我只能给出我的看法，我不能代表别人的意见。
+"Do" is a substitute for practically any verb of action.
+“Do”这个词实际上可以代替任何行为动词。
+N“换……”
+　　表示交换，例如：
+I don't like the book that I borrowed; will you please change it for another one?
+I'll give my watch for your camera.
+Note:
+　　an eye for an eye（以眼还眼），a tooth for a tooth（以牙还牙）， word for word（逐字）等短语里的for也可以算是“交换”的引申。例如：
+When you are translating from one language into another, you can not translate word for word.
+O“以……价钱”
+例如：
+I paid ￡ 50 for the picture.
+He will buy it for ￡ 20,000。
+They are asking ￡ 3,800, but we might get it for ￡ 3,600 or￡ 3,650.
+Note:
+1用for表示“以……价钱”、“作为……的代价”时，都是表示“交换”的引申。表示“以……价钱”时，for 之后接的是具体价钱，表示“作为……的代价”时，for之后接的是具体的事物。试比较：
+I gave a hundred dollars for my bicycle.
+Will you sell it to me for one hundred dollar?
+2在下列句中的for表示票面的价值。
+She wrote a cheque for ￡ 20.
+3注意用at和for表示“价格”时的区别：
+I bought it for ￡ 5.(that was what I paid)
+I bought it at ￡5.(that was what it cost then, but it may be different now.)
+P“当作……”，“作为……”
+例如：
+How do you know him for a spy?
+Note:
+1.for之后可以接形容词说明某种状态，这时的for 等于as being。
+I shall be there for certain (as being certain).
+All his friends gave him up for dead.
+2.for example, for instance, for one等短语里的for也含有“作为……”的意思。
+Many great men have risen from poverty, Lincoln and Edison, for example.
+I, for one, shall vote against the proposal.
+Q“每……”、“与……相比”
+　　表示比率，比例。例如：
+For every mistake you make you'll lose half a mark.
+They have built one house for every two they have demolished.
+Note:
+　　for表示比率、比例时，其后通常接each,every或某些数词，有时接“every+数词”。
+R“就……而言”、“至于……”
+例如：
+William is big for his age.
+It is very warm for October.
+Note:
+1..As for常被用作复合介词表示“至于”、“就……而言”。
+As for myself, I am satisfied　　就我而言，我已经满意了。
+2在enough, too, rather之后用for时，分别含有“肯定”、“否定”或“怀疑”的意义。例如：
+The book is difficult enough for students.
+I thought you were too old for dolls, Margaret.
+The footprints are rather large for a boy of 12.
+S“计……”
+　　表示时间、距离的长度
+1）表示时间的长度。
+例如：
+We will leave our car here for the time being, and then find somewhere to park it for the night.
+I shall be here for at least another year.
+Note:
+1表示时间长度的for常常可以省略，特别是紧接在动词之后时，例如：
+We stayed (for) three days.
+I have been there (for) a week.
+2.for之后接有all时，for必须省略。例如：
+I was there all the time.
+3当for用于句首或用在否定词之后时，一般不能省略。例如：
+For a year we waited to hear what had happened to him.
+I haven't seen him for several years.
+2）表示距离的长度。
+例如：
+For miles and miles you see nothing but trees.
+We walked (for) a short distance and parted.
+T“第……（次）”
+表示次第, for+序数词+time，例如：
+He failed for the third time.
+For the last time, will you please take that boy out of the shop?
+Note:
+　　短语for once含有“就这么一次”、“第一次”等意思，主要用于口语，常带有讽刺的意味。例如：
+For once he was telling the truth.
+U“在……时候”
+例如：
+Many people no longer wear black for funerals.
+The churches all hold special services for Christmas and Easter.
+V“在……”
+　　表示约定的时间，例如：
+In this case it is necessary to cancel the party planned for February 12th.
+The meeting is arranged for seven o'clock.
+　　表示不定式的逻辑主语，例如：
+For the son of a working man to go to university (that the son of a working man should go to university) was something undreamed of in those days（主语）
+In country districts it was no uncommon thing for children to walk two or three miles to school each day (=if children should walk two or three miles to school each day)（同位语）
+It must be nearly the time for the match to start（定语）
+In that company you had only to mention football for a heated argument to start（状语）
+Note:
+在下列句中，for不但引导了不定式的逻辑主语，还含有“义务”、“权力”的意思。例如：
+It is for you to make a move.
+Whether he shall be allowed to return to school is for the headmaster to decide.
+　
+from
+　　from可以表示地点、时间、数字、次序、地位等的“起始点”，还可以表示“观察点”、“来源”、“原料”、“情况的转变”、“根据”、“原因、动机”、“脱离、离开”、“免除、阻止”、“区别、对照”等。
+A“从……”
+　　表示出发地点，例如：
+We set sail from Liverpool.
+The musicians travelled from London to .
+Note:
+1下列句中的from引申表示某种动作发生的起点。
+She took fever but continued her work from her bed.
+The sun came out from behind the cloud.
+2.from还可以引申表示“依附”点。例如：
+A lamp hung from the ceiling.
+3在下列“from…to…”词组中的from表示某种范围的起点，to表示终点。注意在起点、终点的名词之前都不带冠词。
+He read that book from beginning to end in an hour.
+The town is being searched from top to bottom.
+4“From house to house”,“from place to place”这类短语含有“from one to the next”、“through a whole series”的意思。例如：
+They went from house to house making inquiries, but could find no trace of the lost dog.
+B“从……”、“从……开始”
+　　表示时间的起点（showing a starting point in time），例如：
+From Sunday next railway fares will be increased by five percent.
+The bank will be open from eight o'clock .
+Note:
+1表示时间时，“from…to…”常可以写成“from……till”。 例如：
+From early morning to /till(until) late at night she never rested.
+We stayed there from June to / till September.
+2.from May to November的意思是“from May up to end including November”为了清楚表明这一点，可以采用美国的表达方法：from May through November。用up to时，to之后的时间单位就不包括在内。试比较：
+We worked up to Christmas (i.e. but not over Christmas).
+We worked there from June through December.
+3注意from time to time, from day to day等短语的意思。
+You have given us from time to time (now and then) a "rule" of grammar.
+He grew thinner from day to day.
+C“从……”、“从……起”
+　　表示数字、次序、地位等的起点，例如：
+Count from 1 to 20.
+D“从……”
+　　表示观察点，例如：
+He was looking at me from over the top of a newspaper.
+From where we stood we got an excellent view of the procession.
+Note:
+　　表示“观察点”时，from之后不一定接“实际的地点”，有时可以接抽象的“观点”、“地位”等。例如：
+From the workmen's point of view the proposals are unacceptable.
+From his position on(upon) the board, he is able to glean a good deal of information.
+E“从……来”、“从……”
+　　表示来源，例如：
+Many English words are derived from Latin.
+He gets his good looks from his mother.
+Note:
+1.from表示来源。to与from相对，表示目标。试比较：
+I borrowed the book from Bill.
+Bill lent the book to me.
+2.of也可以表示来源，但主要用于表示“出身”及一些固定的词组。试比较：
+Where do you come from?
+He comes of a good family.
+I hear from her every week.
+I hadn't heard of her husband's death when I met her.
+3在一些句中，from与of可以互相替用。例如：
+He borrowed some money from / of a friend.
+You must not expect too much of / from me.
+F“用……（制造的）”
+　　表示原料，例如：
+Beer is brewed from barley.
+Coke is formed from coal in exactly the same way as the charcoal is made from wood.
+Note:
+1当制成品失去了原材料的性质，即发生化学变化时，用from表示“原料”。如果制成品仍保留着原材料的性质，从材料到成品之间只发生物理变化，则用of表示“材料”。试比较：
+Steel is made from iron.
+The bridge is made of steel.
+2在不能断定材料与成品之间的变化到底是物理或化学变化时，用from或of均可。例如：
+Bread is made of /from flour, water and yeast.
+What is butter made of /from?
+3当我们把“材料”作为句子的主语时，则用into表示“制成品”，这里的into表示变化的“结果”。试比较：
+Wine is made from grapes.
+Grapes is made into wine.
+4在be made with中，with表示制成品的一种成分，在be made (out) of中, out of 或of表示整个成品的材料。试比较：
+A fruit cake is made with fruit.
+A glass jug is made (out) of glass.
+G“由……（变成）……”
+　　表示情况的转变，例如：
+The wind has changed from north to east.
+Her behaviour is from bad to worse.
+H“从……”、“根据……（判断）”
+　　表示根据，例如：
+I thought from his accent that he must be a foreigner.
+He repeated that speech, word by word from memory.
+Note:
+　　from表示某种推论的根据、凭据，即进行推理、判断的基础，而by则表示行为（或推论）的方式、手段。试比较：
+When I advise you to do this I am speaking from experience（from表示结论的根据）
+We can learn wisdom by experience（by表示行为的方式）
+They extract experience from practice（from表示来源）
+I“由于……”、“出于……”
+　　表示原因、动机，例如：
+Some of the men suffered from snow blindness.
+I felt fatigued from having sat up all night.
+Note:
+1表示心理上的原因（动机）时，通常用out of 或from，有时也用for，但主要见于某些短语。
+2.because of, on account of只能表示非心理性的原因，不能表示动机。on account of比because of 正规，主要用于正式文体。例如：
+Because of the drought, the price of bread was high that year.
+Richard and Ben, on account of their wide experience in climbing, were voted leaders of the expedition.
+J“离开……”、“与……（隔离）”
+　　表示脱离、离开，例如：
+I am going away from home for about three weeks.
+The American houses have no fences separating them from the pavement or from each other.
+Note:
+1.from表示“分离”，与表示“依附”的to相对应。
+例如：
+We must not depart from our original plan.
+We must adhere to (stick to) the original plan.
+2表示“分离”、“离开”时，from之前常加用副词away以加强语气。
+例如：
+Take the knife (away) from the baby.
+3下列句中的apart是副词，from表示“分离”，但在许多情况下，apart from的作用相当于一个复合介词，意思是“除……之外”。例如：
+It's hard for a child to be kept apart from its mother.
+4.from有时由“离开”引申表示“避开”、“隐蔽”、“不在”、“缺席”等意思。例如：
+She can keep nothing from her friends.
+He called to see me during my absence from here.
+K表示免除、阻止等
+例如：
+The officer was dismissed from the service for neglect of duty.
+Nothing can hinder me from doing my duty.
+L表示区别、对照
+例如：
+I don't trouble much about clothes and I couldn't tell nylon from cotton, or a well-cut suit from a badly cut one.
+You must be able to distinguish right from wrong.
+　
+granted
+　　动词grant含有“（姑且）承认”的意思。它的过去分词（granted）在句中所起的作用很象介词，实际上已经被当作介词来使用，在争辩的时候，用于对“未经证明的事实”等表示“姑且的让步”，可以译为“姑且认为”、“假定”、“就算”、“即使”。例如：
+Granted that he has enough money to buy the house, it doesn't mean he's going to do so.
+Granted that he was drunk, that is no excuse for his conduct.
+Note:
+　　Grant的现在分词（granting）也可以表达同样的意思。例如：
+Granting that your statement is true, how does it answer my question?
+　
+in
+　　in可表示“在……里面”、“朝……（方向）”、“通过……向里”、“进入到……中”、“处在……（状态）中”。“由于……”、“为了……”、“在……（范围）内”、“在……方面”、“在……（内容）里”、“在……（素质）里”、“在……任职（服务）”、“从事于……”、“经营……”、“穿着（戴着）……”、“以……方式”、“达到……（程度、数量）”、“每……”、“用……（质料）”、“以……（颜色）”、“用……作为述意的媒介”、“在……期间”、“在……以后”等。
+A“在……里”
+　　表示地点、场所、部位，例如：
+He lived in a pretty cottage in England.
+I have a pain in my chest, sometimes, when I breathe.
+Note:
+1.in表示在某一平面或立体空间范围内，on(upon)表示在某一平面之上（有接触）。试比较：
+There was a nail in the wall.
+There were smears of blood on the wall.
+2与地名连用时，一般来说at之后接小的地方（如村、镇等），in之后接大的地方（如市、县、省、国家、州等）或者说话的人认为重要的地方。
+3在下列句中，in含有“抓着”、“含着”等意思。
+I took my last bit of courage in both hands.
+He had a cigarette in his mouth.
+4在海里或海域里用in，在海上用on(upon)。试比较：
+They went swimming in the sea.
+A liner was sailing on the sea.
+5在表示“在街上”时，英国用in the street，美国则用on the street。试比较：
+He is trying to buy a cafe in / on(upon) the High street.
+Houses stood on the street（这里的on表示与“线”的接触）
+6.in bed指“卧床”、“躺在床上”，on the bed泛指“在床上”，身上不盖东西，试比较：
+He was lying in bed.
+He was sitting on the bed.
+7坐在扶手椅上用in the armchair，坐在没有扶手的椅上则用on(upon) the chair, in the desk属于类似的用法。
+We sat down in armchairs in front of the fire.
+I sat on a chair without arms.
+8.in front of 的意思是“在……前面”，in the front of则是“在……前部”。试比较：
+There is a smooth lawn in front of the house with beds of roses in it.
+Those are sleeping-cars in the front of the train.
+B“朝……（方向）”
+　　表示方向，例如：
+The aircraft was flying in a northerly direction.
+They were running in every direction.
+C“通过……向里”
+　　口语用法，例如：
+He came in the door.
+He is going in the front door of the building.
+D“进入到……中”
+例如：
+She put the money in her purse.
+He threw her letter in the fire.
+Note:
+　　表示由外向里的动作时，in和into常可以互相替用，注意下列句子里into和in的区别。
+Run into the house.
+Don't run (when you are) in the house.
+E“（处）在……中”
+　　表示环境、状态，例如：
+I can see the frosty light of stars in the dark blue sky.
+You could smell the spring in the air.
+You should consider yourself in luck to get such an opportunity.
+The house is in good state of repair.
+Note:
+1.in之后可以加定冠词，再加某些形容词，表示状态，这时候这个形容词实际已经名词化了。例如：
+In these pictures we could see life in the raw among those wild tribes.
+They swam in the nude (=in the raw).
+2.in之后加冠词，再加名词化的动词，也表示状态。例如：
+He is in the know.
+F“由于……”、“为了……”
+　　表示原因，例如：
+The child screamed in terror.
+I'm in a slightly awkward position, in that he's not arriving until the 10th.
+G“在……之内”，“在……方面”
+　　表示领域，范围，例如：
+They are like each other in some respects.
+It is not in (within) my power to do what you ask.
+H注意下列由in引导的短语的意思。
+There wasn't a house of any sort in (=within) sight.
+周围什麽房子也看不到。
+Always do what is right in your own sight.
+只要你认为是对的，你就要去做。
+The sun was shining in our faces.
+太阳正照耀在我们脸上。
+They will laugh at you in your face.
+他们会当面笑你。
+Have you any man in mind?
+你有意中人吗？
+In my mind (=in my opinion) he is a rare scholar.
+我认为他是个难得的学者。
+I still have some money in hand.
+我手头还有些钱。
+I have left the matter in my lawyer's hands.
+我已把这件事交由我的律师处理。
+She carried a child in her arms.
+她手里抱着个孩子。
+The people are up in arms.
+人民揭竿而起。
+I“在 …里”
+　　表示文字或口头谈话的内容，例如：
+"What's on at the pictures?" "It should be in the local paper."
+　　表示人的性格和品质，例如：
+He has in him the makings of a great man.
+She has very much of the diplomatists in her.
+Note:
+1.in有时也表示“某物的品质”。
+There is no flavour in these apples.
+2有时在in所引起的短语之后再加不定式短语（句子的真正主语）。
+It is in God to command success.
+It is not in gold to be oxidized.
+3.in itself表示事物的固有性质，相当于in its own nature.
+The dictionary is a library in itself.
+A thing good in itself may become bad by its use.
+J“在……任职（服务）”
+　　表示成员，例如：
+His eldest son is in the army.
+He holds quite an important post in the civil service.
+Note:
+　　表示某个组织机构的成员时，有时用on，例如：in the parliament / cabinet, on the Town Council / a committee / a board of director。
+K“从事于……”、“经营……”
+　　表示活动、职业，例如：
+She had one uncle in the medical profession and another in the church.
+He is no longer in business / in politics / in the law.
+Note:
+1.in之后接具体的物品时，表示经营该物品。例如：
+He's in plastics / furniture.
+2.in与某些单位名称（如hospital, school等）连用时，表示接受该机构的服务。比较下面两组句子:
+Goerge is in hospital with a broken leg.
+Goerge works at the hospital.
+The boy is still in school.
+We shall keep him at school for another year.
+L“穿着……”、“戴着……”
+　　表示穿着，例如：
+While we were talking, a scholarly-looking man in cap walked past and smiled at John.
+M“以……”、“按照……”
+　　表示行为的方式，例如：
+He looked at me in a puzzled way.
+The house is built in modern style.
+Note:
+1我们可以说cut in two，也可以说cut into two。这里的in表示行为的方式，into表示行为的结果。但in之后只能接单数名词，into之后必须接复数名词。例如：
+He cut the cake in two (=into two).
+Cut it into two exact halves.
+2用in引导的方式状语、常相当于一个表示方式的副词。例如：
+He doesn't like to speak in public.
+3.in之后可以接某些形容词，表示行为方式、形式。例如：
+In brief, he was so furious that he killed his friend.
+Write it out in full.
+N“以……”，“在……上”
+　　表示程度、数量，例如：
+He has been generous in the extreme.
+They were slain in great number.
+O“每……”
+　　表示比例关系，例如：
+There are 8 pints in a gallon.
+P“以……”、“用……”
+　　表示原料、颜色，例如：
+We have furniture of this design in oak.
+I like the pattern, but I should prefer it in green instead of red.
+Q“用……”
+　　表示所用的表达方法、媒介、手段、物质等，例如：
+Can you write in German?
+Do this exercise in ink.
+Note:
+in与with的详细区别见with条。
+R“在……期间”
+　　表示时间，例如：
+I have never been to a doctor in my life.
+Note:
+1表示一段时间用in，但若表示在某一天的一段时间则要用on。（详见at条）试比较：
+I will come to your help in the morning.
+We arranged to meet on the morning of June 20th.
+2注意下列“in the night on …”以及“on the night of …”的用法。
+I returned at 11 o'clock in the night on the 8th (=on the night of the 8th).
+3.in之后接动名词短语时，常含有when的意思，有时相当于一个时间状语从句，有时相当于一个定语从句。例如：
+In saying this (=When I say this), I do not imply any criticism of your conduct of the affair.
+My purpose in writing to you (=for which I am writing to you) is to ask your advice.
+4.in之后接动名词时，可以表示完成某一行为所需要的时间。例如：
+Good things are a long time in coming.
+The temple was forty-six years in building.
+S“在……以后”
+　　表示时间，例如：
+She will meet us in two hours.
+He said he would come again in a few days.
+Note:
+1.in表示从“现在”开始，“经过若干时间以后”，因此动词必须用将来时态。如果动词是过去时态，则用after短语修饰。试比较：
+He will be here in a few days.
+He died after a few days.
+2表示“从现在开始，经过若干时间后”时，常在时间长度之后加“time”，以加强语气。例如：
+I cannot see you now; come back in an hour's time.
+3.in可以表示“在……期间”，也可以表示“在……以后”，试比较：
+He will come several times in a year.
+He will come again in a year.
+4.in表示“在……期间”时，可以指“在整个……期间”，也可以指“在…期间以内”。当in指“在……期间以内”时，可以与within替用，但within比in正规。例如：
+Do you think you shall see him within / in the next three days.
+　
+in addition to
+　　in addition to是复合介词，意思是“除……之外（还）”，相当于as well as。
+We saw a Mickey Mouse cartoon in addition to the cowboy movie.
+Note:
+　　在下面句中的in addition to并不是复合介词，它的意思是“对……的补充”。
+This is in addition to what I wrote yesterday.
+　
+including
+　　including原是动词include的现在分词，在句中常起着介词的作用，因此已逐渐被确认为介词，意思是“其中包括”、“连……也算在内”，“包括……在内”。例如：
+A new car of this kind costs ￡700, including purchase tax.
+Note:
+1.including所构成的介词短语常置于句末，并有逗号与句子其他部分隔开。但有时也可以置于句首或句中，同样也用逗号与句子的其他部分断开。例如：
+Including the children, there were twelve people in the house.
+Six people, including three women, were invited.
+2.including之前加not，表示“假设性的否定”，相当于excluding，其含义是“如果不把……算在内的话”。例如：
+There were ten present, not including myself.
+　
+inside
+　　inside含有“在……里面”、“不超过……”等意思, 与outside相对，用于指空间位置。例如：
+He has never been inside the church.
+Note:
+1表示“不超过”这个概念时，within比inside更常用。
+Within / Inside a year, all was changed.
+2.inside of是复合介词，意思等于inside，但一般用于非正式场合。在美国英语里inside of则被用来代替inside。例如：
+He answered inside (of ) an hour.
+　
+instead of
+　　instead of是复合介词，其中instead是副词。instead of有时可以写成in stead of， 但instead of更常用。instead of的意思是“代替”、“而不（是）”。
+A“代替”
+例如：
+Will you go to the party instead of me, so that our host won't be too offended?
+You may use milk instead of cream in this soup.
+B“而不（是）”
+例如：
+Instead of improving the patient is getting worse.
+Note:
+1当instead of的意思是“代替”时，可以与in place of替用，但如果instead of用作“而不是”时，一般不能与in place of 替用。试比较：
+The Vice-president talked at the meeting in place of (=instead of) the president, because the president was sick.
+He sent his helper instead of coming himself.
+2当instead of的意思是“代替”时，它后面所接的是名词或代词。如果instead of的意思为“而不（是）”时，它不但可以接名词、代词，还可以接介词短语、动名词等。instead of 这时带有明显的否定意义，因此译成汉语时常用“（是）……而不（是）……”或“不（是）……而（是）……”的结构。
+He came by plane instead of by train（介词短语）
+If he had gone on instead of going back the whole course of English history might have been changed（动名词）
+　
+into
+A“到……中去”、“到……里面”
+　　into表示to和in两者意义上的结合，即既表示动作的方向又表示后来进入某一地点，可译为“到……中去”、“到……里面”等。例如：
+He walked into the room in which we were sitting.
+I rang the bell and was shown into the waiting room.
+Note:
+1.in与表示“运动”或“动作”的动词连用时，常强调动作结束后的状态，而into则强调整个动作的过程。试比较：
+He put the money in his pocket.
+He put the money into his pocket.
+2.into虽然表示to和in两者意思上的结合，但in和to作为两个词就不一定如此。试比较下面例句中into和in to的不同含义。
+He came into the room with his wife and they went in to dinner together.
+B“朝……内”、“向……内”
+　　into还表示towards和in两者意义上的结合，译为“朝……内”、“向……内”。 例如：
+He saw a figure hanging over the parapet and gazing into the river.
+C“进入……状态”
+　　into可以由“进入……里面”引申为或其他种种比喻用法。例如：
+He is always getting into trouble.
+She burst into tears.
+D“进到……”
+　　into用于表示时间的意义时，含有“进到……”的意思，并常与far, late之类含有强调意义的词连用，表示时间的持久。例如：
+They sat talking far into the night.
+It lasted well into this century.
+Note:
+　　在into之前有时可以加具体的时间，表示延续的长度。例如：
+We're 8 minutes into the second half.
+E表示转化的结果
+例如：
+He changed his Swiss francs into English pounds.
+She developed into a beautiful woman.
+F.into之后接数词
+　　into之后可以接数词，表示被除数，除数则置于into之前。例如：
+4 into 16 is 4.
+Note:
+　　into偶尔还有“乘”的意思。例如：
+7 into 9 is 63.
+G“对……感兴趣”
+　　into在俚语里含有“对……感兴趣”，相当于keen on。例如：
+He's given up photography now and he's into religion and modern music.
+　
+less
+　　less一般用作形容词、副词或名词，意思是“更（较）少”、“更（较）小”。但当less用作介词时，则含有“但其中要扣除（减去）……”的意思。例如：
+She gave me 100 pounds, less 5 pounds for her own costs (=she gave me 95 pounds).
+Note:
+1介词less有时可以译为“还差……”。
+The time cycle is a year less three days.
+2与介词less相对应的反义词是plus而不是more。请比较：
+Eight hundred pounds, less commission at 2.5 percent.
+Fifteen pounds a week plus commission.
+　
+like
+　　like原来不是介词，而是形容词或副词，后接to或as，意思是“象……一样”、“如……一样”，如：
+The structure of the language (Turkish) is very like to the Latin.
+但现在to和as都省略了，因此like实际上已经起着介词的作用。具体用法如下：
+A“象……”
+　　表示“方式”、“方法”的相同、相似（与行为动词连用）。例如：
+I can't speak Spanish like you (= as you do).
+He roared like a bull.
+B“如……”
+　　表示“程度”的相同、相似（与形容词或副词连用）。例如：
+He is brave like anything.
+Note:
+1在上述两种用法里，常可以看到like anything, like hell之类的固定词组，用于加强语气，含有very violently, very much so等意思，即“猛烈地”、“使劲地”等，主要用于口语。例如：
+He ran like hell(=very fast).
+He was working like the devil (=very hard).
+2因为like含有“象”的意义，所以常用来比喻某种行为，形成了一些固定的成语。例如：
+He drinks like a fish.
+He smoked like a chimney.
+3介词like之后一般是接名词或代词，但在口语中有时可以接形容词，如like crazy（发狂似地）。例如：
+They dashed down the road like mad (= as though they were mad).
+When the car's painted it will look like new.
+C“象……一样”
+　　表示“性质、性格、形状、外貌”的相同、相似（与系动词连用）。例如：
+The child is like its mother in looks.
+There is no place like home.
+Note:
+1有些不定代词与like连用，含有特定的意思。如nobody /nothing like（没有可以比得上……的人<或物>）；something like（大约、将近；好极、妙极）。例如：
+There is nothing like trying (=as good as trying).
+It'll cost something like (=about) ￡ 100.
+Three months' holiday a year? That's something like (=excellent)!
+2. Like用于表示比喻，as则表示“以……身分（资格）”。请比较：
+Let me speak to you as a father (=I am your father and I am speaking in that character).
+Let me speak to you like a father (=I am not your father but I am speaking in the way your father might).
+3.like之后的接一代词时，常表示“某人的特征”，相当于typical of。例如：
+It was just like him to say that.
+4有时like被用作for example的意思，但这种用法不算正规。例如：
+There are several people interested, like Mr Johns and Dr Simpson.
+5.look like含义视后接宾语的性质而有所差异：
+(a) （后接名词）看起来象：
+It looks like gold.
+(b)（后接动名词或可作动词用的名词）看来好象要，看来好象会：
+It looks like rain (=as if it will rain).
+The weather does not look like clearing up (=as if it will clear up).
+　
+minus
+A“减去”
+　　minus主要用于数学，意思是“减去”。例如：
+Seven minus four equals (or is, gives) three.
+15 minus 10 leaves 5。
+Note:
+　　在数学上表示“加”、“减”分别用plus和minus。但如果plus的意思是“增加”、“外加”时，它的反义词是less而不是minus。
+B“失去”
+　　在口语中，有时用minus 来表示“没有”“失去”等意思。这种用法常含有“幽默”或“玩笑”的意味。例如：
+He won the fight, but when it ended he was minus 2 front teeth.
+I found the purse minus its contents.
+　
+near
+　　near的意思是“在……附近”、“靠近……”。
+A表示“空间”的“接近”、“靠近”
+例如：
+The only disadvantage is that there is no railway or road near it.
+The small child was afraid to go near the dog.
+Note:
+　　在否定句中near与地点名词连用，常含有“没有去”，“没有走近”的意思。
+She has not been near her family for over a year (=She has not visited her family for over a year).
+He never goes near a public house (=He never enters one).
+B表示时间的“接近”、“靠近”
+例如：
+It must be getting near dinner-time.
+C表示其它种种状态的“接近”、“靠近”
+例如：
+You are getting near the end of your year's work now.
+Hope comes near fulfillment.
+D表示“性质”的“接近”、“靠近”
+　　在这种用法里，near通常与不定副词连用，near之后所接的是形容词（或过去分词）（这里的near也可以理解为副词）。例如：
+Your answer is somewhere near right.
+The work is nowhere near finished yet.
+E表示“靠近”某种行为
+　　在这种用法里，常用come（或go）near的结构，near之后接动名词（短语），含有“几乎”、“差一点儿”的意思。例如：
+This act came near spoiling his chance.
+I came near being (=was nearly) drowned in attempting to cross the river.
+Note:
+　　near原是形容词或副词，要表示“接近”、“靠近”某事物时，须与介词to连用，后来to省略，near也就承担了介词的作用。但介词near毕竟还保留有形容词或副词的特征，它可以有比较级nearer和最高级nearest（如Call me again nearer <to> the time of the meeting），甚至还可以为另一个副词（如very, quite等）所修饰。在现代英语里，near之后接to与否，并无定则。一般倾向于：
+1当near表示空间位置时，不接to。如：
+Mr Thompson lives near me.
+2当near表示时间位置时，接to。如：
+It's getting near to Easter.
+3当near表示趋近过程时，接to。如：
+As we got near to London the traffic grew denser.
+　
+nearby
+　　nearby这个词本来只用作形容词或副词，但在现代英语里，已经开始被用作介词，意思相当于near by。例如：
+They built a pumping station nearby the bridge.
+　
+　
+next to
+　　next to可以表示“紧接在……的旁边”、“紧接着……”、“仅次于……”的意思。
+A“紧接在……的旁边”
+　　next to是复合介词，意思是“紧接在……的旁边”，用于指“空间”位置。例如：
+Henry is sitting near the window, next to John.
+He is in the shop next to the corner.
+B“紧接着”、“仅次于”
+　　next to可以引申表示“顺序”、“程度”等的连接。例如：
+The Lord Mayer came first, and next to him the Town Clerk.
+Which is the town next to London in size?
+C“讨好某人”
+　　短语 next to somebody含有“接近某人”，“讨好某人”的意思，但这种用法不算正规。例如：
+I could never get next to him to find out what he was really like.
+She concentrates on getting next to the rich people.
+　
+notwithstanding
+　　notwithstanding的意思是“不管”、“不顾”、“尽管”、“虽然”，用于表示让步。例如：
+We started notwithstanding the rain (=We started though it was raining).
+Notwithstanding the long delay, I shall still go.
+Note:
+1介词notwithstanding有时也可以放在它自己的宾语之后。如下面两句同义：
+He insisted on going to the football match, notwithstanding his doctor's advice to the contrary.
+He insisted on going to the football match, his doctor's advice to the contrary notwithstanding.
+2.notwithstanding也可以用作副词和连词。例如：
+He persisted, threats notwithstanding he had lived there a long time.
+3.in spite of, despite, notwithstanding这三个介词都是表示“让步”，其中in spite of语气最强，despite次之，notwithstanding最弱。
+　
+of
+　　英语冠词和介词是英语词类中使用频率最高的两大词类，而介词当中又以of的使用率为最高。介词of的基本意思是“……的”，主要用于说明词与词之间所存在的种种逻辑关系，如形容关系、同位关系、动宾关系、主表关系、主动关系、动状关系等。
+A形容关系
+A)表示“所有”、“所属”，例如：
+He has no house of his own.
+I know the tune of the song, but I don't know the words.
+Note:
+1我们可以用of表示“所有”、“所属”关系，也可以用名词的所有格（即在名词的词尾+'s）表示这种关系。如果这个名词是有生命的（人或动物），那么两种方法都可以使用，只是用of时，突出了“所有者”，用名词所有格时，则突出“所有物”。试比较：
+He was familiar with the works of Shakespeare.
+Shakespeare's works include plays and poems.
+2如果这个名词太长，特别是本身也带有定语时，为了平衡的关系，一般用of结构，而不用名词所有格，如：
+The person you mentioned will be the father of the person with the same name, is that right?
+3如果“所有者”是无生命的东西，它的所有关系一般用of表示。但有些东西虽然没有生命，我们可以采用拟人的手法，如the ship's company（全体船员），the country's good（国家的利益），the ocean's roar（海啸），the sun's rays （太阳光线）等。此外，在报刊的标题上，为了节省篇幅，有时没有生命的东西也用名词所有格，并没有拟人的意味，如“London's Traffic（伦敦的交通）。
+4时间、距离、价值、重量等都是无生命的概念，在实际应用上，常用所有格表示它们的数量关系（这时已经不是所有关系）。如two weeks' leave of absence（两周的假），a hair's breath（一发之差），a dollar's worth （一美元之值），two pounds' weight（两磅的重量）等。
+5在某些固定的词组中，无生命的名词可以用所有格。如at his wit's end（不知所措），for form's sake (为了礼貌的缘故）。
+B)表示“属性”、“特征”
+of所组成的介词短语作定语用：
+This is a matter of great importance.
+of所组成的介词短语作表语用：
+Those articles are of no value to me.
+Note:
+1“of+抽象名词”常相当于一个形容词，用于表示人或事物的属性、特征，如a man of wisdom = a wise man, a man of property =a wealthy man, a lady of virtue = a virtuous lady, a girl of twenty years = a twenty-year-old girl, seven years of age = seven years old有时不易找到与之相对应的形容词，如a man of his word（言行一致的人），a man of character（品格高尚的人）。
+2在“of+抽象名词”结构中的of虽然也如同with那样常含有“having”的意思，但with之后接的是具体名词，其结构是“with+ 具体名词”，它是用于说明人或事物的形状，如：
+a coat with three pockets
+a book with green cover
+a man with white hair
+a soldier with a sword in his hand
+3“of+a+名词”常含有“共同”、“相同”的意思，用于表示不同事物的共同“性质”、“特征”。
+Birds of a feather flock together.
+These are two of a kind.
+4“of +a +形容词+名词”的结构常用来表示人的某种性格、性情、脾气、容貌等，有时也表示事物的某种特征。
+He is of an inquiring turn of mind.
+C)表示“内容”、“关连”
+It was a story of adventure and romance.
+Have you heard anything of Smith lately?
+Note:
+1“a picture of John”中的of表示“内容”，它说明图中“画的是John本人”，而“John's picture”，则可能含有两个意思：“John的画像”（相当于a picture of John），或“John画的像”（相当于a picture by John）。如果要说“这是John所有的许多画像中的一张”，则说“This is a picture of John's ”这时of所表示的是“部分关系”。
+2某些动词如“所”、“讲”、“知道”等之后常接of，表示这些行为的关连，这里的of译为“到”、“及”，如hear of（听到），speak of（讲到），tell of（谈及）。know of （知道点）。这些动词如果接about，所关连的程度则有明显的差别，think of用think about则有语意的差别。试比较：
+I know him我认识他。
+I know of him我听说过他。
+I know about him关于他的情况，我是了解的。
+3.hear, tell, inform, dream等动词之后如果接有宾语从句，of则省略掉。试比较：
+Has he been informed of his father's death yet?
+I informed him that he must start at twelve o'clock.
+4有些动词跟of结合形成了固定的词组，如approve of, take care of等，of之后的成分可以看成是这些动词词组的宾语。
+His mother approve of his match.
+The words admits of no other meaning.
+We make use of electricity every day.
+The early navigators disliked losing sight of land.
+5在数量、单位、群体、种类等名词之后接of的短语时，of表示组成这些单位、群体或种类的具体内容。
+Get me a piece of wood and a pot of paint.
+What kind of paper do you want?
+D)表示“数量”、“程度”（说明“部分关系”）
+Would you like a little more of this soup?
+He is not so much of a help as I thought he would be.
+Note:
+1在这种用法里，of说明了“部分”与“整体”之间的数量关系，表示“部分”的数量可大可小，小至零，大至全部。例如：
+There are faults from which none of us is free.
+All of us agreed on the question.
+2.of前的数词如果带有定冠词，这个数词表示的就是“全部”数量，如果不带冠词，则表示“其中的一部分”。试比较：
+Three of them were punished for disobeying orders.
+他们当中有三个人因为不服从命令受到惩罚。
+The three of them were punished for disobeying orders
+他们三个人因为不服从命令受到惩罚。
+3在all of之后一般接复数代词，接复数名词时，of可有可无。试比较：
+All of them swam across the river.
+All (of) the students swam across the river.
+4我们可以说“one of her friends”也可以说“a friend of hers”却不能说“a her friend”，因为不定冠词是不能与代词（或名词）的所有格连用的。例如：
+That seems to be one of his books.
+That seems to be a book of his (=a book of his books).
+5.of与独立所有格的连用，不但丰富了英语的表现形式，有时还有区别语义的作用。试比较：
+A portrait of the president.
+A portrait of the president's.
+6我们可以用最高级词+of的结构来表示“其中之最”。例如：
+This is the most difficult of the three.
+He walked the slowest (=the most slowly) of the three.
+7表示“其中之最”时，偶尔有这样的结构：“the bravest of the brave"（勇士中之勇士），“the fairest of the fair”（美人中之美人），有时名词也仿照这种结构，带上了最高级的意味，使意思表现得更有丰彩。例如：
+Her daughter is the bone of her bone, flesh of her flesh.
+她的女儿是她最亲的骨肉。
+Shakespeare is called the poet of poets.
+莎士比亚有“诗圣”之称。
+8“of all”这种短语结构与它前面名词的关系常常比较松懈，因此被用来作为句子的状语，含有“在……中”的意思。例如：
+She disappeared on her birthday of all days.
+Why ask me to help, of all people?
+9在口语中有时用“all of a …”的结构表示“一时的状态”。例如：
+The train stopped all of a sudden.
+He was all of a tremble (all of a sweat).
+10两个或两部分事物间的比较可以用than的结构，也可以用表示部分关系的of结构。例如：
+John is a better man than Henry.
+John is the better man of the two.
+11表示“程度”的of是由表示“数量”的of引申来的，它的结构常常是“不定代词+of+不可数名词”或“不定代词+of +a +可数名词”。例如：
+I have had much of your impudence, I don't want any more of it.
+She was nothing of a musician.
+B同位关系
+例如：
+He went no further than the city of Los Angeles.
+He became blind at the age of eleven.
+Note:
+1表示同位关系的of与表示内容的of（如a portrait of my mother）有些相近，但又有区别。表示同位关系的of常常用来表示国家、城市、山河、湖泊、岛屿、称号、姓名、年月、年龄等等的名称。
+2有时这些名称也可以不用of。试比较：
+We had a swim in the River Nile.
+River of blood flowed during the war.
+（这里的of表示“内容”，而不是表示“同位”）
+The mount of Olives橄榄山
+Mount Everest艾沃斯特山（即：珠峰）
+the lake of Constance康斯坦茨湖
+the West Lake西湖
+Cape Hern合恩角
+the Cape (of Good Hope)好望角
+C动宾关系
+A)动名词+of+逻辑宾语
+例如：
+The writing of that book took him ten years.
+I couldn't help thinking of my hard life before liberation when I heard the words.
+Note:
+这里的逻辑宾语系指动名词的逻辑宾语。
+B)动作名词+of+逻辑宾语
+例如：
+There has been some delay in the execution of my father's will.
+Note:
+这里的逻辑宾语系指动作名词的逻辑宾语。
+C)含有动词意味的名词+of +逻辑宾语
+例如：
+He went about in fear of his enemy.
+Note:
+这里的逻辑宾语系指of前的名词的逻辑宾语。
+D)行为者名词+ of +逻辑宾语
+例如：
+Who was the driver of the car when the accident happened?
+Note:
+　　象driver这样由及物动词形成的行为者名词与of之后的名词在逻辑上常常存在着动宾关系。
+E)make…+名词+of+逻辑宾语
+例如：
+The other boys made fun of him.
+Let us make an end of this foolish quarrel.
+Note:
+　　动词make常与一些带有动词意味的名词连用（这个名词有时带有不定冠词），再通过of引导出某种动作的逻辑宾语。
+F)情态形容词+of+逻辑宾语
+例如：
+You may always be sure of a welcome at my house.
+I am tired of your stupid conversation.
+Note:
+　　所谓的“情态形容词”是指形容人的“感情”或事物的“状态”的形容词。这些形容词之后有时可接宾语从句，而将of省略。常见的情态形容词有fond, proud, ashamed, aware, suspicious, hopeful, desirous, jealous, fearless, apprehensive, sick, patient, innocent, guilty, careful, worthy, lavish, economical, full, short, bare等。
+D主表关系
+A)形容词+of+逻辑主语
+例如：
+It is very kind of you to invite me.
+It Is very good of you to take so much trouble.
+Note:
+1当我们对某人的某种行为的性质进行评述的时候，常采用“It is+性质特征形容词+of+逻辑主语+不定式”这样的结构。这里的it是形式主语，真正主语是不定式。不定式所表示的行为常常可以从上下文理解出来，因此常可以省略不提。例如：
+It is very clever of you (to do so, to say so).
+2形式主语it有时为that所代替，在感叹句中则同时省略形式主语及连系动词。例如：
+That was so careless of you.
+How stupid of me.
+3与上述结构（It is+性质特征形容词+of+逻辑主语）相类似的是“真正主语+系动词+性质特征形容词+of+逻辑主语”，前者的逻辑主语指人，后者的逻辑主语指事物。例如：
+He is hard of hearing.
+The girl was lame of/in the left leg.
+B).make+a +名词+of+逻辑主语
+例如：
+He said he was going to make a singer of me, but I thought he was trying to make a fool of me as I knew I could never make a success of music.
+I occasionally have a glass of wine with my lunch, but I don't make a habit of it.
+Note:
+1在“make+a+名词+of+逻辑主语 ”结构中的逻辑主语是指make之后的名词（或代词）的逻辑主语。代替“I will make you a good teacher”这种说法，我们习惯上说“I will make a good teacher of you” 例如：
+2与上述结构相类似的是“make+a+名词+of +a+逻辑主语”，这里make之后的“a +名词+of”含有 "象……“的意味。例如：
+It is dangerous to make a friend of an enemy.
+C)a+名词+of+a+逻辑主语
+例如：
+They lived in a paradise of a house (=a paradise-like house).
+That is a fool of a person (=a foolish person).
+Note:
+1在“a+名词+of+a+逻辑主语”这种结构里，“a+名词+of”相当于一个形容词，用来表述逻辑主语的状态、特征，这里的of含有“象”的意思，因此这类短语常译为“象……”“如同……一般”，比如“a gem of a house”译为“象宝石一般的房子”。
+2如果要具体指明某一个人时，可用代词（或指示代词)代替名词前的不定冠词，如her angel of a daughter（她那天使般的女儿）。
+That brute of a husband beats her every day.
+3在俚语里有不少此类表达法，如a devil of a fellow, a hell of a day, a dickens of a time, 这里a devil, a hell, a dickens都有加强语气的作用，它们的具体意思须视上下文而定。例如：
+He has the devil of a time.
+他处于极端（困难、快乐、兴奋等）境地。
+That's a hell of a good car.
+那是一部极好的汽车。
+4这种结构是由表示“种类”转化而来的，试比较：
+What sort of a man is he?
+He is a saint of a man.
+E主动关系
+A)动作名词+of+逻辑主语
+例如：
+The resignation of the Prime Minister was hourly expected (The Prime Minister would resign).
+The library is demanding the return of the book. (The library demands the book be returned.)
+Note:
+1这里的逻辑主语指of前动作名词的逻辑主语，这个动作名词在意思上是不及物的，如果这个动作名词在意思上是及物的，那么of之后常接逻辑宾语。试比较：
+Do you need the services of a lawyer? （这里of表示“主动关系”）
+Pride was her destruction, for it caused the loss of all her friends.(这里of表示动宾关系）
+the shooting of the hunters
+2可以用名词（或代词）的所有格表示动作名词的逻辑主语，of短语表示动作名词的逻辑宾语。
+parents' love of their children
+the hunters' shooting of the animals
+F动状关系
+A)表示“脱离”、“解脱”、“剥脱”、“解除”等。例如：
+He cannot break himself of the bad habit.
+If you won't follow my advice, I shall wash my hands of the business.
+This medicine should cure you of your cold.
+He was relieved of his post.
+They knocked him down and robbed him of his watch.
+Note:
+1.of表示“脱离”，表示脱离的of与动词连用时，只限于几个特殊的动词。有时候同一个动词之后可以接from，也可以接of，但他们的用法有差别。of之后接被“解脱”的事物，from之后则接“脱离”的“处所”。试比较：
+She can't free herself of the idea that someone's watching her all the time.
+She freed the bird from its cage.
+2有些形容词也含有“脱离”的意思，它们通过of表示脱离的对象。例如：
+We are well quit of him.
+If you have a car you are independent of trains, trams, and buses.
+B)表示“距离”
+例如：
+The ship was wrecked within a mile of the coast.
+Note:
+1.of还可以表示时间的距离。
+He died within a few days of his ninetieth birthday.
+It lacks ten minutes of twelve.
+2英国英语说five minutes to four，美国英语则说five minutes of four（四点差五分），这里的of也是表示“离开”。
+It is a quarter of nine.
+C)表示“来源”
+例如：
+The invention is of German origin.
+Note:
+1表示“来源”的of常用来表示“出生”。
+2.of与表示“请求”、“探询”等动词连用时，表示“请求”、“探询”的对象。例如：
+I inquired of him what he wanted.
+He demands too high a price of me.
+3在表示“期待”、“获得”之类动词之后，of与from常可以替用。例如：
+What can you expect of (=from) me?
+Don't borrow money of (=from) a person at so much interest.
+4在come of 词组里，of也有表示“来源”的，译为“由……引起”、“是由于……的结果”，相当于develop from, arise from, result from等。例如：
+I don't know if any good will come of your action.
+The accident came of your carelessness.
+5有些表示“来源”的所有格形式不能用of的短语来替代，举例如下：
+the girl's story (=a story that the girl told)
+John's telegram (=a telegram from John, a telegram that John sent)
+6有些表示“描述”的所有格也不能用of短语替代。例如：
+a woman's college (=a college for women).
+a doctor's degree (=a doctoral degree)
+D)表示“原因”
+例如：
+I told him that only a man who was dying of hunger could eat such a breakfast.
+He died of acute pneumonia.
+Note:
+1“of one's own accord”, “of one's own choice”等短语含有“自愿”的意思，“of oneself”含有“自动”的意思。这些短语都是表示某种行为的“动机”、“动因”。例如：
+We signed up for the protest march of our own accord.
+She married him of her own choice.
+He did it of his own free will.
+It didn't happen of itself.
+I did not wake him; he woke up of himself.
+2与这种用法类似的是“of necessity”（不可避免地，必然）。例如：
+That discussion must of necessity be postponed for a while.
+E)表示“材料”
+例如：
+Concrete is made of cement, sand, stones and water.
+Furniture is made mainly of wood.
+Note:
+1除of之外，from, with等也可以表示“材料”。
+2在“make a man of him”这种结构中的of也可以理解为表示“材料”、“人材”。
+F)表示“成分”
+例如：
+Parliament consists of the House of Commons and the House of Lords.
+The chemistry teacher asked the pupils what water was composed of.
+Note:
+　　“A family of five”，“a committee of seven”之类短语中的of也是表示“成分”，这与表示“内容”的of很接近。
+G)表示“时间”
+例如：
+We usually go shopping of a Sunday (=on Sundays).
+What do you do of an evening (=in the evenings)?
+Note:
+1“of a Sunday”这种结构里虽然用不定冠词，表示的都是复数的意味，即表示“经常性的行为”，这里的“of”含有“during”（在……时候）的意思。
+2用of表示的时间短语还有of late（近来），of recent（近来），of late years （最近几年），of recent years （近年来），of old（从前，凭经验）等。例如：
+The days have been getting warmer of late.
+Knights of old had to wear armor in battle.
+H)表示“被动”
+例如：
+He is beloved of all.
+He was warned of the headmaster.
+Note:
+这里的“of”含有“by”的意思，但这是古英语的用法。
+　
+off
+　　off与on相对应，on表示“接触”，off则表示“离开”、“脱离”；on表示“处于”某种状态，off 则表示“脱离”某种状态。具体用法如下：
+A表示“离开”
+例如：
+Here's a train that has just come in, with crowds of people getting off it.
+It's so interesting that I can't take my eyes off it.
+B表示“脱落”
+例如：
+You might get hurt badly if you fell off that ladder.
+The cat knocked the flower-pot off the stand.
+C表示“除去”
+例如：
+It's very difficult to clean paint marks off the floor.
+Ten minutes later I was lying in a hot bath washing off the dusty reminders of the Continent.
+D表示（小路）“从大路上岔开”
+例如：
+Turn off the main road here and you will come to the lake.
+Elder Row runs off Newsome Street.
+E表示“沿岸”（离岸不远）
+例如：
+There was a ship in distress off the coast of Kent.
+The Doutelle escaped in the mist and made her way among the rocky islands off the west of Scotland.
+F表示“离题”
+例如：
+Half of what he said was off the subject.
+The student received low marks for his essay, as much of it was off the point.
+G表示“减价”
+例如：
+2.5 per cent off (=taken off the price) for ready cash.
+H表示“少于……”、“低于……”
+例如：
+It's a few minutes off five o'clock.
+We are a few miles off Workshop.
+She is two years off twenty.
+Note:
+　　表示地点或时间时，off的意思相当于before，而不是beyond。
+I表示“来源”、“依靠”
+例如：
+He lived off his sister.
+He made his living off the tourists.
+J表示“不吃”、“不喝”、“不抽”、“戒……”等
+例如：
+Bill's off drugs now.
+He has been off wine/ smoking /tea/ meat.
+K表示“讨厌”、“不喜欢”
+例如：
+I'm right off love stories for some reason.
+He's off playing tennis now.
+L注意下列词组、成语的意义。
+1）off duty（下班、不当班）
+We go on duty at 7:00 a.m. and come off duty at 5:30 p.m.
+2）off work（停工、中断工作）
+Let's knock off work early today.
+3）off colour（身体不舒服、气色不佳，精神不好）
+I am feeling off colour today.
+4）off guard （不提防、不警惕）。
+Timmy's question caught Jean off guard, and she told him the secret before she knew it.
+5）off hand（马上、立刻）
+I can't answer your question off hand (=immediately) without thinking more about it.
+6）off the map（远离人烟的，不重要的，不复存在的）
+That's a place off the map.
+7）off the record（秘密地、不许记录、不许发表的、不得引用的）
+The President gave his opinion to the newsmen off the record.
+8） off the beam （脱离航向的；错的、不对的）
+A radio signal tells the pilot of an airplane that his plane is off the beam.
+9）off the beaten track（偏僻的、不寻常的）
+We are looking for a vacation spot that is off the beaten track.
+10）off one's head （发狂的、神智失常的）
+He is off his head for pride.
+11) off one's feed (因不舒服而不想吃东西，心情忧郁）
+Jerry seemed to be off his feed; he did not joke and laugh with others.
+12）quick off the mark （聪明的、精灵的）
+She didn't understand what to do, she's not very quick off the mark .
+13）come off it（别说得天花乱坠、别吹；别假装；停止）
+Come off it, Ben, we know you married her for money.
+Now, you boys, come off it; haven't I told you not to tease the dog?
+14）go off the deep end（因感情冲动而贸然行事）
+Mike warned his roommate not to go off the deep end and get married.
+15）get sth. off one's chest（把闷在心里的东西说出来）
+After David told the principal that he had cheated on the test, he was glad because it was off his chest.
+　
+on (upon)
+　　在多数情况下upon可以用来代替on，但upon主要用于正式文体。on与off相对应，off表示“离开”、“脱离”，on则表示“接触”、“附着”，并由此引申出其它的含义。
+A“在……上面”、“在……上”
+　　表示“接触”、“附着”。某一个事物与另一个事物的“表面”相接触，即一个事物“附着”在另一个事物的“表面”时，我们用on表示，所谓的“表面”可以是“面”（surface），也可以是“线”（line）。
+B与“面”的接触
+例如：
+One or two good water-colours hung on the walls.
+He wrote down all the names on a piece of paper.
+Note:
+1“附着”在身体 的on常含有“穿着”的意思。in 也是表示穿着，但in是从“包裹”的角度来表达“穿着”的，in之后接用以“包裹”的东西，on之后则接所“附着”的地方。
+试比较：
+They put a robe of purple on him with white fur at the edges.
+The magistrate was dressed in black.
+2“on the wall”一般是指“在墙壁的纵面上”，但也可能指“在横面上”。
+试比较：
+A mirror hung on the wall.
+Humpty-Dumpty sat on the wall.
+3.in表示“在……面上”，强调“表面”。下列各组例句中的in与on一般不能互相替用。试比较：
+There is a picture of a ship on page 44.
+Who do you think is the greatest man on (the) earth?
+It is one of the greatest countries in the world.
+Breakfast is generally a bigger meal in England than you have on the Continent.
+They are touring in Europe.
+The players were practising on the field.
+He lost life on the field of battle.
+Cows were grazing in the field.
+They are working on the farm.
+4“on you”一类的短语含有“在……身上”的意思，相当于with，但这里的on不能用upon来替换。例如：
+He doesn't usually carry much money on him.
+Have you got a match on you?
+5以下是一些由“在……上面”引申的比喻用法。
+Can you describe the expression on the man's face?
+They made a very deep impression on his mind.
+I know another idiom, it's on the tip of my tongue but I can't quite say it.
+Why on earth are you sitting there?
+C与“线”的接触
+例如：
+Hang the clothes on the line.
+There was a bird sitting on a branch.
+Note:
+1河流，街道等从远处着眼就是一条“线”，因此表示“与线接触”的on在“on the river ”，“on the street”等短语里含有“在河岸上”、“在街旁”的意思，即“在……边缘”，而不是“在河上”、“在街上”。
+London is on the Thames.
+There were a number of hotels on the main road.
+2.on既可以表示“在……边缘”，也就引申出“在……附近”、“在……近旁”、“与……比邻”等意思。
+3在 “apples on the trees”这样的结构中，on表示“苹果”与“树枝”的接触，含有“悬挂”（hanging from）的意思。
+Big apples hung red and ripe on the trees.
+There was a slight wind gently moved the leaves on the trees.
+4“on one's way to…”里的on含有along的意思。
+A funny thing happened to me on my way to the theatre!
+D“与……毗邻”
+　　表示“邻近”、“附近”、“毗邻”、“接连（不断）”等。某一事物与一条“线”接触时用on；有时虽然没有接触，但非常接近（very near），也就沿用了on的这种用法，因此on便含有“在……旁边”、“靠近……”、“临……”、“与……毗邻”等意义。例如：
+San Francisco is on the Pacific Ocean.
+The United States borders on the two oceans.
+试比较：
+He lived on the outskirts of the forest.
+They started a plant in the outskirts of the city.
+They lived in the suburbs.
+Note:
+1“on the right (side) of the road”这样的短语既可能含有“在路以外的右边”的意思，也可能指“路本身的右边”，因此具体含义必须根据说话人心目中的“中心线”而定。如果“中心线”是这条路本身，那么所指的意思就是前者，如果“中心线”是路中心，所指的意思便是后者。试比较：
+Cars drive on the left side of the road in England.
+I am planting the apple trees on the left and the pear trees on the right of the path.
+We live on the north side of the city, they live on the south side.
+2有时用连字符把两个“接触”或“接近”的地名连接起来，构成复合名词，如Stratford-on-Avon(Avon河畔Straford)，Newcastle-upon-Tyne(Tyne河畔Newcastle)。
+3由“地点”的接近，又引申表示“时间”、“年龄”、“重量”等的接近，在on前常加just, near 等词以加强语气，这时的just on, near on含有almost（差不多）的意思，有时也可以说hard on。同样地，on也可以表示“顺序”的连接，含有“紧接”的意思。例如：
+It's near on twelve o'clock.
+I am just / hard upon eighty years of age.
+It's just on ￡20.
+One misfortune followed on another.
+Her illness followed on her mother's death.
+4在“loss on loss”（重大损失），“heaps on heaps ”(一堆堆）等结构中的on表示“累加”、“接连不断”等意思。例如：
+Defeat on defeat discouraged him.
+Trouble on trouble followed his involvement with her.
+E“支撑”
+表示“支撑”、“支持”。on表示一个事物“附着”在另一个事物之上，反过来说，被附着的事物“支撑”、“支持”着“附着”在它上面的事物，因此on又可以引申为“支撑、支持”。例如：
+When he could no longer walk he tried to crawl on hands and knees.
+He was so confused but so happy that he hardly knew whether he was standing on his head or his heels.
+Note:
+　　表示“支撑”的on有时可以用来表示“交通手段”，如on foot, on bicycle, on horse (back), on motorbike等，它们一般不能与表示手段的“by”替用，其它情况下则一般用by，如by bus, by car, by train 等,有时也用on。例如：
+It takes longer to travel on foot than by car.
+I like to travel on horseback.
+F“依靠”
+　　表示“基础”、“根据”、“理由”、“依靠”。on的这些意思都是跟“支撑”、“支持”的意义密切相关的。例如：
+A）“基础”
+例如：
+His argument was rested on a basis of conjecture.
+A building must be laid on a firm foundation.
+B）“根据”、“理由”
+例如：
+On what ground do you suspect him?
+I engaged the men on his recommendation.
+C）“依靠”
+例如：
+You can't do a hard day's work on a cup of coffee and a slice of toast.
+For many years he ran his business on a staff of only five.
+Note:
+1短语live on之后接食物时，含有“以……为主食”的意思。例如：
+They lived chiefly on fruit.
+I don't know what he lives on.
+2短语live on之后接“收入”、“人”、“特性”等时，意思是“靠……生活”。例如：
+He is just a scrounger, who lives on other people.
+He lives on wits.
+G“由……支付”
+　　在非正式的场合下（特别是喝酒的时候）常用on表示“由……支付”。例如：
+Have a drink, on me.
+"Well, boys, the drinks are on me! Give it a name!"
+H表示发生某行为的“媒介物”
+　　相当于by means of，例如：
+I want to listen to the programme on the radio.
+He was playing an old tune on his flute.
+Note:
+1.on表示具体的“媒介物”，因此在媒介物之前一般要带定冠词，by常直接与表示“媒介物”的名词连用，不带定冠词，表示抽象的“手段”。
+2某些交通工具可以与on连用，表示交通的“媒介物”。
+I表示“状态”、“过程”、“从事”。
+A）“状态”
+例如：
+The house is on fire.
+It is difficult to keep on good terms with such a person.
+B）“过程”
+例如：
+The murderer is now on trial.
+I'll get some chocolate on my way back.
+Are you travelling on business or for pleasure?
+He has just published one novel and is already on a second.
+Note:
+1有时候可以见到“on + the + 形容词”这样的结构，它们相当于一个状语，用来表示行为的“状态”。但这种结构所表达的意思并不完全等于与该形容词相对应的副词，而是略带贬义。这里的形容词实际上已经名词化了。例如：
+They got married on the quiet.
+他们偷偷地结婚了。
+The boy smoked on the sly.
+这孩子偷偷摸摸地抽烟。
+She got some new trousers on the cheap down at the market
+她在市场上买了条便宜的新裤子。.
+2用on表示“过程”时常用到“on + the + 动作名词”这样的结构，例如“on the increase”，它的意思相当于现在分词increasing，表示行为正在进行过程之中，类似的还有：on the run, on the move, on the watch, on the look-out, on the march, on the prowl等等。
+He is always on the make (=trying by all kinds of means to make money).
+She has been on the go all day.
+3.on和in都可以表示“状态”，但on常表示可以随时解除的状态，与off相对应；in则表示处于相对稳定的状态，与out of相对应。试比较：
+Long hair is not very much in fashion now for men (= out of fashion).
+He struck me while I was not on my guard (= off my guard).
+He is in poverty.
+He is on holiday.
+4.on和at都可以表示“从事”。on的原意含有“接触”的意思，因此用on时强调处于从事某事的“过程”之中；at则是从“点”上看问题，因此强调了从事某事的总体状态。试比较：
+He is coming home on leave of absence.
+Will you be at the meeting tonight?
+J表示“主题”、“内容”
+A)表示“主题”
+　　on含有“系统论述”、“专题讲演”的意思，因此“讲演”、“论著”等必须接on。about则是表示一般提及“讲演”、“论著”等的“内容”，或说明“谈话”、“思考”、“忧虑”等的“内容”。试比较：
+Today your father received an invitation to come to Oxford University for a year to give a course of lectures on philosophy.
+In some of my earlier letters I have told you all about the other students here.
+Note:
+1有时动词、名词或形容词不可能含有“系统论述”的意思，因此它们只能接about表示有关的“内容”，而不能接on。例如：hear about this, quarrel about money, be careful about what you say, a story about famous men等。
+2讲演某一个专题时，习惯上用on，如lecture on a particular topic。但大学里讲授课程时则用in；讲授课程中的专题部分时，仍用on。如：
+Dr. Watson is at Oxford University, where he lectures in English literature. This term he is lecturing on the nineteenth-century novelists.
+3.give a lecture on意思是“作一次有关……的演讲”；而give sb. a lecture on则是“就……训斥某人”。如：
+Prof. Li gave a lecture on philosophy.
+His father gave him a lecture on smoking.
+B)表示“内容”
+　　有时on也被用作about的意思，并没有“论述”的意思。例如：
+I think you will all like to get a little sidelight on English education.
+Foreign governments consulted her on the health services for their countries.
+　　on之后接“团体”、“机关”时，表示属于该机构的“成员”或“职员”。例如：
+When you are on our staff, you must be more careful and not to leave valuable papers lying about!
+He's on the committee that controls government spending.
+C)表示“时间”（包括“日期”和“时间的连接”）
+　　表示“日期”。特指某一天时用on表示。例如：
+My birthday is on April 9th.
+I usually go to the cinema on Tuesday.
+Note:
+1表示“点钟”用at；泛指比一天长或比一天短的时期用in；特指某一天，或某一天的某个时期都用on。例如：
+They landed on an evening in October.
+I am leaving early on Thursday, the 23rd, and I shall arrive in Basle on Friday morning.
+2在美国英语里，表示星期的某一天前的on可以省略，但如果星期的某一天之前有冠词时, on不能省略。例如：
+What stopped you from coming Wednesday?
+She arrived on the Sunday and left on the Tuesday.
+He arrived on a Thursday.
+3某一天前如带有last, next, this, that, late, early等修饰语时on 一般都省略，但在Monday next 这种结构里可以用on，也可以不用on 。试比较：
+He retires next Friday.
+He retires (on) Friday next.
+4在today, yesterday, tomorrow之前的on一律省略。例如：
+Tomorrow I shall be quite free.
+5在occasion之前习惯上用on，虽然它并不特指某一天。例如，on occasion, on one occasion, on several occasions等。例如：
+Send you my best wishes on this happy occasion.
+6成语on the hour是“在某一点钟准点地”的意思，相当于every hour on the hour，即一点整，二点整或三点整等。
+7表示“在晚上”时，有时说at night，有时说in the night，但如果特指某个晚上时，则用on。例如：
+It would be a crime to send the boy out on such a cold, wet night.
+K表示“时间的连接”,“空间的接触”可以引申到“时间的紧接”，在on之后接动名词或动作名词时，常含有“一……就……”这样的意义，即“一件事（或一个行为）紧接着另一件事（或另一个行为）”。例如：
+He changed his wet clothes on reaching home.
+On hearing the crash, he rushed out of the house.
+L表示“着落”“对象”“方向”
+on 除了表示“面”或“线”的“接触”之外，还可以表示一个物体向另一个物体运动，并“着落”在它的“面”或“线”上，形成“接触”，这里的on相当于on to 。
+A）“着落”
+例如：
+In this office most work seems to fall on me.
+Finally he was brought to trial in London for having made war on his people and being an enemy of his country.
+Note:
+在“touch one on the …”这种结构中的“the”不能改用代词所有格，如不能说strike the man on his mouth, 应该说strike the man on the mouth。
+B）“对象”
+例如：
+The child has set his heart on that toy: I wish I could buy it for him.
+C）“方向”
+例如：
+Charles, as a matter of fact, was all for advancing on London.
+Note:
+1表示“方向”的on与表示“目标”、“对象”的at和to的区别，以及look on, gaze on, smile on等与look at, gaze at, smile at的区别，见at条。
+2表示“方向”的on有时含有against 的意思，在这种情况下on与for相对应，试比较：
+They shut the door on me.
+他们把我拒于门外。
+They shut the door for me.
+他们为我关门。
+　
+Onto ( on to )
+　　onto同时含有on和to的意思，它表示某一事物向某一“平面”、“线”或“点”运动，并“着落”、“接触”在其上面，通常译为“到……上”。在美国英语里一般用onto这样的形式，在英国英语里则以“on to”为佳，这里的“on to”是复合介词。此外，在非正式的场合，onto还有“了解”、“挑剔”、“认识”、“注意”等意思。
+A“到……上”
+例如：
+He was never systematic about his paper; they piled up on his desk and work table and oveflowed on to the floor.
+They tried to put the blame on to me.
+Note:
+1.on也可以被用作onto的意思，表示“由运动而接触”。如：He finally got on (=onto) the horse但用onto时常常强调“作这种运动的努力”。另一方面，如果要强调运动的方向，比如与from连用时，也必须用onto。例如：
+Water splashed down from the roof onto my hat.
+2在英国，into常写成on to，这里的on和to 构成复合介词，它们之后仅接一个介词宾语。如climb on to the box。但有时候on是副词，用来修饰前面的动词，在这种情况下on与to已不是复合介词，不能连写在一起，如：
+Let us go on to the next item on the agenda.
+3在副词on之后有时接不定式的to，这时on和to已不是复合介词，因此不能连写成onto，如：
+He went on to tell us of his experiences on Tibet.
+4偶尔onto也被用作on的意思，表示“静止的接触的位置”。主要用在“圆状的东西”与其它事物的接触。例如：
+The coat has big buttons onto it.
+B“be onto sb / sth”
+　　在俚语里“be onto sb”含有“知道某人的意图”、“发现某人的错误（或非法行为）”、“挑剔某人”等意思。“be onto sth”含有“注意到某物”、“了解某物的重要性”、“能利用某物”等。例如：
+He's always onto me.
+他老找我的岔子。
+I'm onto your little tricks.
+我知道你的鬼把戏。
+　
+　
+opposite
+　　严格地说opposite是形容词或副词，表示“在……的对面”。opposite 须与介词to连用，如“opposite to the school”，由于to被省略的缘故，opposite 也就变成介词，在它的后面可以直接跟着介词的宾语，如opposite the school。opposite与opposite to的关系，就象like与like to, near与near to一样，都是因为省略to而形成介词的。
+A“在……的对面”
+例如：
+The man opposite him at the table was a total stranger.
+There is a bus stop right opposite the post office.
+B“在……的另一边”
+例如：
+He made a check opposite the name.
+C“与主角相对的异性角色”
+例如：
+He played opposite her.
+Note:
+　　在美国口语里across from相当于opposite。这里的across是副词，across from可以理解为复合介词。例如：
+Directly across from the door was a little window.
+They live right across from us.
+　
+out
+　　out 表示“向外”的运动，相当于out of，这是美国英语的用法。在英国，一般只能说go out of the door，而不说go out the door，除非在口语中。
+A“通过……而出”
+例如：
+He ran out the door.
+He is peering out the door at the river.
+Note:
+1. out表示“向外”时一般是指“向门外”。“向窗外”。
+2在美国英语里，表示“通过……而出”时，只能用out，不能用out of, out含有through的意思。如果要表示“离去”，则必须用out of。试比较：
+He jumped out the window.
+他从窗口跳出去。
+He went out of the house.
+他离开这所房子。
+3有时介词out之前还带有另一个介词from，意思是“从……外面”。例如：
+From out the open window came bursts of laughter.
+4有时表示“在外”的静止位置。例如：
+I like sitting out dances in the refreshment room.
+我不喜欢跳舞，宁可坐在小吃部里。
+B“沿着……而去”
+例如：
+He drove out the street.
+We drove out the dark road to his house.
+　
+out of
+　　out of是由副词out加介词of构成的复合介词，表示“由内向外”的运动，或“在外”的静止空间位置，并由此引申出“突出”、“离开”、“超出”、“失去”、“没有”、“脱节”、“结果”、“来源”、“出生”、“比例”、“材料”、“器具”、“动机”、“原因”等。一般情况下，out of与in或into相对应。
+A“从……里（向外）”
+例如：
+I took a handkerchief out of the drawer.
+Note:
+1. out of 与into相对应，out of表示“由里向外”的运动，into则表示“由外向里”的运动。
+One of the letters dropped out of the bag.
+He dropped the letter into the mailbox.
+2.out of有时可以用outside, 或outside of来替用，表示“由里面向外面”的运动。
+They went out of the house to talk.
+They went outside (of) the house to talk.
+3.out of有时还表示“从某一表面或物体向外突出”
+Don't stick your head out of the carriage window.
+A nail was sticking out of the wall.
+B“在……外”
+例如：
+He stayed out of the district.
+This animal is not found out of Europe.
+Note:
+1表示“在……外”的out of有时含有“在离开……的地方”。例如：
+There was a railway accident a few miles out of Nottingham.
+One evening I was taken by a friend to a drivening cinema about eleven miles out of the city.
+2.out of之前有时还可以用另一个介词from，如from out of the room.
+The rubbish should be removed from out of the house.
+C“超出……（范围）之外”
+例如：
+The car went out of control and crashed over the cliff.
+We're out of reach of the railway here.
+It is out of (all) reason to expect him to get here by half past six each morning.
+D“脱离……（状态）”
+例如：
+He helped me out of my difficulties.(difficulty的复数形式一般指“经济上的困难”）
+Out of debt, out of danger.
+E“失去”、“没有”、“缺乏”、“与……脱节”
+例如：
+Long skirts for women are out of fashion now.
+He's been out of work (=out of a job) for two years.
+After climbing to the top of the tower, we were so out of breath that we had to sit down.
+We are out of stock in this item.
+Note:
+1表示“失去”、“没有”、“脱节”等的out of与in相对应。试比较：
+The new edition of that dictionary has long been out of print.
+I am not sure whether the work you mention is still in print.
+2.out of question的意思是“毫无疑问”，相当于beyond (all) question, without question, past question等，可以用作状语，也可用作定语。out of the question的意思，是“不可能的 ”、“办不到的”。
+The boys had no money, so it was out of the question for them to go to the movies.
+His honesty is out of question.
+3.out of还可以由“失去”、“没有”引申表示某种行为造成消极、否定的“结果”。
+You cannot laugh me out of my belief.
+He talked me out of my resolution.
+F“来自……”
+例如：
+It is sometimes more difficult to translate than to write out of one's own head.
+I paid for it out of my own pocket.
+Note:
+1.from, of等也可以表示“来源”，但out of表示“来源”时，含有“从……当中”的意思。
+2表示“来源”的out of有时还用来表示动物（特别是马）的“生育”，意思是“由……所生殖”，out of之后接雌性动物，by之后接雄性动物。例如：
+Golden Trumpet, by Golden Rain out of Silver Trumpet.
+G表示数量的“比例”关系
+例如：
+Out of all the people present, only two spoke in favour of the proposal.
+This is only one instance out of many.
+Note:
+　　of表示纯粹的“比例”关系，即“部分与整体”的关系，而out of则更含有“来源”的意思，这里的out 有强调的作用。试比较：
+You may choose one of them.
+你可以挑选其一。
+You may choose one out of them.
+你可以从中挑选一个。
+H表示“材料”、“器具”
+例如：
+Flour is made out of wheat.
+He drank milk (tea, wine) out of a glass.
+Note:
+1.of也可以表示材料，是由out of省略out而来的，但out of中的out往往有加强语气的作用，with则表示制成品的成分之一。
+2.out of或off都可以后接饮食器具。即“从……（器具饮食）”，它们都可以被of所代替，但不能用with来代替。
+I表示“动机”、“原因”
+例如：
+I opened the box out of curiosity.
+I came out of real interest, not just to have a good time.
+Note:
+out of表示心理上的原因即“动机”时可以与from替用。与for, because of等的区别，见from条。例如：
+She obeyed from fear (=out of fear).
+J注意下列词组的用法：
+1）out of hand（无法控制，立即）
+You should not allow a young child like that to get out of hand.
+I cannot comply with your request out of hand, I must consider it first.
+2）out of one's mind /head（发狂，精神错乱）
+The poor fellow went out of his mind.
+3）out of humour（不高兴的，情绪不好的）
+The chief is feeling out of humour again.
+4）out of temper（发脾气、生气）
+He soon gets out of temper if things do not go as he would like them to.
+5)out of the way（不挡道的）
+Please get out of the way, and allow this gentleman to pass.
+6）out of date（过时的，废弃的）
+These words are out of date.
+7）out of place（处于不恰当、不相称、不适当的地位）
+I felt out of place among the foreigners.
+　
+outside
+　　outside用于表示“在外面”或“由里面到外面”的空间位置，并由此引申表示“在……范围之外”、“除……以外”等意思。
+A“在……外面”、“到……外面”
+例如：
+Wait outside the door until you are asked to come in.
+We are not allowed to go outside the ground.
+Note:
+1表示“在外”或“向外”的outside与inside相对应。
+2.outside有时含有“在……上面”的意思，这是英国口语的用法。例如：
+He rode outside the coach.
+3.out of 表示“由里向外”的运动，强调了运动的出发点，即强调了“里面”，outside表示“由里面向外面”运动的结果所处的空间位置，它强调的是“外面”。在没有强调这种意思时，out of与outside可以替用。例如：
+While we were standing in the road we saw somebody come out of (=outside) the house.
+B“在……范围之外”、“超过……范围”
+例如：
+I cannot make concessions which are outside the regulations.
+That is outside his interests.
+Note:
+1表示“超过范围”的outside与within相对应。
+2如果outside之后接的是某一具体数量，outside则含有“多于……”、“……以上”的意思，这是英国口语的用法。例如anything outside ￡ 100(起码100镑以上）。
+C“除去……”、“除……以外”
+例如：
+He has few hobbies or interests outside golf and gardening.
+Outside her cooking, what does she have?
+Note:
+用outside表示“除外”的意思一般只用于口语之中。
+　
+outside of
+　　outside of是复合介词，在英国口语中，可以用来代替outside，表示“在……外面”或“除……以外”的意思，而在美国口语中，outside of一般只用来表示“除……以外”的意思。例如：
+Women students work harder than men and one seldom sees them outside of the classroom.
+Mrs Cox had no jewelry outside of her wedding ring.
+Note:
+1在英国口语中outside of有时含有“在……上面”的意思，如outside of a horse是“在马上”的意思。例如：
+He looked better outside of a horse than on his own legs.
+2.get outside of含有“吃”、“喝”的意思，这是英国俚语的用法，在美国get outside of 则含有“理解”、“掌握”意思。例如：
+Get outside of that, and you'll feel a different man.
+We got outside of a good dinner that evening.
+　
+over
+　　表示相对空间位置的over含有“在……上方”、“在……上面”、“遍及……”、“越过……”、“从……到另一端”、“在……对面”等意思，并且由此引申出“从……边上溢出（落下）”、“撞到……”、“（数量）超过……”、“（职权，努力）高于……”、“在……旁监视……”、“从头至尾……一遍”、“在……期间”、“从事……”、“过了……（时间）”、“由于……”、“关于……”、“通过……（通讯途径）”等意思。
+A“在……正上方”、“高于……”
+例如：
+We slept without any roof over our heads.
+Note:
+1.over与表示运动的动词连用时，含有“从……上方”的意思。例如：
+The aeroplane flew over the city.
+2.over与under相对应，over 表示“垂直在上”，under则表示“垂直在下”，它们反映了两个物体之间的相对位置，这两个物体通常是不接触在一起的。例如：
+Give me a blue sky over my head and a green road under my feet and I am happy.
+3.over表示“垂直在上”，above则不一定。因此above可以代替over, over却不能任意代替above，除非above所表示的是“垂直在上”的位置。例如：
+The lamp hung over (above) the table.
+His room is above mine.
+4分数的分子在分母的上方，因此over也被引申表示分数，如 读作three over four (或three four)。
+B“覆盖在……上面”、“在……上面”
+例如：
+She spread the blanket over her knees.
+Do you see that flock of sheep scattered over the hillside?
+Note:
+1.over有时也可以指“覆盖在……前面”。
+She wore a veil over her face.
+2.over表示“覆盖在……上面”时，与under相对应。可能是全部覆盖，也可能是部分覆盖。覆盖物与被覆盖物可能有接触，也可能没有接触。在这种情况下，over不能被above替用。
+C“遍及……”
+例如：
+English is being spoken all over the world.
+The boy scattered paper over the floor.
+Note:
+　　表示“遍及”的over之前常加all，以加强语气。
+D“横在……上面”
+例如：
+The bridge over the river is closed for repair.
+E“越过……”、“从……到另一边”
+例如：
+The ball rolled over (=across) the grass.
+The train ran over a boy.
+Note:
+1.over可以表示沿着水平方向，也可以表示象“翻山越岭”那样沿着曲线从一边到另一边。例如：
+He jumped over the wall.
+If we can't go over the mountain we must go round it.
+2.across可以表示“沿着水平方向从一边到另一边”，但不能表示“翻山越岭”那样的曲线运动。可以说jump across the ditch，也可以说jump over the ditch;但只能说jump over the wall，而不能说jump across the wall。
+3短语get over含有“越过……”、“克服……”、“从……之中恢复过来”等意思。例如：
+It's not easy to get over the garden wall.
+How shall we get over this difficulty.
+He is just getting over his severe illness.
+F“在……的那一边”、“在……对面”
+例如：
+He lived just over the river.
+The sun disappeared over the horizon.
+Note:
+1短语be over sth含有“度过（困难等）”的意思。例如：
+We're over (=past) the worst of troubles now.
+2表示“在……的那一边”的over有时含有“运动结果所处状态”的意思。例如：
+The horses are over the fence (having jumped the fence).
+G“从……边上溢出”、“从……边缘落下”
+例如：
+The river flowed over its banks.
+He rolled forward and fell over the edge.
+H“撞到……”
+例如：
+Someone left a box in the garden and I fell over it in the dark.
+He stumbled over the edge of the pavement.
+I“（数量）超过 …”、“在……以上”
+例如：
+The repairs to my watch cost me over five pounds.
+He couldn't enter for the examination because he was over age.
+Note:
+1在“for over two hours”这样表示时间长度的词组中，over前的for常可以省略。例如：
+He has lived abroad (for) over five years.
+2短语 over and above含有“在……之外（还）”的意思，相当于in addition to。例如：
+You will get ￡ 50 a year over and above your usual salary.
+J“（职位、权力、势力）高于……”、“在……之上”
+例如：
+A captain is over a lieutenant.
+The mayor presided over the city council.
+He has great command over himself.
+Note:
+　　表示职位、权力“高于……”的over与under相对应。over与under所表示的两者之间存在着“支配”与“受支配”的关系。如下例：
+The King is ruler over the whole country.
+The army is under the King's direct command.
+K“在……旁边监视”
+例如：
+His mother had to sit over him and make him do his homework.
+Will you watch over my clothes while I go for a swim?
+Note:
+　　表示“在……旁边监视”的over主要与sit, stand, look, watch等动词连用。
+L“从头到尾……一遍”、“从……到另一端”
+例如：
+Did you go over the book carefully before it went to the printers?
+Will you look over this exercise that I have done, and see if it is correct?
+Note:
+1表示“从一端到另一端”的over有时含有along的意思。例如：
+We motored over a new route.
+2表示“从头到尾……一遍”的over一般是指“粗略地看一遍”，否则必须加象carefully之类的修饰语。
+M“在……期间”、“在（做）……的时候”
+例如：
+Over the years he's become more and more patient.
+He fell asleep over a book.
+N“从事……”
+例如：
+They are taking a very long time over a simple job.
+She took a lot of time over the arrangement for the journey.
+O“过了……（时间）”、“直到……过后”
+例如：
+Can you stay over Monday?
+Are you staying over (the) night?
+Note:
+　　表示“经过……（时间）”的over相当于through，主要用于较短的时间，如night, weekend, Christmas等，through或throughout则用于较长的时间，如summer, years等。over强调时间的“终止”，for表示时间的“长度”，during则表示“在某一段时间内”。
+P“由于……”、“关于……”、“在……方面”
+例如：
+They quarrelled over some political issue.
+Can I see you a moment? I've an important matter to talk over with you.
+Note:
+　　表示“关于”的over常可以与about替用，如worry, gloat, quarrel, talk, think等动词都可以与about连用，但用over时，多少都含有“由于”的意思。
+Q“通过……（通讯途径）”
+例如：
+The matter was arranged over the telephone.
+It was broadcasted over the radio.
+　
+owing to
+　　owing to是复合介词，意思是“由于……”
+例如：
+That's a mistake owing to carelessness.
+Owing to the long drought the crops have failed.
+Note:
+现在, owing to 和due to常可以互相通用, 只是owing to很少用作定语，due to一般不用于句首, 除非为了特别强调，或用于正式的场合。
+　
+past
+　　past可以表示时间、数量、范围、能力、空间、地点等的“超过”。
+A时间、数量或数目的“超过”
+例如：
+We start work at half past seven every morning.
+Stella is still good-looking, but she's past her prime.
+Note:
+　　用past表示超过某整点时，可以与o'clock连用，但是如果说“几点过几分”，则不能与o'clock连用，而应与minute连用，这是现代英语的用法。试比较：
+It is past five o'clock.
+The train arrived at exactly four minutes past eight.
+B范围、限度、能力、可能性等的“超过”
+例如：
+The old horse is past work.
+The strange idea is past (=beyond) belief.
+Cancer is past (=beyond) cure.
+Note:
+1. past表示“能力的超过”时含有“失去往常的能力”的意思。例如：
+She used to be a good tennis player, but at the age of fifty she is past it.
+2短语“past praying for”的意思是“无可救药”。例如：
+The wicked man is past praying for.
+C空间、地点的“超过”
+例如：
+She walked past my door.
+Who is the man who has just run past me?
+　
+pending
+　　“直到……时候”、“在……之前”（一般用于正式场合）。例如：
+This matter must wait pending his return from Europe.
+Pending the trial, he was kept in prison.
+　
+per
+　　per含有“每……”、“经由……”、“按照……”等意思。
+A“每……”
+例如：
+The building rents at 15 pounds per month.
+The rate of deaths fell from sixty per thousand to three per thousand.
+Note:
+1.per原是拉丁介词，在英语里，表示“每……”时，一般用不定冠词a，有时也用定冠词the，per主要用于商业上或正式场合。试比较：
+These apples cost 20 pence a kilo.
+These apples cost 20 pence per kilo.
+2在正式的场合可以与once, twice, three times等连用，如once per day，一般情况下不用per，而用a, every, each等，试比较：
+She visits me three times a (every, each) week.
+She visits me three times per week.
+3.per cent从per centum省略而来的，per cent所构成的短语可以用作名词，也可以用作副词用。试比较：
+I am 100 per cent in agreement with you. (100 per cent作状语）
+The interest is 5 percent yearly（“5 percent”作表语）
+4.per cent所构成的名词性短语，可以看成是复数的，也可以看成是单数的，必须根据实际情况而定。例如：
+Of the new subscribers, 75 percent have paid already.
+Nine per cent is a large percentage.
+5.per diem(出差津贴)，per annum（每年）都是拉丁词，用于正式场合。
+6.per capita也是拉丁词，意思是“每人”、“按人口（计算）”，仅用于正式场合。per capita既可以用作形容词，也可以用作副词。例如：
+What is the average per capita wage in this country?
+＄ 40 for eight men is ＄5 per capita.
+7拉丁词per se，意思是“本身”、“本质上”，用于正式文体。例如：
+Alcohol per se is harmless.
+B“经由……”、“靠……”、“通过……”
+例如：
+The goods will be delivered per rail.
+I sent the message per Mr White.
+Note:
+　　这里的per相当于by，但per用于商业行话或正式场合，by则常用于一般场合。
+C“按照……”、“根据……”
+例如：
+Employers paid their quota per the number of employees working for him.
+Would you please pay us as per enclosed account?
+Note:
+1只有在正式场合才用per表示“按照……”、“根据……”的意思，而且更常用as per代替per。
+2短语as per usual（照常）等于as usual，但as per usual仅用于口语，属于戏谑语。例如：
+I shall accompany him, as per usual.
+　
+plus
+A“加（上）”
+例如：
+Eight plus five is thirteen.
+75 plus 15 equals 90.
+Note:
+　　在数学上，plus表示“+”，minus表示“-”，它们都是从拉丁词引用来的。
+B“另外”、“外加”
+例如：
+The cost is a pound plus 10 pence for postage.
+His salary is ￡450 a year, plus commissions.
+Note:
+1当plus的意思是“另加”、“外加”时，它与less相对应，而不是与minus相对应。
+2.plus fours被用作名词，意思是“宽大的运动裤”，“灯笼裤”。
+3在口语中，plus有时还可以引申表示“得”、“穿”等意思。例如：
+He's plus a dollar today.
+He was plus a coat.
+C“以及”
+例如：
+Compiling a dictionary costs much time plus patience.
+This kind of work needs experience plus care.
+　
+　
+regarding
+　　regarding作为介词，意思是“关于”。例如：
+Let me have your comments regarding our new products.
+I have no information regarding his whereabouts.
+Note:
+1表示“关于”时，通常用about或on；而regarding通常用于正式场合，特别是用于商业函件。试比较：
+Regarding delivery, this normally takes two or three weeks.
+What comments have you about my son's behaviour?
+2.as regards可以看成是复合介词，其意思相当于regarding，但在正式函件中as regards常用在句首，以引起一个新的议题。试比较：
+As regards the time of delivery, we haven't decided yet.
+I cannot agree with you as regards that.
+除regarding, as regards之外，表示“关于”的复合介词还有：in / with regard to, in / with relation to, in / with reference to, in / with respect to, as respects, as relates to, in connection with, on the subject of, in the matter of等等。
+　
+regardless of
+　　复合介词regardless of含有“不顾”、“不管”、“不注意”、“尽管”等让步的意思。例如：
+I shall go regardless of the heat of the sun.
+She is regardless of consequences.
+Note:
+1复合介词regardless of是由副词regardless和介词of组成的。Regardless有时也可以写成regardlessly。
+Some people act regardlessly of what will happen.
+表示“让步”的介词除了regardless of以外，还有in spite of, despite, notwithstanding等，它们所构成的介词短语在意义上相当于由although /though所引起的让步状语从句。这些介词当中，in spite of最普通，despite / despite of，notwithstanding多用于比较正式的场合，regardless 则只用于正式场合。
+　
+respecting
+　　respecting含有“关于”或“鉴于”的意思。
+A“关于”
+例如：
+We are completely at a loss respecting the answer to the problem.
+Note:
+　　respecting表示“关于”时，比about, on正规。在正式的场合，特别是在商业信函中respecting常用在句首，以引起一个新的议题。
+Respecting your recent complaint, I beg to infrom you that the matter is under investigation.
+B“鉴于”
+例如：
+Respecting the facts, it seems useless to continue.
+Respecting the weather, the match had to be postponed.
+Note:
+一般很少用respecting表示“鉴于”、“由于”，而用in view of, considering等。
+　
+　
+round
+　　round含有“绕着”、“围绕”、“在……周围（附近）”、“向……四周”、“到……各处”、“绕过”、“在拐弯过去的地方”、“包裹”、“拥护”、“大约”等意思。round与around的意思基本相同，因此它们在口语中常常可以替用。
+A“绕着”
+例如：
+The earth goes round the sun.
+The wheel goes round an axle.
+Note:
+1在英国，表示“绕着某一轴心”的运动时，通常用round，在美国则喜欢用around。
+2表示“绕完一周”时，在round之前加all ,或right。例如：
+We have gone all round the circle.
+Drake sailed right round the world and came back to England.
+3表示“连续往返转动”时，用round and round的结构，即在两个介词之间加上一个连词and。与这种用法类似的还有up and down, in and out等，它们都表示某种“反复”的运动。例如：
+They danced round and round the Xmas tree.
+His eyes moved up and down the rows of people, looking for his son's face.
+4短语round the clock含有“持续24小时，不停顿、不休息”的意思。例如：
+The doctors worked round the clock to stem the epidemic.
+5短语round the day (year)的意思是“一整天（年）”，这主要是美国英语的用法。例如：
+She has been writing letters round the day.
+The mountain is so high that the snow does not melt on it all round the year.
+B“在……四周”、“在……周围”、“在……附近”
+例如：
+If it is very cold I sometimes wear a scarf round my neck.
+It's beautiful place with about four square miles of land round it.
+Note:
+　　在“all round”或“right round”等结构中，all或 right起加强语气的作用。例如：
+All round the hall are portraits of great men.
+There's a veranda right round the building.
+C“向……四周”
+例如：
+In summer I have a walk round my garden every evening.
+Note:
+　　round与运动的动词连用时，常常含有“走……一圈”、“绕一圈”的意思，运动的路线不一定是圆曲线，但多少都与圆周有关，“(all) over”则含有“遍及”、“到处”的意思。试比较：
+He travelled round the world.
+He travelled over the world.
+D“绕过”、“向拐弯那边”
+例如：
+Let's go round the building, not through it.
+There's a fruit-shop just round the corner.
+Note:
+　　短语“get round sb”含有“说服、笼络、争取某人”的意思，“get round sth”含有“克服、越过、逃避某物”的意思。
+1. get round sb.
+Alice knows how to get round her father.
+2.get round sth.
+He finally got round the difficulty of language.
+E“包裹”
+例如：
+Each of the chocolate had a piece of tin foil round it.
+F“对……的支持”
+　　与表示“聚集”的动词连用时，字面意义是“聚集在……四周”，比喻为“对……的支持（拥护）”。例如：
+The reformer soon gathered a band of followers round him.
+G“围绕……展开争论”
+　　与表示“争议”的动词连用时，含有“围绕某个中心议题（展开争论）”的意思。例如：
+Most disputes have arisen round this subject.
+H“大约”
+例如：
+I'll see you round seven o'clock.
+It cost me somewhere round ￡ 10.
+　
+round about
+　　round about可以看成是复合介词，含有“在……周围（附近）”、“大约”等意思，可以与round或者about 替用。
+A“在……周围（附近）”
+例如：
+He lived in the countryside round about Ovan.
+They danced cheerfully round about the Xmas tree.
+B“大约”
+例如：
+He died round about two o'clock.
+Round about a hundred people are expected to attend the conference.
+　
+　
+save / saving　　
+save源于法语sauf，用作介词时意思是“除……以外”，相当于except，saving有时被用来代替save，表示同样的意义。例如：
+The whole class save Peter arrived on time.
+All is lost save honour.
+Note:
+1.save之后可以接名词也可以接代词，接代词时，和as, than 一样，代词可以是主格，也可以是宾格。
+2.save之后还可以接that引导的名词从句，意思是“除……以外”，“只是……”。例如：
+It is a very satisfactory hat, save that it doesn't fit me.
+3.save 之后除接名词或名词从句外，还常接介词短语或状语从句。例如：
+At this hour the great tunnel was quiet, save when a train roared above.
+4跟except for一样，save for也可以用来表示对某一个陈述的“修正”，含有“如果不把……考虑在内的话”的意思，而except和save一样含有“不包括……”的意思。试比较：
+We all failed save him.
+The bar was empty save for the landlord.
+5.except或save表示“从……扣除……”的意思，因此被扣除的那个名词一定是复数或含有复数意味的单数名词。例如：
+I go to school every day save Sunday.
+6.but也表示“除……以外”，但只跟no, all, nobody, anywhere, everything等词连用，或跟where, who, what之类的疑问词连用，通常后接名词或代词。
+7短语saving your presence （或reverence）是古英语的用法，意思是“说句失敬的话”、“请恕我冒昧”。这里的saving不能用save或其他的介词代替。例如：
+There's nothing I hate so much as music&#0;&#0;saving your presence.
+8有时save通过连词and 与except连用(save and except), 起加强语气的作用。例如：
+This is the most pleasing poem in our language,--save and except one or two of Dryden's fables.
+　
+since
+　　since的意思是“自从……以来”，“自从……之后”。例如：
+Since ancient times such things have been common.
+Until then we had not seen each other since our school days.
+Note:
+1.since表示从过去某一点时间开始，延续到现在（讲话时刻）的行为或状态，或者表示从过去某一点时间开始，延续到过去某一特定时间的行为或者状态，因此谓语动词一般都要用现在完成式或过去完成式。
+2如果句子主语是it，谓语动词be后接表示一段时间的词语时，be经常可以不用完成式，只用一般现在式。试比较：
+It's exactly three weeks today since Christmas Day.
+I've been here ever since my leaving England.
+3.since和from都表示时间的起始点，但用since时，时间的起点是在过去，并着重说明某种行为或状态延续到某一特定时刻的最终情况，因此谓语动词一般必须用完成式，用何种时态，必须视具体情形而定。
+4.since偶尔也表示从过去某一时间延续到将来某一时刻的情况。
+Next year it will be ten years since my coming here.
+5与from或after 连用的动词有时也可以用完成式，这时候强调了到某一时刻为止的情况，因此from或after都可以用since来代替。试比较：
+After being invited, I have been told the party was cancelled.
+From that first day I have never looked back.
+Since then he has never looked back.
+6.after表示在某一点时间之后，这个时间可能是过去，也可以是现在或将来，情况同since相类似。试比较：
+After being in the army he was an engineer.
+Since being in the army, he has been in much better health.
+　
+through
+　　through可以表示“穿过”（空间）、“经过”（时间）、“通过”（媒介手段）、“由于（原因、理由）”等意思。
+A“穿过”、“通过”、“经过”
+例如：
+What did you see when you peeped through the key hole?
+Walking through the park, I saw some lovely flowers.
+We went through France on our way to Switzerland.
+Note:
+through有时还表示穿过某一个点，但横过一条线时应该用across或over。试比较：
+Draw the line from A, through B to C.
+The two lines pass across each other at right angles.
+He walked over / across the road to greet me.
+　　across也可以表示横过一个平面，但强调穿过一个立体空间时就应该用through。例如：
+He walked across the fields and through the woods.
+B“遍及”
+例如：
+For months they have hunted through the Highlands.
+The police searched through the house, but found no clues.
+Note:
+　　through只限于表示遍及某个“区域”或“立体空间”，不能代替around或along表示普及“整个周围”或“整条路线”。throughout可以与through替用，但throughout语气更强。试比较：
+I rang the bell, and I could heard it ringing through the house.
+Many people stood around the injured man.
+There are many tall trees along the road to the village.
+The news spread quickly throughout the Highlands.
+C“在穿过……的那边”
+例如：
+He lives in the house through the trees.
+　　由空间的“穿过”引申为“经历”、“过关”、“校阅”、“做完”、“耗光”、“看穿”等意思。
+1）“经历”
+He has come through a lot of difficulties.
+2） “过关”
+Five per cent of the candidates got through the examination.
+3） “校阅”
+Go through these papers carefully.
+4）“做完”
+Are you through (with) your work?
+Note:
+　　be through with sth里的with有时可以省略，这个短语含有“完成”、“完结”、“不再”的意思。例如：
+He is through with smoking.
+5）“耗光”
+He soon got through his fortune.
+6） “看穿”
+I see through your little game.
+D“经由……”、“以……”、“依靠……”
+例如：
+Inflammable articles must not be sent through post.
+We learn to speak through speaking.
+He bought the property through a house agent.
+Note:
+　　表示媒介手段的介词有时必须根据习惯用法搭配。试比较：
+I heard of the news through the radio.
+They sent the message by radio.
+E“由于”、“因为”
+例如：
+Through his kindness I got my present job.
+It was through Fred's carelessness that the money was lost.
+Note:
+1.through表示原因时，常常表示消极的因素，例如常与carelessness, negligence, fault等词连用。如果through表示的原因与某种手段有关联 ，through就可以与by替用。
+2表示“原因”的介词还有许多，如from, out of,for,at,of,because of, on account of等。
+3.through有时也可以用来代替from，表示“根源”、“动机”。for常表示“感情”上的原因；at则表示对感官的“刺激”因素。例如：
+I fell asleep through tiredness.
+She was crying for joy.
+I was alarmed at his behaviour.
+F“从头到尾”
+例如：
+Owing to urgent business, some of the staff had to work through the weekend.
+Note:
+1表示“从头到尾”的through相当于throughout，但throughout语气更强。例如：
+He worked throughout his holidays.
+2在英国，说from Monday to Friday时，是包括Friday在内的，相当于from Monday to Friday inclusive 为了清楚表明这个意思，可以用（from） Monday through Friday。试比较：
+I stayed there from June 15 to June 25.
+I stayed there from June 15 through June 25.
+　
+throughout
+　　throughout可以指“遍及”整个地区，或“贯穿”整个时期。
+A“遍及”
+例如：
+Terror spread throughout the city.
+A description of the wanted man was circulated throughout the country.
+Note:
+　　如果表示遍及某个抽象范围时，只能用over,这时候的over还含有“关于”，“在……方面”的意思。此外over或all over也同样可以表示“遍及”某个“区域”或“立体空间”。试比较：
+The fire soon spread throughout the whole part of the town.
+His interests now spread over several subjects.
+B“贯穿”
+例如：
+It poured with rain throughout the night.
+Throughout his life, the doctor always tried to help others.
+Note:
+表示时间时，over通常指“过了某个特定时节”，如over the weekend, over the holiday。through (out)经常指“贯穿某个时期”，因此over之后所接的时间往往比through之后所接的时间短。
+　
+till (until)
+　　till含有“直到……为止”、“在……之前”、或“直到……（才）”的意思。until在意思上完全等于till，它们常可以互相通用。
+A“直到……为止”
+例如：
+I waited for you yesterday till six o'clock, but you didn't come.
+I have a lot of work to do, and usually after dinner or supper I go to my study and read or write until twelve or one o'clock.
+Until then, she had always lived in London.
+Note:
+1当till是“直到……为止”的意思时，它表示某种“行为”或“状态”延续的时间终点，因此谓语动词必须是持续性的动词或表示“状态”的动词。而by表示“到达某一时刻的行为或状态”，没有延续的意思，因此上述例句中均不能用by 代替till (until)。
+2为了同时表示“延续”的起点和终点，可用“from…till (until) …”的结构，也可用“from …to…”的结构。例如：
+The exhibition will be open from May lst until / to June 30th.
+I stayed in bed till ten o'clock every morning.
+3在口语中，有时用up till (until)代替till, until。例如：
+He was here up till last week.
+4.till (until)之后有时接地名，表示“直至到达某地的时候”，含有“as far as”，“up to”的意思。例如：
+Stay on the train until (we get to) Birmingham.
+B“在……之前（不）”，“直到……（才）”例如：
+I cannot see you till 3 o'clock..
+Well, no more lessons now until after Christmas.
+Note
+1.till (until)表示“在……之前（不）”、“直到……（才）”时，主要见于含有否定意义的句子中，如上述例句。但偶尔在肯定句中也表示这个意思，例如：
+Until his accident, he had always been strong and healthy.
+2在否定句中，till (until)表示否定状态的结束时刻， by则表示到达某时刻的否定状态。试比较：
+The ship will not arrive in Southampton until ten o'clock .
+The ship will not arrive in Southampton by ten o'clock.
+3在叙述过去某一件事情的否定句中，为了加强语气，可以用“It was not until … that…”的结构。例如：
+It was not until 1856 that she returned home -- an invalid for life.
+直到1856年他才回国，带回了终身之疾。
+上述例句还可以改写成另一种强调结构：
+Not until 1856 did she returned home -- an invalid for life.
+　
+to
+　　可以表示“方向、方位”，“目的地、终点”，“对象”，“关联”，“接触、附着”，“程度、极限”，“结果、效果”，“比较、比例、比率”，“按照、一致、搭配”，“目的”等意思。
+A“向……”、“往……”
+例如：
+While on his way to the cinema, he met an old friend.
+I want a ticket to Brighton, please, second class.
+Note:
+1.to还表示两个事物间的“相对位置”。这种用法与表示方位的to相类似。例如：
+A funny family named Wiggins lives next door to me.
+That man is the station master. There's his office next to the ticket office.
+2短语“in the north of”是“在……北部地区”，“to（或on）the north of”是“在靠……北部的地区”。试比较：
+Yorkshire is in the North of England.
+Canada lies to / on the north of the United States.
+B表示“目的地、终点”,“到”、“达”、“至”
+例如：
+I am going to London tomorrow.
+When you come to the traffic lights, turn left.
+I have come to the end of my patience.
+C表示“对象”
+例如：
+He shouted to me and warned me of the danger.
+At five o'clock the entrances to St. Giles are closed to traffic.
+The exhibition will be open to public from 10 a.m. till 6 p.m.
+Mr Jones has sent this book to you.
+She gave an orange to each of the children.
+She was always kind to children.
+He had always been generous to good causes.
+Let's drink to the health of our respected foreign guests.
+Here's to the bride and bridegroom!
+They built a temple to Mars.
+We visited the Monument to the people's Heroes.
+Note:
+1有些动词要求两个宾语（直接宾语和间接宾语），间接宾语通常指人，直接宾语通常指物。间接宾语一般放在直接宾语之前。但有时为了强调间接宾语，就把间接宾语置于直接宾语之后，并在间接宾语之前加上“to”。试比较：
+I told him the whole story.
+I told the whole story to him.
+2如果两个宾语都是代词时，间接宾语必须置于直接宾语之后，而且在间接宾语之前可以不用to。但若要强调间接宾语，就必须加to。试比较：
+I gave it him.
+I gave it to him.
+3.to表示某种东西的实际接受者，for则表示意想中某种东西的接受者。例如：
+I really brought these shoes for Mary, but I think I'll give them to James.
+D表示“关联”
+　　“就……来说”．例如：
+I had never before lived in a big city, so London was a new world to me.
+To a child, any unfamiliar noise may be frightening.
+Note:
+1在某些名词之后也用to表示“关联”，如an honour to, an enemy to, a victim to等等。例如：
+Care is an enemy to life.
+忧患乃人生之敌。
+Our doctor's been a good friend to us.
+我们的医生一向是我们的好朋友。
+2在某些形容词之后也用to表示“关联”，如pleasant to the senses, attractive to the eye等等。例如：
+Her voice is pleasant to the ear.
+The scenery is attractive to the eye.
+E“关于”
+　　用to表示“关于”时主要见于复合介词as to, with regard to, in reference to等。例如：
+I don't know anything as to the others.
+关于其他人的事我一无所知。
+As to the journey, we must decide about that later.
+至于这次旅行，我们过些时候必须做出决定。
+Note:
+1在动词之后用as to表示“关于”的这种用法不算正规，但在英国却很常见，如：
+The sun and the wind were quarrelling as to which was the stronger.
+We want to knowfrom you as to whether you have ever experienced any cruelty.
+2.as to还可以接在名词或形容词之后，表示“关于”的意思。例如：
+He said nothing as to whether he would come back.
+He is worried as to where to go.
+F所属关系
+例如：
+I don't know the answer to the puzzle.
+He is the private secretary to the prime minister.
+G亲属关系
+例如：
+Mrs Priestly is daughter-in-law to William Priestly.
+Arthur was nephew to the King.
+Note:
+of也表示“所属”关系，但to主要侧重于相互间的关系。试比较：
+What relation is he to the King? He is nephew to the King.
+Whose nephew is he? He is a nephew of the King.
+H表示“接触”、“附着”
+例如：
+We asked him to write a preface to the book.
+I attached the document to the letter.
+Note:
+1.to有时表示由于运动的结果而达到接触，例如：
+In despair I crossed the street on to an island, where I found a policeman.
+He raised the cup to his lips.
+2.Shoulder to shoulder, cheek to cheek, back to back之类的短语通常表示“接触”，有时表示“接近”。例如：
+Arrange the tables end to end.
+They stand shoulder to shoulder.
+3.to有时与with连用，表示“附有”某种性质、特征等。如：music with a swing to it, food with a taste to it.
+4“to it”有时还表示“附有”某种抽象的意义，而不是实际的东西。例如：
+They may say that the regulation has been made to prevent overcrowding, but there is more to it.
+I表示“程度”、“极限”
+例如：
+He mimics people to a hair.
+Drink to excess has a bad effect on health.
+J表示“结果”、“效果”
+例如：
+The train came to a stop in another little station.
+She sang her baby to sleep.
+Note:
+to表示“增”、“减”的结果, 这个用法与表示“程度”的to类似。例如：
+I bought this shirt because it was reduced from ￡ 3 to ￡ 2.
+It all adds up to this, she is entirely untrustworthy.
+K表示“比较”、“比例”、“比率”
+例如：
+The ratios of 1 to 5 and 20 to 100 are the same.
+I prefer the country to the town.
+L表示“按照”、“与……一致”、“伴随”
+例如：
+"Is that tea quite to your taste or do you need more sugar?" "No more sugar, thank you; it is exactly to my liking."
+The map is drawn to a scale of one inch to the mile.
+They were dancing to the music of a barrel organ.
+M表示“目的”
+例如：
+We sat down to dinner.
+I am going to a dance tonight.
+　
+together with
+　　together with是由副词together和介词with构成的复合介词，意思是“和……一起”、“连同”、“加之”。例如：
+Plant disease, together with a prolonged drought, has ruined the crops.
+He is selling the house, together with the furniture.
+　
+towards
+　　towards可以表示“朝、向”，“对于、关于”，“接近，将近”，“为了、作为”等意思。
+A“朝”、“向”
+例如：
+He crossed the road towards the House of Parliament.
+We were on the road again towards home.
+Note:
+1.towards单纯表示“方向”，不带有主观意志，to则可以表示主观意志。试比较：
+Their backs were towards me.
+He turned his back to me.
+2.towards和to都可以表示“朝”、“向”。强调“朝着某个方向”时，常用towards。 towards不含有“到”、“达”、“接触”等意思，to则可以表示“到达、接触”。
+B“对于”、“关于”
+例如：
+I have always felt kindly towards him.
+I felt a lot of gratitude towards my host.
+C“接近”、“将近”
+例如：
+As we got towards Exter the traffic became heavier.
+She must be getting towards fifteen.
+D“为了”、“作为”、“有助于”
+例如：
+You should save as much money as possible towards your holiday.
+I've saved a bit of money and that would help towards buying the furniture.
+Note:
+　　短语go far towards的意思是“大有助于……”。例如：
+Your success in the examination will go far towards helping you to get a good and well-paid position.
+　
+under
+　　under的本义是表示（位置）“在……下面”，并引申表示“从属关系”，“地位、能力的低下”，“数量的不足”，“类属”，“法规、条例的依据”，“所处的状态”，“在进行的过程中”等。
+A表示位置“在……正下方”、“在……之下”、“在……下面”例如：
+There were beds of spring flowers, red and yellow and blue, in the beautiful, smooth grass under the trees.
+St. Frideswide is a Saxon saint who died in A.D. 750 and is buried under the floor of the Cathedral.
+Note:
+1.beneath也是指“在……正下方”的位置，因此under与beneath常可以互相替用。
+2.below是泛指“在……下方”，under则强调上方的事物。试比较：
+He hid under the table (=underneath the table).
+He hid below the table (=lower than the top of the table.
+3如果具体指明“在多少距离之下”时，一般用below。
+The submarine travelled 100 feet below the surface of the water.
+4.under常见于某些比喻的用法里，below一般不能这样用，如：
+I sometimes think you don't see the simplest thing that is taking place under your very nose.
+Under the rough outward appearance there was kindness.
+B表示从属关系，“在……统治下”、“在……领导下”
+例如：
+England under George Ⅱ was prosperous.
+The university staff will be happy to work under his leadership.
+C表示数量少
+例如：
+His income is under ￡ 1,000 a year.
+We went from our house to Cambridge in under an hour.
+D表示类属
+例如：
+Rabbits come under the heading of animals.
+You will find these two works listed under "Biography".
+E表示依据……
+例如：
+I raise the objection under Article 5 of the Constitution.
+The soldiers were searching under orders.
+F表示身份、行为的假托
+例如：
+Samuel Clemens wrote under the name of Mark Twain.
+The thief gained entry under the disguise of an inspector from the Electricity Board.
+G表示所处的状态
+例如：
+His mother would not permit him to go under any condition.
+Please keep your dog under control.
+Note:
+1.under之后接某一农作物的名词时，常指“某一块土地种植该种作物”。例如：
+The farm has 200 acres under wheat.
+Many parts of Asia are kept under rice.
+2表示状态的under常含有subjected to的意思，如under the pressure of，under a spell这些都表示“遭受”外界的某种力量，但do something under protest却不是指“遭到别人的抗议”，而是指“行为者本人在提出抗议的情况下做某事”。试比较：
+We listened to the young as though we were under a spell.
+He signed the document under protest.
+H表示在进行的过程中
+I can't use my office at present; it is under repair.
+The question is still under discussion.
+I注意下列成语的意思：
+1）under age（未成年）
+People who are either under age or over age may not join.
+2）under the counter （私下地）
+During the war some shopkeepers made a lot money by selling scare goods under the counter at high prices.
+3） under cover（在……掩护下）
+The prisoner escaped under cover of darkness.
+4）under separate cover（另函）
+This is a receipt. The goods will be sent later under separate cover.
+5）under fire（受到攻击）
+The government's plans came under fire from the opposition.
+6）under foot（在地面）
+We found it very slippery under foot.
+7）under one's hat（秘密的）
+We don't want this information to be made public. So keep it under your hat.
+8）under lock and key（妥善地锁藏着）
+All the valuables were kept under lock and key.
+9）under the sun（天下，世界上）
+There's nothing new under the sun.
+He gave every excuse under the sun.
+10）under the weather（有点不舒服、不太愉快）
+I am not really ill; I am just feeling a bit under the weather.
+　
+underneath
+　　underneath也用来表示“在……下面”的空间位置，常可以与beneath, under, below等互相替用。例如：
+A cat was sleeping underneath the table.
+Note:
+1.underneath主要表示相对的空间位置，有时也由表示“空间位置”引申为“在……形式下”、“在……支配下”等意思。例如：
+Underneath his apparent politeness there was deceit and cunning.
+They are living underneath a tyranny.
+2当underneath表示空间位置时，常可以与underbeneath,below等替用。
+beneath, below或under常可以引申表示其它非物质、非空间的意思，形成一些固定的词组，例如：beneath notice, beneath contempt, below the belt, under Queen Elezabeth I, under such conditions,这些词组中的beneath, under或below均不能与underneath替用。
+　
+unlike
+　　介词unlike是介词like加前缀un-后形成的，意思是“不象”、“和……不同”。例如：
+The two brothers are completely unlike each other.
+He is quite unlike any of my other friends.
+　
+unto
+　　unto的意思是“对”、“到”，属于古旧用语，相当于现在的to。在现代英语里，unto仅用于诗歌及少数固定的成语。例如：
+Do unto others as you would have others do unto you.
+Do unto them as they do unto us.
+　
+up
+　　up常与“运动”的动词连用，表示“由下向 上”的运动。up与down相对应。例如：
+The brave firemen quickly climbed up the ladder and rescued the old man.
+As you get higher up the school you get more home-work.
+Note:
+　　up也可以表示静止的空间位置，即“在（高处）”、“在……上面”。例如：
+His office is up the stairs.
+　　当up与road, street, path, passage等连用时，含有along的意思，而并不一定是向上运动。例如：
+We walked up the path to the front door.
+He whistled as he went up the passage.
+Note:
+1离开说话者的运动通常用“go up…”，向着说话者的运动则用“come up…”。试比较：
+Who is this coming up the road?
+Who is that going up the road?
+2“come down the road”和“go down the road”都可以表示离开说话者的运动，也都可以表示向着说话者的运动。
+3.up跟along一样，表示静止的空间位置时，意思是“在……的那一端”。例如：
+He lives just up the road.
+C由下游向上游的运动也用up，因此有“由……上游”、“逆着……的方向”的意思，表示静止的空间位置时，就是“在……上游”。例如：
+The ship sailed up the river.
+The ship is up the river.
+They ran up (the ) wind.
+D由沿海到内地，由南方到北方，由次要地点到重要地点等均用up，反之用down。例如：
+They marched up country with Indian guides.
+We travelled up north.
+　
+　
+upon
+upon是副词up与介词on组合成的介词，意思等于on，但upon主要用于正式文体。在多数情况下upon可用来代替on，但upon习惯上不能表示“在……身上”、“由……支付”、“在……状态（过程）中”等意思，也不能表示某一特定的“时、日”，如不能说upon Friday, upon May 9th,应该说on Friday, on May 9th，但可以说upon his arrival, upon the morning of May 19th.
+　
+　
+up to
+　　up to是由副词up与介词to构成的复合介词，它的基本意思是“到”、“直到”，可以表示“时间的限度”、“程度”、“胜任、适应”等，在口语中还用于表示“忙于、搞”，“责任、义务”等。
+A“直到”
+表示时间的限度，例如：
+Up to that time, all had gone well.
+Up to now, I've never met her.
+Note:
+1.up to表示时间时，常指“到过去某个时刻为止”的状态，因此常用过去完成式（有时也用过去式）。up to now表示“到现在为止”的行为或状态，表示“到将来某时间”只能用till (until)， 不能用up to。试比较：
+Up to that time I had been in the country.
+I shall stay here till the end of this month.
+2下列句中up to之后所指的时间不是过去、现在或将来，而是指“一般情况下的时间终点”，因此动词用一般现在式。例如：
+On Friday the shops keep open up to 6 p.m..
+3当up to之后接的不是某一点时间，而是一段时间时，up to之后的这段时间通常是不包括在内的。例如在“He worked up to Saturday”这个句子中，He只工作到星期五，星期六那天就没工作了。
+B“到”、“达到”
+表示程度，例如：
+This article does not come up to standard.
+He was up to any villainy.
+Note:
+1表示程度的up to有时引申为“包括”的意思。
+Everybody works, from the boy who sweeps the floor up to the president.
+2.up to有时还引申为“知道”的意思。
+We were up to their tricks.
+Sam was not up to many things about a horse.
+C“胜任”、“适宜”
+例如：
+I don't feel up to the job.
+Do you feel up to going out, or does your head hurt?
+Note:
+　　up to表示“胜任”、“适宜”时，通常用于否定句或疑问句，表示“不胜任”、“不适宜”。
+D“忙于”、“搞”
+例如：
+Those boys are always getting up to mischief.
+What are you up to with that knife?
+Note:
+　　be / get up to常含有“搞……名堂”这样指责的意味。
+E表示责任、义务，“该由……”、“轮到……”
+例如：
+It's up to you (=It is your duty) to do your best.
+It's up to you whether you decide to take the job.
+Note:
+在口语中常用“be up to someone”这样的词组表示责任或义务。
+　
+　
+via
+　　via是拉丁介词，主要表示“取道、经由”，“通过、利用”等意思。
+A“取道”、“经由”
+例如：
+They flew from Boston to San Fransisco via Chicago.
+He is on the way to London via Paris.
+B“通过”、“利用”
+例如：
+I've read this French play via an English translation.
+They arrived at a solution via scientific investigation.
+Note:
+　　在美国口语中，有时用via来表示搭乘交通工具，例如：
+You folks going via car or railroad?
+On April 26, 1860, 264 Chinese arrived in Victoria via a Norweigian vessel.
+　
+　
+with
+　　with主要可以表示“与……一起（一致，同时）”、“具有，带有”、“用（工具）”、“以（方式）”以及“原因”、“材料”、“对象”、“关联”等意思。
+A“与……一起”、“跟……一起”
+例如：
+He discussed with you the work you have done.
+The man who shared the room with him was a self-confident fellow called Adams.
+Note:
+1.have a talk to与have a talk with都很常用，但have a talk to是“从单方面看问题”，因此常用于“劝告”、“责备”等场合；have a talk with常含有“双方共同讨论”的意思，不过这两个词组常被互用，没有什么差别。
+2在“He sends you this with his compliments”这样的句子中，with的基本意思也是“与……一起”，并由此引出某些套语。例如：
+With the author's compliments.
+With love and good wishes from John.
+B“在……一边”（指赞成、支持等）
+例如：
+Are you with me or against me?
+During the Second World War, the American fought with the English against the Germans.
+C“跟……（对手）”、“对着……（敌手）”
+例如：
+In 1066 the English fought a great battle with the Normans.
+It's no good trying to compete with those who have so much more experience than you.
+D“与…… 一致”、“与……同方向”
+例如：
+Do you think this red tie goes with my blue suit?
+There is no help for it, they must swim with the tide.
+E“与……同时”、“随着……”
+例如：
+The old man gets up every morning with the sun.
+Times change, and we must change with them.
+F“具有……”、“带有……”
+例如：
+It was a big room with six tall windows.
+I saw the man with the scar on his face.
+Note:
+　　当of与with表示“having”时，of后接抽象名词， with后接具体名词，如a man of courage, a man with money, a coat of many colours, a coat with two pockets, a girl with blue eyes。
+G“尽管”
+　　with作此用时，后接名词常冠以all或最高级形容词，例如：
+With all his faults he was a kind-hearted fellow.
+With all his abilities, he failed completely.
+He failed with the best of intentions to win the sympathy of his pupils.
+H说明“附带情况”
+例如：
+He died with his life's work still unfinished.
+I know there isn't a better-hearted person than you anywhere&#0;&#0;and I say that with my hand on my heart.
+I“以……的方式”
+例如：
+She spoke Italian, French and German with ease.
+He opened the door and, with a smile and some words of welcome, shook hands with me.
+The sick man climbed the steps with great difficulty.
+Note:
+1许多形容词都有相对应的抽象名词和方式副词，因此表示行为的方式时常有下列三种方法（前两种为比较正式的用法）；
+She greeted us in a very courteous way.
+She greeted us with great courtesy.
+She greeted us very courteously.
+2在“You may borrow the book with pleasure”一句中，with是表示“伴随”，而不是表示“方式”。这里是“出借者乐意出借”，而不是“借者乐意借”。这句话相当于：I shall be pleased to lend you the book对照下句：It is with great pleasure that I give you the prize.
+J“由……处理（负责）”
+例如：
+The watchmaker said my watch wanted cleaning, so I left it with him.
+It rests with you to decide.
+K“由于”、“因为”
+例如：
+The old man was bent with age and dying with hunger.
+She was jumping about with excitement and joy.
+Note:
+　　短语“what with…and what with…”的意思是“一方面由……一方面由于……”，这个短语也可以写成“what with…and …”，意思相同。它们特别用于表示某些不利的因素。例如：
+What with war and what with famine, the nation was almost exterminated.
+L“以……工具”
+例如：
+He sharpened his pencil with a small knife.
+What will you buy with the money?
+Note:
+　　with作此用时，后接“工具”； by后接“行为者”，二者不可混用。试比较：
+He was murdered by the angry mob (=The angry mob murdered him).
+He was murdered with this old knife (=Someone used this old knife to murder him).
+M“有……”、“由……”
+指“材料”、“内容”
+例如：
+The floors were broken and the building was swarming with rats and mice.
+There were three or four bookcases filled with books.
+N“关于……”、“就……而言”、“对……”
+表示关联，例如：
+Did you have much trouble with your French when you were there?
+There is nothing serious the matter with you, but you are rather run down.
+Note:
+1在口语中，with常与某些副词连用，构成祈使句。实际上这种结构可以理解为省略了某个动词，而with之后所接的就是这个动词所表示的行为的对象。例如：
+Down with tyrants! (=Let tyrants be punished!)
+Off with his head (=Cut off his head)!
+Now then,out with it (=Tell us what we want to know)!
+Off to bed with you!
+2在短语to do with中，with表示“关联”，在这个短语之前常用anything, nothing, something等词，有时也有不用的。例如：
+His job has something to do with schools.
+That's nothing to do with me.
+The letter has to do with your application for entry to the university.
+3短语could / can do with含有“将就”、“能对付”、“需要”、“希望得到”等意思。例如：
+I could do with a good holiday.
+I could do with a cup of tea.
+Can you do with cold meat for lunch?
+　　否定式can't do with则暗示所指事物有“inconvenient”,“not desired”等意思。例如：
+I can't do with visitors when the house is being redecorated.
+I can't do with loud music.
+　
+within
+　　within的意思是“在……之内”，可以表示“空间位置”，也可以表示“抽象范围”。
+A“在……里面”、“在……内部”
+例如：
+By x-rays we can see what is within the body.
+No sound came from within the big house.
+Illness kept him within doors.
+B“在……范围内”、“不超过……”
+A）表示抽象范围，例如：
+Shout if you want me; I shall be within hearing.
+It is not within my power to do what you ask.
+B）表示时间范围，例如：
+You must pay me back within one month.
+Within a very short time of being here I was told that the Cathedral in New York is the largest "Gothic" Cathedral in the world.
+Note:
+　　within表示“时间范围”时，意思是“不超过”，常暗示时间的“短暂”；in 则表示“经过若干时间”，有时也表示“在若干时间以内”。试比较：
+I'll be there within an hour (=in less than an hour).
+I'll be there in an hour.
+C）表示距离范围，例如：
+We are within a few miles of home when the accident occurred.
+He lives within a stone's throw of us.
+Note:
+　　短语within an ace of的意思是“离……只差一点儿”，来源于赌博用语，本意是“差一点就赢了”。例如：
+We are within an ace of achieving our purpose.
+　
+　
+without
+　　without 主要用于表示“不”、“无”、“没有”、“缺”等否定的意思，有时还有“在……外面”、“在……范围之外”等意思。
+A“没有与……在一起”、“没有”
+例如：
+Mr Joyloy is going on holiday without his wife.
+I don't like a house without a bathroom.
+Note:
+1. without之后有时接动名词或动名词短语，明确表示“没有做某事”。例如：
+You can't have omelettes without breaking eggs.
+2.without之后的及物动名词经常可以省略。只留下这个动名词的宾语。例如：
+He has gone without (taking) his umbrella.
+3.not without是一种“克制性的陈述”，这里带双重否定，其意思是肯定的，但语气比较委婉。例如：
+He appointed General Grant to take command not without considerable opposition from the rest of the cabinet.
+I rejected his proposal, and not without reason (=I had a very good reason).
+4“never (no, not)…without”等句式也是双重否定，但这种结构却常起着加强语气的作用，如：
+The two can never meet without quarreling.
+He cannot speak English without making mistakes.
+No one may enter or leave without permission.
+5.do without, go without等短语的意思是“没有……照样……”
+例如：
+I haven't enough money to buy a car, so I'll just have to do without one.
+There isn't time for breakfast; we'll have to go without it.
+6短语do without之后所接的东西，有时从上下文可以看出，有时是泛指，因此被省略了。这时without成了副词。例如：
+If we haven't any sugar, we shall have to do without.
+They have got used to doing without.
+7.without所组成的介词短语有时含有条件的意思，相当于一个条件从句。例如：
+I can't do it without your help.
+B注意下列短语的意思：
+1) go without saying （不消说）
+It goes without saying that he will come.
+2) without fail（务必，必定）
+I promise to be here at nine o'clock without fail.
+3) without number（多得数不清）
+I have told you times without number and you still forget.
+4) without doubt（无疑，肯定）
+Without doubt, he is the fastest runner today.
+5) without exception（毫无例外地）
+Everybody without exception volunteered to donate a pint of blood to the hospital.
+C“在……外面”、“在……外部”、“在……范围以外”、“超过……”
+例如：
+He stood without the gate.
+The forts were without the range of the guns.
+　

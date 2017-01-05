@@ -1,0 +1,557 @@
+
+After discussing with AMT, it seems
+utilize 
+Would it be possible to transfer the property under my name?
+after internal resource review and discussion
+Please help to arrange/re-arrangement
+headcount
+
+As far as I know the candidates for COS browser support (2) are not available yet, 
+please help to accelerate the resource allocation process
+
+As mentioned above, 
+
+After 3 months, I found *** isn't suitable for Market issue clarification. 
+
+I would like to ask another personnel to replace. 
+
+Btw, you don't need to file leave application since it's business trip
+
+Well, as far as I know you are going to take Colin's position, 
+so to me it's reasonable to join COS global meeting. Unless you are just being there for fun...
+
+In order to support MASD Android application outsourcing tasks, with the
+assistance from Build Team a dedicated APK prebuild server
+(http://10.116.72.24:8080/hudson/) is setup for outsourcing members to
+
+As mentioned in the mail below
+
+Hi AMT folks,
+
+As mentioned in the mail below, not only U13, U17 and U12 also suffer
+good, experience engineers leaving. Furthermore, in some cases people
+leave before qualified replacements onboard or job transfer completion,
+which cost MASD more effort in on-job training and assignment
+rescheduling.
+
+ 
+
+Please take this phenomenon as a serious indication that the MASD has
+significant concern about  personnel stability of AMT, and corresponding
+improvement plan is expected. 
+
+ 
+
+Please let me know if there is any further question, and look forward to
+your feedback. Thanks.  
+
+
+Hi Baochi,
+Due to hardware utilization and performance improvement, MIS redefines the
+default hard drive volume to 150G:
+1.	Please ask AMT partners to clean up the hard drive by removing
+obsolete data;
+2.	MIS will start hard drive reconfiguration of each VM soon. The
+process and schedule will be announced in advance by MIS before proceeding
+3.	If there is any exception for larger capacity, please list the
+reasons and expected size.
+
+Please let me know if there is any further question. Thanks. 
+
+Louis Hsu
+
+
+Dear partner,
+
+
+
+
+
+Hi Baochi,
+
+ 
+
+Since there is already meeting arranged in the morning next Monday (5/20), shall we start the regular video conference from 5/27 (from AM 10:30 – 12:30)? (That is, the regular meeting next Monday still starts in the afternoon). Thanks.
+
+ 
+
+Regards,
+
+Fish
+
+
+
+I would like to arrange the interview around 3:00 pm in tomorrow afternoon
+
+Please send me the source code and apk if any.
+
+Is it ok for you?
+
+If you have any question, please let me know.
+
+Hi Iver, as my understanding, all AMT users should be assigned a HTC mail account, and they should use this mail account for communication related to HTC tasks.
+
+Hi Baomai, may I have your assistance to check the HTC mail account for them? Thanks a lot
+
+Louis Hsu
+
+
+
+
+Hi Baochi, Yan,
+I will be in personal leave from 0503 to 0507, might not be able to access email in time. FYI.
+
+Louis Hsu
+
+
+
+Hi Baochi, 
+
+After double check internally, AMT’s record is correct about ZM OT on
+0316, which mean there is no other concern about AMT cost/attendance for
+March 2013. Sorry for inconvenience. 
+
+ 
+
+Louis Hsu
+
+
+
+================================
+
+
+due to
+Due to the difference between Taiwan and China about official New Year holiday arrangement.
+due to和because意思是一样，但是due to后跟词或词组，Her absence was due to the storm. because后跟句子，She is absent because she is ill.due to可以跟because of互换
+
+refer to  查阅
+please refer to attachment
+
+is marked as
+non-working day
+Non-working day is marked as Red
+
+accordingly
+People marked as Green will follow their vacation application accordingly. 
+
+Please arrange your task assignment and review process accordingly to avoid resource idle, and let me know if there is any further question. 
+
+------------------------
+kickoff
+
+in AMT ODC NJ
+
+SSD contact window Daniel Tsai can upload the source code while available.
+
+As you might note, 
+
+Attachment is current member list we have, but I am sure this info is out of date. May I have your assistance to double confirm the list and update it before 1500 today? Thanks a lot
+
+At present MASD is thinking to extend outsourcing task from framework to application, and we will like to know related experience and working model from Archermind in advance. Can we have a conf call on 1100 next Monday (0107) for further discussion? Please send out meeting invitation if there is no further question. Thanks.  
+
+at present 目前
+
+in advance 在前头；预先，事先；提前；先期
+
+have a conf call
+
+
+
+
+2 senior engineers have requested to leave while outsourcing project just kicks off around one month. 
+when是at or during the time that, 既指时间点，也可指一段时间，while是during the time that，只指一段时间，因此when引导的时间状语从句中的动词可以是终止性动词，也可以是延续性动词，而while从句中的动词必须是延续性动词。 
+
+Although timing (end of year) might be one reason, but the concern of frequent  AMT personnel changing is still there (especially both are senior)
+personnel 员工
+
+
+May I have your comment and suggestion about this situation? 
+
+Here I loop in Jacky Lin
+
+
+----------------------------
+(Loop in AMT git administrator Yan Wen)
+
+Hi Yan,
+
+As you might note that currently HTC is setup new IT development environment for outsourcing vendors, and we target to have pilot run with AMT between 0103 ~ 0115. Meanwhile, new git server and build server will be setup inside new IT environment and managed by HTC directly.
+
+ 
+
+Here I loop in Jacky Lin, who is assigned as git server administrator for HTC git server. I will describe current MASD/SSD code sync mechanism by following up this mail, and would like to have your assistance to illustrate the process you run on current AMT git server while receiving code from MASD, so Jacky can leverage your experience to setup HTC git with similar mechanism 
+
+ 
+
+Hi Jacky, 
+
+Please allow me to introduce Yan, who is the administrator of AMT git server located inside ODC NJ. He helped HTC to setup gerrit and git server for code sync, code review and account management. Also he built up a build server inside ODC to facilitate build tasks triggered by AMT RD. I will initiate the topic about current code sync mechanism by following up this mail so we can discuss/setup the code sync up mechanism inside HTC Citrix VM environment. Thanks
+
+ 
+
+Louis Hsu
+
+----------------------------
+Hi Yan, as discussion, please also think about the permission and working model AMT suggests to facilitate your development work. Thanks
+----------------------------
+Hi Baochi, Shirley,
+
+Regarding resource forecast for Jan provided in the beginning of 12/2012, there might be some changes for MASD part:
+
+1.       Steve expects MASD to expand outsourcing topic from current framework task to applications area, and would like to have pilot tasks initiated in Jan. This implies MASD needs more resources starting in Jan than the forecast we provided in Dec.
+
+2.       Nevertheless, the topic, scope and resource requirement is not lockdown yet. 
+
+3.       In order to leave buffer for candidates interview, lockdown and training if necessary, here is the plan:
+
+-          MASD will update the resource requirement before 0109
+
+-          MASD would like to lockdown resource list and start training/task on 0121
+
+4.       As for Feb resource forecast, MASD will update a new one around mid of Jan after application outsourcing plan is more tangible.
+
+ 
+
+Please let me know if there is any further question, and thanks for your assistance. 
+
+ 
+
+Louis Hsu
+----------------------------
+Hi Yan, Baochi, here is the topics and todo list:
+
+1.       Test branch update mechanism with same branch name to keep build task script intact
+
+2.       Check current Ubuntu VM to see if development environment can fulfill AMT RD request
+
+3.       The build script of each build task
+
+4.       Mechanism lockdown about source code sync/update with SCM inside Citrix
+
+5.       Grant Yan permission on SCM gerrit for necessary git operation
+
+ 
+
+Furthermore, Baochi, as Mail/OCS setup and activation:
+
+1.       Please install OCS and other required Windows application (mail, office, e.g.) on your local desktop inside ODC. The reason is:
+
+-          To relieve the physical server loading and bandwidth
+
+-          Simplify the network configuration/management inside Citrix 
+
+2.       Regarding your local desktop configuration, I will suggest to install Ubuntu with VirtualBox to run Windows
+
+3.       Regarding the copyright and license of MSFT software and OS, I will discuss with Shirley (AMT) and KL (HTC) to clarify it.
+
+ 
+
+Please let me know if there is any further question. Thanks. 
+
+ 
+
+Louis Hsu
+----------------------------
+Hi Yafeng, 
+
+May I have your assistance to check if 2 gerrit servers work correctly:
+
+-          http://58.213.152.250:8442/
+
+-          http://58.213.152.250:8443/
+
+ 
+
+It seems both are not available now.
+
+ 
+
+Louis Hsu
+----------------------------
+Hi Colin, thanks for your feedback.
+
+Basically we will like to understand the experience and working model Archermind runs with other clients, so HTC can identify the app suitable for outsourcing and adopts fitting working model for further collaboration.
+
+ 
+
+If there is no problem, I will send out the meeting invitation directly with conf call info. Thanks
+
+ 
+
+Louis Hsu
+----------------------------
+Hi Colin,
+After confirmation with Steve, attachment is the resource requirement and contact window list of tasks from MASD (please note the contact windows might be changed, and will update to you if any change occurs)
+ 
+As mentioned in the performance review meeting on 1022, HTC/MASD would like to set 1101 as project kick-off date. Please start the discussion with each contact window directly to have clear idea about task assignment and resource requirement (basically we will like to keep the same crew for the tasks ran in the pilot project). Please let me know if there is any further question.
+ 
+Hi HTC folks, Colin is RD manager from AMT for HTC outsourcing project. Please initiate the discussion directly to AMT for your task/assignment and training plan if any.
+ 
+Louis Hsu
+----------------------------
+Hi Colin, regarding candidates for U13 and U25, I assume the original crew in pilot project should be allocated for further proceeding. As for U12, Fish Weng will provide the detail job description and candidates criteria. Thanks
+
+Hi Fish, please help to list down job description and candidate criteria for emulator and SDK whitebox verification, thanks
+
+Sent from my HTC
+
+----------------------------
+Hi folks,
+
+In order to move current git repository into new git server with merging current AMT multiple build lines into one mainline, AMT would need to work on one fixed code base, so we are planning to suspend source code sync from HTC to AMT side until next Monday (0114) with movement completion.
+
+Please let me know if you have any concern or special requirement, or we will suspend regular code sync starting from tonight. Thanks
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi Yafeng, 
+
+According to the update from Vincent, I will wait for the update from Vincent around 1730 to confirm the final IP address.
+
+ 
+
+Hi Yan, since public IP is change, do I need to change the script accordingly for rsync?
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi Susi,
+Here is the how to: http://ubuntuforums.org/showthread.php?t=626540
+Not sure if it's still valid though.
+
+Hi Baochi, can you give it a try?
+
+Louis Hsu
+
+----------------------------
+Hi Yan, 
+
+git gc is completed. Since TPE office will be shutdown from 0600~0900 tomorrow for annual maintenance, I will run rsync now manually, shutdown the mirror server and restart it on Sunday. Please let me know if there is any further question
+
+ 
+
+BTW, do I have to run git gc periodically? 
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+(Loop in U25 members)
+
+Hi Baochi, after internal resource review and discussion:
+
+1.       Please help to arrange U11舒三毛 to leave the project team on 0531, and U11 will stay in 10 resource headcount (original is 11). The tasks of舒三毛 will be taken care by U11 outsourcing resource re-arrangement
+
+2.       The one extra headcount will be assigned to U25 for COS browser support. So before adjustment U25 headcount is:
+
+Android browser: 3
+
+COS browser: 1
+
+After adjustment:
+
+Android browser: 3
+
+COS browser: 2
+
+3.       As far as I know the candidates for COS browser support (2) are not available yet, please help to accelerate the resource allocation process
+
+ 
+
+Hi Chihwei, Tom,
+
+As mentioned above, there will be one extra AMT headcount to U25 for COS browser support, which implies the total AMT headcount for U25 is increased from 4 to 5. Please let me know if there is any further question. Thanks. 
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi Louis
+
+ 
+
+As discussion, please help to arrange 4 more AMT resources to invoke on Dalvik related tasks.
+
+Requirements:
+
+1. Senior engineers with good coding experience
+
+2. Familiar with C, C++, ARM instruction set  
+
+3. Dalvik/Android related working experience
+
+ 
+
+As usual, we will have interview for the candidates
+
+thanks
+
+
+----------------------------
+Hi Hankuan, 
+
+So let me rephrase your request and my question:
+
+1.       The resource head account for U13 is from current 6 to 8 (2 more from AMT)
+
+2.       Regarding resource allocation:
+
+Dalvik – from 4 to 8 (So you still need to acquire 4 new resources from AMT?)
+
+Test case – from 2 to 0 (So you will release these 2 or transfer to Dalvik task? If release, when is the due date)
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi Baochi, attachment is the process we would like to adopt for account update. At present Alice Chen will be the owner for AMT account update and onboard package application based on the headcount update information from SP/email from AMT. 
+
+ 
+
+Please let me know if there is any further question. Thanks. 
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi Baochi, this is only for MASD TW since Alice can only take care MASD account changing. However you might want to propose similar process to other HTC depts from AMT perspective to unify the account management. 
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+Hi all, 
+Due to security concern, we have to block all non-authorized IM traffic inside ODC. Currently only HTC OCS is allowed to be installed on Archermind local PC only for instant communication so MIS can control/manage the operation and information leakage risk.
+
+As for virtual desktop requirement, may I know if this is the blocker for UA team to run code review and deliverable discussion? As my understanding:
+1. Source code is uploaded to P4 server (RoseData), so both sides can run code review via P4
+2. As for look-and-feel discussion, both sides can access test site for instant interface change by updating code.
+
+Indeed the virtual desktop can accelerate the communication and coordination between HTC/AMT, and we still work with MIS to see if there is other way to achieve this goal. Thanks for your understanding, and please let me know if there is any further question. 
+
+Louis Hsu
+
+----------------------------
+Hi Baochi, can you help to check:
+1. If ZM can install Windows as native/primary OS on his local PC inside ODC
+2. Install official MSFT OCS client on local PC to support text/audio/video and virtual desktop
+
+Please let me know if there is any further question. Thanks
+
+Louis
+
+----------------------------
+Dear Baochi,
+
+Thanks for the info, I already accept 王宗民's invitation.
+
+By the way, we will setup some rules with 宗民 and send you report by weekly for your reference.  And the rules maybe slightly change depending on conditions, please feel free to let me know if you have any concerns.
+
+ 
+
+1.       Write daily status report.
+
+2.       AMT developer will receive task via Manits.  
+
+  a.  Due date (the date AMT Web Developer and HTC get consensus mutually, if the due date is slipped without acceptable reason, then it is overdue)
+
+  b.  Start date: (the date AMT Web developer starts to perform the task)
+
+  c.   End date:(the date AMT developer finishes the task by attached 2 test reports in the mantis)
+
+  d.  2 Test reports include pass klocwork, and test service.
+
+  e.  Actual finished date (HTC web owner official release date)
+
+3.       AMT developer must check-in built pass code daily in perforce.
+
+4.       Before check-in built pass code, HTC web owner must do code review, and examine if the codes are followed coding convention, written comment, function meets our expectation, and code quality, etc..
+
+5.       We will base on above 4 items [1. Daily status report, 2. on-time delivery 3. Discipline, 4. Quality] to review developer and send the report to AMT PM, Baochi weekly. 
+
+6.       We will not accept if final code has fatal bug or slip due date without reasonable reason, if so, AMT developer must provide root cause, solution and improved plan.
+
+Sincerely,
+
+Sophia
+
+
+----------------------------
+Hi Baochi, as my understanding SSD had encountered the similar issue before. In fact if my memory is correct, that's the first case Kan complained Citrix solution is not workable while using WINE to run Windows diff application.
+
+The configuration for Ubuntu VM is pretty high end (16-core + 8G memory), and I guess WINE solution on Linux might cause some performance flaw whiling running on visualization platform (might need to some tech support from Citrix
+
+At present what I can suggest is to use native Linux application for source code tracing and editing.
+
+Louis Hsu
+
+----------------------------
+Hi Sophia, Eliza
+
+In order to accelerate the outsourcing process, may I have your assistance to provide candidate qualification and head accounts required before EOD today (0109)? If possible I will like to initiate candidate interview process no later next Monday (0114), or we can have detail discussion with AMT directly this week to understand the scope of tasks going to outsource.
+
+ 
+
+Please let me know your feedback and schedule. Thanks. 
+
+ 
+
+Louis Hsu
+
+
+----------------------------
+
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+

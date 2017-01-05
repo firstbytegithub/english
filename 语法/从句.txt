@@ -1,0 +1,4308 @@
+第1章 从句
+
+百科名片
+
+从句（Subordinate Clause）是复合句中不能独立成句，但具有主语部分和谓语部分，由that、who、whom，when，why，where。how，which等引导词（Connective）引导的非主句部分。
+目录
+
+分类
+表语从句
+宾语从句
+三要素
+连接词
+分类
+同位语
+展开
+分类
+表语从句
+宾语从句
+三要素
+连接词
+分类
+同位语
+展开
+编辑本段
+分类
+
+从句不能单独成句，但它也有主语部分和谓语部分，就像一个句子一样。所不同在于，从句须由一个关联词（connective）引导。根据从句语法功能的不同可分为：主语从句、表语从句、宾语从句、同位语从句、定语从句和状语从句6类。前四类由于主语从句、表语从句、宾语从句及同位语从句在句子的功用相当于名词，所以通称名词性从句；定语从句功能相当于形容词，称为形容词性从句；而状语从句功能相当于副词，称为副词性从句。状语从句还可以分为条件状语从句、原因状语从句、地点状语从句、目的状语从句、让步状语从句、比较状语从句、方式状语从句、结果状语从句和时间状语从句。
+1．主语从句（Subject Clause）：用作主语的从句叫主语从句。引导主语从句的关联词有从属连词、疑问代词、疑问副词、缩合连接代词、缩合连接副词等。
+2．表语从句（Predicative Clause）：用作表语的从句叫表语从句。引导表语从句的关联词与引导主语从句的关联词很多都一样。
+3．宾语从句（Object Clause）：在句子中起宾语作用的从句叫做宾语从句.宾语从句分为三类：动词的宾语从句、介词的宾语从句和形容词的宾语从句。
+4．同位语从句是名词性从句(主语从句、表语从句、宾语从句、同位语从句)中的主要从句之一，从句作同位语表示与之同位的名词(短语)的实际内容，它的作用相当于名词，对前面的名词(短语)加以补充说明或进一步解释，相当于一个表语从句，它们之间的关系是同位关系，即主表关系。
+5．定语从句是由关系代词或关系副词引导的从句，其作用是作定语修饰主句的某个名词性成分，相当于形容词，所以又称为形容词性从句，一般紧跟在它所修饰的先行词后面。
+6．状语从句可分为：
+(1)时间状语从句：(adverbial clause of time)
+(2)地点状语从句：(adverbial clause of place)
+(3)原因状语从句：(adverbial clause of cause)
+(4)条件状语从句：(adverbial clause of condition)
+(5)目的状语从句：(adverbial clause of purpose)
+(6)让步状语从句：(adverbial clause of concession)
+(7)比较状语从句：(adverbial clause of comparison)
+(8)方式状语从句：(adverbial clause of manner)
+(9)结果状语从句：(adverbial clause of result)
+7.德语中的从句：状语从句和宾语从句均用 Dass 来引导
+编辑本段
+表语从句
+
+连接表语从句的连接词有：that, what, who, when, where, which, why, whether, how, whoever，whomever，whichever ，whatever等。还有如because, as if, as thou[1]gh等。
+He has become a teacher.
+他已经成为一名教师。
+He has become what he wanted to be ten years ago.
+他已经成为了他10 年前想成为的。
+His suggestion is good.
+他的建议是好的。
+His suggestion is that we should stay calm.
+他的建议是，我们应该保持冷静。
+The question is confusing.
+这个问题令人困惑。
+The question is when he can arrive at the hotel.
+问题是，他什么时候可以到达酒店。
+编辑本段
+宾语从句
+
+定义
+宾语从句就是一个句子作动词或介词的宾语。宾语从句在复合句中作宾语，位于及物动词后。
+Tell him which class you are in.
+Do you know what he likes？
+【注】宾语从句的分类
+A 、作动词的宾语：
+eg．I heard the news
+I主语　heard谓语动词　the news.名词作宾语
+I主语　heard谓语动词　that he would come here later on.一个句子作宾语---宾语从句
+B 、作介词的宾语：
+eg．He said nothing about the plan。
+He主语　said谓语动词　nothing 代词作动词的宾语 about 介词 the plan. 名词作介词的宾语
+编辑本段
+三要素
+
+1：语序
+宾语从句必须用陈述语序。
+False: He is wondering when can he finish this difficult job.
+Right: He is wondering when he can finish this difficult job.
+【注】否定前移，及完成反义疑问句；
+在think/believe/suppose/guess/imagine/expect等动词后跟宾语从句否定式时，可以转移到主句上去，完成反意疑问句时，应与从句主、谓保持一致。（注： 否定前移的条件是，主句主语是第一人称）
+I don't think you are right,are you
+I don't believe they have finished their work yet,have they
+【注】在表示建议suggest,advise；要求demand 、desire、require、request、propose； 决定 decide; 命令 order、command; 坚决主张 insist; 等动词后跟宾语从句，用（should）+v．（虚拟语气）
+I suggested that you（should）study hard．
+He ordered that we should go out at once．
+【注】如果宾语从句后有宾语补足语，用it作形式宾语，把宾语从句后置
+You may think it strange that he would live there．
+2：连接词
+带有宾语从句的复合句就是用连接词把一个主句和一个宾语从句连接在一起。连接词有：that(可省略)，what,who,when,where,why,which,if,whether,how.
+1．从句为陈述句，常选择连接词that或将that省略，直接与主句相连。
+【注】that常在以下情况下不能省略
+（1. 当that作learn,suggest,explain,agree,wonder,prove,mean,state,feel,hold等动词的宾语时；
+（2．当宾语从句较长时；
+（3．当主语状语置于主句尾，宾语从句之前时；
+（4．当主语谓语动词(包括非谓语动词)与宾语从句之间有插入语时；
+（5．当一个动词带有两个或两个以上宾语从句时，此时第一个that可以省略，第二个that不可以省略；
+（6．当宾语从句中的主语是this,that或this,that做主语的定语时；
+（7．当宾语从句是双宾语中的直接宾语时；
+（8．当宾语从句的主语是非谓语动词或主语从句时；
+（9．当主语中的谓语动词是固定词组时；
+（10．当宾语从句有it做其先行词时；
+（11．在直接引语中，转述分句把宾语从句隔开时.
+2．从句为一般疑问句，常选择连接词if或whether。在whether…or not结构中不能用if替换。
+【注】if/whether区别
+①if和whether在作“是否”解时，引导宾语从句常放在动词know,ask,care,wonder,find out等之后，介词后一般不用if
+②少数动词，如：leave,put,discuss,doubt后的宾语从句常用whether.
+③whether后可以加or not,但是if不可以.
+④在不定式前只能用whether.
+如：I can’t decide whether to stay. 我不能决定是否留下。
+⑤避免歧异时，我们常用whether而不用if.
+3．从句为特殊疑问句，常选择what,when,where,which,why，who,how等的疑问代、副词作连接词。
+★当who为主语时，句式为：who+谓语+其他
+3：时态
+1．主句是一般现在时，从句时态不变。
+He says (that) he will leave a message on my desk.
+They know (that) he is working hard.
+2．主句是一般过去时，从句为各种相应过去时态。
+He answered that he was listening to me.
+3．主句是一般将来时，一般从句为一般现在时（“主将从现”）
+4. 当从句所叙述的事实为一个定理或客观存在时，无论主句是什么时态，从句均用一般现在时。但与人有关的均不是定理。
+He told me that he was a boy. （虽然性别是客观存在的，但“男”“女”也是人为定义的，故非第4种情况）
+Father told me that practice makes perfect. （所叙述的事实为一个定理，用一般现在时）
+例题
+1. The teacher told the children that the sun____ round.
+A. was B. is C. were D. are 选B，因其陈述为无可争议的客观事实
+2. I believe that our team____ the basketball match.
+A. win B. won C. will win D. wins 选C ，这是讲话人现在对将来情况的主观推测
+3.The soldiers soon reached( )was once an old temple( )the villagers used as a school.
+A.which;where B.what;which C.where;which D.what;where
+选B，动词reach后接宾语从句，从句缺少宾语，where不可，which引导宾语从句时表疑问含义“哪一个”而此句中并非疑问含义，不知道哪一座庙宇，而是用what从句表陈述含义，意“过去的一座旧庙宇”；temple后为对其修饰的定语从句，用关系代词which代替，并在从句中作动词used的宾语。注：use sth. as译为“把…用作”
+注意
+A. 有时候可以用it作形式宾语，而把真正的宾语从句放在后面。
+Bad: I thought that he could finish this　job in just two hours impossible.
+Good: I thought it impossible that he could finish this job in just two hours.
+Bad: He left whether we should continue this project to my judgment.
+Good: He left it to my judgment whether we should continue this project.
+B.带有宾语从句的复合句的否定形式一般是否定主句。
+Bad: I think he doesn’t like the English teacher.
+Good: I don’t think he likes the English teacher.
+C.False: He wanted to know why he is crying in the corner.
+Right: He wanted to know why he was crying in the corner.
+编辑本段
+连接词
+
+①从属连词
+连接宾语从句的从属连词主要有that，if，whether.that引导表示陈述句的宾语从句，而if和whether引导表示“是否”的宾语从句.
+例句：
+He told that he would go to the college the next year.
+他告诉我他下一年上大学.
+I don’t know if there will be a bus any more.
+我不知道是否还会有公交车.
+Nobody knew whether he could pass the exam.
+没人知道他是否会通过考试.
+②连接代词
+连接代词主要有who,whom,whose,what,whoever,whomever,whosever,whatever,whichever等.
+连接代词一般指疑问，但what,whatever除了指疑问外，也可以指陈述.
+例句：
+Do you know who has won Red Alert game.
+你知道谁赢了这一局红警游戏吗
+I don’t know whom you should depend on.
+我不知道你该依靠谁.
+The book will show you what the best CEOs know.
+这本书会告诉你最好的执行总裁该了解些什么.
+Have you determined whichever you should buy,a Motorola or Nokia cell phone?
+你决定好是买诺基亚还是摩托罗拉的电话了吗
+③连接副词
+连接副词主要有when,where,why,how,whenever,wherever,however等.
+例句：
+He didn’t tell me when we should meet again.
+他没有告诉我什么时候我们能再见面.
+Could you please tell me how you read the new panel.
+你能展示给我怎么用这个新的操作盘吗
+None of us knows where these new parts can be bought.
+没有人知道这些的新的零件能在哪里买到.
+编辑本段
+分类
+
+动词的宾语从句
+大多数动词都可以带宾语从句
+We all expect that they will win,for members of their team are stronger.
+我们都预料他们会赢，因为他们的队员更强壮.
+He told us that they would help us though the whole work.
+他告诉我们在整个工作中，他都会帮忙的.
+★部分“动词+副词”结构也可以带宾语从句
+例句：
+I have found out that all the tickets for the concert have been sold out.
+我发现这场音乐会的所有票都卖光了.
+Can you work out how much we will spend during the trip
+你能计算出这次旅行我们将花费多少钱吗
+★动词短语也可以带宾语从句
+常见的这些词有：make sure确保make up one’s mind下决心keep in mind牢记
+例句：
+Make sure that there are no mistakes in your papers before you turn them in.
+在上交试卷前确保没有任何错误.
+it的宾语从句
+①动词find,feel,consider,make,believe等后面有宾语补足语的时候，则需要用it做形式宾语而将that宾语从句后置.
+例句：
+I think it necessary that we take plenty of hot water every day .
+我认为每天多喝开水是有必要的.
+I feel it a pity that I haven’t been to the get-together.
+我没去聚会，感觉非常遗憾.
+I have made it a rule that I keep diaries.
+我每天写日记成了习惯.
+We all find it important that we (should) make a quick decision about this matter.
+我们都认为对这件事马上做出决定很重要.
+②有些动词带宾语从句时需要在宾语与从句前加it
+这类动词主要有：hate,take,owe,have,seeto.
+I hate it when they speak with their mouths full of food. 我讨厌他们满嘴食物时说话.
+He will have it that our plan is really practical. 他会认为我们的计划确实可行.
+We take it that you will agree with us. 我们认为你会同意我们的.
+When you start the engine,you must see to it that car is in neutral.
+开启发动机时，一定要使汽车的离合器处于空挡位置.
+③若宾语从句是wh-类，则不可用it代替
+We all consider what you said to be unbelievable.
+我们都认为你所说的是不可信的.
+We discovered what we had learned to be valuable.
+我们发现我们所学到的东西都是有用的.
+介词的宾语从句
+用wh-类的介词宾语从句
+We are talking about whether we admit students into our club.
+我们正在讨论是否让学生加入我们的俱乐部.
+The new book is about how Shenzhou 6 manned spaceship was sent up into space.
+这本新书是关于神州6号载人航天飞船是如何升如太空的.
+★用that,if引导的介词宾语从句有时候except,but,besides三个介词后可见到that引导的宾语从句
+I know nothing about my new neighbor except that he used to work with a company.
+对于我的新邻居我只知道他曾在一家公司上班，其他一无所知.
+形容词的宾语从句
+常用来引导宾语从句的形容词有：sure,certain,glad,please,happy,sorry,afraid,satisfied,surprised
+I am sure I will pass the exam. 我确信我会通过考试.
+I am sorry that I have troubled you so long. 很抱歉我这么长时间在打扰你.
+He is glad that Li Ming went to see him when he was ill. 很高兴在他生病的时候李明能去看望他.
+编辑本段
+同位语
+
+与先行词同位或等同的从句叫作同位语从句。其关联词多为that。
+同位语从句用法比较"固定",把关键的几个词背下来（下面这个材料供参考）：
+一、在复合句中用作同位语的从句叫同位语从句。它一般跟在某些名词后面，用以说明该名词表示的具体内容。如：
+I heard the news that our team had won．我听到了我们队获胜的消息。
+I had no idea that you were here．我不知道你在这里。
+二、可以跟同位语从句的名词通常有news，idea，fact，promise，question，doubt，thought，hope，message，suggestion，words（消息），possibility等。如：
+I’ve come from Mr wang with a message that he won’t be able to see you this afternoon． 我从王先生那里来，他让我告诉你他今天下午不能来看你了。
+三、英语中引导同位语从句的词中有连词 that，whether，连接副词 how,when,where等。（注：if 不能引导同位语从句。）如：
+l have no idea When he will be back．我不知道他什么时候回来。
+He must answer the question whether he agrees to it or not.
+他必须回答他是否同意这样一个问题。
+四、有时同位语从句可以不紧跟在说明的名词后面，而被别的词隔开。如：
+Several years later，word came that Napoleon himself was coming to inspect them．
+几年以后，有消息传来说拿破仑要亲自视 察他们。
+The thought came to him that maybe the enemy had fled the city．
+他突然想起可能敌人已经逃出城了。
+五、同位语从句与定语从句的区别。
+1．同位语从句与前面的名词是同位关系，即说明它前面名词的内容；而定语从句与前面的名词是修饰与被修饰关系，即限定它前面的名词范围，或补充一些情况。如：
+The news that l have passed the exam is true．我通过了考试这一消息是真的。
+（同位语从句，即从句所表达的意思就是前面名词的内容。）
+The news that he told me just now is true．他刚才告诉我的消息是真的。
+（定语从句，从句对前面名词起修饰限制作用，即“他告诉我的”那个消息，而不是别的消息。）
+2．引导同位语从句的that是连词，在从句中不充当任何成份，而引导定语从句的that是关系代词，除起连接作用外，还在从句中充当主语、宾语或表语等。如：
+The idea that computers can recognize human voices surprises many people.
+计算机能够识别人的声音的想法使许多人感到惊奇。（that在从句中不充当任何成份。）
+The idea that he gave surprises many people．他提出的观点令许多人感到吃惊。
+（that在从句中作gave的宾语。）
+一个名词(或其它形式)对另一个名词或代词进行修饰，限定或说明，这个名词(或其它形式)就是同位语。同位语与被它限定的词的格要一致，并常常紧挨在一起。
+1) 非独立的同位语：常出现在被限定词前
+Bruce Lee (姓名)李小龙
+Graf Schmidt (称号，浑名) 施密特伯爵
+Doctor Wang (职称，头衔) 王博士
+Uncel Liu (亲戚的称呼) 刘叔叔
+die Stadt Shanghai (类属名称) 上海市
+the Province Hebei (类属名称)河北省
+das Jahr 2000 (类属名称) 2000 年
+three Kilo tomato (度量名称) 三公斤西红柿
+the University Bremen (专有名词) 不来梅大学
+国际上另一种分法为关系从句
+关系从句（relative clause)
+关系从句的理解与翻译
+人们习惯称由关系代词that，which，who，whom，whose和关系副词when，where等引导的从句为“定语从句”，认为这种从句的功能同汉语定语相当，只不过英语的定语从句后置，汉语的定语前置罢了。但随着对语言认识的不断深入，人们发现很多这样的从句不能用定语来翻译。让我们先看一例：
+Kennedy was rushed to a hospital where he died immediately.
+若拘泥于“简短的定语从句可译为汉语前置定语”的观点，该句子就可能会被译为：
+肯尼迪被急忙送到一家他很快就死的医院。
+译文听上去荒谬可笑，仿佛送医院的目的是为了“很快就死”，这显然有悖原意。这里“where”起过渡连接的作用，相当于“and there”，在语义上属另一新层次，绝无修饰，更无限制“怎样的医院”之意。从句中“died”这一动作发生于主句中“was rushed”的动作之后，进一步交待了事情发展的结果。可见，这种结构难用“定语从句”来解释。因此有的语言学家主张将这种句子笼统称为“关系从句”。这种正名有利于我们摆脱“定语”的吏缚，深入分析该类从句形形色色的内在关系。所以，例1应译为：
+肯尼迪被急忙送到一家医院，在那里他很快就死了。
+让我们再多看几个例子：
+1． When he was still a little boy,Jack London wrote some compositions which were praised by his teachers.
+杰克·伦敦还是小孩时，他写的一些作文就受到老师的赞赏。
+(不宜译为：……他就写受到老师赞扬的作文。)
+2． I met the boatman who then took me across the ferry.
+我遇到了那位船夫，他将我渡到对岸。
+(不宜译为：我遇到那位将我渡到对岸的船夫。)
+3． While they were waiting there,a dog from one of the houses down the road began a wild,hoarse howl that continued until a voice called out and hushed him.
+他们正在那儿等时，从路边一幢房屋窜出的一条狗开始狂吠不止，直到有人出来喝住，它才停下来。
+(不宜译为：……一条狗开始了直到有人出来喝住才停止的狂吠。)
+4． In the torchlight，he caught sight of a figure whom he immediately recognized as Bill Wilkines,our local grocer.
+借着电筒的亮光，他看见一个人影，马上认出是当地杂货商比尔·威尔金斯。
+(不宜译为：……他看见马上认出的是当地杂货商比尔·威尔金斯的影子。)
+我们知道，汉语由于缺乏关系代词、关系连词等连接手段，通常只有以时间或逻辑为轴线安排句子，对语序的依赖性极大，如果把后发生的事做前置定语就会显得很好笑，如“送到一家很快就死的医院”“写受老师赞扬的作文”。而英语的连接手段相当丰富，构成信息焦点的中心词后面可马上由关系代词引导从句补充信息，从句中需补充信息的名词后又衍生出二度、三度……从句，但仍能使人感到句子层次清楚。如：
+5． The snake catches the toad that eats the insect that nibbles the green leaves that grow on the branches.
+遇到这种一个从句扣一个从句的句子，汉语只有以简驭繁：断句。译为：
+蛇吃癞蛤蟆，癞蛤蟆吃虫子，虫子吃生长在树枝上的绿叶子。
+此外，读者也许注意到了：在1、2、3、4、5例中，抛开关系代词等结构不管，我们可明显察觉英语、汉语的语序同事件发生的时间顺序基本一致，这无疑是翻译转换的极好基础，只需在关系代词处断句，省掉关系代词，必要的话重复一下名词，照原文顺序翻译即可。那么如果主、从句中谓语的动作是持续性的，或时序不清楚又怎么样呢？请看例句：
+6． He is a professor who gives lectures in several universities this semester.
+他是教授，这学期在几所大学兼课。
+7 All this time I was living with a young married couple who interested me very much,for they were unlike any people had ever known.
+这段时期我一直和一对年轻夫妇同住在一块儿，这对夫妇使我很感兴趣，因为他们同我以前所认识的人都不一样。
+以上两例中主句传递了主要信息，从句传递了辅助信息，从另一侧面加以补充描述，或提供某种必要的背景知识，关系代词则起停顿、衔接、过渡的作用，使语义发展顺利进人另一层次，我们似乎察觉不到这些从句跟中心词之间有何限制或修饰关系。
+有时关系代词和关系副词还体现了主、从句间的某种逻辑关系，不能简单地视为“代替”某个名词而同时接续从句的词。如：
+8． In 1906,however,Pierre,who was crossing a road,was run over and killed. (who… ≈ when he…)
+1906年，皮埃尔在横穿马路时被车压死了。
+9． Dr. Bethune,who was very tired on his arrival,set to work at once. (who was… ≈ though he was)
+白求恩大夫刚到时虽然很累，但他立即便开始工作。
+10． We know that a cat,whose eyes can take in many more rays of light than our eyes,can see clearly in the night. (whose eyes… ≈ because its eyes…)
+我们知道，由于猫眼能比人眼吸收更多的光线，所以猫在夜里也能看得很清楚。
+11． He would be a shortsighted commander who merely manned his fortress and did not look beyond. (who… ≈ if he…)
+(谁如果)只守城堡而不往远处看，(那他)就是目光短浅的指挥官。
+12． There was something original,independent and heroic about the plan that pleased all of them. (that… ≈ so that the Plan…)
+此方案新颖，有独创性，有魄力，(所以)他们都喜欢。
+以上五例中，关系代词、副词在特定语境表示了时间、让步、原因、条件、结果等逻辑关系，意义上相当于状语从句，翻译时也当然不能译为定语。另外，11、12两句的汉译中括号里的汉字省掉后意思仍然清楚而且显得更简洁、紧凑，这也是我们在翻译时应该考虑的。
+传统语法囿于“定语从句”的观念，以关系代词前有无逗号为准，机械地将关系从句分为“限制性定语从句”和“非限制性定语从句”，这是很不全面的。我们应该深入理解原文的深层意思，尊重汉语的习惯，才能翻译出正确、地道的译文。
+编辑本段
+定语从句
+
+用作定语的从句叫定语从句。定语从句一般皆放在被它所修饰的名（代）词之后，这种名（代）词就叫作先行词（Antecedent）。引导定语从句的关联词为关系代词(或称引导词、关系词等）。关系代词在定语从句中可用作主语、宾语、定语等；关系副词在定语从句中用作状语。
+①引导定语从句的关联词有who,whom,whose,that,when,where,why 和 which. 在非限制定语从句中，只可用which,who,whose,where,when.,如果指代前面整个句子，多用which.
+例句：
+The dog that/which was lost has been found.　（失踪的狗已经找到了。）
+Those who are in favor of the proposal are expected to discuss it in detail after the meeting.　（有人认为那些对这个提案有兴趣的人最好是在会后再具体讨论它。）
+There are many organizations whose purpose is to help the homeless.　（存在着许多旨在帮助无家可归者的组织。）
+The days when we had to rely on wool,cotton or silk for our clothes have now passed.　（那种必须依赖羊毛，棉花或者蚕丝做衣服的日子已经过去了。）
+Air moves from places where the pressure was high to places where the pressure is low.　（空气从压强高的地方流向压强低的地方。）
+This is the reason why he refused to help us.　（这就是他拒绝帮助我们的原因。）
+He was born in 1976,when an earthquake struck the country.　（他出生于1976年，这一年这个城镇发生了地震。）
+They turned a blind eye to the suffering of the people,which enraged all of us.　（他们对受苦人们的漠视激怒了我们。）
+② 当引导定语从句的先行词前有all,any,no,little,much,very first等词，或先行词前为形容词最高级所修饰时，或先行词为all,anything,nothing,something,everything时，从句的引导词只能用that.
+The only thing that matters to the children is how soon they can have their holiday.　（孩子们唯一关心的是他们什么时候放假？）
+These are the very points that puzzle me.　（真正困扰我的是这些观点。）
+Is there anything that bothers you?　（有什么事烦着你吗？）
+This is the best film that was ever produced by the company.　（这部是那个公司有史以来拍摄得最好的电影。）
+③as 可做引导词引导定语从句，多和such,the same 连用. As 引导的定语从句也可修饰整个句子，既可放在先行词后，也可放在句子开头.
+例句：
+Such people as you describe are rare nowadays.（你描述的那一类人现在很少了。）
+The boy was run over by amotor-car,as often happened in pre-liberation Shanghai.（那个男孩被一辆摩托轧过去了，这种事在解放前的上海是不少见的。）
+As is often the case,the girl forgot to bring her dictionary.（正如往常一样，这个女孩又忘了带上字典。）
+We are opposed to such ideas as are not based upon objective facts.（我们是反对这种毫无事实根据的想法的。）
+④介词+which/whom/whose从句
+The driver is the man from whose room she had stolen the gold watch.（她就是从那个司机的房间偷了金表的。）
+Language is a tool by means of which people communicate ideas with each other.（语言就是人们用来和其他人交流的一种工具。）
+Jane spent all evening talking about her latest book,of which none of us had ever heard.（Jane一晚上都在谈论着也最近学课本，那些内容我们闻所未闻。）
+例题：
+Water dissolves a part of nearly everything _______ it comes in contact.
+a. where b. that c with which d as soon as
+⑤代/名+介词+which 从句
+He is needing a book,the name of which I don't know.（他需要一本书，但是我不知道书名。）
+In factories and in our daily life,there are many waste materials,all of which can be turned into useful things under certain condition.（在工厂里，在我们的日常生活中都有很多垃圾，其实这些垃圾在某种情况下是可以转变为有用的东西的。）
+To make an objective test the teacher writes a series of questions,each of which has only one correct answer.（为了能够客观地测试，老师写了一串答案唯一的问题。）
+⑥同位语从句和定语从句
+The news that he has been admitted by Harvard University is very pleasing.（他被哈佛大学录取的消息非常令人兴奋。）
+The news that you told me was really exciting.（你告诉我的好个消息真的是很激动人心。）
+⑦ 难句：
+NO.1He is one of the men who were chosen to represent the group.（他是被选为代表该团队的人中一员。）
+NO.2He is the only one of those boys who is willing to take on another assignment.（他是那些男孩中唯一一个愿意再接受任务的人。）
+NO.3I shall never forget the day when we first met.（我永远也不会忘记我们第一次见面的那一天。）
+NO.4I remember the morning when he first came to school.（我记得早上，当他第一次来到学校。）
+NO.4I shall never forget the days which I spent in the countryside.（我永远不会忘记和你一起度过的日子，我在农村度过的。）
+NO.5The room where he lived is kept in good repair.（他住的房间是保持良好使用状态。）
+NO.6Alva found a place in the cellar where he uses as his first laboratory.（馆长在地窖里找到一个地方使用作为他第一次在他的实验室。
+NO.7The way in which/that you answered the questions was admirable.（以何种方式/这就是你回答了他所提出的问题令人钦佩）
+编辑本段
+状语从句
+
+用作状语的从句叫作状语从句，其关联词是一些从属连词。修饰主句中的动词、形容词和副词，通常由从属连词引导，按其意义和作用可分为时间、地点、 条件、 原因、让步、目的、结果、 方式、比较状语从句等
+时间状语从句
+1) 常见连词有after,as,before,once,since,till,（not）until，when,whenever（no matter when），while， as long as,as soon as…
+例句：
+As you look at yourself in a mirror,you’ll seen an identical image of yourself.
+It is a long time before it is possible to test the medicine on human patients.
+It was not until…that
+Not until…did he…
+Not until I received the letter,did I know he had gone to America.
+It was not until….
+When I got to the airport,I suddenly remembered that I had left the ticket behind.
+I was about to leave,when something occurred which attracted my attention.
+Whenever we have difficulty,he’ll come to help us.
+2) no sooner…than,hardly(scarcely,barely)…when: 刚做…就….
+No sooner had I opened the door than the telephone rang.
+She had scarcely news when she fainted.
+3) 还有 immediately,directly,instantly,the moment,the minute,the instant,the second,every time etc
+I’ll tell you about it the moment you come.
+I got in touch with him immediately I received his letter.
+地点状语从句
+一般用where or wherever 引导
+I will stand where I can see the parade clearly.
+Wherever they went,they were warmly welcome.
+条件状语从句
+真实条件从句:if,unless,so long as,provided that,supposing that,on condition that,in the event that,in case that etc
+I will not go to her party if she doesn’t invite me.
+I will not go to her party unless she invites me.
+原因状语从句
+从属连词有because,as,since,for,now,that,in that,seeing that,considering that(鉴于，由于)
+As the school regulations are written quite clearly,there is nothing more to be explained.
+Considering that the sweater was hard made,it was not expensive.
+Seeing that they are inexperienced,they are doing quite a good job.
+让步状语从句
+引导词分类：
+1): even if,though,even though,while(尽管) no matter what/how/which,however,whatever,whichever,however etc.
+He will not give up smoking even though the doctor advises him to.
+Whatever the consequence may be,I will be on your side.
+However hard she tried to explain,nobody trusted her.
+It has been the same result,whichever way you do it.
+2) 由as 引起的让步从句，语气较强烈，被强调的词须放在句首.
+Simple as the question may seem,it is not at all common in nature.
+Cold as it is,the children play outdoors.
+Much as I respect him,I can’t agree with him.
+Object as you may,I will go on with my plan.
+3) whether…or,不管…或…
+whether you be a student or a teacher,you are required to obey the regulations of the school.
+结果状语从句
+引导词：so that,so…that,such…that
+He is so humorous that we’ll never forget him.
+She is such a nice girl that everybody likes to make friends with her.
+目的状语从句
+引导词：so that,in order that,for fear that,lest,in case
+I checked all the results time and again for fear that there should be any mistakes.
+Telephone us in advance in order that we might make the necessary arragements.
+方式状语从句
+引导词：as,(just) as…so…，as if,as though。
+1） as,(just) as…so…引导的方式状语从句通常位于主句后，但在(just) as…so…结构中位于句首，这时as从句带有比喻的含义，意思是"正如…"，"就像"，多用于正式文体，例如：
+Always do to the others as you would be done by.
+你希望人家怎样待你，你就要怎样待人。
+As water is to fish,so air is to man.
+我们离不开空气，犹如鱼儿离不开水。
+Just as we sweep our rooms,so we should sweep backward ideas from our minds.
+正如打扫房屋一样，我们也要扫除我们头脑中落后的东西。
+2） as if,as though
+两者的意义和用法相同，引出的状语从句谓语多用虚拟语气，表示与事实相反，有时也用陈述语气，表示所说情况是事实或实现的可能性较大。汉译常作"仿佛……似的"，"好像……似的"，例如：
+They completely ignore these facts as if (as though) they never existed.
+他们完全忽略了这些事实，就仿佛它不存在似的。（与事实相反，谓语用虚拟语气。）
+He looks as if (as though) he had been hit by lighting.
+他那样子就像被雷击了似的。（与事实相反，谓语用虚拟语气。）
+It looks as if the weather may pick up very soon.
+看来天气很快就会好起来。（实现的可能性较大，谓语用陈述语气。）
+说明：as if / as though也可以引导一个分词短语、不定式短语或无动词短语，例如：
+He stared at me as if seeing me for first time.
+他目不转睛地看着我，就像第一次看见我似的。
+He cleared his throat as if to say something.
+他清了清嗓子，像要说什么似的。
+The waves dashed on the rocks as if in anger.
+波涛冲击着岩石，好像很愤怒。
+比较状语从句
+1) as…as,not so/as…as
+the film was not so exciting as we expected.这部电影没有我们期待的一样精彩
+The history of nursing is as old as the history of man.
+She likes them almost as much as Paul does.
+2)比较级+than,so much/a lot more than
+She looks much younger than she is.
+The universe is a lot more complicated than you think.
+3) no more…than,not more…than,less…than
+Jack is not more frightened than Mike is.杰克不像马克那么害怕
+Tom is no more rich than Black
+3) the more…the more
+The farther north you go,the severer the winter is.
+The more I see of him,the less I like him.
+
+
+第2章 主语从句
+百科名片
+  主语从句例句图片本词条主要描述主语从句的定义及用法（包括结构和特征）。
+目录
+
+主语从句定义
+第一部分
+第二部分
+主语从句的用法
+展开主语从句 定义 
+第一部分 
+第二部分
+主语从句的用法
+展开编辑本段主语从句定义
+在复合句中充当主语成分的句子叫做主语从句。
+第一部分
+常规主语从句，即句子在复合句中充当一个主语
+主语从句的时态：不受主句的时态影响和限制。
+（1）That he finished writing the composition in such a short time surprised us all.
+（2）Whether we will go for an outing tomorrow remains unknown.
+（3）Who will be our monitor hasn't been decided yet.
+（4）Whom we must study for is a question of great importance.
+（5）What caused the accident remains unknown.
+（6）Whatever you did is right.
+（7）Who the watch belongs to is unknown.
+（8）What we need is time.
+（9）What we need are good doctors.
+小结:
+（1）引导主语从句连词有that,whether,who,what,whatever等
+（2）连词位于句首不能省略
+（3）主语从句大多数情况下视为第三人称单数，但也有例外，如例（9）
+第二部分
+为了防止句子头重脚轻，通常把形式主语it放在句首位置，真正主语搁置于句末
+（1）It is certain that he will win the match.
+（2）It is true that he has made a very important discovery in chemistry.
+（3）It is very likely that they will hold a meeting.
+（4）It is strange that he should do that.
+（5）It is important that we all should attend the meeting.
+（6）It is strange that the man should have stuck to his silly ideas.
+（7）It is a pity that we won't be able to go to the south to spend our summer vacation.
+（8）It is still a mystery what caused the accident.
+（9）It is said that he has gone to shanghai.(=He is said to have gone to shanghai)
+（10）It is known to all that the gun powder was first invented by the Chinese.
+（11）It is suggested that the work should be done with great care.
+（12）It happened that the two cheats were there. (=The two cheats happened to be there)
+小结:
+（1）为避免头重脚轻，常以形式主语it引导从句。 It+形式主语谓语+从句。
+（2）由于主语从句一般被认为是单数形式，形式主语的谓语动词、be动词+表语 均为单数第三人称形式或过去式.
+编辑本段主语从句的用法主语从句与宾语从句两者的用法和在句中的作用是不同的，下面从它们的各自用法来介绍。
+一．主语从句
+主语从句 定义：在句子中担当主语的是一个从句，这个从句就叫做主语从句。
+主语从句是在复合句中充当主语的从句，通常放在主句谓语动词之前或由形式主语it代替，而本身放在句子末尾。
+1. It 作形式主语和it引导强调句的比较
+①主语从句常用it作形式主语，一般常用句型为：It is+{名词/形容词/过去分词}+主语从句例如：
+It is still a question whether she will come or not.
+It is strange that you should like him.
+It is still unknown which team will win the match.
+另外，还有一些比较多见的结构：
+It turned out that……;
+It has been proved that……;
+It happened/occurred that……;
+It is well-known that……等等
+②而强调句则不同，它的结构是：It+be+被强调部分+that+从句
+强调主语：It is the times that produce their heroes.时势造英雄
+强调宾语：It is English that Prof.Lin teaches us.
+强调状语：It was in shanghai that I saw the film.
+判断是否是强调句有一个方法，就是将that以后的“句子的其余部分”拿出来单独看，看有没有缺成分，缺的是什么成分，再把谓语动词后面that前面的那部分，带到你认为缺成分的地方，如果放进去是一句完整的句子了，那就说明是强调句。
+2. 用it 作形式主语的结构
+(1) It is +名词+that从句
+It is a fact that … 事实是……
+It is an honor that …非常荣幸
+It is common knowledge that …是常识
+(2) it is +形容词+that从句
+It is natural that… 很自然……
+It is strange that… 奇怪的是……
+(3) it +不及物动词+that从句
+It seems that… 似乎……
+It happened that… 碰巧……
+(4) it is+过去分词+that从句
+It is reported that… 据报道……
+It has been proved that… 已证实……
+3.主语从句不可位于句首的五种情况
+(1) if 引导的主语从句不可居于复合句句首。
+(2) It is said , (reported) …结构中的主语从句不可提前。例如：
+It is said that President Jingo will visit our school next week.
+(3) It happens…, It occurs… 结构中的主语从句不可提前。例如：
+It occurred to him that he failed in the examination.
+(4) It doesn’t matter how/whether …结构中的主语从句不可提前。例如：
+It doesn’t matter whether he is wrong or not.
+(5) 含主语从句的复合句是疑问句时，主语从句不可提前。例如：
+Is it likely that it will rain in the evening?
+4. What 与that 在引导主语从句时的区别
+What 引导主语从句时在从句中充当句子成分，如主语．宾语．表语，而that 则不然。例如：
+What you said yesterday is right.
+二：宾语从句用以区分主语从句的几个特征：
+1、引导词：what\which\whose\when\whether\if\where
+2语序：宾语从句必须是用陈述语句。
+如：I think that you must work harder.
+宾语从句的引导词、连接词的区别、否定转移等现象。
+(1)表达时间的几个句型：一般用when或者是what time：
+What time will the train leave?
+由于时刻都是固定的，也可以用一般现在时代替一般将来时：
+What time does the train leave?
+(2)时间的表达方式：8：19(nineteen past eight),7:57(three to eight)，在时间的中间也可以加上分的单词(minutes)
+(3)had better +动词原型。意思是提要求，建议。但是上下级不能用这种方式，因为语气太重：
+You had better give up smoking .
+(4)sb leave sth +地点
+I left my book in my classroom yesterday.
+(5)may I have your name(address\age)?一般询问对方的年龄、名字等，不要习惯以前的问法，这样很不礼貌，而是要采访上面的问法。以前的习惯是：how old are you? \what's your name?
+(6)修饰名词的代词次序：限-描-大-形---年---颜----籍----物--------类+名词：
+this is a bridge.
+This is a beautiful bridge
+补充：从句的语序永远是陈述句。
+
+
+
+第3章 宾语从句
+百科名片
+在句子中起宾语作用的从句叫做宾语从句。宾语从句分为三类：动词的宾语从句，介词的宾语从句和形容词的宾语从句。
+目录
+
+用法
+宾语从句用法
+版本二
+版本三
+版本四
+版本五
+展开用法
+宾语从句用法 
+版本二 
+版本三 
+版本四 
+版本五
+展开用法
+编辑本段宾语从句用法宾语从句的连接词：
+结构：主语+谓语+宾语（陈述句语序） 【注意：1~引导词.that 2~语序v.+主+谓 由if、whether引导宾语从句 3~时态：A.主句---现在时 从句---任一时态】
+、从属连词
+连接宾语从句的从属连词主要有that,if,whether，和疑问词（what， how， where， when ...)。
+that引导表示陈述句的宾语从句，
+if和whether，whether...or not引导表示“是否”的一般疑问句的宾语从句。  
+He told me (that ）he would go to college the next year.
+他告诉我他明年上大学。
+I don’t know if there will be a bus any more.
+我不知道是否还会有公交车。
+Nobody knew whether he could pass the exam.[1]
+没有人知道他是否会通过考试。
+Teachers were asking me whether I had gone there or not at that time.
+那时老师们在问我是否我曾经去过那里。
+（二）关联代词
+连接代词主要有who,whom,whose,what,whoever,whomever,whosever,whatever,whichever等。
+连接代词一般指疑问，但what,whatever除了指疑问外，也可以指陈述。
+Do you know who has won Red Alert game？
+你知道是谁赢得了红色警戒的游戏么？
+The book will show you what the best CEO should know.
+这本书会告诉你最好的执行总裁该了解什么。
+Have you determined whichever you should buy,a Motorola or Nokia call phone？
+你决定好是买诺基亚还是摩托罗拉的电话了吗？
+（三）关联副词
+连接副词主要有when,where,why,how,whenever,wherever,however等.
+He didn’t tell me when we should meet again.
+他没有告诉我什么时候我们能再见面.
+Could you please tell me how you use the new panel
+你能告诉我怎么用这个新的操作盘吗
+None of us knows where these new parts can be bought.
+没有人知道这些的新的零件能在哪里买到.
+二、动词的宾语从句
+大多数及物动词都可以带宾语从句
+We all expect （that ）they will win,for members of their team are stronger.
+我们都预料他们会赢，因为他们的队员更强壮.
+He told us （that） they would help us through the whole work.
+他告诉我们在整个工作中，他们都会帮忙的.
+部分“动词+副词”结构也可以带宾语从句
+I have found out （that） all the tickets for the concert have been sold out.
+我发现这场音乐会的所有票都卖光了.
+Can you work out （that）how much we will spend during the trip
+你能计算出这次旅行我们将花费多少钱吗
+动词短语也可以带宾语从句
+常见的这些词有：
+make sure确保 make up one’s mind下决心 keep in mind牢记
+Make sure that there are no mistakes in your papers before you turn them in.
+当你在上交试卷前确保没有任何错误.
+可运用形式宾语it代替的宾语从句
+①动词find,feel,consider,make,believe,think等后面有宾语补足语的时候，则需要用it做形式宾语而将that宾语从句后置.
+I think it necessary that we take plenty of hot water every day .
+我认为我们每天多喝开水是有必要的.
+I feel it a pity that I haven’t been to the get-together.
+我没去聚会，感觉非常遗憾.
+I have made it a rule that I keep diaries.
+我每天写日记成了习惯.
+We all find it important that we (should) make a quick decision about this matter.
+我们都认为对这件事马上做出决定很重要.
+②有些动词带宾语从句时需要在宾语与从句前加it（双宾语）
+这类动词主要有：hate,take,owe,have,see to.award,lend.hand,
+mail,offer,pass,pay,post,read,return,show,teach,tell
+I hate it when they say with their mouths full of food.
+我讨厌他们满嘴食物时说话.
+He will have it that our plan is really practical.
+他会认为我们的计划确实可行.
+We take it that you will agree with us.
+我们认为你会同意我们的.
+When you start the engine,you must see to it that car is in neutral.
+开启发动机时，一定要使汽车的离合器处于空挡位置.
+③若宾语从句是wh-类，则不可用it代替
+We all consider what you said to be unbelievable.
+我们都认为你所说的是不可信的.
+We discovered what we had learned to be valuable.
+我们发现我们所学到的东西都是有价值的.
+Can you tell me if there any shop here?
+你能告诉我这里有商店吗？
+三、介词的宾语从句
+用whether之类的介词宾语从句：
+We are talking about whether we admit students into our club.
+我们正在讨论是否让学生加入我们的俱乐部.
+The new book is about how Shenzhou six manned spaceship was sent up into space.
+这本新书是关于神州6号载人航天飞船是如何升入太空的.
+用that,if引导的介词宾语从句
+有时候except,but,besides三个介词后可见到that引导的宾语从句
+I know nothing about my new neighbor except that he used to work with a company.
+对于我的新邻居我只知道他曾在一家公司上班，其他一无所知.
+四、形容词的宾语从句
+有些形容词具有动词的含义，所以也可以带一个宾语从句，例如；
+1. I am sorry I am late.
+I am glad that you can join us.
+Are you sure his answer is right?
+  
+常用来引导宾语从句的形容词有： sure,certain,glad,please,happy,sorry,afraid,satisfied,surprised
+I am sure I will pass the exam.
+我确信我会通过考试.
+I am sorry that I have troubled you so long.
+很抱歉我这么长时间在打扰你.
+He is glad that Li Ming went to see him when he was ill.
+他很高兴在他生病的时候李明能去看望他.
+五、if与whether
+① if和whether在作“是否”解时，引导宾语从句常放在动词know,ask,care,wonder,find out等之后，介词后一般不用if
+② 少数动词，如：leave,put,discuss,doubt后的宾语从句常用whether.
+③ whether后可以加or not,但是if不可以.
+④ 在不定式前只能用whether.
+（如：I can’t decide whether to stay. 我不能决定是否留下。）
+⑥一般“no matter”后表“是否”用whether而不用if
+六、不省略引导词that
+当that作learn,suggest,explain,agree,wonder,prove,mean,state,feel,hold等动词的宾语时；
+当宾语从句较长时；
+当主语状语置于主句尾，宾语从句之前时；
+当主语谓语动词(包括非谓语动词)与宾语从句之间有插入语时；
+当一个动词带有两个或两个以上宾语从句时，此时第一个that可以省略，第二个that不可以省略；
+当宾语从句中的主语是this,that或this,that做主语的定语时；
+当宾语从句是双宾语中的直接宾语时；
+当宾语从句的主语是非谓语动词或主语从句时；
+当主语中的谓语动词是固定词组时；
+当宾语从句有it做其先行词时；
+在直接引语中，转述分句把宾语从句隔开时.
+当that在从句中充当主语时
+七、否定转移
+  宾语从句的反意疑问句
+主句的谓语动词是think,believe,imagine,suppose,consider,expect,fancy,guess等，并且主句的主语是第一人称而且为一般现在时，从句的否定词一般要转移到主句上来，其反义疑问句一般与宾语从句一致.
+I don’t think he will come to my party.而不能说成I think he won’t come to my party.
+我认为他不会来我的舞会.
+I don’t believe that man is killed by Jim,is he
+我认为那个人不是Jim所杀的，是不是
+如果宾语从句中有某个含有否定意义的形容词或副词，其反义疑问句要用肯定形式.通常我们称为否定前疑。
+We find that he never listens to the teacher carefully,does he
+我们发现他从来不仔细听老师讲课，是不是
+八、时态和语序
+当主句为现在时或将来时,宾语从句的时态一般不受主句的时态所影响.
+当主句为过去时
+①从句用一般过去时或过去进行时表示与主句谓语动词动作同时发生
+I only knew he was studying in a western country,but I didn’t know which country he was in.
+我只知道他当时在西方的一个国家读书，可不知道是哪个国家.
+He asked me if I was reading the story The Old Man and the Sea when he was in.
+他问我他进来的时候我是否正在读《老人与海》.
+②从句过去完成时表示该动作发生在主句谓语动作之前
+He told me that he had told Mary about the meeting already.
+他告诉我他已经把有关会议的事情告诉了Mary.
+③从句谓语用过去将来时表示该动作发生在主句谓语动作之后
+The reporter asked if the government would take necessary measures to put down the to-do.
+记者问政府是否会采取必要的措施镇压骚乱.
+④如果从句是一个客观真理，那么从句的时态不根据主句的时态而变化
+The teacher said that the moon goes around the earth yesterday.
+老师昨天说月亮围着地球转.
+⑤当宾语从句的引导词是who,which,what,when,where,how,why等表疑问时，不能按正常语序安排，经常将这类引导词置于句首
+Who do you think the public might choose as their favorite singer this year
+你认为今年公众会选谁为他们最喜欢的歌手.
+无论任何时候都为陈述语序.
+编辑本段版本二学习宾语从句要抓住三要素：引导词、语序和时态。
+1.引导词
+1．从句为陈述句，常选择引导词that或将that省略，直接与主句相连。
+2．从句为一般疑问句，常选择引导词if或whether。在 whether … or not 结构中不能用 if 替换。
+3．从句为特殊疑问句，常选择what,when,where,which,who,how等疑问代词、疑问副词作引导词。 注意：当who为主语时，句式为：who+谓语+其他。
+从句的引导词有很多，如：say, think, wish , hope, see, believe, agree, expect, hear , feel等。
+2. 判断时态情况
+1．主句是一般现在时，从句为各种时态。
+2．主句是一般过去时，从句为各种相应过去时态。 注意：从句描绘客观事实，用一般现在时。
+3．关系代词：that，who，whom,whose,which
+:　1． The teacher told the children that the sun____ round.
+was B. is C. were D. are
+2． I believe that our team____ the basketball match.
+win B. won　C. will win　D. wins
+3． I don’t know____ to visit the old man.
+whether B. if C. that D. who
+4．The soldiers soon reached( )was once an old temple(　)the villagers used as a school.
+which;where B.what;which　C.where;which D.what;where
+答：选B，动词reach后接宾语从句，从句缺少宾语，where不可，which引导宾语从句时表疑问含义“哪一个…”而此句中并非疑问含义，不知道哪一座庙宇，而是用what从句表陈述含义，意“过去的一座旧庙宇”；temple后为对其修饰的定语从句，用关系代词which代替，并在从句中作动词used的宾语，use sth. as…“把…用作…”。
+宾语从句用作宾语。如：
+Do you know where he lives
+定语从句相当于一个形容词，用于修饰前面的名词。如：
+The student who answered the question was John. 回答问题的学生是John.
+This is the man whom he is looking for.
+Do you know the girl who is in red?
+3. 宾语从句的用法
+1．that引导宾语从句无意义，不充当句子成分常省略。但下列情况除外：
+①．介词宾语从句的that不能省略。
+②． and连接的两个从句，两个从句的that不能省略。
+He told me that he had two sons and that they both had gone to college.
+③．在动词+it+宾语补足语+宾语从句结构中，that不省略。
+I heard it said that he had gone abroad
+We found it impossible that he could finish it in such a short time
+Whether,if 引导宾语从句：两词可互换，但是下列情形除外：
+①．whether从句中有or not
+②．whether从句做介词宾语
+Everything depends on whether you agree with us
+3．许多带复合宾语的句子，宾语从句经常移到句子后部，而用it做形式宾语。结构是：
+主语 + 动词 + it + 形容词/名词等宾语补足语 + 宾语从句
+We think it wrong that he told a lie to everyone.
+①．宾语从句的语序要用陈述句语序。
+False: He is wondering when can he finish this difficult job.
+Right: He is wondering when he can finish this difficult job.
+②. 有时候可以用it 作形式宾语，而把真正的宾语从句放在后面。
+Bad: I thought that he could finish this job in just two hours impossible.
+Good: I thought it impossible that he could finish this job in just two hours.
+Bad: He left whether we should continue this project to my judgment.
+Good: He left it to my judgment whether we should continue this project.
+③. 带有宾语从句的复合句的否定形式一般是否定主句。
+Bad: I think he doesn’t like the English teacher.
+Good: I don’t think he likes the English teacher.
+④. 主句一般过去时态，从句也要用过去时态；具体细节请看第一部分。
+False: He wanted to know why he is crying in the corner.
+Right: He wanted to know why he was crying in the corner.
+编辑本段版本三宾语从句，在复合就叫，位于及物动词后。
+eg．
+Tell him which class you are in ．
+Do you know what he likes？
+注：
+主句谓语过去时，从句相应过去时；
+He answered that he was listening to me.
+主句谓语现在时，从句时态任所需；
+eg． He says (that) he will leave a message on my desk.
+They know (that) he is working hard.
+具体过去永不变，真理格言现在时；
+eg．He told me that he was born in 1980.
+Father told me that practice makes perfect .
+（2）完成反意问句
+在think / believe / suppose / guess / imagine / expect等动词后跟宾语从句否定式时，应转移到主句上去，完成反意问句时，应与从句主、谓保持一致。（注： 否定前移的条件是，主句主语是第一人称）
+eg． I don't think you are right,are you
+I don't believe they have finished their work yet,have they
+（3）运用虚拟语气
+在表示：
+建议 suggest 、advise、propose;
+要求demand 、desire、request；
+决定 decide;
+命令 order、command、require;
+坚决主张 insist;
+等动词后跟宾语从句，用（should）+v．（虚拟语气）
+eg． I suggested that you（should）study hard．
+He ordered that we should go out at once．
+（4）宾语从句后置
+如果宾语从句后有宾语补语，用it作形式宾语，把宾语从句后置
+eg．You may think it strange that he would live there．
+（5）that不可省略
+宾语从句that常可省略，但在以下情况下不能省略
+A．当主句谓语动词带有两个或两个以上宾语从句时，可以省略第一个that，其他不能省略。
+eg．I believe（that）you have done your best and thatthings will get better．
+B．当it作形式宾语时
+eg．She made it clear that she had nothing to do with him．
+C．当宾语从句前置时
+eg．That our team will win，I believe．
+编辑本段版本四一、定义和例句分析
+宾语从句就是一个句子作动词或介词的宾语。
+A 作动词的宾语：
+I heard the news.
+主语谓语动词名词作宾语
+I　heard that he would come here later on.
+主语谓语动词一个句子作宾语---宾语从句
+B 作介词的宾语：
+He　said　nothing about the plan.
+主语谓语动词代词作动词的宾语介词名词作介词的宾语
+He　said　nothing about who broke the window last night.
+主语谓语动词代词作动词的宾语介词　一个句子作介词的宾语
+二、复合句的构成
+带有宾语从句的复合句就是用连接词把一个主句和一个宾语从句连接在一起。连接词有：that(可省略)，what,who,when,where,why,which,if,whether,how.
+1 He suggested (that) we should clean the corridor every day.
+宾语
+2 He told me (that) he would leave Dalian airport at 8pm.
+间接宾语直接宾语
+3 He told me where he was going to travel that summer.
+间接宾语直接宾语
+4 He wanted to know what the manager had said at the meeting.
+who hadn’t passed the exam.
+when she would leave this building.
+why she cried last night.
+where she was going to study.
+which student was his partner in the short play.
+if (whether) Tom could play basketball with him that morning.
+how she managed to solve the problem.
+why water flows from a high position to a lower position.
+在例子4中，当主句是过去时态时（一般过去时，过去进行时，过去将来时，过去完成时），从句根据不同情况必须使用过去时态的一种，（大自然的现象和真理除外）。
+5 He is wanting to know what I can cook for dinner.
+who broke the window yesterday.
+when I can have a holiday.
+why I failed the exam yesterday.
+where I should have dinner with my friend tonight.
+which book is the best one.
+if (whether) I have passed the exam.
+how my cat escaped from the room last night.
+在例子5中，当主语是现在时态时（一般现在时，现在进行时，一般将来时，现在完成时），从句可根据不同情况使用各种时态。
+三、注意
+A 宾语从句必须用陈述语序。
+False: He is wondering when can he finish this difficult job.
+Right: He is wondering when he can finish this difficult job.
+B 有时候可以用it 作形式宾语，而把真正的宾语从句放在后面。
+Bad: I thought that he could finish this　job in just two hours impossible.
+Good: I thought it impossible that he could finish this job in just two hours.
+Bad: He left whether we should continue this project to my judgment.
+Good: He left it to my judgment whether we should continue this project.
+C 带有宾语从句的复合句的否定形式一般是否定主句。
+Bad: I think he doesn’t like the English teacher.
+Good: I don’t think he likes the English teacher.
+D 主句一般过去时态，从句也要用过去时态；具体细节请看第一部分。
+False: He wanted to know why he is crying in the corner.
+Right: He wanted to know why he was crying in the corner.
+宾语从句的点点滴滴　宾语从句是英语复合句中的其中非常重要的从句之一。它是用一个句子做另一个句子的宾语，将这个句子叫做宾语从句。宾语从句做介词或及物动词的宾语。现在从下列三个方面总结归纳如下：
+一，引导词
+A,由that 引导的陈述句性的宾语从句，在很多动词如say,think,wish,hope,see,believe,agree,expect,hear,feel等动词后。连词that只起连接作用，在从句中不做句子的成分，也无词汇意义，在口语中常被省略，但在大多数情况下还是以不省为好，特别是在笔语中。
+例：I told him that he was wrong.
+l在think,believe,suppose,expect等动词引起的宾语从句中，有时谓语尽管是否定意义，却不用否定形式，而将think 等动词变为否定形式。
+例：I don’t think you are right. (我认为你做的不对)
+l在许多带有复合宾语的句子中，that引导的宾语从句经常移到句子的后面，而用it做形式宾语。
+例：We think it wrong that he told a lie to everyone (我认为他向每一个人撒谎是错误的)
+B,由连词if、 whether 引导的表示“是否…”的宾语从句。Whether,if 在从句中不做句子的成分，一般情况下，whether和if 可以替换。
+例：I don’t know if/whether he will come tomorrow.
+The teacher asked if/whether we had finished the experiment.
+l在介词后面的宾语从句中不用if引导
+例：Everything depends on whether we have enough money。
+l宾语从句中有or not时不用if引导.
+例：I don’t know whether the movie star will come or not.
+l和不定式连用作宾语时不用if引导.
+例：Whether to go there or not hasn’t been decided.
+C,由wh-引导的宾语从句。连接代词who,whom,whose,what,which,和连接副词when,where,why,how 等连接的宾语从句，它们在句中即有连接从句的作用，又在句中充当句子的成分。
+例：Do you know which film they are talking about? (which做定语)
+I don’t know where he lives. (where 做地点状语)
+二，宾语从句的语序，
+宾语从句从句的语序必须是陈述语序，即连接词+主语+谓语+其他成分
+例：I believe that they will come soon.
+He asked me whether I was a teacher.
+They wanted to know what they can do for us.
+二，宾语从句的时态。
+宾语从句的时态受主句的限制，
+既：主句是一般现在时态，从句根据实际情况而定。
+主句是一般过去时态，从句用相应的过去的时态。如果从句的动作发生在主句之前，则从句要用过去完成时态。
+例：
+She says that she is a student.
+She said that she was a student.
+She says that she will fly to Japan in a week.
+She said that she would fly to Japan in a week.
+She says that she has finished her homework already.
+She said that she had finished her homework already.
+She says that she can sing a song in English.
+She said that she could sing a song in English.
+l如果宾语从句说的是客观真理、自然现象或事实时，这时宾语从句要用一般现在时态。
+例：The teacher said that the earth goes round the sun.
+He told me that Japan is an island country.
+lCould you tell me…是用来征询对方的意见，语气委婉，并不表示过去。
+例：Could you tell me when we will visit the Histury Museum
+注意事项：
+u由陈述句变成宾语从句时，要注意人称的变化。
+例：She said: “I have been to England before.”
+She said that she had been to England before.
+She asked me: “Do you like maths?”
+She asked me if I liked maths.
+u宾语从句与简单句的交换。
+由连接代词和连接副词引导的宾语从句，如果宾语从句的主语和主句的主语是同一个人时，可以用“疑问词+不定式
+”做宾语的简单句结构。
+例：I don’t know what I should do next.
+I con’t know what to do next.
+He didn’t know where he would live.
+He didn’t know where to live.
+DO SOME EXERCISES:
+1．Can you see________
+what he’s reading B. what is he reading
+what does he read D. he reads what
+2．Does Jack come from Japan? Do you know?(合并成一个句子)
+Do you know_____Jack _____from Japan
+3．_What did your son say in the letter
+_He told me that he___ the Disney would the next day
+will visit B. has visited
+is going to visit D. would visit
+4．He didn’t know__________
+what’s the matter B.what the matter is
+what was the matter D. what the matter was
+5．Somebody called you just now,but I didn’t know____
+who were they B. who they were
+who was it D. who it was
+6．I want to know_____
+what is his name B. what’s his name
+that his name is D. what his name is
+7．---Could you tell me ___she is looking for
+---Her cousin,susan.
+that B.whose C .who D.which
+8．---What are you searching the Internet for
+---I’m trying to find out____.
+What is the difference between SARS and BIRDFLU
+How many persons have died in Iraq
+How to protect our environment
+Why is our Chinese team be able to beat Korea
+9． Do you know___________?(谁正在唱歌)
+10． Do you know___________?(她正在和谁谈话)
+11． Do you know___________?(昨天发生了什么事)
+The keys: 1 A.2 if,comes.3D. 4 D. 5 D. 6 D. 7 C. 8 B
+9 who is singing
+10 who she is talking with
+11 what happened yesterday
+编辑本段版本五关系代词：
+1.that指代人或物，在句中作主语或宾语
+2.which指代物，在句中作主语或宾语（特殊：指代前面的一整件事
+3.who 、whom指代人，分别作主语和宾语
+由关系代词whose引导的定语从句：
+whose用作名词的限定语，whose后一定有名词。
+由关系副词when、where、why引导的定语从句：
+如果句子中不缺少主语和宾语时，则考虑用关系副词。
+1、when在从句中作时间状语。when（on which）
+2、where在从句中作地点状语。where（in which）
+3、why在从句中作原因状语。why（for which）
+注意！
+1、用which不用what的情况：
+（1）“逗号”后不用that用which。（2）介词后不用that用which
+2、用that不用which的情况：
+（1）先行词为不定代词（各种thing 例：something。nothing）
+（2）先行词前有最高级、序数词、the only 、the very 等修饰时
+3、特殊情况：
+（1）way（方式，方法）+（1）that
+（2）in which
+（3）什么都用
+例：I hit way （that/in which）you speak to your parents
+（2）当句子中不缺主语、宾语时，出现“point、condition、stage、case”等词后用where。
+
+
+
+
+第4章 定语从句
+百科名片
+定语从句（Attributive Clauses）在句中做定语，修饰一个名词或代词，被修饰的名词，词组或代词即先行词。定语从句通常出现在先行词之后，由关系词（关系代词或关系副词）引出。
+目录
+
+从句定义
+先行词
+关系词
+定语
+代词引导who, whom, that
+whose
+关系副词关系副词why
+关系副词when
+关系副词where
+非限性
+限定性
+从句区别
+关系先行词和关系词
+介词与关系代词
+介词的正确选择
+特定选择只用that不用which
+只用who不用that
+只用which不用that
+误区提醒
+展开从句定义 
+先行词 
+关系词 
+定语 
+代词引导 who, whom, that 
+whose
+关系副词 关系副词why 
+关系副词when 
+关系副词where
+非限性 
+限定性 
+从句区别 
+关系 先行词和关系词 
+介词与关系代词 
+介词的正确选择
+特定选择 只用that不用which 
+只用who不用that 
+只用which不用that
+误区提醒
+展开编辑本段从句定义复合句中修饰名词或代词的从句，它起定语的作用。
+复合句是由一个主句和一个以上的从句而构成的句子。
+编辑本段先行词指被定语从句修饰的名词、代词。
+一般先行词出现在定语从句的前面。　[1]
+编辑本段关系词关系词常有2个作用：
+①连接作用，引导定语从句。
+②代替先行词，在定语从句中担当一个成分。
+注：关系代词有主语、宾语、定语之分。一般who做主语或其宾格形式的whom做宾语，whose作为定语（whom，whose不可省略）。关系代词在从句中作主语，宾语，定语等，关系副词在从句中作地点状语（where）时间状语（when），原因状语（why）。[1]
+编辑本段定语定语用来限定、修饰名词或代词，是对名词或代词起修饰、限定作用的词、短语（动词不定式短语、动名词表示的）汉语中常用“……的”表示。主要由形容词担任，此外，名词、代词、数词、分词、副词、不定式以及介词短语也可以来担任，也可以由一个句子来担任。单词作定语时通常放在它所修饰的词之前，作前置定语。短语、从句作定语时则放在所修饰的词之后，作后置定语。
+被定语从句修饰的名词、代词称为先行词。如“the girl”，“the book”
+如:She is the girl who likes singing. 她就是那个爱唱歌的女孩。
+这就是一个定语从句。[1]
+编辑本段代词引导关系代词所代替的先行词是人或物的名词或代词，并在从句中充当主语、宾语、定语等成分。关系代词在定语从句中作主语时，从句谓语动词的人称和数要和先行词保持一致。
+who, whom, that
+限定性定语从句中的关系代词
+
+ 作主语 作宾语 作定语 
+指人 who/that whom/that(可省略) whose 
+指物 which/that which/that(可省略) whose 
+指人和物 that that whose 
+
+非限定性定语从句中的关系代词
+
+ 作主语 作宾语 作定语 
+指人 who whom whose/of whom 
+指物 which which whose/of which 
+
+这些词代替指人，whom在定语从句中指人，"who"和“that”既可作主语又可作宾语（作宾语可以省略），可以指人也可以指物。在从句中所起作用如下：
+（1）Is he the man who/that wants to see you? 他是那个想见你的男人吗？（who/that在从句中作主语）
+（2）He is the man （whom/that） I saw yesterday. 他就是我昨天见到的那个人。（whom/that在从句中作宾语）
+（3）The man whom you spoke to just now is our English teacher. 刚刚和你说话的那个男人是我们的英语老师。（whom在从句中作宾语）
+注：who在定语从句中指人，作主语和宾语，作宾语时可省略；做及物动词或介词的宾语，可省略。　[1]
+2,which，that 用来指物（有六种情况只可用that而不用which）
+(用作主语、宾语，作宾语时可以省略），例如：
+（1）The prosperity which/that had never appeared before took on in the countryside.农村出现了前所未有的繁荣。（which/that在从句中作主语）
+（2）The package (which/that) you are carrying is about to come unwrapped.你拿那个包裹快要散开了。（which/that在从句中作宾语）
+注：which在定语从句中指物，可作主语或及物动词或介词的宾语，作宾语时可省略；that在定语从句中既可指人又可指物，在定语从句中作主语、宾语和表语，作宾语时可省略，指人时，相当于who或whom，指物时，相当于which，作介词宾语时，介词不可提到that前，当介词提前时，需要用which或whom来代替。[1]
+whose
+(只用作定语)
+“whose”表示谁（可以为人也可以为物）的（东西）
+例：A child whose parents are dead is called an orphan.双亲都死了的孩子叫做孤儿。（“whose parents”表示那个孩子的双亲）
+He lives in a room whose window faces south.他住的那个房子的窗户是朝南的。（“whose”表示那个房子的窗户）
+关系代词：在句中作主语、宾语或定语。
+1. that既可代表事物也可代表人，“which”代表事物；它们在从句中作主语或宾语，作宾语可省略“that”在从句中作宾语时常可省略关系词，“which”在从句省略。[eg：This is the book （which）you want.]
+2.不及物动词+介词”的介词的宾语代词“which”放在它原来的位置。
+3. 代表物时多这时的that常被省略；
+c）被形容词最高级修饰时；既有人又有物时；
+e）整个句中前面已有“which”，“why”行
+关系副词：在句中作状语
+关系副词=介词+关系代词
+why=for which
+where=in/ at/ on which（介词同先行词搭配）
+when=during/ on/ in/……
+1. “where”是关系副词，当然也不用“that”引导。
+By the time when you arrived in London, we had stayed there for two weeks. 当你到达伦敦的时候，我们在那里已经待了两个星期。
+I still remember the place where I met her for the first time. 我仍然记得我第一次见到她的地方。
+Each time when he goes to business trip, he brings a lot of living necessities, such as towels, soap, toothbrush etc。 他每次出差都带着生活必需品，如毛巾，肥皂，牙刷等其他东西。
+2. 当从句的逻辑主语是some, any, no, somebody, anybody, nobody, something, anything, everything或nothing时，常用“there is”开头。
+There is somebody here who wants to talk to you. 这里有人要和你说话。
+分作进一步说明，通常是引导词和先行词之间用逗号隔开，将从句拿掉后其他部分仍可成立。
+编辑本段关系副词关系副词why
+关系副词why主要用于修饰表原因的名词（主要是the reason），同时它在定语从句中用作原因状语。如：
+We don’t know the reason why he didn’t show up. 我们不知道他为什么没有来。
+She didn’t tell me the reason why she refused the offer. 她没跟我讲她拒绝这项工作的原因。
+与关系副词when和where不同，why可以换成that或省略。如：
+That’s one of the reasons (why, that) I asked you to come. 这就是我请你来的原因之一。
+另外，与关系副词when和where可以引导非限制性定语从句不一样，why只能引导限制性定语从句，不能引导非限制性定语从句。如：
+他失去工作的主要原因是他喝酒。
+误：The main reason, why he lost his job, was that he drank.
+正：The main reason why he lost his job was that he drank.
+关系副词when
+关系副词when主要用于修饰表时间的名词，同时它在定语从句中用作时间状语。如：
+There comes a time when you have to make a choice. 你必须作出抉择的时候到了。
+Gone are the days when they could do what they liked. 他们为所欲为的日子一去不复返了。
+We’ll put off the picnic until next week, when the weather may be better. 我们将把野餐推迟到下星期，那时天气可能会好一点。
+注意不要一见到先行词为时间名词，就以为一定要用关系副词when来引导定语从句，同时还要看它在定语从句中充当什么成分——如果在定语从句中用作时间状语，就用when；如果在定语从句中不是用作时间状语，而是用作主语或宾语，那就不能用when，而要用that, which等。如：
+Don’t forget the time (that, which) I’ve told you. 不要忘记我告诉你的时间。
+关系代词that / which在定语从句中用作动词told的宾语，正因为是用作宾语，所以也可以省略。
+关系副词where
+关系副词where主要用于修饰表地点的名词，同时它在定语从句中用作地点状语。如：
+This is the village where he was born. 这就是他出生的村子。
+That’s the hotel where we were staying last summer. 这就是我们去年夏天住的旅馆。
+Barbary was working in Aubury, where she went daily in a bus.巴巴拉在奥伯里工作，每天得坐公共汽车去上班。
+与前面when的情况一样，注意不要一见到先行词为地点名词，就以为一定要用关系副词where来引导定语从句，同时还要看它在定语从句中充当什么成分——如果在定语从句中用作地点状语，就用where；如果在定语从句中不是用作地点状语，而是用作主语或宾语，那就不能用where，而要用that, which等。如：
+He works in a factory that [which] makes TV sets. 他在一家电视机厂工作。
+关系代词that / which在定语从句中用作主语。
+另外注意，where有时还可用于抽象名词后引导定语从句。如：
+We have reached a point where a change is needed. 我们到了必须改一改的地步。
+There are cases where the word “mighty”is used as an adverb. 在一些情况下，mighty一词可用作副词。
+He got into a situation where it is hard to decide what is right and wrong. 他陷入一种难以分辨是非的局面。
+I don’t want a job where I’m chained to a desk all day. 我不想找一份整天坐办公桌前的工作。
+编辑本段非限性定语从句
+意义：
+非限制性定语从句起补充说明作用，缺少也不会影响全句的理解。在非限制性定语从句的前面往往有逗号隔开，如
+（1）The house,which I bought last year,has a lovely garden.　我去 年买的的房子带着个漂亮的花园。
+（2）This novel, which I have read three times, is very touching. 这本我已经读过三遍的小说很感人。
+1.非限定性定语从句可将整个主句作为先行词, 对其进行修饰, 这时从句谓语动词要用第三人称单数，例如：
+（1）He seems not to have grasped what I meant, which greatly upsets me.他似乎没抓住我的意思，这使我心烦。
+（2）Liquid water changes to vapor, which is called evaporation. 液态水变为蒸汽，这就叫做蒸发。
+2. 在非限定定语从句中，有时as也可用作关系代词，若as在从句中作主语，其引导的句子可以放在句首，也可以放在句中。例如：
+（1）The boy has as much progress as we had expected. 正像我们所预料的那样，这个男孩取得了大的进步。
+（2） As everyone knows ,China is a beautiful country with a long history . 每个人都知道，中国是一个有着悠久历史的美丽国家。
+3. 在非限定性定语从句中，不能用于在从句中做主语
+（1）The boys who are playing football are from Class One. 在踢足球的男孩们是一班的。
+（2）I helped an old man who lost his way yesterday . 昨天，我帮助了一个迷路的老人。
+编辑本段限定性定语从句
+意义：
+限定性定语从句对被修饰的先行词有限定制约作用，使该词的含义更具体，更明确。限制性定语从句不能被省略，否则句意就不完整，例如I met some one who said he know you.
+1.在引导限定性定语从句时，that有时相当于in which,at which,for which或on which （1）Attitudes towards daydreaming are changing in much the same way that(in which) attitudes towards night dreaming have changed. 人们对白日做梦的态度正在改变，这与人们对夜间做梦的看法的变化有非常相似之处。 （2）I like the music for the very reason that(for which) he dislike it. 我出于某种原因喜欢这种音乐，而他恰恰与我相反。 （3）We arrived the day that(on which) they left. 刚好我们到的那天他们走了。 2.在限定性定语从句中，当关系代词在从句中担任动词宾语时，关系代词可省略。 （1）The book (that/ which) I am reading is very interesting. 我在读的书很有趣。 （2）Is there anything (that) you wanted? 想要什么东西吗?
+编辑本段从句区别限定性从句和非限定性从句的区别
+（1）从结构上来看，限定性从句不能用逗号与先行词分开；而非限定性从句却必须用逗号分开。引导非限定性从句的关系代词不能省略。例如：
+The clock，which my great-grandfather bought,is still in good order.
+这时钟是我曾祖父买的，现 在还是走得很准。
+（2）两种形容词性从句往往赋予同一个先行词以不同的含义。例如：
+My sister who lives in London is a doctor.
+我住在伦敦的妹妹是医生。
+My sister,who lives in London,is a doctor.
+我的妹妹是一个医生，她住在伦敦。
+（3）非限定性从句可以把整个主句当作先行词，而限定性从句没有这种功能。非限定性从句修饰整个主句时，只能用which或as来引导。例如：
+I said nothing，which made him still more angry.
+我一声不吭，这使他更加生气。
+He was a Frenchman,as I could tell from his accent.
+他是个法国人，我从他的口音中可以听出来。
+He was drunk,which seemed to make a bad impression on the policeman.
+他喝醉了，这似乎给警察留下了不好的印象。[2]
+编辑本段关系先行词和关系词
+1）Whoever spits in public will be punished here.（“Whoever”可以用“anyone who”代替）
+2）The parents will use what they have to send their son to technical school. （“what”可以用“all that”代替）
+但这两句句子已经不是定语从句了，是名词性从句。因为定语从句一定要有先行词，而名词性从句没有。将“Whoever”、“what”分别用“Anyone who”、“all that”代替后，才是定语从句，先行词分别是“Anyone”、“all”。An invitation from her boss, ___came as a surprise.
+A. it　B. that　C. which　D. he
+答案C。
+此为非限定性从句，不能用“that”修饰，而用“which”、“it”和“he”都使后句成为句子，两个独立的句子不能单以逗号连接。况且选“he”句意不通。
+2）The weather turned out to be very good, ___ was more than we could expect.
+A. what　B. which　C. that　D. it
+答案B
+英语语法上行不通。
+3）It rained hard yesterday, ____ prevented me from going to the park.
+A. that　B. which　C. as　D. it
+答案B
+“as”和“which”在引导非限宾语。但不同之处主要有两点：
+（1）importance to me, as my own is.
+在一定的语言环境里，有些名词可以具有形容词的性质。这些名词主要是那些表示人的身份、职业、状态的名词。值得一提的是，在这些具有形容词性质的名词之后，引导定语从句的关系代词不能用“who / whom”。
+（2）动词短语先行成分。
+这种动词短语既可是限定形式也可是非限定形式。如果是动态动词短语，它们在从句中就一般有限定或非限定形式的替代动词“do”和“as / which”一起代替。“do”可以出现，也可以不出现，但不能用其它动词代替。
+（3）句子作先行成分。
+这句子可以是整个主句也可以只是主句中的一个从句。有时是连续几个句子，有时甚至可以是一个完整的故事。
+二、“as/which”特殊定语从句在句中的位置。
+由于先行成分的构成成分”特殊定语从句在句中的位置有以下几种情况：
+1. 形容词作先行成分时：形容词的“which”特殊定语从句置于先行成分之后。
+2. 动词短语作先行成分时，“as / which”特殊定语从句置于先行成分之后。但是，当从句中含有表示主观意志的插入成分时，“as”特殊。
+3. 句子作先行成分时：“as”特殊定语从句的位置较灵活，可以置于先行成分之前、之中或之后。但如果先行成分是直接引语，“as”特殊定语从句与否定词的相对中则常用一些表示“合乎自然规律”、“众所周知”或“经常发生”等意义的词语，如natural, known to all, usual等。
+4. 有无状语意要是方式状语意义，而“which”特殊定语从句则无状语意义。“as”特殊定四、关系代词“as”与“which”一词。如：
+Freddie, as might be expected, was attending the conference.
+1). “Which”作主语时，谓语动词不限，主动被动皆可，只是谓语动词为被动语态时助动词“be”省略。
+2). “as”和“which”都可以在特殊定语从句中宾语。
+3). “as”和“which”在特殊从句中作补语。如：
+We thought him a gentleman, as/which he could never be.
+“as”特殊定语从句中可以主谓倒装，“which”从句中则不能主谓倒装。
+如果先行成分不是主语补语或宾语补语，关系代词用“which”而不用“as”。如：
+He talked like a native, which/as he hardly was.
+5."as"用法：
+1)."as"引导限制性定语从句
+a."such....as"
+He is not such a fool as he looks.
+I have never heard such a story as he tells.
+b."the same ....as"
+This is the same book as I lost last week.
+(区分"the same...as"与"the same....that"：两者都引导定语从句。that从句中说明的名词与the same修饰的名词是同一个。as从句中说明的名词与the same修饰的名词是同一类，而非同一个。举例：①This is the same pen that I lost. 这支钢笔就是我丢的那一支。②This is the same pen as I lost. 这支钢笔跟我丢的那支笔一模一样。)
+c."as...as"
+As many children as came were given some cakes.
+2)."as"引导非限制性定语从句
+常用句式:as is said above 综上所述
+as is known to all 众所周知
+as is often the case 通常如此
+as is reported in the newspaper 如报纸所报道的
+6. “which”在特殊从定法
+（1）不用that的情况
+（a）在引导非限定性定语从句时。
+（c）The tree, which is four hundred years old, is very famous here.
+（b）介词后不能用。
+We depend on the land from which we get our food.
+We depend on the land that/which we get our food from.
+（2）只能用“that”引导：如先行词被“last,just”修饰时，只用“that”。
+（d）先行词为序数词、数容词，又有物时。
+（f）先行词指物，在主句中作是“the way”或“the reason”时，“that”可作关系副词，也可省略。
+（h）主句的主语是疑问词“who /which”时，避免重复要用“that”．
+举例：
+Is this the book that you borrowed in the library?
+这是你在图书馆借的书吗？
+Who that break the window should be punished．
+谁打碎了窗户谁该受罚。
+All that is needed is a supply of oil.
+所需的是石油供应。
+The thief gave out everything that he had stolen to the police.
+那贼最终把偷的全部东西交给了警察。
+定语从句只能“that”引导的情况：
+1、先行词是最高级或被最高级修饰。
+This is the most interesting book that l have ever read.
+2、先行词是序数词或被序数词修饰。
+The second foreign country that l expect to visit is Greek.
+3、先行词是不定代词时，如"all、few、little、much、anything、nothing、something"
+This is the very good dictionary that I want to buy.
+4.、先行词既有人又有物时
+Can you remember the scientist and his theory that we have learned?
+5、先行词被“only”、“the every”、“no”、“one of”、“the right"、“the same"等修饰
+He is the only person that l want to talk to.
+6、在以“which”、“who”、“whom” 引起的问句中，为避免重复，常用"that"
+Who is the man that is standing there? Which is the T-shirt that fits me most?
+7、“there be”句型中
+8、先行词在主句中作表语，或者关系代词本身作从句的表语时宜用“that”
+“that”在作宾语时可省略。
+（五）区分定语从句和同位语从句
+1、定语从句修饰先行词，它和先行词是修饰关系；
+同位语从句说明先行词的具体内容，是补充说明的关系。
+（1）The boy who is playing football is my classmate.（定语从句）
+2、定语从句由关系代for advice.
+（3）The fact that the moon moves around the earth is known to all.
+（4）The fact is that the moon moves around the earth.(这是一个表语从句！）
+(六)特殊的定语从句
+1)but也可用作关系代词来引导定语从句，意思接近于that(who).....not(这种用法已经有些陈旧）
+There is no tree but bears some fruit.没有不结果实的树。
+There are very few but admire his talents.很少有人不佩服他的才华。
+Surely there isn't a mother but faces this problem.可以肯定，凡是母亲都面临着这个问题。
+2）whereby,wherein,whereupon也可以引导定语从句，相当于by which,in which,upon/on which.这种用法已经有些陈旧，且仅用于书面语。[3]
+[定语从句]介词+关系词
+1）介词后面的关系副词不能省略。
+2）“that”前不能有介词。
+3）某些在从句中充当时间，地点或原因状语的"介词+关系词"结构可以同关系副词“when”和“where”互换。例如：
+This is the house in which I lived two years ago. 这是我两年前住过的房子。
+This is the house where I lived two years ago.
+Do you remember the day on which you joined our club？ 还记得你加入我们俱乐部的那一天吗？
+Do you remember the day when you joined our club？
+介词与关系代词
+“介词+关系代词”的结构
+1. “介词+ which”在关系分句中分别可作时间、地点和原因状语，代替相应的关系副词when, where和why。如：
+　　①I still remember the day on which (= when) I first came to school. 我仍然记得初来学校的那一天。
+　　②The factory in which (= where) I work is a large one. 我工作的工厂是一个大厂子。
+　　③This is the reason for which (= why )he was put in prison. 这就是他为什么被关起来的原因。
+　　2. “介词+ which（指物）/whom（指人）”在关系分句中作地点状语，表示存在关系，关系分句主谓常须倒装。如：
+　　①They arrived at a farm house, in front of which sat a small boy. 他们来到一处农舍，前边坐着一个小男孩。
+　　②I saw a man, on the head of whom stood a bird. 我看见一个人，他的头上有一只鸟。
+　　3. “不定代词或数词+ of + which（指物）/whom（指人）”在关系分句中作主语，说明整体中的一部分。如：
+　　
+　　①China has a lot of islands, one of which is Taiwan. 中国有许多岛屿，其中之一是台湾岛。
+　　②There are a lot of students here, none of whom like the film. 这里有许多学生，他们之中无人喜欢这部电影。
+　　4. “介词+ which（指物）/whom（指人）”在关系分句中作目的、方式或地点状语。如：
+　　
+　　①Could you tell me for whom you’ve bought this coat? 你能告诉我这件衣服是给谁买的吗？
+　　②The man, from whom I learned the news, is an engineer. 这人是一位工程师，我是从他那里得到这个消息的。
+　　5. “介词+ which（指物）/whom（指人）”用于被动结构的关系分句中，作状语，说明动作的执行者。如：
+　　
+　　①The wolf by which the sheep was killed was shot. 伤害羊的那只狼被打死了。
+　　②The man by whom the wolf was shot was a good hunter. 打死狼的那人是一个好猎手。
+　　6. “名词+ of which”代替“whose +名词”在关系分句中作定语。如：
+　　　①I saw some trees, the leaves of which (= whose leaves ) were black with disease. 我看见一些树，它们的叶子因害病而发黑。
+　　②He mentioned a book, the title of which (= whose title) I’ve forgotten. 他提到一本书，书名我忘了。
+　　7. “介词+ which（指物）/whose（指人）”修饰后边的名词。如：
+　　①It rained all night and all day, during which time the ship broke into pieces. 雨下了一天一夜，就在这期间轮船撞碎了。
+　　②The driver was the man from whose room she had stolen the maps. 司机就是那个男人，她从他的房间偷走地图。
+　　8. “介词+ which +不定式”。此种用法多见于正文体中，相当于一个带有主语和谓语的定语从句。如：
+　　
+　　She had only 1.87 with which to buy (= she could buy) Jim, her husband, a present. 她只有一元八角七分钱，用这些钱她给丈夫吉姆买一件礼物。分句中分别可作时间、地点和原因状语，代替相应的关系副词when, where和why。如：
+　　①I still remember the day on which (= when) I first came to school. 我仍然记得初来学校的那一天。
+　　②The factory in which (= where) I work is a large one. 我工作的工厂是一个大厂子。
+　　③This is the reason for which (= why )he was put in prison. 这就是他为什么被关起来的原因。
+介词的正确选择
+1. 根据后面动词和介词的搭配关系选择。如：
+　　①This is not the book of which the teacher spoke in class. (speak of 意为“谈论”，相当于talk about)
+　　②The two things of which they felt proud were Jim’s gold watch and Della’s hair. (be / feel proud of 为固定短语，意为“以……自豪”。)
+　　2. 根据前面的名词的搭配关系选择。如：
+　　
+　　①I’ll never forget the day on which I first met him. (表示具体的某一天，介词用on)
+　　②The boy pointed to the direction in which he would run. （“朝……方向”，介词用in）
+　　3. 有时需同时考虑动词和介词的搭配关系及介词和名词的搭配关系。如：
+　　
+　　The clever boy made a hole in the wall, through which he could see what was happening inside the house.
+三、介词和关系代词
+1）介词后面的关系代词不能省略。
+2）“that”前“Do you”作介词的宾语，且可以省略。
+例如：（1）The school（that/which）he once studied in is very famous.
+“that/which”可以省略。= The school in which he once studied is very famous.“which”不可省略。
+（2）Tomorrow I will bring here 用，如：look for, look after, take care of等。T This is the watch which/that I am looking for.（T=正确）F This is the watch for which I am looking.（F=错误）
+2. 若介词放在关系代词前，关系代词指人时用“whom”，不可用“who”或者“that”；指物时用“which”，不能用“that”；关系代词是所有格时用“whose”
+（1）The man with whom you talked is my friend.（T）The man famous.
+（2）I bought many books yesterday, three of which are written by Lu Xun.
+四、关系代词关系代词（一般情况下）“that”可用在从句做主语，谓动词的宾语，但是不能做介词的宾语。“which”指物，在从句中作主语；“whom”在从句中作宾语；“why”在从句中修语，先行词通常是“the reason”；有时“why”也可用“for+which”代替。
+例：A doctor who looks after people's health.主语 谓语 先行词 定语从句修饰先行词五、判断介词和关系代词方法一： 用关系代词，还是关系副词完全取决于从句中的谓语动词。不及物动词后面无宾语，就必须要求用关系副词或者是介词加关系代词；而及物动词后接宾语，则要求用关系代词。
+例如：　This is the mountain village where I stayed last year.
+判断改错:（错） This is the mountain village where I visited last year.
+（错） I will never forget the days when I spent in the countryside.
+（对） This is the mountain village (which) I visited last year.
+（对） I'll never forget the days (which) I spent in the countryside.
+例. Is this the museum ____ the exhibition was held?A. where　B. that　C. on which　D. the one,解析： 主、谓、宾俱全，从句部分为句子的状语表地点，既可用副词where，又因 in the museum词组，可用介词in + which 引导地点状语。而此题中，介词on 用的不对，所以选A。
+关系词的选择依据在从句中所做的成分，先行词在从句中做主、宾语时，选择关系代词（who, whom, that, which, whose）； 先行词在从句中做状语时，应选择关系副词（“where”地点状语，“when”时间状语，“why”原因状语）。
+编辑本段特定选择关系词
+只用that不用which
+1）当先行词是或被序数词，最高级，不定代词修饰时，关系词用that不用which。
+2）当先行词既有人又有物时，用that。
+3）当先行词带有the only,the very,the same,the last,the one等词时，用that不用which。
+4）当主句中有who或which时，为避免重复用that。
+5）当先行词为something，anything，nothing，none，no，little，much，all等不定代词时用that。
+只用who不用that
+1）如果先行词是those,they,all,persons,people,he,anyone,one时用who不用that
+2）当先行词指人并含有较长的后置定语从句或在被分割的定语从句中时。
+只用which不用that
+1）当主句先行词后有介词时，用which。This the one of which I'm speaking。
+2）非限定性定语从句，用which。
+3) 描述句中一般用which。Beijing，which was China's capital for more than 800years。
+4）those +复数名词之后，多用which .Shopkeeper want to keep a number of those goods which sell best。
+5）先行词本身是that时。
+编辑本段误区提醒1）当表示时间或地点的名词作先行词时，要判断出它们在从句中作状语还是主语或宾语。作状语时用关系副词，反之用关系代词。
+典型例题：I can never forget the day _______ we worked together and the day ______ we spent together.
+A. when; which B. which; when C. what; that D. on which; when
+解析：两个先行词the day都是表示时间的名词,但第一个空白处要填的关系词在从句中作状语,因此要用关系副词when. 第二个空白处要填的关系词在从句中作动词spent的宾语,因此要用关系代词which或that来引导定语从句.
+答案：A
+2）当主语为物时，不能用what
+3）there be句型中，指人用who指物用that。
+4）当主句中缺少主语或表语时，用the one。
+5）当出现先行词+介词时，关系词只能用whom或which
+
+
+
+
+第5章 状语从句
+百科名片
+状语从句 （Adverbial Clause） 状语从句指句子用作状语时，起副词作用的句子。它可以修饰谓语、非谓语动词、定语、状语或整个句子。根据其作用可分为时间、地点、原因、条件、目的、结果、让步、方式和比较等从句。状语从句一般由连词(从属连词)引导，也可以由词组引起。从句位于句首或句中时通常用逗号与主句隔开，位于句尾时可以不用逗号隔开。
+目录
+
+种类状语从句讲解和练习
+时间状语从句
+地点状语从句
+原因状语从句
+目的状语从句
+结果状语从句
+条件状语从句
+让步状语从句
+比较状语从句
+方式状语从句
+状语从句的简化
+连词+形容词
+连词+名词
+连词+现在分词
+连词+过去分词
+连词+不定式
+连词+介词短语
+时间概念
+要点
+when在...的时候
+while在...期间
+as在...的同时；一边...一边..
+after在...之后
+before 在...之前
+as soon as 一。。。就。。
+since 自。。。以来 到现在
+till /until直到。。
+by the time 到。。。为止
+注意事项由when, while, as引导的时间状语从句
+when, while和as的区别
+as when while的辨析
+由before和after引导的时间状语从句
+由till或until引导的时间状语从句
+由since引导的时间状语从句
+by the time的用法
+知识扩展
+由by the time引导的时间状语从句
+when和while的区别
+地点概念
+要点
+句型1
+句型2
+知识扩展
+条件
+原因
+目的
+结果
+让步
+比较原级
+比较级
+最高级
+知识扩展
+方式
+运用
+高考考察
+展开种类 状语从句讲解和练习 
+时间状语从句 
+地点状语从句 
+原因状语从句 
+目的状语从句 
+结果状语从句 
+条件状语从句 
+让步状语从句 
+比较状语从句 
+方式状语从句 
+状语从句的简化 
+连词+形容词 
+连词+名词 
+连词+现在分词 
+连词+过去分词 
+连词+不定式 
+连词+介词短语
+时间 概念 
+要点 
+when在...的时候 
+while在...期间 
+as在...的同时；一边...一边.. 
+after在...之后 
+before 在...之前 
+as soon as 一。。。就。。 
+since 自。。。以来 到现在 
+till /until直到。。 
+by the time 到。。。为止
+注意事项 由when, while, as引导的时间状语从句 
+when, while和as的区别 
+as when while的辨析 
+由before和after引导的时间状语从句 
+由till或until引导的时间状语从句 
+由since引导的时间状语从句 
+by the time的用法 
+知识扩展 
+由by the time引导的时间状语从句 
+when和while的区别
+地点 概念 
+要点 
+句型1 
+句型2 
+知识扩展
+条件 
+原因 
+目的 
+结果 
+让步 
+比较 原级 
+比较级 
+最高级 
+知识扩展
+方式 
+运用 
+高考考察
+展开编辑本段种类1.时间状语从句
+2.地点状语从句
+3.原因状语从句
+4.条件状语从句
+5.目的状语从句
+6.让步状语从句
+7.比较状语从句
+8.方式状语从句
+9.结果状语从句
+状语从句的时态特点
+一般情况下，时间和条件状语从句的谓语动词一般用“一般现在时”表示“一般将来时”，用“现在完成时”表示“将来完成时”。例如：
+I will call you as soon as I arrive in Beijing. 我到北京就将给你打电话。（这是由as soon as引导的时间状语从句，从句中的谓语动词arrive是一般现在时，表示一般将来时，绝不可用will arrive）
+As soon as I have finished this work, I will have gone home. 我一完成此工作，就回家。（从句中的谓语动词用现在完成时have finished，表示将来完成时,绝不可用will have finished）
+If he comes back, please let me know.如果他回来了，请通知我。（从句中的谓语动词用comes back,表示一般将来时，绝不可用will come back）
+状语从句讲解和练习
+状语修饰动词、形容词、副词或整个句子。通常由副词、介词短语、动词不定式、分词和从句等担当。例如：
+1. Naturally , our grandparents were pleased to get our phone call .(副词)
+(当然，我们的祖父母乐于接到我们的电话)
+2. We worked hard , from sunrise to sunset . (介词状短语)
+(我们工作得很努力，从日出到日落。)
+3. To help my disabled aunt , I spend an hour working in her house every day . (不定式)
+(为了帮助我残疾的阿姨，我每天花一小时在她的房子里。）
+4. Seen from a distance , the farmhouse looked deserted . (过去分词)
+（ 从远处看，农舍显得空荡荡。）
+5. I know how to light a camp fire because I had done it before .（原因状语从句）
+（我知道如何点燃篝火，因为我曾经做过。）
+状语的位置比较灵活，可以位于句首、句末或句中。enough用作状语修饰形容词和副词时必须后置。
+状语从句主要用来修饰主句或主句的谓语。一般可分为九大类，分别表示时间、地点、原因、目的、结果、条件、让步、比较和方式。尽管种类较多，但由于状语从句与汉语结构和用法相似，所以理解和掌握它并不难。状语从句的关键是要掌握引导不同状语从句的常用连接词和特殊的连接词即考点。现分别列举如下:
+时间状语从句
+常用引导词：when, as, while, as soon as, before, after, since , till, until
+特殊引导词：the minute, the moment, the second, every time, the day，the instant, immediately , directly, no sooner … than, hardly …when, scarcely … when
+I didn’t realize how special my mother was until I became an adult.
+While John was watching TV, his wife was cooking.
+The children ran away from the orchard(果园), the moment they saw the guard.
+No sooner had I arrived home than it began to rain.
+Every time I listen to your advice, I get into trouble.
+地点状语从句
+常用引导词：where
+特殊引导词：wherever, anywhere, everywhere
+Generally, air will be heavily polluted where there are factories.
+Wherever you go, you should work hard.
+地点状语从句一般由连接副词where, wherever等引导，已经形成了固定的句型，例如：
+句型1：Where+地点从句，（there）+主句。
+【注意】此句型通常译成“哪里……哪里就……”；主句在从句后面时，there可用可不用；如果主句在从句的前面时，一般都不用there。例如：
+Where there is no rain, farming is difficult or impossible.在没有雨水的地方，耕作是困难的，或根本不可能的。
+They were good persons. Where they went, there they were warmly welcomed. 他们都是好人。因此他们走到哪里都受到热烈欢迎。
+You should have put the book where you found it. 你本来应该把书放回原来的地方。
+Where the Communist Party of China goes, there the people are liberated.哪里有了中国共产党，哪里人民就得解放。
+句型2：anywhere/wherever+地点从句/主句。
+【注意】anywhere本身是个副词，可以引导从句，相当于连词，意思相似于wherever, anywhere引导的从句可位于主句之前，也可以位于主句之后。 而wherever本身就是个连词，表示“在何处，无论何处”。例如：
+Wherever the sea is , you will find seamen.有海就有海员。
+原因状语从句
+常用引导词：because, since, as, for
+特殊引导词：seeing that, now that, in that, considering that, given that.
+My friends dislike me because I’m handsome and successful.
+我的朋友不喜欢我，因为我又英俊又成功。
+Now that everybody has come, let’s begin our conference.
+既然每个人都到了，让我们开始我们的会议吧。
+The higher income tax is harmful in that it may discourage people from trying to earn more.
+更高的收入税是有害的，因为它或许会阻碍人们努力赚钱。
+目的状语从句
+常用引导词：so that, in order that
+特殊引导词：lest, in case, for fear that，in the hope that, for the purpose that, to the end that
+The boss asked the secretary to hurry up with the letters so that he could sign them.
+老板要求秘书快写函件以便他能在上面签字。
+The teacher raised his voice on purpose that the students in the back could hear more clearly.
+为了让后面的学生听得更清楚，老师有意地提高了他的声音。
+结果状语从句
+常用引导词：so … that, such … that,
+特殊引导词：such that, to the degree that, to the extent that, to such a degree that,
+He got up so early that he caught the first bus.
+It’s such a good chance that we must not miss it.
+To such a degree was he excited that he couldn’t sleep last night.
+条件状语从句
+常用引导词：if, unless,whether(whether...or not)
+特殊引导词：as/so long as, only if, providing/provided that, supposing that, in case that, on condition that
+We’ll start our project if the president agrees.
+You will certainly succeed so long as you keep on trying.
+Provided that there is no opposition, we shall hold the meeting here.
+让步状语从句
+常用引导词：though, although, even if, even though
+特殊引导词： as(用在让步状语从句中必须要倒装)，while ( 一般用在句首 )，no matter …， in spite of the fact that, whatever, whoever, wherever, whenever, however, whichever
+Much as I respect him, I can’t agree to his proposal.
+尽管我很尊敬他， 我却不同意他的建议。
+The old man always enjoys swimming even though the weather is rough.
+No matter how hard he tried, she could not change her mind.
+He won’t listen whatever you may say.
+比较状语从句
+常用引导词：as(同级比较), than(不同程度的比较)
+特殊引导词：the more … the more … ; just as …， so…; A to B is what/as X is to Y; no … more than; not so much A as B
+She is as bad-tempered as her mother.
+The house is three times as big as ours.
+The more you exercise, the healthier you will be.
+Food is to men what oil is to machine. 食物之于人，犹如油之于机器。
+方式状语从句
+常用引导词：as, as if, how
+特殊引导词：the way
+When in Rome, do as the Roman do.
+She behaved as if she were the boss.
+Sometimes we teach our children the way our parents have taught us.
+状语从句的简化
+状语从句的省略
+状语从句同时具备下列两个条件:①主句和从句的主语一致，或从句主语为it；②从句主要动词是be的某种形式。从句中的主语和be动词常可省略。例如：
+When ( the museum is ) completed , the museum will be open to the public next year .
+He’ll go to the seaside for his holiday if (it is ) possible.
+另外，比较状语从句经常省略。例如：
+I’m taller than he (is tall ).
+The higher the temperature (is), the greater the pressure (is ).
+就状语从句而言,有时为了使语言言简意赅,常常将状语从句进行"简化"。状语从句的"简化"现象在口语中较为普遍,而且在高考中的复现率也较高。因此,有必要对其进行全面、透彻的了解。
+状语从句的"简化"现象常存在于以下五种状语从句中:①由if, unless等引导的条件状语从句;②由although, though, even if / though等引导的让步状语从句;③由when, while, as, before, after, until / till等引导的时间状语从句;④由as, as if等引导的方式状语从句;⑤由as, than等引导的比较状语从句。下面针对这五种情形作一归纳。
+(1)当状语从句的主语是it,且谓语动词是be时,it和be要完全简化掉。例如:
+If (it is) possible, he will help you out of the difficulty.如果可能的话,他会帮你摆脱困境。
+You must attend the meeting unless (it is) inconvenient to you.除非情况对你来说不方便,否则你必须出席这次会议。
+(2)当状语从句的主语和主句的主语一致时,从句可以将主语和be动词简化掉。常用于以下几种情形:
+连词+形容词
+As (he was) young, he learned how to ride a bike.他小时候就学会了骑自行车。
+Whenever (she is) free, she often goes shopping.她有空就去逛商店。
+Work hard when (you are) young, or you'll regret.少壮不努力,老大徒伤悲。
+连词+名词
+While (he was) a young boy, he was always ready to help others.他在孩子时代就乐于助人。
+Although (he was) a farmer, now he is a famous director.尽管他曾是个农民,但现在他是位著名的导演了。
+连词+现在分词
+As (she was) walking along the river bank, she was singing a pop song.她沿着河堤边走边唱着流行歌曲。
+Although (he is) doing his best in maths these days, he has still got no good marks.尽管近来他一直在学数学,但他仍然没有取得好成绩。
+连词+过去分词
+He won't go there with us unless (he is) invited.除非受到邀请,否则他不会和我们一道去那里。
+The concert was a great success than (it was) expected.这场音乐会出乎意料地取得了巨大成功。
+连词+不定式
+He stood up as if (he were) to say something.当时他站起来好像要说什么。
+He wouldn't solve the problem even if (he were) to take charge.即使他来负责,他也解决不了这个问题。
+连词+介词短语
+She looked anxious as though (she was) in trouble.她看上去很焦急,好像遇到了麻烦。
+He had mastered the English language before (he was) in the USA.他到美国之前就懂英语了。
+注意:当从句主语和主句主语不一致时,从句部分要么用完全形式,要么用独立主格结构来表达。例如:
+When the meeting was over, all the people went out of the meeting-room.当会议结束时,人们都走出了会议室。(=The meeting over,
+编辑本段时间概念
+在复合句中，由时间状语从句表示主句动作发生的时间。(在复合句中，要注意主句和从句的时态大多都要保持一致。）
+要点
+时间状语从句，由以下连词引导：
+when while as after before as soon as since till /until by the time 在时间状语从句中，要注意时态一致。一般情况下主句是将来时的时候，从句主要用一般现在时。
+when在...的时候
+Mozart started writing music when he was four years old.
+(在)莫扎特4岁的时候，开始写音乐作品。
+while在...期间
+He visited a lot of places while he was traveling.
+他在旅行期间参观了许多地方。
+as在...的同时；一边...一边..
+We alwalys sing as we walk.
+我们总是一边走一边唱。
+I'll let him know as soon as she comes.
+她一来，我就会让他知道。
+after在...之后
+He left the classroom after he had finished his homework .
+他做完作业之后就离开教室。
+before 在...之前
+Mr. Brown had worked in a bank for a year before he came here.
+布朗先生来这里之前已经在一家银行里工作一年了。
+as soon as 一。。。就。。
+We began to work as soon as we got there.
+我们一到那就开始工作。
+I will write to you as soon as I get home.
+我一到家就给你写信。
+since 自。。。以来 到现在
+表示自过去的一个起始时间点到目前(说话时间)为止的一段持续时间。主句一般用现在完成时，从句用一般过去时。还可以用作介词，本句从句还可以用短语：since three years ago(从三年前至今)表示。
+Mr Green has taught in that school since he came to China three years ago.
+自格林先生来中国以来，他就在这所学校教书。
+till /until直到。。
+都可以作连词，连接时间状语，也可以作介词，与其它词构成介词短语，在句中作状语。（强调将一般用until）
+They walked till /until it was dark.
+他们一直走到天黑。
+Xiao Ming didn’t leave home till / until his father came back.
+小明直到他爸爸回来才离开家。
+by the time 到。。。为止
+(所在句子的主句应用完成时)
+By the time he gets there , his father has already gone.
+他到家的时候，他爸爸已经走了。
+By the time I got to school, the class had already began.
+我到校时，已经开始上课了。
+编辑本段注意事项由when, while, as引导的时间状语从句
+例如：
+When you think you know nothing, then you begin to know something.当你以为自己一无所知的时候，你就是在开始知道一些事物了。
+When truth is buried under the ground it grows, it chokes, it gathers such an explosive force that on the day it bursts out , it blows up everything with it.当真理被埋在地下的时候，它在生长，它感到压抑，它蓄存着一种爆炸性力量，一旦冒出，它就会炸破一切！
+Strike while the iron is hot. 趁热打铁。
+Will you watch my clothes while I have a swim. 我游泳的时候，请你照看一下我的衣服。
+You can feel the air moving as your hand pushes through it. 当你的手在空气中挥动的时候，你就能感觉到空气在流动。
+Our headmaster laughed as she spoke.我们的校长一边谈一边笑。
+when, while和as的区别
+when引导的从句的谓语动词可以是延续性的动词，又可以是瞬间动词。并且when有时表示“就在那时”。
+例如：
+When she came in, I stopped eating.她进来时，我停止吃饭。(瞬间动词)
+When I lived in the countryside, I used to carry some water for him.当我住在农村时，我常常为他担水。（延续性的动词）
+We were about to leave when he came in.我们就要离开，就在那时他进来了。(瞬间动词)
+While引导的从句的谓语动词必须是延续性的，并强调主句和从句的动作同时发生（或者相对应）。并且while有时还可以表示对比。例如：
+While my wife was reading the newspaper, I was watching TV. (was reading是延续性的动词，was reading和was watching同时发生)
+I like playing football while you like playing basketball.我喜欢踢足球，而你喜欢打篮球。（对比）
+As表示“一边……一边”，as引导的动作是延续性的动作，一般用于主句和从句动作同时发生；as也可以强调“一先一后。例如：
+We always sing as we walk.我们总是边走边唱。（as表示“一边……一边”）
+As we was going out, it began to snow.当我们出门时，开始下雪了。（as强调句中两个动作紧接着先后发生，而不强调开始下雪的特定时间）
+as when while的辨析
+as when while都表示主、从句动作同时发生，三者差异如下：
+表示“一边。。。一边"的意思
+as 强调两个动作同时进行，并表示对比时
+用于发生时间较短时
+when
+1、还可以表示从句动词的动作在主句动词的动作"之前 "或"之后"发生。
+2、when=and then; at that moment (正在那个时候)
+while 1、用于时间较长时
+2、 强调两个动作同时进行，并表示对比时
+有时这三个连词可以互换，有时不可以。
+It was raining hard when (as) I got there.
+我到那里时，正在下大雨。 ( 动作同时发生，when可换为as, 但不能换为while，因为get是点动词.)
+When I had read the article, he called me.
+我看完这篇文章之后，她给我打了电话。( 从句动作发生在主句之前，注意时态表达，只能用when )
+When I got to the cinema, the film had begun.
+(当)我到了电影院时，电影已经开演了。(从句的动作发生在主句之后，只能用when,并要注意时态)
+He was about to leave, when the telephone rang.
+他正要离开，忽然电话响了。( 此时不能放在句首。主句动词一般表达 “正在” “即将”.
+while, as不能代替
+She thought I was talking about her daughter, while, in fact, I was talking about my daughter.
+他以为我在谈她女儿，然而，实际上在谈论我女儿。(表转折，对比，when, as都不能代替它)
+While the alien was buying a souvenir, the girl called the police.
+外星人买纪念品时，那女孩给警察打了电话。(表示主句，从句的动作同时发生，while后引导的状语从句的动词必须是延续动词不能是点动词，因为它表示较长时间)
+Mother was worried because little Alice was ill, especially as (when/ while) father was away.
+妈妈担心，因为小爱丽丝病了，特别是他父亲不在家的时候。(此时as ,when, while可通用)
+由before和after引导的时间状语从句
+before的句型：
+It is/was (not) +时间+before+从句 用了多长时间......
+注意before引导的从句不再用否定式的谓语，并且当before引导的从句位于主句之后，有时译成“就，才”。还要注意主句和从句之间的时间关系。当主句用将来时，从句总是用现在时；如果before引导的从句谓语用的是过去时，则主句动词多用过去完成时，这样以便体现动作发生的先后。After表示主句动作发生在从句动作之后。主句和从句的动作的时间关系正好与before引导的从句相反。例如：
+It will be four days before they come back. 他们要过四天才能回来。
+Einstein almost knocked me down before he saw me.爱因斯坦几乎把我撞倒才看到我。
+My father had left for Canada just before the letter arrived.我父亲恰好在信到之前去加拿大了。
+They had not been married four months before they were divorced. 他们结婚还不到四个月就离婚了。
+After you think it over, please let me know what you decide.你仔细考虑过以后，告诉我你是怎样决定的。
+After we had finished the work, we went home.完成工作之后，我们回家了。（从句用过去完成时，主句用一般过去时）
+由till或until引导的时间状语从句
+till和until一般情况下两者可以互换，但是在强调句型中多用until。并且要注意的是：如果主句中的谓语动词是瞬时动词时，必须用否定形式；如果主句中的谓语动词是延续性动词时，用肯定或否定形式都可以，但表达的意思不同。例如：
+I didn't go to bed until（till） my father came back.直到我父亲回来我才上床睡觉。
+It was not until the meeting was over that he began to teach me English.直到散会之后他才开始教我英语。
+I worked until he came back.我工作到他回来为止。
+I didn't work until he came back.他回来我这才开始工作。
+Please wait until I arrived.在我到达之前请等我。
+由since引导的时间状语从句
+since引导的从句的谓语动词可以是延续性的动词，又可以是瞬时动词。一般情况下，从句谓语动词用一般过去时，而主句的谓语动词用现在完成时。但在It is +时间+since从句的句型中，主句多用一般现在时。例如：
+I have been in Beijing since you left. 自从你离开以来，我一直在北京了。
+Where have you been since I last saw you? 自上次我和你见面以后，你到哪里去了？
+It is four years since my sister lived in Beijing. 我妹妹不在北京住有四年了。
+It is five months since our boss was in Beijing.我们老板离开北京有五个月了。
+by the time的用法
+by the time 的意思是“截止到......（时间）为止”，后面接时间状语从句。例如：
+The other students had finished cleaning by the time I arrived.截止到我到来之前，其他学生已经打扫完卫生了。
+They had stopped serving meals by the time we got to the restaurant.截止到我们到达餐馆时，他们已经停止买饭了。
+知识扩展
+1. It is since从。。。知识扩展来多长时间了(因为since +从句或名词，表示一段时间)
+It is five years since we met last time.从我们上次见面已经五年了。
+2. It is +before…(。。。才)
+It was a long time before I went to sleep again.
+过了很长时间我才睡着。
+It was an hour before(=until) the police arrived.
+过了一个小时，警察才来。
+5.由as soon as, immediately, directly, instantly, the moment, the instant, the minute, ]等引导的时间状语从句b]　这些连词都表示“一……就……”。
+例如：
+I will go there directly I have finished my breakfast. 吃完早饭，我立即到那里去。
+The moment I heard the news, I hastened to the spot.我一听到消息，马上赶到了出事地点。
+As soon as I reach Canada, I will ring you up. 我一到加拿大，就给你来电话。
+【注意】hardly(scarcely, rarely)…when / before, no sooner…than相当于as soon as之意。主句用过去完成时，从句用一般过去时。当hardly, scarcely, rarely和no sooner位于句首时，主句应用倒装语序。例如：
+He had no sooner arrived home than he was asked to start on another journey. 他刚到家，就被邀请开始另一旅程。
+No sooner had the sun shown itself above the horizon than he got out of bed to commence work.太阳刚从地平线上升起，他就起床劳动去了。
+Hardly had I sat down when he stepped in.我刚坐下，他就进来了。
+He had hardly fallen asleep when he felt a soft touch on his shoulder.他刚要入睡就感到肩膀上被轻轻一触。
+由by the time引导的时间状语从句
+注意时态的变化：在一般情况下，如果从句的谓语动词用一般过去时，主句的谓语动词用过去完成时；如果从句的谓语动词用一般现在时，主句的谓语动词用将来完成时。例如：
+By the time you came back, I had finished this book.到你回来时，我已经写完这本书了。
+By the time you come here tomorrow, I will have finished this work. 你明天来这儿的时候，我将已经完成此工作了。
+7.由each time, every time和whenever]引导的时间状语从句b]　例如：
+Each time he came to Harbin, he would call on me. 他每次来哈尔滨，总是来看我。
+Whenever that man says“To tell the truth”, I suspect that he's about to tell a lie.每当那个人说“说实在话”的时候，我猜想他就要说谎了。
+You grow younger every time I see you. 每次遇到你，见你更年轻了。
+8.由as long as和so long as]引导的时间状语从句。b]这两个连词表示“有多久……就多久”，通常译为“只要”　例如：
+You can go where you like as long as you get back before dark. 你可以随意到哪里去，只要在天黑以前回来就行。
+I will fight against these conditions as long as there is a breath in my body! 只要我一息尚存，我就要反对这种境况。
+when和while的区别
+when 和 while 都可表示“当.....时....”“这时候.....”when后及短暂性动词（land，come in，meet，leave 等），while后及延续性动词（shop，visit，read，sleep 等）
+when 后及一般过去式。eg：The girl was shopping when she saw the alien.
+What was Charlotte doing when the alien took off ?
+while 后及过去进行时。eg：While the alien was buying a souvenir , the boy called the police.
+While the alien was reading the book , the boy called the TV station[1].
+编辑本段地点概念
+地点状语从句 (adverbial clause of place)
+地点状语从句一般由连接副词where, wherever等引导，已经形成了固定的句型，
+要点
+由连词where和复合关系词wherever (=no matter where )引导.
+例如：
+句型1
+Where+地点从句，（there）+主句。
+【注意】此句型通常译成“哪里……哪里就……”；主句在从句后面时，there可用可不用；如果主句在从句的前面时，一般都不用there。例如：
+Where there is no rain, farming is difficult or impossible.在没有雨水的地方，耕作是困难的，或根本不可能的。
+They were good persons. Where they went, there they were warmly welcomed. 他们都是好人。因此他们走到哪里都受到热烈欢迎。
+You should have put the book where you found it. 你本来应该把书放回原来的地方。
+Where the Communist Party of China goes, there the people are liberated.哪里有了中国共产党，哪里人民得解放。
+句型2
+Anywhere/ wherever+地点从句，+主句。
+【注意】anywhere本身是个副词，但是，常可以引导从句，相当于连词，意思相似于wherever, anywhere引导的从句可位于主句之前，也可以位于主句之后。 而wherever本身就是个连词，表示“在何处，无论何处”。例如：
+Wherever the sea is , you will find seamen.有海就有海员。
+知识扩展
+1.Where there is a will , there is a way.
+有志者事竟成。(谚语)
+1.It will be mixed school where not all the children are disabled.
+他将是一所混合式学校，那里的儿童并不都是残疾。(在限定性定语从句中对限先行词起限定作用。)
+2.Wherever you go , I go too.
+无论你到什么地方，我都去。(wherever=no matter where)无论何处，多用于句首。
+3.Wherever there is smoke , there is fire.
+无风不起浪。(谚语)
+4. While she was wondering where to go , she met a policeman.
+疑问副词where后跟不定式,构成不定式短语.
+编辑本段条件要点： 条件状语从句由连词if, unless (=if not) 引导。
+1.If it doesn’t rain tomorrow, we will go hiking.
+如果明天不下雨, 我们就去远足.
+2.You will get good grades if you study hard.
+如果你努力学习,就会取得好成绩.
+3.I will go to the party unless he goes there too.
+我会去参加聚会的, 除非他也去.(如果他不去,我就去.)
+4.You will be late unless you leave immediately.
+如果你不马上走,你将会迟到的.(=If you don’t leave immediately, you will be late.)
+难点提示：用条件状语从句时要注意时态的正确使用,当主句是将来时的时候,从句要用一般现在时.
+He will not leave if it isn’t fine tomorrow.
+一般将来时， 一般现在时
+They are going to have a picnic if it doesn’t rain next week.
+一般将来时, 一般现在时
+编辑本段原因要点: 由连词because, since, as引导, 也可由for, now that 等词引导
+1.I didn’t go to school yesterday because I was ill.
+我昨天没去上学，因为我生病了。
+2. Since everybody is here, let’s begin our meeting.
+既然大家都来了, 让我们开始开会吧.
+3. As you are in poor health, you should not stay up late.
+既然你身体不好, 你就不该熬夜.
+4.I asked her to stay to tea for I hadsomethingto tell her.
+我请她留下来喝茶,因为我有事要告诉她.
+.难点——because , since , as , for,辨析
+1）　because语势最强，用来说明人所不知的原因，回答why提出的问题。当原因是显而易见的或已为人们所知，就用as或 since。
+I didn’t go because I was afraid.
+Since /As the weather is so bad, we have to delay our journey.
+2）　由because引导的从句如果放在句末，且前面有逗 号，则可以用for来代替。但如果不是说明直接原因，而是多种情况加以推断，就只能用for。
+He is absent today ,because / for he is ill.
+He must be ill for he is absent today.
+3) as和for的区别：
+通常情况下，as引导的从句在主句前，for引导的从句在主句后。例：
+As the weather is cold, I stay at home.（同义句）
+I stay at home for the weather is cold.
+编辑本段目的要点： 目的状语从句由连词that, so that, so…that , in order that 引导。
+1.so that 以至, 以便
+I’ll run slowly so that you can catch up with me. (目的)
+我将慢慢跑以至你能赶上我。
+I opened the window so that fresh air might come in. (目的)
+我把窗户打开以使新鲜空气可以进来。
+2.in order that=so that:为了
+We shall let you know the details soon in order that you can/may make your arrangements.
+不久我们将会让你知道详情,以便你们能够做出安排。(目的)
+3.despite= in spite of
+编辑本段结果要点：结果状语从句由连词( so )that, so…that, such…that, so much/many…that引导。
+1.so…that 如此…以至于
+The scientist’s report was so instructive that we were all very excited.
+科学家的报告很有启发性，我们感到很兴奋。
+He always studied so hard that he made great progress.
+他总是那么努力，结果他取得了很大的进步。
+2. such…that 如此。。。以至
+It’s such nice weather that all of us want to go to the park.
+天气是如此的好，我们大家都想去公园玩。
+3.比较：so和 such
+其规律由so与such的不同词性决定。such 是形容词，修饰名词或名词词组，so 是副词，只能修饰形容词或副词。 so 还可与表示数量的形容词many, few, much, little(这四个形容词表多或表少时)连用，形成固定搭配。
+so foolish　such a fool
+so nice a flower　such a nice flower
+so many / few flowers　such nice flowers
+so much / little money. such rapid progress
+so many people　such a lot of people
+（ so many 已成固定搭配，a lot of 虽相当于 many，但 a lot of 为名词性的，只能用such搭配。）
+so…that与such…that之间的转换既为 so与such之间的转换。
+The boy is so young that he can’t go to school.
+He is such a young boy that he can’t go to school
+难点
++形容词或副词
++形+a(an)+单数可数名词
+so +many 或few+复数可数名词 +that
++much或 little+不可数名词
+so that ,such…that 都可以in order that两者皆可引导目的状语从句和结果状语从句，
+当他们引导目的状语从句时，从句的谓语里常常有can, could, may, might, will, would等次。
+so +adj或adv.+ that， such +n.+ that 以上两种句型都表示结果,其中so为副词,后接形容词，副词原型，当可数名词前有many, few；不可数名词前有much, little修饰时，应采用句型：so many (few, much, little )+n. 。 such为形容词, 后只能接名词。这名词既可以地可数的，也可以是不可数的。如果这名词是可数,单数,则必须在名词前加冠词a(an). 常见的形式是:such a (beautiful)garden, such(nice)people.
+1。I’ve had so many falls that I’m black and blue all over.
+我跌了很多跤，浑身数摔得清一块紫一块.
+2。there are so few notebooks that I can’t give you any.
+笔记本太少了,我一本也给不了你.
+3。It is such nice weather that I’d like to take a walk.
+天气是如此之好,以至于我想去散散步.
+4。Mike is so honest a man that we all believe him.
+麦克是如此诚实的一个人,以至于大家都相信他
+(=Mike is such an honest man that we all believe him.)
+5。The weather is so nice that I’d like to take a walk.
+天气是如此之好,以至于我想去散散步.
+编辑本段让步要点: 表示让步的状语从句由连词 though, although引导.
+难点：
+lthough, although当虽然讲, 都不能和but连用. Although,(though)…but的格式是不对的.但是他们都可以同yet (still) 连用. 所以though (although)…yet(still)的格式是正确的.
+Wrong: Although he is rich but he is not happy.
+Right : Although he is rich, yet he is not happy.
+虽然他很富有, 然而他并不快乐.
+Wrong: Although we have grown up, our parents treat us as children.
+Right : Although we have grown up, our parents still treat us as children.
+尽管我们已经长大了,可是我们的父母仍把我们看作小孩.
+although, though 辨析
+although 不能though 那样用作副词, 放在句首表示强调时要用even though.
+1。He is looking fit, though.
+但是,他看上去很健康. 考点
+2。Even though I didn’t understand a word, I kept smiling.
+尽管我一个字也不懂，我还是一直微笑着。
+3。He is quite experienced, he is young, though.
+尽管他很年轻，他很有经验。
+典型例题
+1） ___she is young, she knows quite a lot.
+A. When　B. However　C. Although　D. Unless
+答案：C。意为虽然她很年轻，却知道许多。
+2)　as, though 引导的倒装句
+as / though引导的让步从句必须表语或状语提前（形容词、副词、分词、实义动词提前）。
+Child as /though he was, he knew what was the right thing to do.
+= Though he was a small child, he knew what was the right thing to do.
+注意：
+a.　句首名词不能带任何冠词。
+b.　句首是实义动词，其他助动词放在主语后。如果实义动词有宾语和状语，随实义动词一起放在主语之前。
+Try hard as he will, he never seems able to do the work satisfactorily.
+= Though he tries hard, he never seems…
+虽然他尽了努力，但他的工作总做的不尽人意。
+3)　ever if, even though.　即使
+We’ll make a trip even though the weather is bad.
+4) whether…or-　不管……都
+Whether you believe it or not, it is true.
+5)　"no matter +疑问词" 或"疑问词+后缀ever"
+No matter what happened, he would not mind.
+Whatever happened, he would not mind.
+替换：no matter what = whatever
+no matter who = whoever
+no matter when = whenever
+no matter where = wherever
+no matter which = whichever
+no matter how = however
+注意：no matter 不能引导主语从句和宾语从句。
+（错）No matter what you say is of no use now.
+（对）Whatever you say is of no use now.
+你现在说什么也没用了。(Whatever you say是主语从句)
+（错）Prisoners have to eat no matter what they’re given,
+（对）Prisoners have to eat whatever they’re given.　囚犯们只能给什么吃什么。
+编辑本段比较要点：比较状语从句主要运用于形容词和副词的原级，比较级及最高级的句子之中。
+原级
+1. as…as 和。。。一样
+Jack is as tall as Bob.
+捷克和汤姆一样高。
+2. not so(as)…as …和不一样
+She is not so(as)outgoing as her sister.
+她不如她姐姐外向。
+比较级
+more…than (更)
+This book is more instructive than that one.
+这本书比那本书有教育意义。
+最高级
+1.The most…in/of
+This book is the most interesting of the three.
+这本书是三本中最有趣的。
+2. the + 形容词+est…of/in
+This road is the busiest street in our city.
+这条路是我们城市最繁忙的街道。
+知识扩展
+no more than只不过(嫌少的意思)
+1。I have no more than two pens.
+我只有两支笔。
+2。It’s no more than a mile to the shops.
+去商店不过一英里。
+not more than不如。。。；(前者不如后者)
+1。Jack is not more diligent than John.
+捷克不如约翰勤奋。
+2。one of the + 名词(复数)….之一(用于最高级)
+Han Mei is one of the best students in our school.
+韩梅是我们学校最好的学生之一。
+编辑本段方式方式状语从句通常由as, (just) as…so…, as if, as though引导。
+1） as, (just) as…so…引导的方式状语从句通常位于主句后，但在(just) as…so…结构中位于句首，这时as从句带有比喻的含义，意思是"正如…"，"就像"，多用于正式文体，例如：
+1。Always do to the others as you would be done by.
+你希望人家怎样待你，你就要怎样待人。
+2。As water is to fish, so air is to man.
+我们离不开空气，犹如鱼儿离不开水。
+3。Just as we sweep our rooms, so we should sweep backward ideas from our minds.
+正如打扫房屋一样，我们也要扫除我们头脑中落后的东西。
+2） as if, as though
+两者的意义和用法相同，引出的状语从句谓语多用虚拟语气，表示与事实相反，有时也用陈述语气，表示所说情况是事实或实现的可能性较大。汉译常作"仿佛……似的"，"好像……似的"，例如：
+1。They completely ignore these facts as if (as though) they never existed.
+他们完全忽略了这些事实，就仿佛它不存在似的。（与事实相反，谓语用虚拟语气。）
+2。He looks as if (as though) he had been hit by lightning.
+他那样子就像被雷击了似的。（与事实相反，谓语用虚拟语气。）
+3。It looks as if the weather may pick up very soon.
+看来天气很快就会好起来。（实现的可能性较大，谓语用陈述语气。）
+说明：as if / as though也可以引导一个分词短语、不定式短语或无动词短语，例如：
+1。He stared at me as if seeing me for first time.
+他目不转睛地看着我，就像第一次看见我似的。
+2。He cleared his throat as if to say something.
+他清了清嗓子，像要说什么似的。
+3。The waves dashed on the rocks as if in anger.
+波涛冲击着岩石，好像很愤怒。
+编辑本段运用写作中能合理、正确地使用状语从句，不但能地道的表达英文习惯，而且还能使文体结构更加严谨、美观。例如下文：
+My hobby
+The hobby I enjoy most is fishing.
+I started fishing (1)when I was five years old. I’ll never forget the day (2)when my father first took me fishing with him. On that day, I was holding a fishing rod (3)when a fish suddenly started pulling on the line. (4)I was so shocked that I fell into the water. But experience didn’t put me off and I have been fishing ever since.
+Now I still go fishing with my father. And we often go out on Sundays and spend the whole day fishing in the river.
+(1)是由when引导的时间状语从句，这类从句的使用频率很高。
+(2)句是由I’ll never forget the day .及when my father first took me fishing with him.两句组成。When在从句中做时间状语。
+(3)句也是由when 引导的时间状语从句。When 常与suddenly 连用，主句常用过去进行是。译为 “正在……, 忽然……”.
+(4)是以 so…that… (太…..以至于……)引导的结果状语从句.
+（5）the...the...
+e.g.
+The more you listen to English,the easier it becomes. The harder you work,the greater progress you will make. The more pictures I take,the more skilled I　become.
+编辑本段高考考察【专题要点】状语从句考点概览：1.when， while， as引导时间状语从句的区别;2.名词词组the minute， the moment， the first time， each time， any time等用作连词，引导时间状语;3.before，和since引导时间状语从句的用法以及常见的几个句型;4.till和until的用法;5.although， though， as以及even if， even though引导让步状语从句的用法;6.结果状语从句中“so ----that”与“such---that”的区别;7.条件状语从句unless， providing/provided， suppose/supposing等引导词的用法;8.“疑问词+ever”和“no matter+疑问词”引导从句的用法
+【考纲要求】考纲要求在复习状语从句中掌握如下几点：1.全面掌握状语从句的九大类别;2.根据历年高考试题，对状语从句的考点要进行全面的归纳，在九大类别中的考查热点中，重点把握在引导时间、地点、条件、让步、比较、原因状语从句的连词运用上;3.熟练运用出现频率较高让步状语从句和原因状语从句;4.做好易混词的辨析如：as， when， while等，时间状语从句因为连接词容易出现在一些常用结构里也经常出现;5. 掌握状语从句中的时态、语态、语气、省略;6.与其它从句、句型结合起来分析、辨析
+
+
+
+
+第6章 表语从句
+百科名片
+表语从句就是用一个句子作为表语。说明主语是什么或者怎么样，由名词、形容词或相当于名词或形容词的词或短语充当，和连系动词一起构成谓语。
+目录
+
+表语从句
+定义简介
+A
+B
+注意A
+B
+C
+D
+注意
+案例分析考题1
+考题2
+考题3
+考题4
+考题5
+考题6
+相关关系简介
+宾语从句
+展开表语从句 
+定义 简介 
+A 
+B
+注意 A 
+B 
+C 
+D
+注意 
+案例分析 考题1 
+考题2 
+考题3 
+考题4 
+考题5 
+考题6
+相关关系 简介 
+宾语从句
+展开编辑本段表语从句（Predicative Clause）
+编辑本段定义简介
+表语从句定义：在一个复合句中，从句作的是主语的表语成分。
+A
+The problem is puzzling.
+  表语从句
+这个问题令人困惑。
+主语+连系动词+形容词作表语
+The problem is when we can get a pay rise.
+问题是什么时候我们可以得到加薪。
+主语+连系动词+句子作表语（表语从句）
+B
+连接表语从句的连接词有：that, what, who, when, where, which, why, whether, how, whoever，whomever，whichever ，whatever等。还有如because, as if, as though等。
+He has become a teacher.
+他已经成为一名教师。
+He has become what he wanted to be ten years ago.
+他已经成为了他10 年前想成为的。
+His suggestion is good.
+他的建议是好的。
+His suggestion is that we should stay calm.
+他的建议是，我们应该保持冷静。
+The question is confusing.
+这个问题令人困惑。
+The question is when he can arrive at the hotel.
+问题是，他什么时候可以到达酒店。
+编辑本段注意A
+表语从句一定要用陈述语序。
+False: The question is when can he arrive at the hotel.
+Right: The question is when he can arrive at the hotel.
+B
+引导名词性从句时if/whether（是否）用法辨析：
+if不能引导表语从句，只能用whether 来引导。
+引导宾语从句时if/whether可以互换，但介词后面的宾语从句只能用whether来引导。
+位于句首的主语从句只能用whether来引导，同位语从句也只能用whether来引导。
+False: The question is if the enemy is marching towards us.
+Right: The question is whether the enemy is marching towards us.
+C
+不像宾语从句，在有表语从句的复合句中，主句时态和从句时态可以不一致。
+Right: The question is who will travel with me to Beijing tomorrow.
+Right: The question is why he cried yesterday.
+D
+that在表语从句中不可以省掉。　表语从句只能置于主句之后，而主句的动词只能是连系动词。
+名词性从句在be等系动词后作表语时被称为表语从句。
+例如：The problem is how we can get the things we need.问题是我们怎样能弄到我们需要的东西。（how 在表语从句中充当方式状语）
+The scissors are not what I need. 这把剪刀不是我所需要的。（what 在表语从句中充当宾语)
+What I told him was that I would find him a good play. 我告诉他的是我会给他找个好剧本。（what在主语从句中作直接宾语， that作为表语从句的引导词在该表语从句中不充当句子成分，但不能省略）
+That is what I want to tell you.那就是我想要对你讲的。（what在表语从句中充当直接宾语)
+That is why she failed to pass the exam. 那就是她考试不及格的原因。（why 在表语从句中充当原因状语）
+编辑本段注意“That is why...”是常用句型， 意为“这就是……的原因/因此……”， 其中why引导的名词性从句在句中作表语， 该句型通常用于针对前面已经说明过的原因进行总结， 又如：That is why you see this old woman before you know,Jeanne.珍妮， 这就是现在这个老太婆出现在你面前的原因。（前文提到Jeanne对老妇人显得苍老憔悴深感诧异，说话人对她讲述了其中的原因之后，用这一句来进行概括）。// That is why I came. 这就是我来的原因。
+下面是两个与“That is why...”形式相似的结构， 它们与“That is why...”结构之间的关系要能够辨析清楚：
+(1）“That is why...”与“That is the reason why...”同义， 只不过从语法结构上讲， “That is the reason why...”中why引导的是—个定语从句， 将其中的the reason去掉则与“That is why...”结构一样， 例如：
+That is (the reason) why I cannot agree. 这就是我不能同意的理由。
+(2）“That is because...”句型中从属连词because引导的名词性从句在此作表语， 这也是个常用句型， 意为“这就是为什么……/因为……”。“That is because...”与“That is why...”之间的不同在于“That is because...”指原因或理由， “That is why...”则指由于各种原因所造成的后果， 例如：
+He did not see the film last night. That is because he had to help his little sister with her homework.昨天晚上他没有去看电影， 那是因为他得帮助他的妹妹做作业。（第一句话说明结果， 第二句话说明原因）
+He had seen the film before. That is why he did not see it last night.他以前曾看过那部电影， 因此他昨天晚上没有去看。（第一句话说明原因， 第二句话说明结果）
+编辑本段案例分析考题1
+The traditional view is ____ we sleep because our brain is “programmed” to make us do so. (2007上海)
+A. when B. why C. whether D. that
+[答案] D
+[解析] 下划线处之后是包含一个原因状语从句的表语从句， 如果看不出它是充当整个句子结构的表语从句将难以把握整个句子的意思。因此， 应选择可引导名词性从句且不充当任何成分的that。
+考题2
+You are saying that everyone should be equal,and this is ____ I disagree. (2004)
+A. why B. where C. what D. how
+[答案] B
+[解析] 下划线处的引导词引导系动词is后的表语从句并在该表语从句中充当地点状语（“disagree”属于不及物动词， “I disagree”本身是完整的主谓结构）， 下划线应填入引导词where， 表语从句“where I disagree”的意思是“我不同意之处、 我不同意的地方”。
+考题3
+— I drove to Zhuhai for the air show last week.
+— Is that ____ you had a few days off? (1999)
+A. why B. when C. what D. where
+[答案] A
+[解析] 下划线处的引导词引导与系动词is连用的表语从句并在该表语从句中充当原因状语， 下划线应填入表示“因此……”（指因某种原因所造成的结果）的引导词why。
+考题4
+____ she couldn’t understand was ____ fewer and fewer students showed interest in her lessons. (2000上海）
+A. What; why B. That; what C. What; because D. Why; that
+[答案] A
+[解析] 第一个下划线处的引导词引导主语从句并在该主语从句中充当宾语， 特指她所不理解的事情， 应填入关系代词型的引导词what； 第二个下划线处表示“因此……”（指因某种原因所造成的后果， 由why引导对应的名词性从句）而不是“为什么……”（指原因、 理由， 由because引导对应的名词性从句）， 应填入引导词why。
+考题5
+____ made the school proud was ____ more than 90% of the students had been admitted to key universities. (2003上海春）
+A. What; because B. What; that
+C. That; what D. That; because
+[答案] B
+[解析] 第一个下划线处的引导词引导主语从句并在该主语从句中充当主语， 特指令校方骄傲的事情， 应选用关系代词型的引导词what； 第二个下划线处引导表语从句表示原因、 理由， 应由that引导对应的名词性从句。
+考题6
+— Are you still thinking about yesterday’s game?
+— Oh,that’s ____. (2003北京春）
+A. what makes me feel excited B. whatever I feel excited about
+C. how I feel about it D. when I feel excited
+[答案] A
+[解析] A选项的意思是“令我感觉激动的事物”； B选项的意思是“我觉得激动的任何事物”； C选项的意思是“我对它感觉的方式”； D选项的意思是“令我感觉激动的时间”。四个选项中A最适合跟代表“game”的主语that对应， 充当表语从句。
+编辑本段相关关系简介
+宾语从句和表语从句都属于名词性从句。其作用跟名词在句中的作用相同。故充当宾语的句子叫宾语从句，充当表语的句子叫表语从句。
+宾语从句
+（1）对于宾语从句要掌握以下三点
+①语序： 从句的语序必须是陈述句语序，即“主语+谓语”这种形式。
+②时态： 当主句是一般现在时或一般将来时的时候，从句可以是任何时态，而当主句是一般过去时的时候，从句，从句时态必须是过去时范围的时态，即（一般过去时，过去进行时，过去完成时，过去将来时）。
+③连接词： 当从句意思完整，主句意思肯定时，连接词用that，且可以省去，当从句意思完整，主句意思不确定或含否定含意时，常用if或whether（是否），当从句意思不完整时，连接词则是代替不完整部分的特殊疑问词。
+表语从句：
+在句子中起表语作用的从句叫做表语从句，位于主句系动词的后面。表语从句的引导词和主语从句的引导词相同。也是名词性从句的一种。
+如：What the police want to know is when you entered red the room警察想知道的是你什么时候进的房间。
+The trouble is that we are short of funds困难是我们缺乏资金。
+This is what we should do这是我们应当做的。
+That‘s why I want you to work there那就是我要你在那儿工作的原因。
+His first question was whether Mr. Smith had arrived yet他的第一个问题是史密斯先生到了没有。
+注意：从句中的疑问句用正常语序，即陈述语序。
+as if,as though,because也可用来引导表语从句。
+She seems as if she had done a great thing她看起来好像做了一件大事。
+It is because you eat too much是因为你吃得太多了。
+
+
+
+
+第7章 同位语从句
+百科名片
+在复合句中充当同位语的名词性从句称为同位语从句。
+目录
+
+基本信息
+详细信息名词作同位语
+短语作同位语
+直接引语作同位语
+句子作同位语
+用法
+引导词连词that引导
+连词whether引导
+其它引导词引导
+连接副词引导
+先行词
+引导词
+句式关系与定语从句
+关系
+相关语法同位语从句的位置
+从句前名词的形式
+同位语从句的语气
+从句的先行词
+特殊形式
+雅思例句
+展开基本信息 
+详细信息 名词作同位语 
+短语作同位语 
+直接引语作同位语 
+句子作同位语
+用法 
+引导词 连词that引导 
+连词whether引导 
+其它引导词引导 
+连接副词引导 
+先行词 
+引导词
+句式关系 与定语从句 
+关系
+相关语法 同位语从句的位置 
+从句前名词的形式 
+同位语从句的语气 
+从句的先行词
+特殊形式 
+雅思例句
+展开编辑本段基本信息在复合句中充当同位语的名词性从句称为同位语从句。
+同位语从句是名词性从句（主语从句、表语从句、宾语从句、同位语从句,介宾从句）中的主要从句之一，从句作同位语表示与之同位的名词（短语）的实际内容，它的作用相当于名词，对前面的名词（短语）加以补充说明或进一步解释，相当于一个表语从句，它们之间的关系是同位关系，即主表关系。
+编辑本段详细信息一个名词（或其它形式）对另一个名词或代词进行修饰，限定或说明，这个名词（或其它形式）就是同位语。同位语与被它限定的词的格式要一致，并常常紧挨在一起。  同位语从句
+同位语从句即重复说明同一个称谓或事件的从句。
+名词作同位语
+Mr Wang,my child’s teacher,will be visiting us on Tuesday.王先生，我孩子的老师，星期二要来看我们。
+（在这里'my child's teacher'做同位语修饰'Mr Wang')
+短语作同位语
+I,the oldest girl in the family,always had to care for the other children.我，作为家里最大的女孩，总是要照料家中的其他孩子。
+直接引语作同位语
+But now the question comes to their minds，“Did she die young because she was a clone?”但是现在他们不得不思考这样的问题：“多莉早死是因为它是一只克隆羊吗？”
+句子作同位语
+The girls were surprised at the fact that ocean ships can sail up the Great lakes.巨大的海轮可以开到五大湖，让表姐妹俩感到吃惊。
+编辑本段用法同位语部分是个句子，就是同位语从句，这种用法比较"固定"
+一、在复合句中用作同位语的从句叫同位语从句。它一般跟在某些名词后面，用以说明该名词表示的具体内容。
+I heard the news that our team had won．我听到了我们队获胜的消息。  同位语从句
+二、可以跟同位语从句的名词通常有news，idea，fact，promise，question，doubt，thought，hope，message，suggestion，words（消息），possibility等（一般的“抽象”名词都可用）。
+I’ve come from Mr wang with a message that he won’t be able to see you this afternoon． 我从王先生那里来，他让我告诉你他今天下午不能来看你了。
+三、英语中引导同位语从句的词通常有连词that，whether，连接代词what，who。连接副词how,when,where等。（注：if,which 不能引导同位语从句。）
+He must answer the question whether he agrees to it or not. 他必须回答他是否同意这样一个问题。
+四、有时同位语从句可以不紧跟在说明的名词后面，而被别的词隔开。
+The thought came to him that maybe the enemy had fled the city． 他突然想起可能敌人已经逃出城了。
+编辑本段引导词同位语从句的引导词，引导同位语从句的词语通常有连词that，whether，连接代词和连接副词等。
+连词that引导
+（注：引导同位语从句的that不能省略）
+The idea that you can do this work well without thinking is quite wrong.你认为不动脑筋就能做好这件工作  同位语从句
+的想法是完全错误的。（作idea的同位语）
+【注意1】在某些名词（如demand,wish,suggestion,resolution等）后面的同位语从句要用虚拟语气
+There was a suggestion that Brown should be dropped from the team. 有一项建议是布朗应该离队。
+【注意2】引导同位语从句的连词that通常不省略，但在非正式文体中也可以省去。
+He gabbed his suitcase and gave the impression he was boarding the Tokyo plane. 他拿起了手提箱，给人的印象是他要登上飞往东京的飞机了。
+连词whether引导
+（注：if不能引导同位语从句）
+The question whether we should call in a specialist was answered by the family doctor. 我们是否请专家由家庭医生来定。
+【注意】whether 可引导同位语从句，但if不能引导同位语从句。
+其它引导词引导
+连接代词what,who,whom,whose，引导同位语从句
+1).I have no idea what size shoes she wears.我不知道她穿几号的鞋。（what作定语）  同位语从句
+2).The question who will take his place is still not clear. （who作主语）
+连接副词引导
+连接副词when,where,how,why
+We haven’t yet settled the question where we are going to spend our summer vacation.到哪儿去度暑假，这个问题我们还没有决定。
+先行词
+1．定语从句的先行词是名词或代词；而同位语从句的先行词只能是名词，而且仅限于idea，plan，fact，theory，promise，hope，news，doubt，truth，information，suggestion，question， thought，belief，conclusion等少数名词。
+例如：
+①The boywho is playing footballis my classmate．
+②Thosewho work hardwill succeed．
+③The factthat he had not said anythingsurprised everybody．
+④The factthat you are talking aboutis important．
+在①句中，加粗部分是定语从句，其先行词是名词 boy，是具体名词，它不能用作同位语从句的先行词。
+在②句中，加粗部分也是定语从句，其先行词是代词those，代词不能用作同位语从句的先行词。
+在③句中，加粗部分是同位语从句，其先行词是名词fact，它同样可以用作定语从句的先行词，④句便是一例。加粗部分是对fact的修饰，所以是定语从句。
+由以上分析可见，同位语从句的先行词一定可以用作定语从句的先行词，但定语从句的先行词不一定能用作同位语从句的先行词。
+2．when，where，why引导的定语从句的先行词一定分别是表示时间、地点和原因的名词，而三者引导的同位语从句的先行词则肯定不是表示时间、地点和原因的名词。
+例如：
+①I still remember the daywhen I first came to Beijing．
+②I have no ideawhen she will be back．
+在①句中，加粗部分是when引导的定语从句，其先行词day是表示时间的名词；
+在②句中，加粗部分是when引导的同位语从句，其先行词idea则不是表示时间的名词。
+引导词
+定语从句和同位语从句共同的引导词有四个：that，when，where，why。下面把四个引导词分成两类说明它们在两种从句中的不同用法。
+1．引导词that
+引导定语从句的that叫做关系代词，它除了起连接作用，还在定语从句中充当一定成分，并且在意义上代表先行词；引导同位语从句的that叫做从属连词，它只起连接作用。不能省略。
+例如：
+①The newsthat you told me yesterdaywas really exciting．
+②We heard the newsthat our team had won．
+在①句中，加粗部分是定语从句，that在从句中作宾语，在意义上指代先行词news。
+在②句中，加粗部分是同位语从句，that没有任何意义，只起连接作用。
+2．引导词when，where，why
+引导定语从句时，它们叫做关系副词，在从句中充当状语，可以转换成"介词+关系代词"的形式；引导同位语从句时，它们叫做连接副词，在从句中充当状语，但不能转换成"介词+关系代词"的形式。
+例如：
+①I will never forgetthe day when I joined the army．
+②We have no ideawhen she was born．
+在①句中，加粗部分是定语从句，when在从句中作状语，它可以转换成on which的形式；
+在②句中，加粗部分是同位语从句， when在从句中充当状语，但不能转换成"介词+关系代词"的形式。
+③This is the housewhere I lived two years ago．
+④He put forward to the questionwhere the meeting would be held．
+在③句中，加粗部分是定语从句，where在从句中作状语，它可以转换成in which的形式；
+在④句中，加粗部分是同位语从句， where在从句中充当状语，但不能转换成"介词+关系代词"的形式。
+⑤This is the reasonwhy she will not attend the meeting．
+⑥The teacher had no ideawhy Jack was absent．
+在⑤句中，加粗部分是定语从句，why在从句中作状语，它可以转换成for which的形式；
+在⑥句 中，加粗部分是同位语从句，why在从句中充当状语，但不能转换成"介词+关系代词"的形式。
+编辑本段句式关系与定语从句
+that 既可引导同位语从句又可引导定语从句，其区别在于：1.同位语从句由连接词that引导，连接词that本身无意义，在同位语从句中不充当任何成分，不可省略，不可以用其他词替代；2.定语从句由关系代词that引导，关系代词that在从句中充当一定的成分，作宾语时可省略.
+由when，where，why引导的 同位语从句和定语从句的区别在于：同位语从句由连接副词只起连接作用，没有指代作用； 定语从句由关系副词引导，关系副词具有指代先行词的作用，常用一个介词加关系代词替换。例如：I will never forget the daywhen we first met. （定语从句，when为关系副词）
+That is the special day(which/that) I will never forget. （定语从句，which/that为关系代词，作forget的宾语）
+This is the housewhere we lived fifteen years ago. （定语从句，where为关系副词）
+This is the housewhich we sold fifteen years ago. （定语从句，which为关系代词，作sold的宾语）.
+关系
+1. 意义的不同
+同位语从句是用于说明所修饰名词的具体内容的，它与被修饰词语通常可以划等号；而定语从句是限制所修饰名词的，它的作用是将所修饰的名词与其他类似的东西区别开来：
+We are glad at the news that he will come. 听到他要来这个消息我们很高兴。（news的内容就是that he will come，故that引导的是同位语从句）
+We are glad at the news that he told us. 听到他告诉我们的这个消息我们很高兴。（that从句是限制the news的内容的，即我们高兴只是因为他告诉的这个news而不是其他的news，故that从句为定语从句）
+2. 引导词的不同
+what,how,whatever 等可引导同位语从句，但不引导定语从句。
+3.引导词的功能上的不同
+that引导同位语从句时，它不充当句子成分，而引导定语从句时，它作为关系代词，要么充当定语从句的主语，要么充当定语从句的宾语。如上例 that he told us中的that就充当told的宾语。
+4. 被修饰词语的区别　
+同位语从句所修饰的名词比较有限，通常有hope,wish,idea,news,fact,promise,opinion,suggestion,truth等，而定语从句所修饰的名词则非常广泛。另外，when和where 引导定语从句时，通常只修饰表示时间和地点的名词，而它们引导同位语从句时却不一定；又如why引导定语从句，它通常只修饰名词the reason，而它引导同位语从句时则不一定：
+I have no idea when they will come . 我不知道他们什么时候来。（同位语从句）
+I’ll never forget the days when I lived there.. 我永远不会忘记我住在那儿的日子。（定语从句）
+编辑本段相关语法同位语从句的位置
+1.一般情况下同位语从句跟在某些名词（如news，idea，fact，promise，hope，message等）的后面，用以说明该名词所表达的具体内容。
+I’ve come from Mr Wang with a message that he this afternoon.我从王先生那边得知一个消息，他说他今天下午可能不能来看你了。
+2.有时同位语从句可以不紧跟在它所说明的名词后，而被别的词语隔开，在语法上叫做分隔式同位语从句。  同位语从句
+The thought came to her that maybe she had left the door open when she left home.她突然想起可能在她离开家时没把门关上。
+从句前名词的形式
+同位语从句前的名词通常用单数形式，并且往往带有限定词(word除外）加以修饰。
+Where did you get the idea that I could not come？你在哪儿听说我不能来？
+同位语从句的语气
+在suggestion，advice，request，order等意为“建议；命令；要求”的名词后，同位语从句中的谓语动词通常用“should +动词原形”的虚拟语气结构，句中的should可以省略。
+Our teacher gave us some advice how we(should)use the computer.老师给我们提出了一些如何使用电脑的建议。
+从句的先行词
+同位语从句的先行词通常是抽象名词，常见的有：idea,situation thought,fact,evidence,belief,doubt,fear,hope,question,theory,news,order,ability等等。
+How did the cheats explain the fact that the Emperor didn't feel the new clothes in him? 皇帝觉得身上并没有穿上新衣，对这个问题骗子是怎样解释的?
+代词it可用作同位语从句的先行词。这个it常放在某些动词或短语动词后作宾语，同时兼作其后that同位语从句的先行词。
+I owe it to you that I am still alive. 幸亏你，我现在还活着。
+有的语法学家把先行词it后的that从句看作是动词或介词的真正宾语。一般认为，这种it后的that 从句应看作it的同位语，因为它相当于“主语+be+表语”结构。
+You must see to it that the children don't catch cold.(=You must see to it,and It is that the children don't catch cold.）你要当心，别让孩子们着凉了。
+编辑本段特殊形式1.间隔同位语从句
+同位语从句通常是跟在它解释或说明的名词后，但有些情况下，由于句子结构的原因，同位语从句不紧跟在名词后，而被其他的词隔开。
+A warm thought suddenly came to me that I might use the pocket money to buy some flowers for my mother's birthday
+简析：由于that从句太长，为避免句子失去平衡，此处用了间隔同位语从句
+2.suggestion,request和order等名词后的同位语从句用虚拟语气。
+She made a request that the doctor(should)be sent for at once.她请求立即请医生来。
+简析：suggestion，order，request，proposal，requirement，command，advice，proposition和recommendation等名词后接同位语从句时，从句中的谓语动词要用“（should+）动词原形”的形式，其中should一词可省略。
+编辑本段雅思例句1 I have a dream that one day,all roads will be made plain.
+2 We hold this truth to be self-evident that all men are created equal.
+3 Some people hold the opinion that the Internet is a curse.
+4 Museums play a role of education for the simple reason that they provide people with a good opportunity to have a deeper understanding of their own country's tradition and cultures.
+
+第8章 时间状语从句
+百科名片
+用表示时间的连词连接一个句子作状语，这样的主从复合句就是时间状语从句。连接时间状语从句的连接词有：when, before, after, while, as soon as, until, since...... 这里要注意一点的是，如果主句是一般将来时，从句只能用一般现在时表示将来意义。
+目录
+
+简介
+时间状语
+时间和原因状语从句语法时间状语从句
+原因状语从句
+用法
+从属连词
+一词多义
+与强调句对比
+时态问题
+展开简介 
+时间状语 
+时间和原因状语从句语法 时间状语从句 
+原因状语从句 
+用法
+从属连词 
+一词多义 
+与强调句对比 
+时态问题
+展开编辑本段简介（adverbial clause of time）
+概念：在复合句中，由时间连接词引导的状语从句叫做时间状语从句。(在复合句中，要注意主句和从句的时态大多都要保持一致。）
+1.由when, while, ,just,just as,as，after,before,since,until,引导的时间状语从句。例如：
+When you think you know nothing, then you begin to know something.(当你以为自己一无所知的时候，你就是在开始知道一些事物了。)
+When truth is buried under the ground ，it grows, it chokes, it gathers such an explosive force that on the day it bursts out , it blows up everything with it.(当真理被埋在地下的时候，它在生长，它感到压抑，它蓄存着这么一种爆炸性力量，一旦冒出，它就会炸破一切！)
+Strike while the iron is hot. (趁热打铁。 )
+You can feel the air moving as your hand pushes through it.( 当你的手在空气中挥动的时候，你就能感觉到空气在流动。)
+Our headmaster laughed as she spoke.(我们的校长边谈边笑。)
+主要时态：主现从不限；主过从四过；主将从现。
+when, while和as的区别
+when引导的从句的谓语动词可以是延续性的动词，又可以是瞬时动词。并且when有时表示“就在那时”。例如：  时间状语从句
+When she came in, I stopped eating.她进来时，我停止吃饭。(瞬时动词)
+When I lived in the countryside, I used to carry some water for him.当我住在农村时，我常常为他担水。（延续性的动词）
+We were about to leave when he came in.我们就要离开，就在那时他进来了。
+While引导的从句的谓语动作必须是延续性的，并强调主句和从句的动作同时发生（或者相对应）。并且while有时还可以表示对比。例如：
+While my wife was reading the newspaper, I was watching TV. (was reading是延续性的动词，was reading和was watching同时发生) 。
+I like playing football while you like playing basketball.我喜欢踢足球，而你喜欢打篮球。（对比）
+As表示“一边……一边”，as引导的动作是延续性的动作，一般用于主句和从句动作同时发生；as也可以强调“一先一后。例如：
+We always sing as we walk.我们总是边走边唱。（as表示“一边……一边”）
+As we were going out, it began to snow.当我们出门时，开始下雪了。（as强调句中两个动作紧接着先后发生，而不强调开始下雪的特定时间）
+2.由before和after引导的时间状语从句。注意before引导的从句不再用否定式的谓语，并且当before引导的从句位于主句之后，有时译成“就，才”。还要注意主句和从句之间的时间关系。当主句用将来时，从句总是用现在时；如果before引导的主句谓语用的是过去完成时，则从句动词多用一般过去时，这样以便体现动作发生的先后。After表示主句动作发生在从句动作之后。主句和 从句的动作的时间关系正好与before引导的从句相反。例如：
+It will be four days before they come back. 他们要过四天才能回来。
+Einstein almost knocked me down before he saw me.爱因斯坦几乎把我撞倒才看到我。
+My father had left for Canada just before the letter arrived.我父亲恰好在信到之前去加拿大了。  时间状语从句
+They had not been married four months before they were divorced. 他们结婚还不到四个月就离婚了。
+After you think it over, please let me know what you decide.你仔细考虑过以后，告诉我你是怎样决定的。
+After we had finished the work, we went home.完成工作之后，我们回家了。（从句用过去完成时，主句用一般过去时）
+3.由till或until引导的时间状语从句。till和until一般情况下两者可以互换，但是在强调句型中多用until。并且要注意的是：如果主句中的谓语动词是瞬时动词时，必须用否定形式；如果主句中的谓语动词是延续性动词时，用肯定或否定形式都可以，但表达的意思不同。till不可以用在句首，而until可以放在句首。例如：
+I didn't go to bed until（till） my father came back.直到我父亲回来我才上床睡觉。
+It was not until the meeting was over that he began to teach me Englis  时间状语从句
+h.直到散会之后他才开始教我英语。
+I worked until he came back.我工作到他回来为止。
+I didn't work until he came back.他回来我这才开始工作。
+Please wait until I arrived.在我到达之前请等我。
+4.由since引导的时间状语从句。 since引导的从句的谓语动词可以是延续性的动词，又可以是瞬时动词。一般情况下，从句谓语动词用一般过去时，而主句的谓语动词用现在完成时。但在It is +时间+since从句的句型中，主句多用一般过去式。例如：
+I have been in Beijing since you left. 自从你离开以来，我一直在北京了。
+Where have you been since I last saw you? 自上次我和你见面以后，你到哪里去了？
+It is four years since my sister lived in Beijing. 我妹妹不在北京住有四年了。
+It is five months since our boss was in Beijing.我们老板离开北京有五个月了。
+5.由as soon as, immediately, directly, instantly, the moment, the instant, the minute, 等引导的时间状语从句。这些连词都表示“一……就”。例如：
+I will go there directly I have finished my breakfast. 吃完早饭，我立即到那里去。
+The moment I heard the news, I hastened to the spot.我一听到消息，马上赶到了出事地点。
+As soon as I reach Canada, I will ring you up. 我一到加拿大，就给你来电话。
+注意：hardly(scarcely, rarely)…when / before, no sooner…than相当于as soon as之意。主句用过去完成时，从句用一般过去时。当hardly, scarcely, rarely和no sooner位于句首时，  时间状语从句
+主句应用倒装语序。例如：
+He had no sooner arrived home than he was asked to start on another journey. 他刚到家，就被邀请开始另一旅程。
+No sooner had the sun shown itself above the horizon than he got out of bed to commence work.太阳刚从地平线上升起，他就起床劳动去了。
+Hardly had I sat down when he stepped in.我刚坐下，他就进来了。
+He had hardly fallen asleep when he felt a soft touch on his shoulder.这个阿拉伯人刚要入睡就感到肩膀上被轻轻一触。
+6.由by the time引导的时间状语从句。注意时态的变化：在一般情况下，如果从句的谓语动词用一般过去时，主句的谓语动词用过去完成时；如果从句的谓语动词用一般现在时，主句的谓语动词用将来完成时。例如：
+By the time you came back, I had finished this book.到你回来时，我已经写完这本书了。
+By the time you come here tomorrow, I will have finished this work. 你明天来这儿的时候，我将已经完成此工作了。
+7.由each time, every time和whenever引导的时间状语从句。例如：
+Each time he came to Harbin, he would call on me. 他每次来哈尔滨，总是来看我  时间状语从句
+。
+Whenever that man says“To tell the truth”, I suspect that he's about to tell a lie.每当那个人说“说实在话”的时候，我猜想他就要说谎了。
+You grow younger every time I see you. 每次遇到你，见你更年轻了。
+8.由as long as和so long as引导的时间状语从句。这两个连词表示“只要“例如：
+You can go where you like as long as you get back before dark. 你可以随意到哪里去，只要在天黑以前回来就行。
+I will fight against these conditions as long as there is a breath in my body! 只要我一息尚存，我就要反对这种境况。
+这是一般现在，一般过去，现在进行，过去进行，现在完成，过去完成，现在完成进行，一般将来，过去将来时的时间状语:
+1.Often,usually----------动词原型do,does,am,is, are
+2.yesterday,last Sunday,in the past-------动词过去式did,was,were
+3.now--------be+doing
+4.while,at that time,-------was doing,were doing
+5.since从句,for 2 days,------have done,have been
++过去的某个时间点----had done,had been
+7.与现在完成相似-------have been+持续动词ing形式
+8.一切表示将来的时间状语，in+一段时间-------将来要发生的一般性动作,
+will,shall+原型
+9.与一般将来时相似-----------would+原型  时间状语从句
+编辑本段时间状语时间状语从句
+一般现在时every…, sometimes, at …, on Sunday,
+一般过去时yesterday, last week, an hour ago, the other day, in 1982, just now
+一般将来时next…, tomorrow, in+时间,
+现在完成时 for, since, so far, ever, never, just, yet, till/until, up to now, in past years, always, recently
+过去完成时before, by, until, when, after, once, as soon as
+过去进行时this morning, the whole morning, all day, yesterday, from nine to ten last evening… when, while
+将来进行时soon, tomorrow, this evening, on Sunday, by this time, tomorrow, in two days, tomorrow evening
+编辑本段时间和原因状语从句语法时间状语从句
+在复合句中，担任状语成分的从句称为状语从句。时间状语从句说明主句动作发生或进行的时间。状语从句由连词引导，其位置通常可以放在句首或句末。放在句首是，常用逗号与主句分开；放在句末时，从句前面往往不加逗号。
+原因状语从句
+原因状语从句说明主句动作发生或进行的原因，一般由because,since,as等引导。because语气较强，用来说明人所不知的原因，回答why提出的问题。当原因是显而易见的或者已为人们所知，就用as 或since 。
+用法
+时间状语从句和原因状语从句的用法可以用八个字来概况：主将从现或主过从过
+主将从现：主句用了将来时，从句就要用现在时。
+主过从过：主句用了过去时，从句也要用过去时。
+编辑本段从属连词时间状语从句
+引导时间状语从句的普通类从属连词有when（当……时），while（在……期间），as（当……，一边……一边……），before（在……之前），after（在……之后），since（从……以来），till/until（直到），whenever（无论何时），as soon as（一……就）等。如：
+When I went into the classroom, he was reading. 当我走进教室时，他正在看书。
+He read a newspaper as he went along. 他边走边看报纸。
+We must strike while the iron is hot. 我们必须趁热打铁。
+I will tell you after they leave. 等他们走后我再告诉你。
+I told him to come back whenever he wants to. 我告诉他什么时候想回来就回来。
+I waited till/until she was back. 我一直等到她回来。
+Once time is gone, you will never get it back. 时间一旦失去就再也得不到了
+注意：在时间状语从句中，不能用一般将来时、过去将来时态或将来完成时，而要用相应的一般现在时态、一般过去时或现在完成时来代替。如：
+I’ll telephone you as soon as I get there. 我一到达那里就打电话给你。
+She said she would phone me as soon as she got there. 她说她一到达那里就给我电话。
+Don’t get off the bus until it has stopped. 等车停稳后才下车。
+编辑本段一词多义时间状语从句
+一、对before从句的理解
+before的本意为“在……之前”，根据具体语境还可理解为“还没来得及/还没有……就……，趁着还没……就……，不知不觉就……，……才……”等。如：
+I had not sat long before he came back. 我没坐多久他就回来了。
+He almost knocked me down before he saw me. 他几乎把我撞倒才看到我。
+Before I could get in a word, he measured me. 我还来得及插话，他就给我量好了尺寸。
+I’ll water the flowers before it gets dark. 我要趁着天还没黑把花浇好水。
+Be a pupil before you become a teacher. 先做学生，后做先生。
+Time passed quickly and three months went by before she knew it. 时间过得飞快，她不知不觉就在那里度过了三个月
+I will die before I will betray my country. 我宁可死也不会背叛我的国家。
+二、对since从句的理解
+1. since从句的谓语动词是终止性动词照字面意思理解。如：
+I’ve been feeling down since I lost my job. 自从失去工作后,我的情绪一直处于低潮。
+2. since从句谓语动词延续性动词，且为现在完成时时，仍然按字面意思理解。如：
+She has never come to see me since I have lived in the city. 自从我住到城里，她就一直不来看我。
+3. since从句谓语动词延续性动词，且为一般过去时时，按与字面意思相反的意思理解。如：
+I have made great progress since I was ill. 我自病愈以来取得了很大的进步。
+4.since前有ever，或从句谓语动词是be且后接表示人成长过程中的某个阶段或年龄的名词、形容词时，仍然按字面意思理解。如：
+I have lived here ever since I was a child. 我从还是个孩子时就一直住在这儿。
+三、对till/until从句的理解
+1. 主句为肯定式，主句谓语动词必须为持续性动词，且该动词所表示的动作或状态一直延续到until/till从句所表示的时间为止，可译作“（直）到……”。如：
+He waited until/till I returned. 他一直等到我回来。
+2. 主句为否定式（包括含no, nobody, nothing, never, hardly, little等否定词的肯定句），若主句谓语动词是非持续性动词，则该动词所表示的动作在until/till从句表示的时间开始发生。一般先译从句“直到……”，后译主句，not 译成“才”，即“直到……才……”。如：
+His mother didn’t leave until/till he was asleep. 直到他睡着了，他母亲才离开。
+Nobody can leave until/till the meeting is over. 直到散会才能离开。
+3. 主句为否定式，若主句谓语动词是持续性动词，则须根据上下文去理解until/till从句的含义，一般译为“直到……才……”或“没有到……”。如：
+He didn’t wait until/till I returned. 他没有等到我回来。
+She didn’t sleep until/till I returned. 她直到我回来才睡着。
+编辑本段与强调句对比时间状语从句
+强调句的句型是：
+It is (was) 被强调部分+ that (who) + 句子其他部分
+It was seven o'clock when we reached the station.（状语从句）
+=It was "at" seven o'clock "that" we reached the station.(强调句，定语从句）
+强调句和时间状语从句的区别是：时间状语从句可以去掉，不影响句子的完整性。而强调句that/who引导的句子是不能去掉的，否则句子就不完整了，单独的“It was at seven o'clock”是错误的。
+时间状语从句和定语从句的区别其实跟上面说的是一样的，强调句型其实就是一种特殊的定语从句。本身最简单的表达法是：We reached the station at seven o'clock.然后为了强调"at seven o'clock",就变成了强调句It was "at seven o'clock" that we reached the staion，同时它也是定语从句：从句“that we reached the staion”修饰的是it=the time.
+编辑本段时态问题时间状语从句
+时间状语从句常用的连词有：when，as，while，before，after，since，till，until，as soon as，once。
+【例】
+Before I could get in a word, he had already given orders.
+我还来不及插话，他已经吩咐下去了。
+After the students were all in the lab, the professor brought out three bottles.
+在学生们全进入实验室后，教授拿出三个瓶子来。
+学习时间状语从句应注意以下几点：
+（1）时间状语从句中一般不使用将来时态，尽管主句使用将来时态，一般使用一般现在时态或现在完成时态。
+【例】
+I'll go on with the work when I come back tomorrow.
+我明天回来，我将继续做这项工作。
+Please tell him about it when you see him back.
+你看到他回来，就告诉他这件事。
+（2）till/until引导时间状语从句，主句的谓语动词如是延续动词，可使用否定或不用否定，如果是不延续动词，必须使用否定形式。
+【例】
+He didn't go to bed until it was 12 o'clock last night.
+他昨晚十二点才上床睡觉。
+They worked until it was dark.
+他们一直工作到天黑。
+（3）as soon as, the moment, every time, each time, the minute, the instant, the day, the week, the year, the first time,next time, any time, the last time, all the time, from the time, by the time, immediately, instantly, directly等表示时间的词语，后面也可以接时间状语从句，表示“一……就……”。
+【例】
+I recognized you the minute I saw you.
+我一见到你，就认出了你。
+By the time he was fourteen, he had built his own lab.
+到他十四岁的时候，他已建起自己的实验室。
+（4）主句使用过去进行时或过去完成时，或是was/were about to do Sth. ,后面从句使用when从句，而且谓语动词使用一般过去时，这时when不当“当……时候”解，而当“突然”解。
+【例】
+They were working in the fields when it began to rain.
+他们在地里正干着活时，天突然下起雨来。
+He was about to leave when the telephone rang.
+他刚要走，突然电话铃响了。
+
+
+第9章 地点状语从句目录
+
+用法
+考题解析
+编辑本段用法地点状语从句表示地点、 方位， 这类从句通常由where引导。例如：
+Where there is a will, there is a way. 
+有志者， 事竟成。
+They will go where they are happy. 
+他们想到他们觉得快乐的地方去。
+连词
+ 含义 说明 
+where 在……地方 通常表示一个确定的 
+wherever 无论什么地方 表示“任何地方”  
+anywhere 无论何处 
+everywhere 到处 
+
+[1]
+(1)地点状语从句由where，wherever，引导，
+如：
+We must camp where we can get water.
+我们必须在能找到水的地方露营。
+(2)地点状语从句与定语从句的区别 :
+在于分句在句中作什么成分。作状语，则是状语从句；作定语修饰名词，则是定语从句
+where引导定语从句时，从句前应有一个表示地点的名词作先行词；而状语从句前则无需先行词。
+如：
+Go back where you came from.(where引导地点状语从句）
+你从何处来到何处去。
+Go back to the village where you came from.(where引导定语从句，修饰village)
+回到你来的那个村子里去。
+(3)地点状语从句的省略，
+如:
+Fill in the blanks with articles necessary.(necessary前省略了where it is)
+在需要的地方填上冠词。
+（4）地点从句一般位于主句之后，但为了强调，也可以放在句首。
+With a car a preson can go where he pleases and when he pleases.
+有了汽车，人可以想去哪二就去哪儿，想什么时候去就什么时候去。
+And where there is shale there is likely to be oli.
+哪儿有页岩，哪儿就可能有石油。[1]
+编辑本段考题解析[考题1] — Mom, what did the doctor say?
+— He advised me to live ____ the air is fresher. (2006四川)
+A. in where B. in which C. the place where D. where
+[答案] D
+[解析] where引导修饰谓语live的地点状语从句。
+[考题2] In peace, too, the Red Cross is expected to send help ____ there is human suffering. (2006江西)
+A. whoever B. however C. whatever D. wherever
+[答案] D
+[解析] where引导修饰谓语send的地点状语从句。
+[考题3] If you are traveling ____ the customs are really foreign to your own, please do as the Romans do. (2006天津)
+A. in which B. what C. when D. where
+[答案] D
+[解析] where引导修饰谓语are traveling的地点状语从句。
+
+
+第10章 原因状语从句目录
+
+原因状语从句
+用法
+考题解析
+编辑本段原因状语从句一、引导原因状语从句的从属连词
+主要的有because, as, since,seeing (that), now (that), considering (that)，in that等：
+The woolly shrank because it was washed badly. 毛衣因洗的方法不好而缩水。
+I can’t get to sleep because of the noise outside. 由于外面声音嘈杂我睡不着。
+Since [As] we’ve no money, we can’t buy it. 由于我们没钱，我们无法购买它。
+Seeing that it’s raining, we’d better stay indoors. 既然外边在下雨，我们最好待在室内。
+Now that you are here, you’d better stay. 你既然来了，最好还是留下吧(既来之，则安之)。
+【注】除以上提到的大家比较熟悉的引导原因状语从句的从属连词外，when有时也可引导原因状语从句(when表示“既然”)
+I won’t tell you when you won’t listen. 既然你不想听，我就不告诉你了。
+二、关于not…because结构
+该结构中的否定词有时否定主句，有时否定从句，一般要根据句子的意思作出正确或合乎逻辑的理解。若not否定主句，最好在because之前用逗号，否则会引起歧义，如下句在没有特定上下文时就有两种解释：
+I didn’t go because I was afraid. 我没有去是因为怕。/ 我不是因为怕才去。
+不过若because之前有just修饰，一般认为not 是否定从句的：
+You shouldn’t get angry just because some people speak ill of you. 你不要因为有人说你坏话而生气。
+三、because习惯上不与so连用
+汉语习惯上说“因为…所以…”，但英语习惯上却不能将 so与because 连用：
+因为下雨，所以我们呆在家里。
+正：Because it was raining, we stayed at home. / It was raining, so we stayed at home.
+误：Because it was raining, so we stayed at home.
+四、because从句与 because of短语的转换
+Because引导的原因状语从句有时可与because of 短语转换，because of后加的原因可以为好或坏
+但最正规的还是because　He can’t come because he is ill. / He can’t come because of his illness. 他因病不能来。
+I said nothing about it because his wife was there. / I said nothing about it because of his wife’s being there. 因为他妻子在那儿，我对此事只字未提。
+比较：because, since, as和for
+1）　because语势最强，表示不知道的原因用because，即说话人认为听话人不知道。因此because从句是全句最重要的部分，通常被放置于主语之后。 当原因是显而易见的或已为人们所知，就用as或 since。
+I didn't go, because I was afraid.
+Since /As the weather is so bad, we have to delay our journey.
+2）　for虽然表示不知道的原因，但因语气比because弱得多，是可说可不说的话，只能位于主语之后，这时，for是并列连词，如果不是因果关系，而是对前面主语内容加以解释或推断时，只能用for。
+He is absent today, because / for he is ill.
+He must be ill, for he is absent today.
+编辑本段用法原因状语从句表原因， 以下逐一介绍中考、高考中常见的原因状语从句的引导词：
+1. because引导的原因状语从句一般放于主句之后，because从句位于句首时要用逗号分开，放在句末 时，可不用逗号分开。because表示直接原因， 语气最强， 最适合回答 why引导的疑问句。
+例如：
+I do it because I like it.
+我做这件事是因为我喜欢。
+You can trust those products because the quality never varies.
+你可以信赖那些产品，因为它们的质量从来不变。
+We went by bus because it was cheaper.
+我们乘公交汽车去，因为这样便宜一些。
+注意： “not ... because”结构中的not否定的是because引导的整个从句，
+例如：
+The country is not strong because it is large.
+国强不在大。
+I didn't help him,not because I was unwilling,but because I was unable to do it.
+我没有帮助他，不是因为我不愿意，而是因为我力不从心。
+2. since引导的原因状语从句一般放于主句之前表示已知的、 显然的理由(通常被翻译成“既然”)， 较为正式， 语气比because弱。
+例如：
+Since you are free today, you had better help me with my mathematics.
+既然今天你休息， 你最好帮我补习数学。
+Since you don't trust him,you should not employ him.
+你既然不信任他，你就不该雇用他。
+注意： seeing (that)， now (that)， considering (that)， in that这几个词汇与since引导的原因状语从句意思相近， 都表示“既然”。
+例如：
+Seeing (that) he refused to help us, there’s no reason that we should now help him.
+他既然曾经拒绝帮助我们， 我们现在没有理由要来帮助他。
+Now (that) you are grown up, you should not rely on your parents.
+既然你长大了， 就不应该依靠你的父母了。
+Considering (that) everybody is here, let’s begin our discussion.
+既然大家都到了， 我们就开始讨论吧。
+In that he is ill, he feels unable to do it.
+因为有病， 他觉得做不了那件事。
+3. as 引导原因状语从句时表示附带说明的“双方已知的原因”， 语气比since弱， 较为正式， 位置较为灵活(常放于主句之前)。
+例如：
+As it is raining, you’d better take a taxi.
+既然在下雨， 你最好乘出租汽车。
+As you are tired, you had better rest.
+既然累了， 你最好休息一下。
+I went to bed early, as I was exhausted.
+我睡得早， 因为我筋疲力尽了。
+4. for引导的是并列句表示原因但并不说明主句行为发生的直接原因， 只提供一些辅助性的补充说明， for引导的并列句只能放于主句之后并且必须用逗号将其与主句隔开。
+例如：
+He could not have seen me, for I was not there.
+他不可能见过我， 因为我不在那里。
+He seldom goes out now,for he is very old.
+他现在难得出门了，因为他年事已高。
+注意：
+①in view of the fact that可用as/since/seeing that来表示，但不能用because：
+As/Since/Seeing that you are gere，you may as well give me a hand.
+既然你在这里，你就帮我个忙吧。
+As/Since/Seeing that Tom knows French,he'd better do the talking.
+既然汤姆懂法语，最好让他来谈。
+②在as/since/seeing that意指以前共知的或共知的陈述时，可用if来代替：
+As/Since/Seeing/Tf you don't like Bill。why did you invite him?
+既然/如果你不喜欢比尔，你为什么邀请了他？ [1]
+编辑本段考题解析[考题1] ____ you’ve got a chance, you might as well make full use of it. (1999)
+A. Now that B. After C. Although D. As soon as
+[答案] A
+[解析] 主句与从句之间存在因果关系， 且“you’ve got a chance”表示一个显而易见的原因， 因此应选用表原因的now that。
+[考题2] He found it increasingly difficult to read, ____ his eyesight was beginning to fail. (2006北京)
+A. and B. for C. but D. or
+[答案] B
+[解析] “his eyesight was beginning to fail”是“he found it increasingly difficult to read”的原因， 因此本题应选用可以表示原因的连词for引导原因状语从句。
+[考题3] A man cannot smile like a child, ____ a child smiles with his eyes, while a man smiles with his lips alone. (2006湖南)
+A. so B. but C. and D. for
+[答案] D
+[解析] 下划线处之后的句子补充说明“a man cannot smile like a child”的原因， 应选用for表原因。
+
+
+第11章 条件状语从句目录
+
+概念定义
+用途
+分类
+条件状语从句
+有关知识条件状语从句类型
+用法
+展开概念 定义 
+用途 
+分类 
+条件状语从句
+有关知识 条件状语从句类型 
+用法
+展开编辑本段概念定义
+在复合句中，由从句表示的状语叫做状语从句  条件状语从句
+。
+用途
+它可以用来修饰主语中的动词.形容词.副词等。
+分类
+根据它表达的意思，状语从句可以分为时间状语从句，地点状语从句，方式状语从句，原因状语从句，条件状语从句，比较状语从句，目的状语从句，结果状语从句和让步状语从句等。
+条件状语从句
+由引导词if或unless引导的状语从句叫做条件状语从句。在英文中，条件是指某一件事情实现之后（状语从句中的动作），其它事情（主句中的动作）才能发生，通常译作“假如”。（注意：在含有条件状语从句的复合句中，表示将来时态，主句是一般将来时态，从句要用一般现在时,祈使句或情态动词[主将从现原则]（主将从现，将并非指将来时，还只表示将来含义的，跟着if后的那句话是从句。）
+编辑本段有关知识条件状语从句类型
+语法引导条件状语从句最常用的连词是if,由if引导的条件状语从句表示在某种条件下某事很可能发生。如：
+1） If you ask him,he will help you.如果你请他帮忙，他会帮你的。
+2） If you fail in the exam,you will let him down.如果你考试不及格，你会让他失望的
+if引导的条件状语从句既可以将从句放前面也可以将从句放后面
+（如果天下雨，我们就不玩了）If it rains,we will stop playing.‘
+转为We will stop playing if it rains.
+另外，if从句还表示不可实现的条件或根本不可能存在的条件，也就是一种虚拟的条件或假设，从句多用一般过去时或过去完成时。如：
+If I were you,I would invite him to the party.如果我是你，我会邀请他参加聚会。
+I would have arrived much earlier if I had not been caught in the traffic.如果没有堵车，我会到的早一点儿。
+那么，除了if之外，是否还有其他连词也可以引导条件状语从句呢?回答是肯定的，不仅有，还有很多。这些词由于出现的频率较小，且用法较复杂一些，所以不如if为大家所熟知罢了。下面就这些词的用法以例句的形式进行一下简单总结。
+1、unless conj.除非，若不，除非在……的时候
+You will fail to arrive there in time unless you start earlier.如果你不早点动身，你就不能及时赶到那儿。
+Unless it rains,the game will be played.除非下雨，比赛将照常进行。
+2、on condition(that)...在……条件下，如果 on condition (that)...引导的条件从句是主句事件发生的前提条件或唯一条件。
+I can tell you the truth on condition that you promise to keep a secret.我可以告诉你真相，条件是你答应保密。
+You can go swimming on condition (that) you don't go too far from the river bank.你只有在不远离河岸的条件下才可以下水游泳。
+3、supposing conj.如果，假如 supposing引导的条件从句表示一种假设条件。
+Supposing it rains,shall we continue the sports meeting?倘若下雨，我们的运动会还要继续举行吗?
+Supposing anything should go wrong,what would you do then?假如出了什么问题，你准备怎么对付?
+4、provided conj.假如，除非，以……为条件 provided (that) +从句表示一种假设条件。
+He will sign the contract provided we offer more favorable terms.如果我们提出更优惠的条件，他就会在合同上签字。
+He won't be against us in the meeting provided that we ask for his advice in advance.如果我们提前征求一下他的意见，他就不会在会上反对我们。
+从上述例句可以看出if,unless,on condition (that),supposing,provided等词引导的条件状语从句，主从句条件关系分明，结构清晰。
+但有些句子，虽没有含条件关系的连词，却也隐含着条件关系，这些句子常用一些词，如but for,without等引出一个介词结构来表示条件，条件应该是虚拟的，或与事实相反的假设。
+如：but for若非，要不是
+But for the rain,we should have a pleasant journey.要不是下雨，我们的旅行肯定会很愉快。
+But for your help,we should not have finished in time.要不是你帮忙，我们肯定不能及时完成任务
+经典语句：If it dosen't rain tomorrow,we will go to the zoo.
+If you open the door，i will come in.
+条件状语从句就是用以表示“在某种条件下，会……”常用if,in case,on condition等词来引导
+连接词主要有 if,unless,as/so long as,on condition that,provided,suppose,supposing 等..
+主句用一般将来时，if或unless引导的条件状语从句用一般现在时。
+【注：在条件状语从句中，绝大数情况下some要变为any。】
+用法
+unless = if...not.
+e.g. Let's go out for a walk unless you are too tired.
+If you are not too tired,let's go out for a walk.
+if 引导的条件句有真实条件句和非真实条件句两种：
+真实条件句
+如：If it rains tomorrow,we won’t go on a park　非真实条件句是虚拟语气的一种，表示与事实相反，如：
+If I were you,I would go with him.
+so/as long as只要
+由as (so) long as,in case引导。
+So long as you’re happy,it doesn’t matter what you do.
+只要你高兴，你做什么都没有关系。
+You may borrow my book as long as you keep it clean.
+只要你保持书的清洁，你就可以把我的书借去。
+Take your umbrella in case it rains.
+带着你的伞吧，以防下雨。
+例句
+引导条件状语从句的连词有：if（如果），unless（除非；如果不），as long as（除非；只要），supposing（假设），on condition that（条件是），in case（如果）。
+【例】
+You can't learn English well unless you work hard.
+除非你努力学习，否则你学不好英语。
+You can use my bike on condition that you return it by Friday.
+你可以使用我的自行车，条件是你星期五以前还。
+1）学习条件状语从句应注意以下几点：
+⑴条件状语从句中一般不使用将来时态，尽管主句使用将
+来时态，而从句用一般现在时或现在完成时。
+【例】
+I will come to see you if I have time.
+我有时间，我就来看你。
+If the rain stops,I shall go out for a walk.
+如果雨停了，我就出去散步。
+⑵注意条件状语从句在虚拟语气中的使用。
+【例】
+If I were to I should first of all get the experts to discuss the plan.
+如果我真的想做这事，我首先会找专家们讨论我的计划。
+⑶条件状语从句中的省略。
+【例】
+Come tomorrow if possible. 可能的话，明天来。
+I will buy a DVD set if necessary.
+
+第12章 目的状语从句目录
+
+简介
+举例
+状语从句的一些用法
+编辑本段简介目的状语从句：从句部分是用以补充说明主句中谓语动词发生的目的的状语从句。
+表示目的状语的从句可以由that, so that, in order that, lest, for fear that, in case等词引导；
+目的状语从句的谓语常含有may, might, can, could, shou  目的状语从句——相关书籍
+ld, will, would等情态动词。
+例如：
+You must speak louder so that /in order that you can be heard by all.
+He wrote the name down for fear that(lest) he should forget it.
+Better takes more clothes in case the weather is cold.
+引导目的状语从句常用的连词有： that（以便），so that（以便）， in order that（为了；以便），Lest（免得；唯恐）， for fear that（生怕；以免）。[1]
+编辑本段举例Say it louder(so)that everyone can hear you.
+大声说，以便大家都能听到你。
+I am telling you that lest you should make a mistake.
+我告诉你这一点，以免你搞错。
+学习目的状语从句应注意以下两点：
+（1）目的状语从句中常含有can,could,may,might,should等情态动词。
+I got up early so that I could catch the first bus.
+我起得很早，目的是为了赶上头班公共汽车。
+（2）在口语中so可以引导目的状语从句。
+We'll sit nearer the front so we can hear better.
+我们坐的靠前一点，因此，我们听得清楚一点。
+【注意】in order that与in order to的区别：
+in order that+从句
+in order to+动词原形 （ in order to后面加的那个不叫目的状语从句，叫目的状语）
+目的状语从句的一个特点：
+由于目的都是未来的行为，所以从句中一般用表示未来可能性时态，比如上面两句中的could。
+当然还可以用will,would,can,等
+结果状语从句的连词
+编辑本段状语从句的一些用法1) so … that…/ such ….that
+该句式中重要考查的是so和such的区别。应注意以下可能出现的结构：
+so nice a boy that…
+such a nice boy that…
+so beautiful/diligent/carefully … that…
+such (fine weather/great improvement) that…
+2) so that
+She worked hard so that everything would be ready by 5 o'clock.
+她努力工作，以便在五点前是一切都就绪。
+She looked down so that she should not see his eyes.
+她垂下目光，使她看不到他的眼睛。
+Everyone lend a hand, so that the sowing was done in time.
+该句式中主要考查so that 与其它短语的区别，如：
+由于so that也可以引导目的状语从句，同学们应特别注意从句中时态的运用。
+3) so much so that
+该结构用于形容词或副词之后，表示"到如此程度以致于"。如：
+He was very weak, so much so that he could not walk.
+I long to visit Beijing, so much so that I dream about it every night.
+4) 注意结果状语从句与too….to..enough to…, so… as to结构的不同。
+5）in order（that）“以便” to the end that “为……起见，以便”
+主语时态 从句时态 
+一般现在时
+现在完成时
+一般将来时 may/shall/can/will+动词原形
+（shall少用） 
+各种过去时态 might/should/could/would+动词原形 
+
+例句：
+He works hard in order that his family may be gappy.
+为了让家人幸福，他努力工作。
+He shouted at the top of his voice,to the that（=in order that）he might be heard.
+他高声呼喊，为的是让人们能听见他的说话。
+6）lest“免得”（书面用语）
+主语时态 从句时态 
+一般现在时
+一般过去时 （should）=动词原形
+（偶而用may/might/would） 
+
+例句：
+I am punishing the child lest he should make the same mistake.
+我惩罚那个孩子，以免他再犯同样的错误。
+She took her umbrella lest it（should）rain.
+他带了把雨伞，唯恐天要下雨。
+Lest the wall（should）collapse,they evacuated the buliding.
+他们撤离了大楼，以防墙壁倒塌。
+7）for fear（that）“以免”（相当于lest），“生怕”
+主句时态 从句时态 
+现在时态
+过去时态 might/should/would+动词原形 
+
+例句：
+He was worried for fear（that）the child might hurt himself.
+
+
+第13章 让步状语从句目录
+
+介绍
+使用的连词
+用法
+语法小贴士
+编辑本段介绍让步状语从句是状语从句中的一种，其本身也是状语从句。一般翻译为“尽管……”或“即使……”，就是我们日常生活中用的“退一步说……”的感觉。
+编辑本段使用的连词引导让步状语从句的连词主要有以下这些：though,although,while,as; even if,even though; whether...or...; no matter+疑问词，疑问词-ever，regardless of+名词/名词短语/名词从句，despite，in spite of。切记although，though 不可与but连用，但可以与still和yet连用。
+编辑本段用法⑴though,although表示“虽然，纵然”之意。
+这两个连词意思大致相同，在一般情况下可以互换使用。在口语中，though较常使用，although比though正式，二者都可与yet,still或never，the less连用，但不能与but连用。例如：
+My will remains firm though I must lower my physical sights.
+尽管我得降低体育（锻炼）的目标，但我的意志是坚强的。
+Though I believe it,yet I must consider.
+尽管我相信这一点，但我还得考虑考虑。
+Although/Though he was exhausted,(still) he kept on working.
+虽然他已经精疲力竭了，但仍然继续工作。
+Although/Though he is very old,(yet) he is quite strong.
+他虽然年纪大了，身体还很健壮。
+值得注意的是，although引导的让步状语从句位于主句之前的情况较多，though引导的让步状语从句可位于主句之前或主句之后。例如：
+She passed the examination though she had not studied very hard. 她虽然不用功学习，考试却及格了。
+⑵as,though表示“虽然……但是”，“纵使……”之意。
+as引导的让步状语从句必须以部分倒装的形式出现，被倒装的部分可以是表语、状语或动词原形，though也可用于这样的结构中，但although不可以这样用。例如：
+Object as you may,I’ll go.(=Though/Although you may object,I’ll go.)
+纵使你反对，我也要去。
+Hard as/ though he works,he makes little progress. (=Though he works hard,he makes little progress.）
+尽管他学习很努力，但几乎没取得什么进步。
+Child as/though he was,he knew what was the right thing to do.（=Though he was a child,he knew what was the right thing to do.）
+虽然他是一个孩子，但他知道该做什么。
+Fast as you read,you can’t finish the book so soon.
+纵然你读得快，你也不能这么快读完这本书。
+Lover of towns as I am ,I realize that I owe a debt to my early country life.
+尽管我爱城市，但我知道，以往的乡村生活使我受益匪浅。
+Small as atome are,they are made up of still samller units.
+尽管原子很小，但它们由更小的单位构成。
+⑶even if,even though 表示“即使……”，“纵使……”之意，含有一种假设。
+这两个复合连词的意思基本相同。它们常互换使用，但意义有细微差别。even if引导的让步从句含有强烈的假定性，可用来表示与事实相反的假设，但不能用来描述已经发生的事实。而even though引导让步状语从句时，是以从句的内容为先决条件的，即说话人肯定了从句的事实，表示已经发生了的事。例如：
+We’ll make a trip even if/though the weather is bad.
+即使天气不好，我们也要作一次旅行。
+Even if he is poor,she loves him. (=He may be poor,yet she loves him.）
+即使他很穷，但她还是爱他。
+Even though he is poor,she loves him. (=He is poor,yet she loves him.）
+尽管他很穷，但她还是爱他。
+He seemed youthful even though he was an old man.
+尽管他已经是老年人，但看上去仍然是朝气蓬勃的。
+You must come in if it's only a minute.
+你一定要进来，哪怕就一分钟呢。
+⑷whether...or...表示“不论是否……”，“不管是……还是……”之意。
+由这一个复合连词引导的让步状语从句旨在说明正反两方面的可能性都不会影响主句的意向或结果，所以它的语气是比较强烈的，从而也更加坚定了主句的内容。例如：
+You'll have to attend the ceremony whether you're free or busy.
+不管你忙不忙，都要参加这个典礼。
+Whether you believe it or not,it's true.
+无论你是否相信，这都是真的。
+Whether or not they win this battle,they won't win the war.
+不管他们是否能赢得这次战役，他们绝不会赢得这场战争。[1]
+⑸“no matter+疑问词”或“疑问词-ever”的含义为“……都……；不管……都……”
+它们引导的让步状语从句可以互换。例如：
+No matter what happened,he would not mind. (=Whatever happened,he would not mind.)
+无论发生了什么事情，他都不会介意的。
+No matter who you are,you must keep the law.(=Whoever you are,you must keep the law.
+不管你是谁，你都需要遵纪守法。
+When anyone does something for you,no matter how samll and no matter whether he's a superior or servant,it's proper to say“Thank you”.
+只要任何人替你做了一件事，不管事情多么微不足道，也不管他是你的上司还是你的仆人，你都应该说声“谢谢”。
+但“no matter+疑问词”结构只能引导让步状语从句，而“疑问词-ever”还可以引导名词性从句。例如：
+Whatever (=No matter what) you say,I won’t believe you. (Whatever 引导让步状语句）
+无论你说什么，我都不会相信你。
+I'll eat whatever （≠no matter what) you give me. (whatever引导宾语从句）
+你给我吃什么，我就吃什么。
+Whoever comes will be welcome. (Whoever 引导主语从句)
+不管谁来都受到欢迎。
+此外，有时while也可以引导让步状语从句，但一般要位于句首。例如：
+While I like the colour,I don't like the shape.我虽然喜欢那颜色，但不喜欢那形状。
+综上所述，我们可以看出，学习让步状语从句的关键是关联词的选用；其次，要注意的是由as引导的让步状语从句要用倒装语序。
+让步状语从句表示：虽然，尽管，即使等概念，由although,though（尽管，即使），however（无论怎样），whatever（无论什么），whoever（无论谁），whomever（无论谁），whichever（无论哪个），whenever（无论何时），wherever（无论哪里），whether（是否），no matter (who,what,where,when,etc) （无论……），even if（即使），even though（即使）等词引导。
+如：We won’t be discouraged even if(=even though) we fail ten times.
+我们就是失败十次也不泄气。
+It was an exciting game,though / although no goals were scored.
+那是一场精彩的球赛，尽管一个球都没进。（though,although不能与 but连用）
+Whether you believe it or not,it’s true.
+不管你信不信，这是真的。
+However (=No matter how) expensive it may be,I’ll take it.
+无论它有多贵，我也要买下它。
+Don’t let them in,whoever(=no matter who) they are.
+不管他们是谁，别让他们进来。
+No matter what I say or how I say it,he always thinks I’m wrong.
+无论我说什么或怎么说，他总认为是我错。
+编辑本段语法小贴士1. no matter
+what（who，which，when，etc.）与whatever（whoever，whichever，whenever，etc.）的区别：
+当引导让步状语从句时，两者相同，可以互换，但当引导名词性从句（主语从句，宾语从句，表语从句和同位语从句）时则只能用whatever（whoever，whichever，whenever，etc）。如上面最后两个例句可改为：
+However pure the water looks,I do not want to drink it.
+I want to marry the man I love,no matter who he may be.
+下面句子不能用no matter结构（no matter不能引导名词性从句）：
+Whoever comes back first is supposed to win the prize.（主语从句）
+I am ready to do whatever you want me to .（宾语从句）
+例证：
+Whatever you did,I will accept.为让步状语从句.
+I will accept whatever you did.为宾语从句.
+2. as 引导让步状语从句的用法
+引导让步状语从句时，as意为“虽然，尽管”，通常从句要倒装，倒装的方法是将从句的表语或状语放在as之前，而用though引导让步状语从句时句字则不必倒装（口语中也可倒装）。
+e.g. Heavily as it was raining outside,they started out very early.
+Young as he is,he knows a lot=Though he is young 或Young though he is,he….
+他虽然年轻，但懂得很多。（though 也有这种用法，可以替换as，但although没有这种用法）
+注意，名词提句首时，不加冠词：
+e.g：teacher as he is,he likes Chinese very much(teacher 前不加a或the）。
+though还可以用作副词，放在句末。如：
+It was hard work;; I enjoyed it,though=It was hard work,but I enjoyed it.那工作很苦，但是我喜欢干。
+3.用though/although,as 引导让步状语从句时，句中不能用but表示转折语气。
+不能说：Though he looks weak,but he is healthy.
+而要说：Though he looks weak,he is healthy.
+或者说：He looks weak,but he is healthy.
+我自己认为让步就是存在一定条件下的说法.
+4 . however 用作副词，不可连接句子。但可置于第二句的句首、句末或句中。要特别注意标点的使用。
+eg: Alice is a good student．However,she has one shortcoming．爱丽丝是一个很好的学生，但她仍有缺点。He has not arrived. He may,however,come later. The composition is all right. There is room for improvement,however.
+⒌ 除以上提到的从句连词外，表示让步的介词短语有despite,in spite of，后接名词。eg. Despite all these facts,we cannot ignore the advantages of learning through internet.
+though和although引导让步状语从句时，不可以与but连用。汉语中用"虽然……但是……”，但英语中只用though，although或but即可。
+although/though he is very old,he still works very hard.=（he is very old,he still works very hard）虽然他老了，但他仍然很努力地工作。不可说：although/though he is very old,but he still works very hard。
+though和although可以与yet连用。此处yet虽与but同义，但它不是连词，而是副词。
+though l knew the fact，yet l didnt say anything。尽管我知道，但我什么都没说。
+
+第14章 比较状语从句
+百科名片
+状语从句指句子用作状语时，起副词作用的句子。比较状语从句是其中的一种，主要运用于形容词和副词的原级、比较级及最高级的句子之中。原级：as…as（和……一样），not so（as）…as …（和不一样）；比较级：more…than（更）；最高级：The most…in/of， the + 形容词+est…of/in。常用引导词：as（同级比较），than（不同程度的比较）；特殊引导词：the more … the more … ；just as …， so…；A is to B what /as X is to Y； no … more than；not A so much as B。
+比较状语从句通常由as或than引起，这类从句和大多数状语从句不同，它们不修饰动词，而是修饰as，so，less，more等副词，或其他比较级的词，如 taller， harder．在这里讨论它们，不是作为动词修饰语，而是作为一种状语从句。包含这类从句的句子通常为L，即从句在后：
+She is as tall as I（or me）． 
+He works as hard as his brother（does）． 
+He does not work as hard as his brother． 
+He does not work．so hard as his brother．
+No other men work as（or so） hard as his brother （does）． 
+No other men work as hard as does his brother． 
+She is taller than I（or me）． 
+She is taller this year than（she was tall）last year． 
+She is more shy than unsocial． 
+She thinks more about her appearance than（she thinks about） her personality． 
+She finds it easier to read than to write． 
+She is not taller than I．（Both are tall．） 
+She is no taller than I．（Both are short．） 
+I cannot persuade him any more than your persuade a pillar．（= I am unable to persuade him，just as you are unable to persuade a pillar．） 
+I can forget her no more than she（forgets）me． 
+Nothing is more dangerous than that you （should） make friends with him． 
+I will help you rather than that you（should）have any trouble．
+It is better that we should die rather than that we（should）be slaves．
+He is only less silly than（= almost as silly as）John． 
+Than him nobody is more clever．（= He is the cleverest man．）（than在这里的作用更接近介词）
+Than this there are no better places．（This is the best place．） 
+I know John，than whom I have never seen a sillier man．
+比较状语从句(adverbial clause of comparison)从某种角度上说，它也是一种方式状语从句，它通常可和以下关联词来引导as(或so)...as, than, according as, in proportion as等。如：
+as...as...
+He woke up as suddenly as he had fallen asleep. 他醒来得和入睡一样突然。(第一个as是副词)
+I have never seen so much rain as fell that February. 我从未见过像那个二月那么多雨。(否定结构常用so…as, 也可用as... as)
+than
+Man developed earlier than people think. 人类的出现比人们所想的要早。
+He moves more slowly than his sister does. 他行动起来比他妹妹慢。
+The youth of today are better off than we used to be. 今天的年轻人比我们过去的境况要好。
+according as
+You may go or stay, according as you decide. 是去是留由你自己决定。
+You will be praised or blamed according as your work is good or bad. 你受表扬还是责备得看你的工作好坏决定。
+in proportion as
+Men are happy in proportion as they are virtuous. 人之幸福与德行成正比。
+Some people are happy in proportion as they are noticed. 有些人越受到注意就越高兴。
+The most…in/of
+This book is the most interesting of the three.这本书是三本中最有趣的。 
+the + 形容词+est…of/in
+This road is the busiest street in our city. 这条路是我们城市最繁忙的街道。
+no more than只不过(嫌少的意思)
+I have no more than two pens.我只有两支笔。
+It’s no more than a mile to the shops.去商店不过一英里。
+not more than不如。。。；(前者不如后者)
+Jack is not more diligent than John.捷克不如约翰勤奋。
+one of the + 名词(复数)….之一(用于最高级)
+Han Mei is one of the best students in our school. 韩梅是我们学校最好的学生之一。
+
+第15章 方式状语从句目录
+
+定义
+例题解析
+编辑本段定义方式状语从句常见的引导词有表示“像……”的as和表示“好像……”的as if/as though， 例如： Let’s study as Lei Feng studied. 让我们像雷锋那样学习吧。// Think as I think. 像我这样去想。// He talks as if/though he is drunk.从他谈话的样子来看他好像醉了。
+1. 方式状语从句通常由as, (just) as…so…, as if, as though引导。
+1） as, (just) as…so…引导的方式状语从句通常位于主句后，但在(just) as…so…结构中位于句首，这时as从句带有比喻的含义，意思是"正如…"，"就像"，多用于正式文体，例如：
+Always do to the others as you would be done by.
+你希望人家怎样待你，你就要怎样待人。
+As water is to fish, so air is to man.
+我们离不开空气，犹如鱼儿离不开水。
+Just as we sweep our rooms, so we should sweep backward ideas from our minds.
+正如打扫房屋一样，我们也要扫除我们头脑中落后的东西。
+2） as if, as though
+两者的意义和用法相同，引出的状语从句谓语多用虚拟语气，表示与事实相反，有时也用陈述语气，表示所说情况是事实或实现的可能性较大。汉译常作"仿佛……似的"，"好像……似的"。这两个连词经常用在be，act，appear，behave，fell，look，seem，smell，sound，taste及其他描写行为举止的动词之后，引导一个方式从句。例如：
+They completely ignore these facts as if (as though) they never existed.
+他们完全忽略了这些事实，就仿佛它不存在似的。（与事实相反，谓语用虚拟语气。）
+He looks as if (as though) he had been hit by lightning.
+他那样子就像被雷击了似的。（与事实相反，谓语用虚拟语气。）
+It looks as if the weather may pick up very soon.
+看来天气很快就会好起来。（实现的可能性较大，谓语用陈述语气。）
+说明：as if / as though也可以引导一个分词短语、不定式短语或无动词短语，例如：
+He stared at me as if seeing me for the first time.
+他目不转睛地看着我，就像第一次看见我似的。
+He cleared his throat as if to say something.
+他清了清嗓子，像要说什么似的。
+The waves dashed on the rocks as if in anger.
+波涛冲击着岩石，好像很愤怒。
+as if 和as though 引导的从句中的时态取决于说话者对所谈内容的态度。若说话者认为其看法是真的货可能会成为事实，从句谓语就按常规变化。
+例如：
+He looks as if he is angry.
+他看上去好像生气了。
+It looked as if there would be an exciting race.
+看来要有一场激动人心的比赛。
+When the soaceship leaves the earth at tremendous speed，the astronauts feel as if they are being crushed against the spaceship floor.
+当宇宙飞船以巨大的速度离开地球时，宇航员们觉得自己好像正在被压向宇宙飞船的底壁上去。
+如果从句的内容是不真实的，是与事实相反的，从句的谓语时态要用虚拟语气。主句谓语用一般现在时态，对从句的谓语形式没有影响。
+例如：
+He cated just as if he were afraid.
+他装得好像很害怕的样子。
+He behaves as if he were a child.
+他的举止就像个孩子。[1]
+2.其他的引导词
+1）the way：Please pronounce the word the way I do.请照我这样,读这个单词.
+2）口语常用的like：He sit there smiling like it was his birthday.他面带微笑坐在那儿,像是过生日似的. （这里用了虚拟语气，值得注意的是be动词用的was，而表示虚拟as if引导的be动词则只能是were。）
+状语从句的简化　?状语从句的省略
+状语从句同时具备下列两个条件:①主句和从句的主语一致，或从句主语为it；②从句主要动词是be的某种形式。从句中的主语和be动词常可省略。例如：
+When ( the museum is ) completed , the museum will be open to the public next year .
+He’ll go to the seaside for his holiday if (it is ) possible.
+3）固定句式：A is to B what C is to D 例如：
+Nine is to three what three is to one.
+另外，比较状语从句经常省略。例如：
+I’m taller than he (is tall ).
+The higher the temperature (is), the greater the pressure (is ).
+就状语从句而言,有时为了使语言言简意赅,常常将状语从句进行"简化"。状语从句的"简化"现象在口语中较为普遍,而且在高考中的复现率也较高。因此,有必要对其进行全面、透彻的了解。
+状语从句的"简化"现象常存在于以下五种状语从句中:①由if, unless等引导的条件状语从句;②由although, though, even if / though等引导的让步状语从句;③由when, while, as, before, after, until / till等引导的时间状语从句;④由as, as if等引导的方式状语从句;⑤由as, than等引导的比较状语从句。下面针对这五种情形作一归纳。
+(1)当状语从句的主语是it,且谓语动词是be时,it和be要完全简化掉。例如:
+If (it is) possible, he will help you out of the difficulty.如果可能的话,他会帮你摆脱困境。
+You must attend the meeting unless (it is) inconvenient to you.除非情况对你来说不方便,否则你必须出席这次会议。
+(2)当状语从句的主语和主句的主语一致时,从句可以将主语和be动词简化掉。常用于以下几种情形:
+连词+形容词
+As (he was) young, he learned how to ride a bike.他小时候就学会了骑自行车。
+Whenever (she is) free, she often goes shopping.她有空就去逛商店。
+Work hard when (you are) young, or you'll regret.少壮不努力,老大徒伤悲。[1]
+连词+名词
+While (he was) a young boy, he was always ready to help others.他在孩子时代就乐于助人。
+Although (he was) a farmer, now he is a famous director.尽管他曾是个农民,但他已经是位著名的导演了。
+连词+现在分词
+As (she was) walking along the river bank, she was singing a pop song.她沿着河堤边走边唱着流行歌曲。
+Although (he is) doing his best in maths these days, he has still got no good marks.尽管他一直在学数学,但他仍然没有取得好成绩。
+连词+过去分词
+He won't go there with us unless (he is) invited.除非受到邀请,否则他不会和我们一道去那里。
+The concert was a great success than (it was) expected.这场音乐会出乎意料地取得了巨大成功。
+连词+不定式
+He stood up as if (he were) to say something.当时他站起来好像要说什么。
+He wouldn't solve the problem even if (he were) to take charge.即使他来负责,他也解决不了这个问题。
+连词+介词短语
+She looked anxious as though (she was) in trouble.她看上去很焦急,好像遇到了麻烦。
+He had mastered the English language before (he was) in the USA.他到美国之前就懂英语了。
+解析：当从句主语和主句主语不一致时,从句部分要么用完全形式,要么用独立主格结构来表达，不能用其他形式表达。
+When the meeting was over, all the people went out of the meeting-room.当会议结束时,人们都走出了会议室。=The meeting over,
+as引导方式状语从句限制定语从句和非限制定语从句的区别
+1. 方式状语从句:方式状语从句通常由as, (just) as?so?, as if, as though引导。  1)as引导行为方式状语从句时,意为“如同??”?“按照??的方式(样子,办法)”?这种从句常位于主句之后?例如:   You must try to hold the tool as I do. 你必须像我这样拿工具?  Leave the things as they are. 别动这些东西?   We must do as the Party tells us (to do). 我们必须按照党的指示办事?   2)(just) as?so?结构中位于句首，这时as从句带有比喻的含义，意思是"正如?"，"就像"，多用于正式文体.   例如： Always do to the others as you would be done by. 你希望人家怎样待你，你就要怎样待人。   As water is to fish, so air is to man. 我们离不开空气，犹如鱼儿离不开水。   Just as we sweep our rooms, so we should sweep backward ideas from our minds. 正如打扫房屋一样，我们也要扫除我们头脑中落后的东西。   2) as if/though引导的方式状语从句比较容易区分,这里不做解释.   2. as引导限制性定语从句时,构成“the same ... as ...”, “such ... as ...”, “as many (much, few, little) ... as ...”等结构? as可替代先行词,在从句中作主语?表语?宾语或状语?  例如: He isn’t the same person as he used to be. 他不再是过去那个样子了?   I have never heard such a story as he is telling. 我从来没有听见过像他正在讲述的这种故事?   Here is a bottle of pure water. You may use as much of it as you need. 这里有一瓶纯净水,你需要多少就用多少?   This is the same watch as I have lost. 这块表和我丢失的那块表一样?   In those days, many youths lived in the same way as the villagers did in the mountains. 那些日子里很多青年人跟山区的老百姓一样生活?   3. as引导的非限制性定语从句,可以修饰整个主句和主句中的一部分?从句可位于主句之前?句中或主句之后,通常用逗号将其与主句隔开?这时as可译为“正如”?“正像”?例如:   As is reported in the newspaper, talks between the two countries are making progress. 正如报纸上报道的那样,两国之间的会谈正取得进展?   He is an Englishman, as I know from his accent. 从他的口音,我知道他是英国人?  As was usual with him, he went out for a walk after dinner. 像往常那样,他吃完饭后就出去散步了?   As is often the case, we have overfulfilled the production plan this year. 像往常一样,我们今年又超额完成了生产计划?   This machine, as might be expected, has stopped operating. 正如人们所料,这台机器已停止转动了?   He came very early this morning, as (was) usual. 像往常一样,他今天早上来得很早?  常见的这种定语从句还有: as has been said before(如前所述); as is mentioned above(如上面提到的); as may be imagined(正如可想象的那样); as is well known to us all(众所周知); as (sb) all know(众所周知); as often happens(正如经常发生的那样); as has already been pointed out(正如已经指出的那样); as we all can see(正像我们都能看到的那样)等?
+编辑本段例题解析[考题1] When a pencil is partly in a glass of water, it looks as if it ____. (1995)
+A. breaks B. has broken
+C. were broken D. had been broken
+[答案] C
+[解析] 当说话者认为句子所述的是真实情况或者是极有可能发生、 存在的情况时， as if/though引导的方式状语从句需用陈述语气形式。 但表示所叙述的情况与事实相反时as if从句中应使用虚拟语气。注意比较以下两个例句：
+He walks as if he is drunk.
+He walks as if he were drunk.
+前一句表示“他已经醉了”， 后一句则表示“他没有醉”。
+[考题2] Eliza remembers everything exactly as if it ____ yesterday. (2006)
+A. was happening B. happens
+C. has happened D. happened
+[答案] D
+[解析] as if后的谓语动词应采用一般过去时的形式与状语yesterday搭配， 表示对正在发生的真实情况的虚拟
+
+
+第16章 结果状语从句目录
+
+基本信息简介
+用法
+练习考题解析
+补充强化训练
+展开基本信息 简介 
+用法
+练习 考题解析 
+补充强化训练
+展开编辑本段基本信息简介
+结果状语从句常由so… that或such…that引导，掌握这两个句型，首先要了解so 和 such与其后的词的搭配规律。
+so和 such
+结果状语从句其规律由so与such的不同词性决定。such 是形容词，修饰名词或名词词组，so 是副词，只能修饰形容词或副词。 so 还可与表示数量的形容词many, few, much, little连用，形成固定搭配。
+such+a+形容词+名=so+形容词+a\an+名
+so foolish such a fool 
+so nice a flower such a nice flower 
+so many / few flowers such nice flowers 
+so much / little money such rapid progress 
+so many people such a lot of people 
+
+（ so many 已成固定搭配，a lot of 虽相当于 many，但 a lot of 为名词性的，只能用such搭配。）
+so…that与 such…that之间的转换既为 so与such之间的转换。
+例句：
+The boy is so young that he can't go to school.
+He is such a young boy that he can't go to school.
+用法
+结果状语从句的从句部分是补充说明主句中谓语动词发生的结果的，通常位于主句之后。结果从句中通常不用情态助动词，但must,can,could除外。such用在（形容词）名词之前；而so要用在形容词/副词之前，so或that有时会省略掉。以下逐一介绍高考中常见的引导结果状语从句的词：
+1. so that可以引导目的状语从句， 也可以引导结果状语从句。
+例如：
+He worried so that he couldn’t sleep.
+他急得睡不着。(so that引导结果状语从句)
+It was very cold, so that the river froze.
+天气寒冷， 河水都结冰了。(so that引导结果状语从句)
+I came to the class early so that I could see the classmate beside me.
+我赶早来上课， 以便早点看到我旁边的同学。(so that引导目的状语从句)
+so+形容词+that
+Some people were so moved by the sight that they began to cry.
+一些人对此情景如此感动，以致开始哭了出来。
+The wind was so strong that he could hardly move forward.
+风刮得如此猛烈，以致他几乎是寸步难行。
+so+副词+that
+The ball struck him so hard that he nearly fell into the water.
+球重重地打在了他身上，使他几乎落到水里去。
+so+形容词+a+单数名词+that
+It was so hot a day that they wanted to gou swimming.
+天那么热，他们想去游泳。
+so+many/few（+复数名词）+that
+There are so many picture-story books that the boy won't leave.
+有那么多连环画书，小孩都不想离去了。
+so+much/litter（+单数不可数名词）+that
+There is so much sontradictory davice about exercising that you become confused.
+对于锻炼有那么多互相矛盾的意见，以致都把你给弄糊涂了。
+He gave me so little time that it was impossible for me to finish the work on time.
+他给我的时间如此少，要我按时完成任务是不可能的。[1]
+2. 表示“如此……以致……”的“so...that...”和“such... that...”均可引导结果状语从句， 其中的such 是形容词， 修饰名词； so 是副词， 修饰形容词或副词， 具体的搭配形式是：
+(1)“so+adj./adv.+that”， “so+adj.(+a/an)+n.+that”；
+(2)“such(+a/an)(+adj.)+n.+that”。
+例如： He speaks so fast that no one can catch him. 他说话太快， 无人听得明白。// There is so rapid an increase in population that a food shortage is caused. 人口增长如此迅速， 以致造成了粮食短缺。// Our country has so much coal that she can export large quantities. 我们国家的煤炭非常丰富， 可以大量出口。(so与表示数量的代词many， few， much， little等连用已经形成固定搭配， 这些场合下不能换用such的对应结构表示) // The shop sells so expensive goods that I want to buy nothing in it. 这家商店出售的货物价格昂贵， 以致我在里面不想购买任何东西。// He’s such a good person that we mustn’t blame him. 他是这样好的人， 我们不能怪他。// They are such fine teachers that we all hold them in great respect. 他们是非常好的老师， 我们对他们极为尊敬。// It is such nice weather that I would like to go to the beach. 天气如此之好， 我想去海滩。
+如果结果状语从句的主语与主句的主语相同， 可用so (adj./adv.) as to取代该结果状语从句， 注意体会以下例句： The weather was bad, so as to make a good photo hard to take. 天气恶劣， 以致难以拍出来好照片。// He was so kind as to phone for a taxi for the patient. 他是如此热心， 以至于他为病人打电话叫了出租车。// How could you be so stupid as to believe him? 你怎么这么笨， 竟相信了他的话？
+编辑本段练习考题解析
+[考题1] Pop music is such an important part of society ____ it has even influence our language. (2007上海)
+A. as B. that C. which D. where
+[答案] B
+[解析] 下划线处之后表示结果， 应选用与前面的such连用引导结果状语从句的that。
+[考题2] His plan was such a good one ____ we all agreed to accept it. (2006陕西)
+A. so B. and C. that D. as
+[答案] C
+[解析] that与前面的such呼应， 引导结果状语从句。
+[考题3] We were in ____ when we left that we forgot the airline tickets. (2003上海)
+A. a rush so anxious B. a such anxious rush
+C. so an anxious rush D. such an anxious rush
+[答案] D
+[解析] 表示“如此匆忙”可以用“in so anxious a rush”或者“in such an anxious rush”。
+
+第17章 状语从句
+
+百科名片
+
+状语从句 （Adverbial Clause） 状语从句指句子用作状语时，起副词作用的句子。它可以修饰谓语、非谓语动词、定语、状语或整个句子。根据其作用可分为时间、地点、原因、条件、目的、结果、让步、方式和比较等从句。状语从句一般由连词(从属连词)引导，也可以由词组引起。从句位于句首或句中时通常用逗号与主句隔开，位于句尾时可以不用逗号隔开。
+目录
+
+种类
+时间
+注意事项
+地点
+条件
+原因
+目的
+展开
+种类
+时间
+注意事项
+地点
+条件
+原因
+目的
+展开
+编辑本段
+种类
+
+1.时间状语从句
+2.地点状语从句
+3.原因状语从句
+4.条件状语从句
+5.目的状语从句
+6.让步状语从句
+7.比较状语从句
+8.方式状语从句
+9.结果状语从句
+状语从句的时态特点
+一般情况下，时间和条件状语从句的谓语动词一般用“一般现在时”表示“一般将来时”，用“现在完成时”表示“将来完成时”。例如：
+I will call you as soon as I arrive in Beijing. 我到北京就将给你打电话。（这是由as soon as引导的时间状语从句，从句中的谓语动词arrive是一般现在时，表示一般将来时，绝不可用will arrive）
+As soon as I have finished this work, I will have gone home. 我一完成此工作，就回家。（从句中的谓语动词用现在完成时have finished，表示将来完成时,绝不可用will have finished）
+If he comes back, please let me know.如果他回来了，请通知我。（从句中的谓语动词用comes back,表示一般将来时，绝不可用will come back）
+状语从句讲解和练习
+状语修饰动词、形容词、副词或整个句子。通常由副词、介词短语、动词不定式、分词和从句等担当。例如：
+1. Naturally , our grandparents were pleased to get our phone call .(副词)
+(当然，我们的祖父母乐于接到我们的电话)
+2. We worked hard , from sunrise to sunset . (介词状短语)
+(我们工作得很努力，从日出到日落。)
+3. To help my disabled aunt , I spend an hour working in her house every day . (不定式)
+(为了帮助我残疾的阿姨，我每天花一小时在她的房子里。）
+4. Seen from a distance , the farmhouse looked deserted . (过去分词)
+（ 从远处看，农舍显得空荡荡。）
+5. I know how to light a camp fire because I had done it before .（原因状语从句）
+（我知道如何点燃篝火，因为我曾经做过。）
+状语的位置比较灵活，可以位于句首、句末或句中。enough用作状语修饰形容词和副词时必须后置。
+状语从句主要用来修饰主句或主句的谓语。一般可分为九大类，分别表示时间、地点、原因、目的、结果、条件、让步、比较和方式。尽管种类较多，但由于状语从句与汉语结构和用法相似，所以理解和掌握它并不难。状语从句的关键是要掌握引导不同状语从句的常用连接词和特殊的连接词即考点。现分别列举如下:
+时间状语从句
+常用引导词：when, as, while, as soon as, before, after, since , till, until
+特殊引导词：the minute, the moment, the second, every time, the day，the instant, immediately , directly, no sooner … than, hardly …when, scarcely … when
+I didn’t realize how special my mother was until I became an adult.
+While John was watching TV, his wife was cooking.
+The children ran away from the orchard(果园), the moment they saw the guard.
+No sooner had I arrived home than it began to rain.
+Every time I listen to your advice, I get into trouble.
+地点状语从句
+常用引导词：where
+特殊引导词：wherever, anywhere, everywhere
+Generally, air will be heavily polluted where there are factories.
+Wherever you go, you should work hard.
+地点状语从句一般由连接副词where, wherever等引导，已经形成了固定的句型，例如：
+句型1：Where+地点从句，（there）+主句。
+【注意】此句型通常译成“哪里……哪里就……”；主句在从句后面时，there可用可不用；如果主句在从句的前面时，一般都不用there。例如：
+Where there is no rain, farming is difficult or impossible.在没有雨水的地方，耕作是困难的，或根本不可能的。
+They were good persons. Where they went, there they were warmly welcomed. 他们都是好人。因此他们走到哪里都受到热烈欢迎。
+You should have put the book where you found it. 你本来应该把书放回原来的地方。
+Where the Communist Party of China goes, there the people are liberated.哪里有了中国共产党，哪里人民就得解放。
+句型2：anywhere/wherever+地点从句/主句。
+【注意】anywhere本身是个副词，可以引导从句，相当于连词，意思相似于wherever, anywhere引导的从句可位于主句之前，也可以位于主句之后。 而wherever本身就是个连词，表示“在何处，无论何处”。例如：
+Wherever the sea is , you will find seamen.有海就有海员。
+原因状语从句
+常用引导词：because, since, as, for
+特殊引导词：seeing that, now that, in that, considering that, given that.
+My friends dislike me because I’m handsome and successful.
+我的朋友不喜欢我，因为我又英俊又成功。
+Now that everybody has come, let’s begin our conference.
+既然每个人都到了，让我们开始我们的会议吧。
+The higher income tax is harmful in that it may discourage people from trying to earn more.
+更高的收入税是有害的，因为它或许会阻碍人们努力赚钱。
+目的状语从句
+常用引导词：so that, in order that
+特殊引导词：lest, in case, for fear that，in the hope that, for the purpose that, to the end that
+The boss asked the secretary to hurry up with the letters so that he could sign them.
+老板要求秘书快写函件以便他能在上面签字。
+The teacher raised his voice on purpose that the students in the back could hear more clearly.
+为了让后面的学生听得更清楚，老师有意地提高了他的声音。
+结果状语从句
+常用引导词：so … that, such … that,
+特殊引导词：such that, to the degree that, to the extent that, to such a degree that,
+He got up so early that he caught the first bus.
+It’s such a good chance that we must not miss it.
+To such a degree was he excited that he couldn’t sleep last night.
+条件状语从句
+常用引导词：if, unless,whether(whether...or not)
+特殊引导词：as/so long as, only if, providing/provided that, supposing that, in case that, on condition that
+We’ll start our project if the president agrees.
+You will certainly succeed so long as you keep on trying.
+Provided that there is no opposition, we shall hold the meeting here.
+让步状语从句
+常用引导词：though, although, even if, even though
+特殊引导词： as(用在让步状语从句中必须要倒装)，while ( 一般用在句首 )，no matter …， in spite of the fact that, whatever, whoever, wherever, whenever, however, whichever
+Much as I respect him, I can’t agree to his proposal.
+尽管我很尊敬他， 我却不同意他的建议。
+The old man always enjoys swimming even though the weather is rough.
+No matter how hard he tried, she could not change her mind.
+He won’t listen whatever you may say.
+比较状语从句
+常用引导词：as(同级比较), than(不同程度的比较)
+特殊引导词：the more … the more … ; just as …， so…; A to B is what/as X is to Y; no … more than; not so much A as B
+She is as bad-tempered as her mother.
+The house is three times as big as ours.
+The more you exercise, the healthier you will be.
+Food is to men what oil is to machine. 食物之于人，犹如油之于机器。
+方式状语从句
+常用引导词：as, as if, how
+特殊引导词：the way
+When in Rome, do as the Roman do.
+She behaved as if she were the boss.
+Sometimes we teach our children the way our parents have taught us.
+状语从句的简化
+状语从句的省略
+状语从句同时具备下列两个条件:①主句和从句的主语一致，或从句主语为it；②从句主要动词是be的某种形式。从句中的主语和be动词常可省略。例如：
+When ( the museum is ) completed , the museum will be open to the public next year .
+He’ll go to the seaside for his holiday if (it is ) possible.
+另外，比较状语从句经常省略。例如：
+I’m taller than he (is tall ).
+The higher the temperature (is), the greater the pressure (is ).
+就状语从句而言,有时为了使语言言简意赅,常常将状语从句进行"简化"。状语从句的"简化"现象在口语中较为普遍,而且在高考中的复现率也较高。因此,有必要对其进行全面、透彻的了解。
+状语从句的"简化"现象常存在于以下五种状语从句中:①由if, unless等引导的条件状语从句;②由although, though, even if / though等引导的让步状语从句;③由when, while, as, before, after, until / till等引导的时间状语从句;④由as, as if等引导的方式状语从句;⑤由as, than等引导的比较状语从句。下面针对这五种情形作一归纳。
+(1)当状语从句的主语是it,且谓语动词是be时,it和be要完全简化掉。例如:
+If (it is) possible, he will help you out of the difficulty.如果可能的话,他会帮你摆脱困境。
+You must attend the meeting unless (it is) inconvenient to you.除非情况对你来说不方便,否则你必须出席这次会议。
+(2)当状语从句的主语和主句的主语一致时,从句可以将主语和be动词简化掉。常用于以下几种情形:
+连词+形容词
+As (he was) young, he learned how to ride a bike.他小时候就学会了骑自行车。
+Whenever (she is) free, she often goes shopping.她有空就去逛商店。
+Work hard when (you are) young, or you'll regret.少壮不努力,老大徒伤悲。
+连词+名词
+While (he was) a young boy, he was always ready to help others.他在孩子时代就乐于助人。
+Although (he was) a farmer, now he is a famous director.尽管他曾是个农民,但现在他是位著名的导演了。
+连词+现在分词
+As (she was) walking along the river bank, she was singing a pop song.她沿着河堤边走边唱着流行歌曲。
+Although (he is) doing his best in maths these days, he has still got no good marks.尽管近来他一直在学数学,但他仍然没有取得好成绩。
+连词+过去分词
+He won't go there with us unless (he is) invited.除非受到邀请,否则他不会和我们一道去那里。
+The concert was a great success than (it was) expected.这场音乐会出乎意料地取得了巨大成功。
+连词+不定式
+He stood up as if (he were) to say something.当时他站起来好像要说什么。
+He wouldn't solve the problem even if (he were) to take charge.即使他来负责,他也解决不了这个问题。
+连词+介词短语
+She looked anxious as though (she was) in trouble.她看上去很焦急,好像遇到了麻烦。
+He had mastered the English language before (he was) in the USA.他到美国之前就懂英语了。
+注意:当从句主语和主句主语不一致时,从句部分要么用完全形式,要么用独立主格结构来表达。例如:
+When the meeting was over, all the people went out of the meeting-room.当会议结束时,人们都走出了会议室。(=The meeting over,
+编辑本段
+时间
+
+概念
+在复合句中，由时间状语从句表示主句动作发生的时间。(在复合句中，要注意主句和从句的时态大多都要保持一致。）
+要点
+时间状语从句，由以下连词引导：
+when while as after before as soon as since till /until by the time 在时间状语从句中，要注意时态一致。一般情况下主句是将来时的时候，从句主要用一般现在时。
+when在...的时候
+Mozart started writing music when he was four years old.
+(在)莫扎特4岁的时候，开始写音乐作品。
+while在...期间
+He visited a lot of places while he was traveling.
+他在旅行期间参观了许多地方。
+as在...的同时；一边...一边..
+We alwalys sing as we walk.
+我们总是一边走一边唱。
+I'll let him know as soon as she comes.
+她一来，我就会让他知道。
+after在...之后
+He left the classroom after he had finished his homework .
+他做完作业之后就离开教室。
+before 在...之前
+Mr. Brown had worked in a bank for a year before he came here.
+布朗先生来这里之前已经在一家银行里工作一年了。
+as soon as 一。。。就。。
+We began to work as soon as we got there.
+我们一到那就开始工作。
+I will write to you as soon as I get home.
+我一到家就给你写信。
+since 自。。。以来 到现在
+表示自过去的一个起始时间点到目前(说话时间)为止的一段持续时间。主句一般用现在完成时，从句用一般过去时。还可以用作介词，本句从句还可以用短语：since three years ago(从三年前至今)表示。
+Mr Green has taught in that school since he came to China three years ago.
+自格林先生来中国以来，他就在这所学校教书。
+till /until直到。。
+都可以作连词，连接时间状语，也可以作介词，与其它词构成介词短语，在句中作状语。（强调将一般用until）
+They walked till /until it was dark.
+他们一直走到天黑。
+Xiao Ming didn’t leave home till / until his father came back.
+小明直到他爸爸回来才离开家。
+by the time 到。。。为止
+(所在句子的主句应用完成时)
+By the time he gets there , his father has already gone.
+他到家的时候，他爸爸已经走了。
+By the time I got to school, the class had already began.
+我到校时，已经开始上课了。
+编辑本段
+注意事项
+
+由when, while, as引导的时间状语从句
+例如：
+When you think you know nothing, then you begin to know something.当你以为自己一无所知的时候，你就是在开始知道一些事物了。
+When truth is buried under the ground it grows, it chokes, it gathers such an explosive force that on the day it bursts out , it blows up everything with it.当真理被埋在地下的时候，它在生长，它感到压抑，它蓄存着一种爆炸性力量，一旦冒出，它就会炸破一切！
+Strike while the iron is hot. 趁热打铁。
+Will you watch my clothes while I have a swim. 我游泳的时候，请你照看一下我的衣服。
+You can feel the air moving as your hand pushes through it. 当你的手在空气中挥动的时候，你就能感觉到空气在流动。
+Our headmaster laughed as she spoke.我们的校长一边谈一边笑。
+when, while和as的区别
+when引导的从句的谓语动词可以是延续性的动词，又可以是瞬间动词。并且when有时表示“就在那时”。
+例如：
+When she came in, I stopped eating.她进来时，我停止吃饭。(瞬间动词)
+When I lived in the countryside, I used to carry some water for him.当我住在农村时，我常常为他担水。（延续性的动词）
+We were about to leave when he came in.我们就要离开，就在那时他进来了。(瞬间动词)
+While引导的从句的谓语动词必须是延续性的，并强调主句和从句的动作同时发生（或者相对应）。并且while有时还可以表示对比。例如：
+While my wife was reading the newspaper, I was watching TV. (was reading是延续性的动词，was reading和was watching同时发生)
+I like playing football while you like playing basketball.我喜欢踢足球，而你喜欢打篮球。（对比）
+As表示“一边……一边”，as引导的动作是延续性的动作，一般用于主句和从句动作同时发生；as也可以强调“一先一后。例如：
+We always sing as we walk.我们总是边走边唱。（as表示“一边……一边”）
+As we was going out, it began to snow.当我们出门时，开始下雪了。（as强调句中两个动作紧接着先后发生，而不强调开始下雪的特定时间）
+as when while的辨析
+as when while都表示主、从句动作同时发生，三者差异如下：
+表示“一边。。。一边"的意思
+as 强调两个动作同时进行，并表示对比时
+用于发生时间较短时
+when
+1、还可以表示从句动词的动作在主句动词的动作"之前 "或"之后"发生。
+2、when=and then; at that moment (正在那个时候)
+while 1、用于时间较长时
+2、 强调两个动作同时进行，并表示对比时
+有时这三个连词可以互换，有时不可以。
+It was raining hard when (as) I got there.
+我到那里时，正在下大雨。 ( 动作同时发生，when可换为as, 但不能换为while，因为get是点动词.)
+When I had read the article, he called me.
+我看完这篇文章之后，她给我打了电话。( 从句动作发生在主句之前，注意时态表达，只能用when )
+When I got to the cinema, the film had begun.
+(当)我到了电影院时，电影已经开演了。(从句的动作发生在主句之后，只能用when,并要注意时态)
+He was about to leave, when the telephone rang.
+他正要离开，忽然电话响了。( 此时不能放在句首。主句动词一般表达 “正在” “即将”.
+while, as不能代替
+She thought I was talking about her daughter, while, in fact, I was talking about my daughter.
+他以为我在谈她女儿，然而，实际上在谈论我女儿。(表转折，对比，when, as都不能代替它)
+While the alien was buying a souvenir, the girl called the police.
+外星人买纪念品时，那女孩给警察打了电话。(表示主句，从句的动作同时发生，while后引导的状语从句的动词必须是延续动词不能是点动词，因为它表示较长时间)
+Mother was worried because little Alice was ill, especially as (when/ while) father was away.
+妈妈担心，因为小爱丽丝病了，特别是他父亲不在家的时候。(此时as ,when, while可通用)
+由before和after引导的时间状语从句
+before的句型：
+It is/was (not) +时间+before+从句 用了多长时间......
+注意before引导的从句不再用否定式的谓语，并且当before引导的从句位于主句之后，有时译成“就，才”。还要注意主句和从句之间的时间关系。当主句用将来时，从句总是用现在时；如果before引导的从句谓语用的是过去时，则主句动词多用过去完成时，这样以便体现动作发生的先后。After表示主句动作发生在从句动作之后。主句和从句的动作的时间关系正好与before引导的从句相反。例如：
+It will be four days before they come back. 他们要过四天才能回来。
+Einstein almost knocked me down before he saw me.爱因斯坦几乎把我撞倒才看到我。
+My father had left for Canada just before the letter arrived.我父亲恰好在信到之前去加拿大了。
+They had not been married four months before they were divorced. 他们结婚还不到四个月就离婚了。
+After you think it over, please let me know what you decide.你仔细考虑过以后，告诉我你是怎样决定的。
+After we had finished the work, we went home.完成工作之后，我们回家了。（从句用过去完成时，主句用一般过去时）
+由till或until引导的时间状语从句
+till和until一般情况下两者可以互换，但是在强调句型中多用until。并且要注意的是：如果主句中的谓语动词是瞬时动词时，必须用否定形式；如果主句中的谓语动词是延续性动词时，用肯定或否定形式都可以，但表达的意思不同。例如：
+I didn't go to bed until（till） my father came back.直到我父亲回来我才上床睡觉。
+It was not until the meeting was over that he began to teach me English.直到散会之后他才开始教我英语。
+I worked until he came back.我工作到他回来为止。
+I didn't work until he came back.他回来我这才开始工作。
+Please wait until I arrived.在我到达之前请等我。
+由since引导的时间状语从句
+since引导的从句的谓语动词可以是延续性的动词，又可以是瞬时动词。一般情况下，从句谓语动词用一般过去时，而主句的谓语动词用现在完成时。但在It is +时间+since从句的句型中，主句多用一般现在时。例如：
+I have been in Beijing since you left. 自从你离开以来，我一直在北京了。
+Where have you been since I last saw you? 自上次我和你见面以后，你到哪里去了？
+It is four years since my sister lived in Beijing. 我妹妹不在北京住有四年了。
+It is five months since our boss was in Beijing.我们老板离开北京有五个月了。
+by the time的用法
+by the time 的意思是“截止到......（时间）为止”，后面接时间状语从句。例如：
+The other students had finished cleaning by the time I arrived.截止到我到来之前，其他学生已经打扫完卫生了。
+They had stopped serving meals by the time we got to the restaurant.截止到我们到达餐馆时，他们已经停止买饭了。
+知识扩展
+1. It is since从。。。知识扩展来多长时间了(因为since +从句或名词，表示一段时间)
+It is five years since we met last time.从我们上次见面已经五年了。
+2. It is +before…(。。。才)
+It was a long time before I went to sleep again.
+过了很长时间我才睡着。
+It was an hour before(=until) the police arrived.
+过了一个小时，警察才来。
+5.由as soon as, immediately, directly, instantly, the moment, the instant, the minute, ]等引导的时间状语从句b]　这些连词都表示“一……就……”。
+例如：
+I will go there directly I have finished my breakfast. 吃完早饭，我立即到那里去。
+The moment I heard the news, I hastened to the spot.我一听到消息，马上赶到了出事地点。
+As soon as I reach Canada, I will ring you up. 我一到加拿大，就给你来电话。
+【注意】hardly(scarcely, rarely)…when / before, no sooner…than相当于as soon as之意。主句用过去完成时，从句用一般过去时。当hardly, scarcely, rarely和no sooner位于句首时，主句应用倒装语序。例如：
+He had no sooner arrived home than he was asked to start on another journey. 他刚到家，就被邀请开始另一旅程。
+No sooner had the sun shown itself above the horizon than he got out of bed to commence work.太阳刚从地平线上升起，他就起床劳动去了。
+Hardly had I sat down when he stepped in.我刚坐下，他就进来了。
+He had hardly fallen asleep when he felt a soft touch on his shoulder.他刚要入睡就感到肩膀上被轻轻一触。
+由by the time引导的时间状语从句
+注意时态的变化：在一般情况下，如果从句的谓语动词用一般过去时，主句的谓语动词用过去完成时；如果从句的谓语动词用一般现在时，主句的谓语动词用将来完成时。例如：
+By the time you came back, I had finished this book.到你回来时，我已经写完这本书了。
+By the time you come here tomorrow, I will have finished this work. 你明天来这儿的时候，我将已经完成此工作了。
+7.由each time, every time和whenever]引导的时间状语从句b]　例如：
+Each time he came to Harbin, he would call on me. 他每次来哈尔滨，总是来看我。
+Whenever that man says“To tell the truth”, I suspect that he's about to tell a lie.每当那个人说“说实在话”的时候，我猜想他就要说谎了。
+You grow younger every time I see you. 每次遇到你，见你更年轻了。
+8.由as long as和so long as]引导的时间状语从句。b]这两个连词表示“有多久……就多久”，通常译为“只要”　例如：
+You can go where you like as long as you get back before dark. 你可以随意到哪里去，只要在天黑以前回来就行。
+I will fight against these conditions as long as there is a breath in my body! 只要我一息尚存，我就要反对这种境况。
+when和while的区别
+when 和 while 都可表示“当.....时....”“这时候.....”when后及短暂性动词（land，come in，meet，leave 等），while后及延续性动词（shop，visit，read，sleep 等）
+when 后及一般过去式。eg：The girl was shopping when she saw the alien.
+What was Charlotte doing when the alien took off ?
+while 后及过去进行时。eg：While the alien was buying a souvenir , the boy called the police.
+While the alien was reading the book , the boy called the TV station[1].
+编辑本段
+地点
+
+概念
+地点状语从句 (adverbial clause of place)
+地点状语从句一般由连接副词where, wherever等引导，已经形成了固定的句型，
+要点
+由连词where和复合关系词wherever (=no matter where )引导.
+例如：
+句型1
+Where+地点从句，（there）+主句。
+【注意】此句型通常译成“哪里……哪里就……”；主句在从句后面时，there可用可不用；如果主句在从句的前面时，一般都不用there。例如：
+Where there is no rain, farming is difficult or impossible.在没有雨水的地方，耕作是困难的，或根本不可能的。
+They were good persons. Where they went, there they were warmly welcomed. 他们都是好人。因此他们走到哪里都受到热烈欢迎。
+You should have put the book where you found it. 你本来应该把书放回原来的地方。
+Where the Communist Party of China goes, there the people are liberated.哪里有了中国共产党，哪里人民得解放。
+句型2
+Anywhere/ wherever+地点从句，+主句。
+【注意】anywhere本身是个副词，但是，常可以引导从句，相当于连词，意思相似于wherever, anywhere引导的从句可位于主句之前，也可以位于主句之后。 而wherever本身就是个连词，表示“在何处，无论何处”。例如：
+Wherever the sea is , you will find seamen.有海就有海员。
+知识扩展
+1.Where there is a will , there is a way.
+有志者事竟成。(谚语)
+1.It will be mixed school where not all the children are disabled.
+他将是一所混合式学校，那里的儿童并不都是残疾。(在限定性定语从句中对限先行词起限定作用。)
+2.Wherever you go , I go too.
+无论你到什么地方，我都去。(wherever=no matter where)无论何处，多用于句首。
+3.Wherever there is smoke , there is fire.
+无风不起浪。(谚语)
+4. While she was wondering where to go , she met a policeman.
+疑问副词where后跟不定式,构成不定式短语.
+编辑本段
+条件
+
+要点： 条件状语从句由连词if, unless (=if not) 引导。
+1.If it doesn’t rain tomorrow, we will go hiking.
+如果明天不下雨, 我们就去远足.
+2.You will get good grades if you study hard.
+如果你努力学习,就会取得好成绩.
+3.I will go to the party unless he goes there too.
+我会去参加聚会的, 除非他也去.(如果他不去,我就去.)
+4.You will be late unless you leave immediately.
+如果你不马上走,你将会迟到的.(=If you don’t leave immediately, you will be late.)
+难点提示：用条件状语从句时要注意时态的正确使用,当主句是将来时的时候,从句要用一般现在时.
+He will not leave if it isn’t fine tomorrow.
+一般将来时， 一般现在时
+They are going to have a picnic if it doesn’t rain next week.
+一般将来时, 一般现在时
+编辑本段
+原因
+
+要点: 由连词because, since, as引导, 也可由for, now that 等词引导
+1.I didn’t go to school yesterday because I was ill.
+我昨天没去上学，因为我生病了。
+2. Since everybody is here, let’s begin our meeting.
+既然大家都来了, 让我们开始开会吧.
+3. As you are in poor health, you should not stay up late.
+既然你身体不好, 你就不该熬夜.
+4.I asked her to stay to tea for I hadsomethingto tell her.
+我请她留下来喝茶,因为我有事要告诉她.
+.难点——because , since , as , for,辨析
+1）　because语势最强，用来说明人所不知的原因，回答why提出的问题。当原因是显而易见的或已为人们所知，就用as或 since。
+I didn’t go because I was afraid.
+Since /As the weather is so bad, we have to delay our journey.
+2）　由because引导的从句如果放在句末，且前面有逗 号，则可以用for来代替。但如果不是说明直接原因，而是多种情况加以推断，就只能用for。
+He is absent today ,because / for he is ill.
+He must be ill for he is absent today.
+3) as和for的区别：
+通常情况下，as引导的从句在主句前，for引导的从句在主句后。例：
+As the weather is cold, I stay at home.（同义句）
+I stay at home for the weather is cold.
+编辑本段
+目的
+
+要点： 目的状语从句由连词that, so that, so…that , in order that 引导。
+1.so that 以至, 以便
+I’ll run slowly so that you can catch up with me. (目的)
+我将慢慢跑以至你能赶上我。
+I opened the window so that fresh air might come in. (目的)
+我把窗户打开以使新鲜空气可以进来。
+2.in order that=so that:为了
+We shall let you know the details soon in order that you can/may make your arrangements.
+不久我们将会让你知道详情,以便你们能够做出安排。(目的)
+3.despite= in spite of
+编辑本段
+结果
+
+要点：结果状语从句由连词( so )that, so…that, such…that, so much/many…that引导。
+1.so…that 如此…以至于
+The scientist’s report was so instructive that we were all very excited.
+科学家的报告很有启发性，我们感到很兴奋。
+He always studied so hard that he made great progress.
+他总是那么努力，结果他取得了很大的进步。
+2. such…that 如此。。。以至
+It’s such nice weather that all of us want to go to the park.
+天气是如此的好，我们大家都想去公园玩。
+3.比较：so和 such
+其规律由so与such的不同词性决定。such 是形容词，修饰名词或名词词组，so 是副词，只能修饰形容词或副词。 so 还可与表示数量的形容词many, few, much, little(这四个形容词表多或表少时)连用，形成固定搭配。
+so foolish　such a fool
+so nice a flower　such a nice flower
+so many / few flowers　such nice flowers
+so much / little money. such rapid progress
+so many people　such a lot of people
+（ so many 已成固定搭配，a lot of 虽相当于 many，但 a lot of 为名词性的，只能用such搭配。）
+so…that与such…that之间的转换既为 so与such之间的转换。
+The boy is so young that he can’t go to school.
+He is such a young boy that he can’t go to school
+难点
++形容词或副词
++形+a(an)+单数可数名词
+so +many 或few+复数可数名词 +that
++much或 little+不可数名词
+so that ,such…that 都可以in order that两者皆可引导目的状语从句和结果状语从句，
+当他们引导目的状语从句时，从句的谓语里常常有can, could, may, might, will, would等次。
+so +adj或adv.+ that， such +n.+ that 以上两种句型都表示结果,其中so为副词,后接形容词，副词原型，当可数名词前有many, few；不可数名词前有much, little修饰时，应采用句型：so many (few, much, little )+n. 。 such为形容词, 后只能接名词。这名词既可以地可数的，也可以是不可数的。如果这名词是可数,单数,则必须在名词前加冠词a(an). 常见的形式是:such a (beautiful)garden, such(nice)people.
+1。I’ve had so many falls that I’m black and blue all over.
+我跌了很多跤，浑身数摔得清一块紫一块.
+2。there are so few notebooks that I can’t give you any.
+笔记本太少了,我一本也给不了你.
+3。It is such nice weather that I’d like to take a walk.
+天气是如此之好,以至于我想去散散步.
+4。Mike is so honest a man that we all believe him.
+麦克是如此诚实的一个人,以至于大家都相信他
+(=Mike is such an honest man that we all believe him.)
+5。The weather is so nice that I’d like to take a walk.
+天气是如此之好,以至于我想去散散步.
+编辑本段
+让步
+
+要点: 表示让步的状语从句由连词 though, although引导.
+难点：
+lthough, although当虽然讲, 都不能和but连用. Although,(though)…but的格式是不对的.但是他们都可以同yet (still) 连用. 所以though (although)…yet(still)的格式是正确的.
+Wrong: Although he is rich but he is not happy.
+Right : Although he is rich, yet he is not happy.
+虽然他很富有, 然而他并不快乐.
+Wrong: Although we have grown up, our parents treat us as children.
+Right : Although we have grown up, our parents still treat us as children.
+尽管我们已经长大了,可是我们的父母仍把我们看作小孩.
+although, though 辨析
+although 不能though 那样用作副词, 放在句首表示强调时要用even though.
+1。He is looking fit, though.
+但是,他看上去很健康. 考点
+2。Even though I didn’t understand a word, I kept smiling.
+尽管我一个字也不懂，我还是一直微笑着。
+3。He is quite experienced, he is young, though.
+尽管他很年轻，他很有经验。
+典型例题
+1） ___she is young, she knows quite a lot.
+A. When　B. However　C. Although　D. Unless
+答案：C。意为虽然她很年轻，却知道许多。
+2)　as, though 引导的倒装句
+as / though引导的让步从句必须表语或状语提前（形容词、副词、分词、实义动词提前）。
+Child as /though he was, he knew what was the right thing to do.
+= Though he was a small child, he knew what was the right thing to do.
+注意：
+a.　句首名词不能带任何冠词。
+b.　句首是实义动词，其他助动词放在主语后。如果实义动词有宾语和状语，随实义动词一起放在主语之前。
+Try hard as he will, he never seems able to do the work satisfactorily.
+= Though he tries hard, he never seems…
+虽然他尽了努力，但他的工作总做的不尽人意。
+3)　ever if, even though.　即使
+We’ll make a trip even though the weather is bad.
+4) whether…or-　不管……都
+Whether you believe it or not, it is true.
+5)　"no matter +疑问词" 或"疑问词+后缀ever"
+No matter what happened, he would not mind.
+Whatever happened, he would not mind.
+替换：no matter what = whatever
+no matter who = whoever
+no matter when = whenever
+no matter where = wherever
+no matter which = whichever
+no matter how = however
+注意：no matter 不能引导主语从句和宾语从句。
+（错）No matter what you say is of no use now.
+（对）Whatever you say is of no use now.
+你现在说什么也没用了。(Whatever you say是主语从句)
+（错）Prisoners have to eat no matter what they’re given,
+（对）Prisoners have to eat whatever they’re given.　囚犯们只能给什么吃什么。
+编辑本段
+比较
+
+要点：比较状语从句主要运用于形容词和副词的原级，比较级及最高级的句子之中。
+原级
+1. as…as 和。。。一样
+Jack is as tall as Bob.
+捷克和汤姆一样高。
+2. not so(as)…as …和不一样
+She is not so(as)outgoing as her sister.
+她不如她姐姐外向。
+比较级
+more…than (更)
+This book is more instructive than that one.
+这本书比那本书有教育意义。
+最高级
+1.The most…in/of
+This book is the most interesting of the three.
+这本书是三本中最有趣的。
+2. the + 形容词+est…of/in
+This road is the busiest street in our city.
+这条路是我们城市最繁忙的街道。
+知识扩展
+no more than只不过(嫌少的意思)
+1。I have no more than two pens.
+我只有两支笔。
+2。It’s no more than a mile to the shops.
+去商店不过一英里。
+not more than不如。。。；(前者不如后者)
+1。Jack is not more diligent than John.
+捷克不如约翰勤奋。
+2。one of the + 名词(复数)….之一(用于最高级)
+Han Mei is one of the best students in our school.
+韩梅是我们学校最好的学生之一。
+编辑本段
+方式
+
+方式状语从句通常由as, (just) as…so…, as if, as though引导。
+1） as, (just) as…so…引导的方式状语从句通常位于主句后，但在(just) as…so…结构中位于句首，这时as从句带有比喻的含义，意思是"正如…"，"就像"，多用于正式文体，例如：
+1。Always do to the others as you would be done by.
+你希望人家怎样待你，你就要怎样待人。
+2。As water is to fish, so air is to man.
+我们离不开空气，犹如鱼儿离不开水。
+3。Just as we sweep our rooms, so we should sweep backward ideas from our minds.
+正如打扫房屋一样，我们也要扫除我们头脑中落后的东西。
+2） as if, as though
+两者的意义和用法相同，引出的状语从句谓语多用虚拟语气，表示与事实相反，有时也用陈述语气，表示所说情况是事实或实现的可能性较大。汉译常作"仿佛……似的"，"好像……似的"，例如：
+1。They completely ignore these facts as if (as though) they never existed.
+他们完全忽略了这些事实，就仿佛它不存在似的。（与事实相反，谓语用虚拟语气。）
+2。He looks as if (as though) he had been hit by lightning.
+他那样子就像被雷击了似的。（与事实相反，谓语用虚拟语气。）
+3。It looks as if the weather may pick up very soon.
+看来天气很快就会好起来。（实现的可能性较大，谓语用陈述语气。）
+说明：as if / as though也可以引导一个分词短语、不定式短语或无动词短语，例如：
+1。He stared at me as if seeing me for first time.
+他目不转睛地看着我，就像第一次看见我似的。
+2。He cleared his throat as if to say something.
+他清了清嗓子，像要说什么似的。
+3。The waves dashed on the rocks as if in anger.
+波涛冲击着岩石，好像很愤怒。
+编辑本段
+运用
+
+写作中能合理、正确地使用状语从句，不但能地道的表达英文习惯，而且还能使文体结构更加严谨、美观。例如下文：
+My hobby
+The hobby I enjoy most is fishing.
+I started fishing (1)when I was five years old. I’ll never forget the day (2)when my father first took me fishing with him. On that day, I was holding a fishing rod (3)when a fish suddenly started pulling on the line. (4)I was so shocked that I fell into the water. But experience didn’t put me off and I have been fishing ever since.
+Now I still go fishing with my father. And we often go out on Sundays and spend the whole day fishing in the river.
+(1)是由when引导的时间状语从句，这类从句的使用频率很高。
+(2)句是由I’ll never forget the day .及when my father first took me fishing with him.两句组成。When在从句中做时间状语。
+(3)句也是由when 引导的时间状语从句。When 常与suddenly 连用，主句常用过去进行是。译为 “正在……, 忽然……”.
+(4)是以 so…that… (太…..以至于……)引导的结果状语从句.
+（5）the...the...
+e.g.
+The more you listen to English,the easier it becomes. The harder you work,the greater progress you will make. The more pictures I take,the more skilled I　become.
+
+
+第18章 时间状语从句学习指导
+
+ 
+
+时间状语从句就是在复合句中表示主句动作发生时间的状语从句。时间状语从句是所有状语从句中用得最经常的一种，并且用于引导时间状语从句的引导词也比较多，在学习时间状语从句时最重要的是记住这些引导词有哪些，它们的意思怎样等。到底时间状语从句可以用哪些词来引导呢？请看下文：
+
+1. 用when引导：when表示“当……时候”。如：
+
+Things were different when I was a child. 我小时候情况与现在不同。
+
+People breathe more slowly when they are asleep. 人睡觉时呼吸比较缓慢。
+
+2. 用while引导：while表示“当……时候”。如：
+
+We must strike while the iron is hot. 我们要趁热打铁。
+
+I went swimming while the others played tennis. 我去游泳，其余的人都打网球去了。
+
+注意：while 所引导的时间状语从句中谓语动词必须是持续性的，不能是短暂性的。
+
+3. 用as引导：as表示“当……时候”“随着”。如：
+
+He dropped the glass as he stood up. 他站起来时，把杯子摔了。
+
+We get wiser as we get old. 随着年岁的增长，我们也变得聪明些了。
+
+4. 用before引导：before表示“在……之前”。如：
+
+Turn off the lights before you go to bed. 睡觉前要关灯。
+
+Before he went to university he was a worker. 上大学之前他是工人。
+
+5. 用after引导：after表示“在……之后”。如：
+
+I will tell you after they leave. 他们走我再告诉你。
+
+After you finish the letter show it to me．信写完后给我看看。
+
+6. 用until / till引导：until / till表示“直到……”。如：
+
+He waited until she was about to leave. 他等着一直到她准备离开。
+
+I watched him until he disappeared in the distance. 我瞧着他直到他在远处消失。
+
+这类句型的主句动词通常只能是延续性动词，不能是终止性动词。但是，在否定句中，主句动词可以是终止性动词，此时构成not…ntil [till]…句式，意为“直到……才……”。如：
+
+She didn’t marry until she was over fifty. 她直到五十多岁才结婚。
+
+We’d better not go until your sister arrives. 我们最好等你姐姐到了再走。
+
+7. 用since引导：since表示“自从……以来”。如：
+
+We have known each other since we were children. 我们从小认识。
+
+They’ve moved twice since they got married. 他们结婚后已搬了两次家。
+
+这类句子的主句通常用现在完成时。但是，当主句表示一段时间时，可用一般现在时代替现在完成时。如：
+
+It’s a long time since we met last. 好久没见面了。
+
+How long is it since you came in London? 你来伦敦有多久了?
+
+
+8. 用as soon as引导：as soon as表示“一……就……”。如：
+
+The boys ran off as soon as we appeared. 我们一来，孩子就都跑了。
+
+He started as soon as he received the news. 他一接到消息就出发了。
+
+表示“一……就……”这一意思的连词，除as soon as外，还可用the moment, the minute, the instant等。如：
+
+I want to see him the minute he arrives. 他一来到我就要见他。
+
+The moment I saw him I knew there was no hope. 我一看到他就知道没希望了。
+
+(9) 用every time等引导：any time, each time, every time, the first time, the last time, the next time等有时也可用连词，引导时间状语从句，分别表示“任何时候”“每次”“第一次”“最后一次”“下次”等。如：
+
+You can call me any time you want to. 你随时都可以给我打电话。
+
+Each time I went there, I saw him working. 我每次去那儿都看见他在工作。
+
+Every time I call on him, he is out. 我每次去访问他，他都不在。
+
+Next time you come in, please close the door. 下次你进来，请关门。
+
+(10) 时间状语从句的时态：当主句为将来时态或含有将来意义时，时间状语从句习惯上要用一般现在时表示将来意义，而不能直接使用将来时态。如：
+
+■趁早动手，免得忘了。
+
+误：Do it before you will forget.
+
+正：Do it before you forget.
+
+before引导的时间状语从句不能直接使用将来时态，而通常用现在时表示将来意义。
+
+
+
+
+
+
+第19章 让步状语从句学习指导
+
+ 
+
+让步状语——这是一个比较奇怪的名字。所谓让步，简单地说就是降低标准或者说是退一步，相当于汉语的“虽然”“尽管”“即使”等。英语中用于引导让步状语从句的连词不多，主要有although, though, even though, even if等。
+
+1. 用although / though引导：although与though虽然拼写不同，但意思相同，都表示“虽然”，常可互换。如：
+
+Though they are twins, they look entirely different. 他们虽是孪生，但是相貌却完全不同。
+
+Although she didn’t say anything I sensed (that) she didn’t like the idea. 她虽然什么也没说但我已意识到她不喜欢这个主意。
+
+注意，不要按汉语习惯说although…but…。如：
+
+尽管她父亲在公司里，但她那份工作却是靠自己得到的。
+
+误：Although her father is in the firm, but she got the job on her own.
+
+正：Although her father is in the firm, she got the job on her own.
+
+2. 用even though / even if引导：even though和even if意思相同，均表示“即使”，常可互换。如：
+
+Even though you have a lot of money, I won’t love you. 即使你有很多钱，我也不会爱你。
+
+Even if you saw him pick up the money, you can’t be sure he stole it. 就算你看见是他拾起的钱，你也不能肯定钱就是他偷的。
+
+3. 用whether…or引导：whether…or…的意思是“无论……还是……”“不管……还是……”。如：
+
+I’ll do it whether you like it or not. 不管你是否喜欢，我都要做。
+
+Whether we help him or not, he will fail. 不论我们帮助他与否, 他都将失败。
+
+4. 用特殊词引导：除上面提到的最常用的引导让步状语从句的词语外，有时还可用那些以-ever结尾的词语来引导，如whatever, whoever, however, whenever, wherever等，它们的意思与no matter what, no matter who, no matter how, no matter when, no matter where等，意思是“无论什么”“无论是谁”“无论多么”“无论什么时候”“无论什么地方”等。如：
+
+Whatever you say, I believe you. 无论你说什么，我都相信你。
+
+Whoever telephones, tell them I’m out. 不管是谁打电话，都说我出去了。
+
+However much he eats, he never gets fat. 无论他吃多少，他都不发胖。
+
+另外，还有一个大家比较熟悉的词也可引导让步状语从句，那就是while，它除了表示“当……时候”外，还可表示“尽管”“虽然”，此时引导的是让步状语从句。如：
+
+While we don’t agree we continue to be friends. 尽管我们意见不同，我们还是朋友。
+
+
+第20章 原因状语从句学习指导
+
+ 
+
+原因状语从句就是在复合句中表示主句动作发生原因的状语从句。用于引导原因状语从句最常用的连词是because，另外还有as, since以及now that等。
+
+1. 用because引导：because是引导原因状语从句最常用的连词，其意为“因为”。如：
+
+The little boy was crying because he was lost. 那小孩因迷路而哭。
+
+I bought the house simply because it was large. 就是因为这所房子大我才买的。
+
+2. 用as引导：as也可以用于引导原因状语从句，意思是“由于”。如：
+
+As he is ill, he can’t come to the meeting. 由于生病了，他不能来参加会议。
+
+As you weren’t there, I left a message. 由于你不在那儿，我留了个信儿。
+
+3. 用since引导：since引导原因状语从句时，意思是“既然”。如：
+
+Since you ask, I will tell you. 你既然问，我就告诉你。
+
+Since you are going, I will go. 既然你去，我也去。
+
+4. 用now that引导：now that引导原因状语从句的意思也是“既然”。如：
+
+Now that you have come you may as well stay. 既然你来了，你就留下。
+
+Now that you’re growing up you must learn to stand on your own two feet. 你既然已经长大成人，就得学会独立生活。
+
+5. 习惯用法：不要受汉语意思影响将表示“因为”的连词与表示“所以”的 so 连用。如：
+
+■既然你很忙，那就不必来了。
+
+误：As you are busy, so you needn’t come.
+
+正：As you are busy, you needn’t come.
+
+正：You are busy, so you needn’t come.
+
+as是从属连词，在此引导原因状语从句；so 是并列连词，在此连接一个并列句，所以误句结构混乱，应去掉其中一个。
+
+in that 作为连词的用法
+
+ 
+
+in that是一种固定搭配，其意为“因为”，与for the reason that, because 同义，可用于引导原因状语从句。如：
+
+I’m in a slightly awkward position in that he’s not arriving until the 10th. 我的处境有点尴尬，因为他要到10号才来。
+
+Most of them are not in reality engineers, in that the work they do is mostly clerical. 他们中的大多数人实际上都不是工程师，因为他们做的主要是办公室工作。
+
+I am an optimist in that I believe that human beings do not always perversely try to make life worse for themselves. 我是乐天派的人，因为我认为人类并非总是违反常情地力图使自己的生活变差。
+
+
+第21章 结果状语从句学习指导
+
+ 
+
+结果状语从句就是在复合句中表示主句动作所导致结果的状语从句。用于引导结果状语从句连词也不多，主要的有so that, so…that, such…that等。
+
+1. 用so that引导：so that引导结果状语从句时的意思是“结果”“所以”。如：
+
+Write out this word ten times so that you learn how to spell it. 把这个字抄写十遍就能记住怎么拼写了。
+
+I went to the lecture early so that I got a good seat. 我去听演讲去得很早，所以找了个好座位。 
+
+2. 用so…that引导：so…that的意思是“如此……以至于……”，其中的 so 后接形容词或副词。如：
+
+He was so angry that he couldn’t speak. 他气得话都说不出来。
+
+He runs so fast that none of us can catch up with him. 他跑得很快，我们没一个能追上他。
+
+3. 用such…that引导：such…that…的意思是“如此……以至于……”，其中的 such 后接名词(名词前通常有形容词修饰)。如：
+
+It gave him such a shock that his face turned white. 这使他那样震惊，他脸都白了。
+
+He is such a clever boy that we all like him. 这个孩子这样聪明，我们都喜欢他。
+
+第22章 目的状语从句学习指导
+
+ 
+
+目的状语从句就是在复合句中表示主句动作发生目的的状语从句。用于引导目的状语从句的连词不多，比较常用的有in order that和so that，另外，in case有时也可引导目的状语从句。
+
+1. 用in order that引导：in order that的意思是“为了”。如：
+
+He studied hard in order that he could pass the exam. 他努力学习以便能考试及格。
+
+He left early in order that he should / would / might arrive on time. 他早早动身好按时到达。
+
+该结构有时可与 in order to 转换。如：
+
+He is working hard in order to pass the examination.＝He is working hard in order that he can pass the examination. 为了考试及格，他正在努力学习。
+
+2. 用so that引导：so that此时的意思是“以便”。如：
+
+Bring it closer that I might see it better. 拿近些，使我能看得清楚些。
+
+She burned the letters so that her husband would never read them. 她把信都烧了，这样一来她丈夫就永远看不到了。
+
+注意：so that引导目的状语从句与引导结果状语从句时的意思不一样。
+
+3. 用in case引导：in case此时的意思是“以防”“以备”。如：
+
+I always keep a bottle of wine by in case friends call round. 我平时总存着一瓶酒以备朋友来时喝。
+
+It may rain—you’d better take an umbrella (just) in case it does. 可能会下雨你，最好带把伞，以防万一。
+
+注意：in case引导目的状语从句与引导条件状语从句时的意思不一样。
+
+第23章 条件状语从句学习指导
+
+ 
+
+条件状语从句就是在复合句中表示主句动作发生条件的状语从句。引导条件状语从句最经常用的连词是if，它的意思是“如果”；除此之外，还有其他一些连词，它们也多少含有“如果”的意思，也可用于引导条件状语从句。
+
+1. 用if引导：if意为“如果”。如：
+
+You can’t take photographs if the light is bad. 光线不足，就无法拍照。
+
+If you cheat in the exam you’ll never get away with it. 考试作弊必予追究。
+
+2. 用unless引导：unless的意思是“如果不”“除非”。如：
+
+Don’t act unless you’re certain. 没有把握就不要做。
+
+Unless you go at once you will be late. 如果你不马上走，就会迟到的。
+
+3. 用as [so] long as引导：as [so] long as的意思是“如果”“只要”。如：
+
+I’ll remember that day as long as I live. 只要我活着，我就不会忘记那个日子。
+
+You may take my dictionary as long as you don’t keep it too long. 只要使用时间不太长，你可以把我的词典拿去。
+
+4. 用in case引导：in case用连词引导条件状语从句时，其意为“如果”“万一”。如：
+
+In case I’m late, start without me. 万一我迟到，就不等我了。
+
+In case I forget, please remind me about it. 万一我忘记，请提醒我一下。
+
+5. 条件状语从句的时态：当主句为将来时态或含有将来意义时，条件状语从句习惯上要用一般现在时表示将来意义，而不能直接使用将来时态。如：
+
+■不知道明天是否会下雨，但要是下雨的话，我就呆在家里。
+
+误：I don’t know if it will rain tomorrow. But if it will rain tomorrow, I’ll stay at home.
+
+正：I don’t know if it will rain tomorrow. But if it rains tomorrow, I’ll stay at home.
+
+句中的第一个 if 引导的是宾语从句(if＝是否)，从句谓语用将来时态表示将来意义；第二个if引导的是条件状语从句(if=如果)，从句谓语要用一般现在时表示将来意义。
+
+第24章 whenever引导的两类状语从句
+
+ 
+
+■引导让步状语从句
+
+引导让步状语从句，表示“无论何时”，相当于 at whatever time, no matter when等。如：
+
+Whenever I see him, he’s reading. 我无论什么时候看到他，他都在看书。
+
+Whenever I go to London I try to see Vieky. 我什么时候去伦敦，都设法去看看维基。
+
+Whenever you come, you are welcome. 你什么时候来，我们都欢迎。
+
+ 
+
+■引导时间状语从句
+
+引导时间状语从句，表示“每当”“一……就”，与when用法相似，但语气更强。如：
+
+The roof leaks whenever it rains. 这屋顶一下雨就漏。
+
+I go to the theatre whenever I get the chance. 一有机会我就去看戏。
+
+Whenever I mention playing football, he says he’s too busy. 我一跟他提踢足球的事, 他就说太忙。
+
+从句主语和谓语有时可以有所省略。如(www.yygrammar.com)：
+
+Whenever (it is) possible, he goes to see her. 只要有可能，他就去看她。
+
+Robbie had arranged for this man to come whenever needed. 罗比安排好，随时需要这人就可以来。
+
+
+第25章 wherever引导的两类状语从句
+
+ 
+
+■引导地点状语从句
+
+引导地点状语从句，表示“在……的任何（所有）地方”，与where, anywhere, everywhere 用法相似。如：
+
+You can sit wherever you like. 你喜欢坐哪儿都可以。
+
+You can’t camp wherever [where, anywhere] you like these days. 如今你可不能随便在哪儿宿营。
+
+■引导让步状语从句
+
+引导让步状语从句，表示“不管在（到）哪里”，相当于no matter where。如：
+
+Wherever he goes, I’ll go. 不管他去哪里，我也去。
+
+Wherever you find high wages, you will generally find high prices. 哪里有高工资，哪里一般就有高物价。
+
+Being recognized wherever you go is the price you pay for being famous. 出名所付出的代价是不管你走到哪里，都会被人认出来。
+
+从句谓语有时可以用“may+动词原形”代替一般现在时。如：
+
+I’ll find him, wherever he is [may be]. 无论他在哪里，我都要找到他。
+
+下面一句中的wherever possible 与 whenever possible 同义(www.yygrammar.com)：
+
+Wherever possible the jobs are given to local people. 只要有可能就把工作提供给当地人。
+
+第26章 even though和even if的用法区别
+
+ 
+
+两者均可用于引导让步状语从句，其细微区别是：
+
+1. even if 引导的从句是往往是假设性的，相当于汉语的“即使”“纵然”“就算”“哪怕”。如：
+
+They’ll stand by you even if you don’t succeed. 即使你不成功，他们也会支持你。
+
+Even if I have to walk all the way I’ll get there. 即使我得一路走着去，我也要走到那里。
+
+Even if it rains tomorrow, we won’t change our plan. 即使明天下雨，我们也决不改变计划。
+
+For my part, I plan to go to the party even if you decide not to go. 至于我，即使你决定不去参加晚会我也会去的。
+
+Even if you saw him pick up the money, you can’t be sure he stole it. 就算你看见是他拾起的钱，你也不能肯定钱就是他偷的。
+
+正因为even if从句的内容通常是假设性的，所以有时还可用于虚拟语气；这样用的even if 与单独使用的if比较接近。如：
+
+Even if he had the money, he wouldn’t buy it. 他即使有钱也不会买它。
+
+I would have married her even if she had been penniless. 即使她身无分文，我也会和她结婚。
+
+2. even though 引导的从句内容往往是真实的，主要用于引出不利用于主句情况的信息，相当于汉语的“尽管”“虽然”。如：
+
+He went out even though it was raining. 尽管在下雨，他还是出去了。
+
+Even though it’s hard work, I enjoy it. 虽然工作艰苦，我还是很喜欢。
+
+He’s the best teacher even though he has the least experience. 他尽管经验最少，但教得最好。
+
+Even though I didn’t know anybody at the party, I had a nice time. 尽管这次聚会上我谁也不认识，我也玩得挺痛快。
+
+这样用的even though与though或although的意思比较接近，许多时候可以互换（注意：英语可以说though和even though，但不能说even although）。如：
+
+Even though [Thought, Although] I felt sorry for him, l was secretly pleased tha t he was having difficulties. 虽然我为他感到惋惜，但对他的困难却暗自高兴。
+
+Even though [Thought, Although] we all tried our best, we lost the game. 虽然我们已尽了最大的力量，但还是输了。
+
+3. 不过，在实际语言运用中，even if与even though有时也可不加区别地混用。如：
+
+Even if [Even though] she laughs at him, he likes her. 尽管她嘲笑他，他还是很喜欢她。
+
+We thoroughly understand each other, even if [even though] we don’t always agree. 我们彼此非常了解，虽然有时候也有一些分歧。
+
+第27章 状语从句在复合句中的位置
+
+ 
+
+一般说来，状语从句在复合句中的位置比较灵活，有时置于句首，有时置于句末，有时置于句首与句末都可以。如：
+
+While I was working in the garden, my wife was cooking dinner. 我在园子里干活时，我妻子正在做饭。
+
+Wait until the children settle down before you start the lesson. 等学生都静下心来再开始上课。
+
+当状语从句置于句首时，其后通常会用逗号隔开。但当句子较短或当状语从句与主句的关系比较密切时，也可以不用逗号。如：
+
+If you pull too hard you will break the rope. 如果太用力拉，就会把绳子拉断。
+
+When he smiled he exposed a set of perfect white teeth. 他笑时露出了一口漂亮的白牙。
+
+当状语从句位于句末时，其前一般不用逗号。但是，如果状语从句与其前主句的关系不是很密切，尤其作为添补内容时，其前也可用逗号，如：
+
+Better say yes, if they ask you. 如果他们问你，你最好说“是”。
+
+We knew he couldn’t have paid for it, because he had no money. 我们知道不可能是他付了这笔钱，因为他没钱。
+
+另外，状语从句有时也可位于句子中间，如：
+
+He said that if I passed my test he would buy me a car. 他说如果我通过考试，他将给我买辆汽车。
+
+This, if the news (should) be true, is a very serious matter. 如果消息属实，这可是一件非常严重的事情。
+
+第28章 状语从句常用引导词归纳
+
+ 
+
+引导状语从句的词语叫从属连词。不同作用的状语从句通常由不同的从属连词来引导。如：
+
+1. 引导时间状语从句的从属连词主要有when, while, as, whenever, before, after, since, until, till, as soon as, the moment, the minute, the second, the instant, immediately, directly, instantly, once等。
+
+2. 引导条件状语从句的从属连词主要有if, unless, as [so] long as, in case 等。
+
+3. 引导目的状语从句的从属连词主要有 in order that, so that, in case, for fear等。
+
+4. 引导结果状语从句的从属连词主要有so that, so…that, such…that等。
+
+5. 引导原因状语从句的从属连词主要有because, as, since, seeing (that), now (that), considering (that) 等。
+
+6. 引导让步状语从句的从属连词主要有although, though, even though, even if, while, however, whatever, whoever, whenever, wherever等。
+
+7. 引导方式状语从句的从属连词主要有as, like, as if, as though, the way等。
+
+8. 引导地点状语从句的从属连词主要有where, wherever, everywhere等。
+
+9. 引导比较状语从句的从属连词主要有than和as…as。
+
+第29章 as long as和so long as引导条件状语从句的区别
+
+ 
+
+as long as 和 so long as 均可表示“只要”，用于引导条件状语从句，两者没什么区别。如：
+
+I don’t care so [as] long as she lets me be with her son. 只要她让我和她儿子在一起，我不在乎。
+
+You can take my car as [so] long as you drive carefully. 你可以用我的汽车，只要你小心点儿开。
+
+You may use my dictionary as [so] long as you don’t keep it too long. 只要使用时间不太长，你可以用我的词典。
+
+但是，当 as long as 用于本义表示“与……一样长”时，与 so long as 在用法上是有区别的，即 as long as 可用于肯定句或否定句，而 so long as 只用于否定句，不用于肯定句。如：
+
+It took three times as long as I had expected. 这件事比我预料的多花了两倍的时间。
+
+It didn’t take as [so] long as I expected. 花的时间比我预料的短。
+
+第30章 学习英语地点状语从句的四个要点
+
+ 
+
+地点状语从句主要用于回答Where?的问题，可以由where (在…的地方)，wherever (无论什么地方)，anywhere (无论何处) 以及everywhere (到处) 等连词来引导。
+
+■地点状语从句一般置于主句之后
+
+Sit wherever you like. 你爱坐哪儿都可以。
+
+Keep it where you can see it. 把它放在你看得见的地方。
+
+He lives where the climate is mild. 他住在一个气候温暖的地方。
+
+I’ll take you anywhere you like. 你想到哪儿我就带你到哪儿。
+
+You can’t camp where / wherever / anywhere you like these days. 如今你可不能随意在哪儿宿营。
+
+■根据强调的需要，anywhere, everywhere和wherever也可以 (where则一般不可以) 放在句首。如：
+
+Anywhere she goes, he goes too. 不论她去哪儿，他也去哪儿。
+
+Wherever I am l will be thinking of you. 我不论在哪儿，都会想你的。
+
+Everywhere I go, I find the same thing. 不管我走到哪里，我都发现同样情况。
+
+Everywhere Jenny goes she’s mistaken for Princess Diana. 无论詹妮走到什么地方，她都会被误认为是戴安娜公主。
+
+■where一般表示一个确定的但非特指的地点。如：
+
+The church was built where there had once been a Roman temple. 教堂建在曾一度是罗马神庙的地方。
+
+Next time I hope you’ll go where I tell you to. 下次我希望你去我告诉你去的地方。
+
+■wherever, anywhere 和 everywhere 表示“任何地方”。如：
+
+With a special train ticket you can travel wherever / anywhere / everywhere you like in Europe for just over￡100. 你如持有专车票，仅花一百多一点英镑，就可以到欧洲各地旅行。
+
+■有些地点状语从句中有的词可以省略。如：
+
+Where possible, they tried to acquire colonies. 只要可能，他们就设法取得殖民地。
+
+Avoid structures of this kind wherever possible. 只要可能，就要避免这种结构。
+
+
+
