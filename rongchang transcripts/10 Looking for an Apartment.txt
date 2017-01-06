@@ -1,0 +1,534 @@
+10 Looking for an Apartment
+
+1. How to Find an Apartment (1)
+2. How to Find an Apartment (2)
+3. Finding an Apartment 
+4. Visiting a Rental Agent (1)
+5. Visiting a Rental Agent (2)
+6. Asking About the Apartment Location (1)
+7. Asking About the Apartment's Location (2)
+8. Asking About the Neighborhood (1)
+9. Asking About the Neighborhood (2)
+10. Asking About Safety Features
+11. Asking About a Floor Plan
+12. Discrimination
+13. Scheduling an Apartment Viewing (1)
+14. Scheduling an Apartment Viewing (2)
+15. Negotiating the Price (1)
+16. Negotiating the Price (2)
+17. Going Over the Lease
+18. Security Deposit (1)
+19. Security Deposit (2)
+20. Policy Towards Pets (1)
+21. Policy Towards Pets (2)
+22. Checking the Apartment for Damage (1)
+23. Checking the Apartment for Damages (2)
+24. Asking about Public Transportation (1)
+25. Asking About Public Transportation (2)
+26. Finding an Apartment (2)
+27. Asking a Friend to Help Move In (1)
+28. Asking a Friend to Help Move In (2)
+29. Calling a Moving Company (1)
+30. Calling a Moving Company (2)
+31. Where to Put the Furniture (1)
+32. Where to Put the Furniture (2)
+33. Calling the Water Company (1)
+34. Calling the Water Company (2)
+
+1
+A: Can you help me find an apartment?
+B: Sure, I would be happy to help.
+A: I'm having trouble starting my search.
+B: I would try driving around the neighborhood, and looking for any signs that say RENT.
+A: That's a good start. Thank you.
+B: Don't mention it.
+A: Do you have any other advice you can offer?
+B: Yes. Try searching on the Internet for apartments.
+A: The Internet? Are you sure?
+B: The Internet is a great place for people to sell and buy all sorts of things.
+A: Even renting out apartments?
+B: Yes, even that. Just be sure to always be safe in all transactions.
+A: Thank you for your help.
+B: You're welcome.
+
+2
+A: I'm looking for an apartment. Have you seen any apartments for rent?
+B: No, I have not. I'll keep an eye out.
+A: Thank you. That's very helpful of you.
+B: You're welcome. What kind of an apartment are you looking for?
+A: An apartment with one bedroom.
+B: In what city?
+A: In the city of Pasadena.
+B: You should try looking in the local newspaper.
+A: That's a good idea. I'll try that today.
+B: Let me know if you find any apartments.
+A: Alright, I'll keep you in the loop.
+B: Good luck in your search.
+
+3
+A: I found an apartment!
+B: That's great to hear. I congratulate you.
+A: Thank you. I'm so glad I finally found one.
+B: How did you find it?
+A: On the computer.
+B: How did you know to look there?
+A: A friend told me to look online.
+B: Where is the apartment?
+A: In Pasadena.
+B: That's a nice town. How big is the apartment?
+A: It's big enough for me.
+B: You should meet with a Rental Agent.
+A: What for?
+B: To get a professional opinion.
+A: Good idea. Know of any?
+B: You could talk to mine. Here's his business card.
+
+4
+A: Are you the Rental Agent?
+B: Yes, I am. Welcome to my office.
+A: It's nice to meet you. Thank you.
+B: How did you hear about me?
+A: A friend referred me to you.
+B: Oh really. I'm glad.
+A: He said you were the right person to talk to about renting an apartment.
+B: That's nice to hear. I'm flattered. How can I help you?
+A: I found an apartment in Pasadena, and I wanted a second opinion.
+B: Sure. Do you have the apartment's information?
+A: Yes, I do. Here it is.
+B: Thank you.
+
+5
+A: Is it a good apartment?
+B: Yes. It seems fine to me.
+A: That's good to hear.
+B: There is only one issue.
+A: What is it?
+B: The landlord is asking for too much money.
+A: What should I do?
+B: Negotiate with him.
+A: I'm not such a good negotiator. Can you do it for me?
+B: For a small fee, I sure can.
+A: Alright, you have the deal.
+B: I'll call him this evening
+
+6
+A: Is the location of the apartment a good one?
+B: Yes. I would say so.
+A: Why is that?
+B: The city of Pasadena is generally safe. Have you been there?
+A: Yes, it's relatively calm.
+B: Do have any other concerns about the location?
+A: Is the apartment's location near any shopping areas?
+B: Yes, it is.
+A: What shopping areas?
+B: There is a place called Old Town where a lot of shops are located.
+A: How far away is Old Town from the apartment's location?
+B: Ten minutes away on car.
+A: And on foot?
+B: Twenty minutes on foot.
+
+7
+A: The apartment seems nice.
+B: It sure does.
+A: I just have a few questions to ask.
+B: About what?
+A: The apartment's location.
+B: Ask away. I'll try my best to answer them.
+A: Is the location in close proximity to the police department?
+B: Yes, it is. Only fifteen minutes away.
+A: What about the fire department?
+B: Not as close as the police department, but still not far.
+A: That's good to hear. Thanks for the answers.
+B: Don't mention it. It was my pleasure to help.
+
+8
+A: What can you tell me about the neighborhood?
+B: Only good things.
+A: Like what, for example?
+B: The neighborhood is a safe and clean place.
+A: Is there any crime?
+B: There is hardly any crime that is reported.
+A: I wonder why that is.
+B: There is a neighborhood watch that patrols daily.
+A: That explains crime disparity.
+B: Any other questions?
+A: Who are the residents living in the neighborhood?
+B: Mostly families and some retired folks.
+A: Sounds like a pleasant neighborhood.
+B: It really is. I hope you enjoy living there.
+
+9
+A: I have a few questions regarding the neighborhood.
+B: Alright, let's hear them.
+A: Does the neighborhood look good aesthetically?
+B: Yes, very much so.
+A: That's good news. Can you describe how?
+B: The neighborhood is abundant with plant life.
+A: You mean like trees and bushes?
+B: Yes, and not just any regular trees and bushes. The ones here are beautiful.
+A: Anything else you can describe?
+B: Yes. The streets are nicely paved, and the street lights are quite quaint.
+A: Wow, I could just picture it now.
+B: The neighborhood will look even better in person.
+
+10
+A: Tell me about the apartment's safety features.
+B: What would you like to know?
+A: Do the front and back door equip with locks?
+B: But of course, they do.
+A: What kind of locks do they have?
+B: The best deadbolt locks in town.
+A: I'm glad to hear that.
+B: Rest assured that you will be safe and sound in your new apartment.
+A: That's comforting to hear. I thank you for your words.
+B: Not a problem. Do you have any other questions or concerns?
+A: Let me think for a second.
+B: Take all the time you need.
+A: Alright, I got one.
+B: Okay, let's hear it.
+A: Does the apartment have an alarm system?
+B: It in fact does! It's a very important safety feature to have.
+
+11
+A: Do you have the floor plan to the apartment?
+B: Yes I do. Would you like to take a look at it?
+A: Yes I would, if you don't mind.
+B: Not at all. By all means, take a look for yourself.
+A: Where did you get this piece of paper of the floor plan?
+B: I have access to this kind of information.
+A: I see. Can you help me read this?
+B: Sure I can. What would you like to know?
+A: How big is the living room?
+B: According to the floor plan it is 20 feet long and 15 feet wide.
+A: Oh, so that's what those numbers mean.
+B: Right. This apartment has a good floor plan.
+
+12
+A: Is there any kind of discrimination committed in the city?
+B: Not that I have witnessed.
+A: What about any reports?
+B: Of discrimination? I wouldn't know, to be honest.
+A: Do you know where I could get access to that kind of information?
+B: Perhaps the police department. What made you ask in the first place?
+A: I was just curious. It never hurts to ask.
+B: I wouldn't worry too much about discrimination.
+A: Why do you say that?
+B: We live in progressive times now.
+A: That doesn't mean discrimination isn't committed in this day and age.
+B: I guess you are right.
+
+13
+A: Hello, I would like to schedule an appointment to view the apartment.
+B: Sure thing. What is your name?
+A: My name is Lisa.
+B: Okay, Lisa. I have an appointment available at three o'clock.
+A: Three o'clock is just fine. On what day would that be?
+B: I have days available from Saturday through Monday.
+A: Can you do Friday instead?
+B: No, I'm sorry. My son is visiting on Friday.
+A: I understand. In that case, can I come the following day?
+B: Saturday? that's great! See you then.
+
+14
+A: Good afternoon. Are you the person renting out the apartment?
+B: Yes, I am. What can I do for you?
+A: I'm interested in viewing the apartment.
+B: Alright, would like to make an appointment?
+A: Yes, I very much would.
+B: What time are you available?
+A: Mostly after sundown on weekdays. What days are good for you?
+B: I work in the evenings Monday through Friday. Are you available at any time on the weekends?
+A: I'm available on Sunday. How about three o'clock Sunday afternoon? 
+B: That's a perfect time for me.
+A: Great! I'll come over at three on Sunday.
+B: Sure! I'm expecting you.
+
+15
+A: It's a nice apartment.
+B: I knew you would like it. Who wouldn't?
+A: There is only one issue.
+B: What is it? Is it the next door neighbor?
+A: No, he's great. I was talking about the price.
+B: What about the price? It's a fair price, if I do say so myself.
+A: I think it's a little too high for me. Is there anything you can do for me?
+B: I'm not sure if I can.
+A: Listen, I would be the perfect tenant.
+B: And how is that?
+A: Well, I always make my payments on time. You can check my credit score.
+B: Alright, that's good to hear.
+A: I sleep early, and am very respectable. I also have no pets.
+B: I think I've heard enough. You sound like a good tenant. I'm going to reduce the monthly rent by $100.
+
+16
+A: Is there anything I can say or do to make you lower the monthly rent?
+B: I doubt it, but let me hear you out.
+A: If you lower the price, I will mow the lawn and trim the hedges every month.
+B: No, I already have someone who does that.
+A: What if I give you the first two months' rent in advance?
+B: No deal. Sorry, kid.
+A: Looks like I can't convince you to lower the rent.
+B: I'm sorry, but that was a good effort.
+A: I guess I'm going to have such a hard time paying rent.
+B: Don't look so down now.
+A: I can't help it.
+B: Alright, you win! I'll lower the price.
+
+17
+A: I think I'm ready to sign the lease.
+B: Good! Let me just go over some key points.
+A: If you feel the need to do so, then go ahead.
+B: By signing this contract, you are agreeing to rent the apartment for a certain amount of time.
+A: Yes, I am aware of this. The lease is for one year.
+B: Are you ready to make that commitment?
+A: Yes, I am. What else?
+B: No pets in the apartment.
+A: Don't worry. I have no pets.
+B: There'll be a late fee of $20 if you don't pay on time.
+A: I have no problem with that. Where do I sign?
+B: Write your signature here, and your initials here and here.
+
+18
+A: Let's discuss the security deposit.
+B: Do you have the full amount for the deposit?
+A: I think I do. How much was it again?
+B: It was a total of $1,000.
+A: Can you please explain how a security deposit works?
+B: You don't know? I thought you did.
+A: I just want to make sure I have it correct.
+B: The security deposit ensures coverage for any damages you may cause to the apartment at your departure.
+A: I see. Is that it or is there more to it?
+B: The security deposit also could be used to help repay any owing rent you may have.
+A: Okay, that's what I was thinking. Thanks for confirming that information.
+B: Sure thing. You're welcome.
+
+19
+A: This is a great apartment.
+B: I'm glad you found it to your liking.
+A: I knew I would, judging from the description I read.
+B: Are you ready to discuss payment?
+A: Yes, I think I am.
+B: You will have to pay for the security deposit.
+A: Security deposit? What is that for?
+B: It's simply money you give to me as a kind of insurance in case you cause any damage to the apartment.
+A: I understand. That makes sense.
+B: So are you ready to pay the deposit?
+A: How much are you asking?
+B: It's at least $1,000 for the security deposit.
+A: Alright, I could provide that much.
+B: Perfect! I think we are ready to sign the lease.
+
+20
+A: What's your policy towards owning pets in the apartment?
+B: I usually don't permit any kind of pets.
+A: Would you be willing to make an exception?
+B: It depends on the pet. Are you a pet owner?
+A: I have a few rabbits and hamsters.
+B: How many exactly?
+A: I have two rabbits and three hamsters.
+B: As long as you keep them inside your apartment I don't see why they would be a problem.
+A: I'm guessing cats and dogs are not permitted?
+B: Not, they are not. I'm sorry to say.
+A: Did something happen that made you change your policy towards cats and dogs?
+B: Yes. A tenant previously owned a dog and the dog attacked another tenant one day.
+
+21
+A: Everything seems to be in order. I'm ready to move into the apartment.
+B: Good, I welcome you to your new home.
+A: Is there anything else I should know before I start my move?
+B: Now that you mention it, yes, there is. It's the policy I have on pets.
+A: Do you allow any kind of pets?
+B: Only caged pets, I'm sorry to say. I hope this won't be a problem.
+A: Actually, I might prove to be problematic because I have a cat.
+B: There lies the problem. I'm sorry, but some of the other tenants have allergies to cats.
+A: That's too bad. I don't know what I'm going to do with the kitten.
+B: Perhaps you can give it away. Do you know of anyone who might want a cat?
+A: No, not really. What about you? Would you like a cat?
+B: Me? Well, I've never owned a pet before, let alone a cat.
+A: Cats make great companions. Please take mine. You would be doing me a huge favor.
+B: Alright, why not? Bring the little fellow next time.
+
+22
+A: Can I check the apartment for any damages?
+B: Absolutely, let me accompany you.
+A: Did the previous tenant maintain the apartment well?
+B: For the most part, yes. A few repairs had to be made.
+A: What kind of repairs?
+B: Mostly plumbing repairs, but the exterior of the apartment is immaculate.
+A: Whoa, you weren't kidding. This apartment is in mint condition.
+B: I wouldn't worry too much about the plumbing.
+A: It's all in working condition?
+B: Yes, I guarantee that is. I hired the best plumber in town to fix the minor problems it had.
+A: That's good to hear. I think I've finished checking the apartment.
+B: Don't hesitate to notify me of any concerns that may arise.
+
+23
+A: Would it be okay if I checked the apartment for any damages?
+B: That's fine with me. Step inside.
+A: Thank you. I'll take a quick look around.
+B: Feel free to take your time.
+A: Right away I noticed some cracks on the kitchen tile.
+B: Where? Can you show me?
+A: Yes. It's right at the corner, next to the sink.
+B: I see it. I'll have that repaired right away.
+A: Thank you. That would be great.
+B: Take a carful look around the apartment, and tell me of anything else that needs tending to.
+A: Here's something else. These doors are kind of loose.
+B: It's the screws on them. I'll have the screws replaced as soon as possible.
+
+24
+A: Do any public buses run nearby?
+B: Yes, in fact many buses do.
+A: Can you tell me where I can catch them?
+B: Down the street the 260 bus picks you up and takes you to Los Angeles.
+A: How frequently does it pass?
+B: That bus passes every 30 minutes.
+A: How much is the fare?
+B: For most it's two dollars and fifty cents.
+A: Is it possible to buy some kind of pass for the bus?
+B: Yes, you can. There are daily, weekly, and monthly passes you can purchase.
+A: Do you know the cost of them?
+B: If I'm not mistaken, it's five dollars for the day, twenty dollars for the week, and fifty for the month.
+
+25
+A: Do you ever take public transportation to get around?
+B: Before I frequently did. Not so much anymore. Why do you ask?
+A: I wanted some information about the public transportation that is available in the city.
+B: I could provide you with some. What would you like to know?
+A: What kind of public transportation is there?
+B: There is a local shuttle bus that could take you almost anywhere in the city.
+A: It does not take you outside the city?
+B: Unfortunately it does not. But it's cheaper than other public buses that do.
+A: I see. And where is the nearest stop from here?
+B: It's really close. Just a block away towards that direction.
+A: That way? I see. Thank you.
+B: You can't miss it, and you're welcome.
+
+26
+A: Have you found an apartment?
+B: Yes, I have.
+A: That's great. Where is it at?
+B: It's in downtown. Have you ever been there?
+A: No, but I hear that area could be kind of sketchy.
+B: Don't worry. The apartment is in a pretty safe part of town.
+A: That's a relief. When are you moving?
+B: This weekend, Saturday.
+A: Have you hired any movers?
+B: No, I have not. Know any good movers?
+A: Sure, I'll give you the number to the movers that can help you.
+B: Gee, thanks. I appreciate the favor.
+A: You're welcome.
+
+27
+A: Hey! Did you ever find a new apartment to move into?
+B: Yes, I did! The apartment is in a convenient location.
+A: Nice! Where is it located?
+B: It is in the city of Pasadena and near both my school and job.
+A: That's great! It seems you found the perfect place.
+B: Thanks. I'm glad too. Could I ask you for a favor?
+A: Sure. What is it?
+B: Would you be able to help me move into my new apartment tomorrow?10 Looking for an Apartment
+A: Yes, I would be glad to.
+B: Awesome! I just need help moving my furniture in.
+A: No problem. I'll stop by tomorrow morning.
+B: Great. Maybe we can go out for pizza right after we finish.
+
+28
+A: I finally found an apartment to move in.
+B: That's great to hear. Kudos to you.
+A: Thanks, it wasn't easy finding one.
+B: Are you moving in soon?
+A: Yes I am. This weekend, in fact.
+B: Have you hired any movers?
+A: No, I have not.
+B: Why not? Don't you know of any in the area?
+A: That's not the problem. I don't think I have enough to afford movers.
+B: That's too bad. Is there anything I could do to help?
+A: Actually, I was going to ask for your help.
+B: You're going to need at least one more other person to help you move.
+A: You're right about that. So can I count on you to help me?
+B: You bet. I would be happy to help you move.
+
+29
+A: Hey, were you able to find a new home to move into?
+B: Yes, I did. Now I just have to move my things over to the new place.
+A: That's great! I'm glad you found a new place.
+B: Me too. Have you ever used a moving company before?
+A: Yes, I have. And the company is not bad.
+B: I'm planning on moving soon. I have never called a moving company before.
+A: Oh, I see. You have to call them as soon as possible.
+B: Really? Why is that?
+A: Moving companies tend to get booked really fast, especially during the summer.
+B: That makes sense. I guess I should call a moving company right now.
+A: Good luck. I hope the move transitions smoothly.
+B: Thanks you for your advice. See you later!
+
+30
+A: Hello, am I calling a moving company? My friend gave me you guys' number.
+B: Yes, this is indeed a moving company.
+A: That's a relief. I thought I was dialing the wrong number.
+B: No, you called the right place. Are you in need of any moving assistance?
+A: Yes, very much so. I'm moving in one week, and I need a pair of strong and able movers.
+B: We can provide you with that kind of help.
+A: That would be fantastic.
+B: Just give me your information and we'll have you set up in no time.
+A: Thank you very much.
+B: You're welcome. The movers we provide will help with all your belongings.
+A: That's good. I have a lot of stuff.
+B: Rest assure, that won't be a problem.
+
+31
+A: Please be carful with that.
+B: Don't worry, we are professionals. Your furniture is safe in our hands.
+A: Thank you. That's reassuring to hear.
+B: Now, where do you want this couch?
+A: Let me think. Right here is a good spot.
+B: Next to the window over there?
+A: Yes, that's the spot. You could put it down there.
+B: Alright, next we have these end tables. Where do you want them?
+A: I want them against this wall please.
+B: There you are. Nice and gentle. See, I told you we were professionals.
+A: Thank you. I feel more secure now seeing you work.
+B: Well, that's good. Let's go get the rest of your furniture.
+
+32
+A: Thanks for helping me move in all my furniture.
+B: No problem at all. It's a pleasure.
+A: Can you help me decide where to place them?
+B: Sure. Where should we start?
+A: Let's start with the living room. Where do you suggest we place the couch?
+B: Maybe against that wall. Then the television can be placed at the opposite end.
+A: Good idea. Let's do that. Thank you for helping.
+B: You're welcome. Where would you like to place these bookshelves?
+A: I would like it against the wall with the window.
+B: Would you like it placed to the right or left side of the window?
+A: I would like it placed on the right side.
+B: Good choice. Let's move the bookshelf together.
+
+33
+A: Hello, is this the water company?
+B: Yes it is. How can I help you?
+A: I just moved into my first home. I have a few questions.
+B: Alright. What questions do you have?
+A: What are my payment options?
+B: You can pay online, by mail, or in person at designated areas.
+A: Are you guys responsible for any plumbing problems?
+B: The costumer is responsible for their home plumbing problems.
+A: What information do you need in order to begin my water service?
+B: We will need your full name, social security number, and the address to your home.
+A: Thank you. That is all I need to know.
+B: You're welcome. Thank you for calling. Have a nice day.
+
+34
+A: You have called the Water Company. How may I assist you?
+B: Hello, I recently moved into my apartment.
+A: Are you calling to activate your billing?
+B: Yes, that's one of the things I'm calling about.
+A: What was the other reason for your calling today?
+B: There is leakage in one of the pipelines. Is there anything you can do about that?
+A: No, I'm sorry. But I could provide you contact with one of our plumbers.
+B: No, that's not necessary, but thank you.
+A: As for your billing, what form of payment would you like to have?
+B: Can I pay online?
+A: Yes, that is a service we do provide for our customers.
+B: Alright, I think I'll go with that form of payment.
+

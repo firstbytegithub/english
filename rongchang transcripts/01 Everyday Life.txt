@@ -1,0 +1,337 @@
+01 Everyday Life
+
+Making Phone Calls
+1. Calling Credit Card Company
+2. Disputing a Charge
+3. Ordering Services
+4. Making Inquiries
+5. Reporting a Service Problem
+6. Asking for Credit
+7. Troubleshooting a Computer Problem
+8. Making an Appointment
+Hairdressing
+9. Making Requests
+10. Paying for the Service
+11. Making a Complaint
+Doing Laundry
+12. Time To Do Your Laundry
+13. Operating Washing Machines
+14. Fabric Softener
+Parents and Children
+15. Waking Up for School
+16. Returning a Call
+17. Meeting Teachers at School
+18. An Angry Parent
+19. Time for Bed
+20. Cleaning up the Room
+21. Caring for Puppies
+22. Cooking Dinner
+
+1
+A: Hi, I would like to know my credit balance.
+B: Of course. May I have your credit card number?
+A: Yes, it's 512879346. My name is John.
+B: Alright, John. You currently have no dues on your credit card.
+A: Really? I finally paid it off?
+B: Yes, sir. Your balance is officially zero.
+A: I must admit I am proud of myself!
+B: Is there anything else you'd like me to check, sir?
+A: Yes, can you change my card status from a college to normal account?
+B: Of course, but you'll have to come to the bank to do that.
+A: Alright, I'll be down first thing tomorrow.
+B: Sounds good, sir. Have a good day.
+
+2
+A: Hello, is this the Smith residence?
+B: Yes it is, may I ask who is calling?
+A: This is your bank calling in regards to an overcharge on your credit card.
+B: I'm sorry, there must be some mistake.
+A: It says here that you charged over $500 on it yesterday.
+B: That can't be right; I have not used it in months!
+A: Are you saying you did not make that charge?
+B: That's exactly what I am saying.
+A: Looking closer, this charge was made in a different city.
+B: I am looking for my card now and I cannot find it.
+A: This calls for further investigation.
+B: I assure you I did not make the purchase.
+
+3
+A: I'm interested in signing up for your cable service.
+B: Alright, please choose the package you'd like.
+A: Does this package get me all the movie channels?
+B: I'm afraid not. This is the basic package.
+A: How much is it for the movie channels?
+B: That package is an extra $20 a month.
+A: That's going to cost me an arm and a leg!
+B: You'll also get the premium sports channels.
+A: Well, that does sound tempting.
+B: If you sign up for our email updates, I'll give you a discount.
+A: Alright, I'll take the premium package.
+B: You've made a wonderful choice.
+
+4
+A: Hello, how may I help you today?
+B: Hi. I would like to increase my Internet data.
+A: I'll be glad to help you with that. What's your account number?
+B: I don't have my account number with me, but my phone number is 310-865-9274.
+A: Alright. I see you use our mobile service.
+B: Yes. I also have a landline.
+A: According to my file, you are eligible for an upgrade to our new service.
+B: What does this new service include?
+A: It makes the Internet connection twice as fast.
+B: That sounds perfect! Is there a price increase?
+A: Yes, that will be $5 more per month.
+B: Sign me up right away!
+
+5
+A: Hello, please connect me to Tech Support.
+B: This is Tech Support, how may I help you?
+A: I am having problems with my Internet service.
+B: What seems to be the problem?
+A: None of my wireless devices are connecting to the Wi-Fi.
+B: I see. Have you tried disconnecting and reconnecting the modem?
+A: No, how do I do that?
+B: Simply unplug the modem for fifteen seconds.
+A: Alright. I plugged it in again.
+B: Are all of the lights back on the modem?
+A: Yes, they're all green!
+B: Your devices should be able to connect easily now.
+A: Oh, they're working perfectly! Thank you!
+
+6
+A: Hello, how can I help you today?
+B: I am very upset with the quality of your service.
+A: I'm sorry, what seems to be the problem?
+B: My Internet service did not work for three days.
+A: My records say a technician visited your area yesterday?
+B: Yes, he installed a new modem.
+A: Did it solve the problem?
+B: Yes, but I was overcharged for Internet service.
+A: Sorry about that. I'll give you credit for the three days.
+B: I was sold a wireless service unavailable in my area.
+A: I see it here; we charged you $5 extra a month.
+B: Yes. Kindly return my money, please.
+
+7
+A: How may I help you?
+B: My computer is not letting me run JavaScript.
+A: That can easily be fixed.
+B: I've tried fixing it myself, but nothing worked.
+A: If you'd kindly go to our website, I'll fix the problem.
+B: I've logged in, now what?
+A: I will now access your computer from my location.
+B: Oh, I see what you are doing.
+A: That should just about fix the problem!
+B: Thank you so much! It was such an easy solution.
+A: I'm happy to help.
+B: Again, thank you and have a good day!
+
+8
+A: Hello? I'd like to schedule an appointment.
+B: Hello! What time would you like to come in?
+A: Well, I only like Jane cutting my hair.
+B: Jane comes in to work at 3 p.m. today.
+A: That sounds perfect! Sign me up.
+B: You'll be coming in for a haircut, yes?
+A: I'd also like to redo my highlights.
+B: That will be no problem. Can I have your name?
+A: My name is Sarah.
+B: Alright, Sarah, we'll be expecting you!
+A: Alright, thank you!
+B: See you soon!
+
+9
+A: Can you cut my hair a little differently this time?
+B: Sure! How would you like it cut?
+A: Well, last time it was a little too long.
+B: I see what you mean. How about a bob cut?
+A: Can you work some layers into it?
+B: Of course! It's easy.
+A: I would also like to keep some bangs.
+B: How long would you like them?
+A: Maybe down to my eyebrows?
+B: Sounds good!
+A: I trust you to make me look beautiful.
+B: Oh, trust me, you'll look gorgeous!
+
+10
+A: I love my new hairstyle!
+B: Beauty takes work!
+A: And this is your best work yet!
+B: Thank you, I'm glad you're satisfied!
+A: How much do I owe you?
+B: Well, there was the haircut, and you also got the highlights.
+A: Not to mention the lowlights.
+B: That'll be $45.
+A: Prices have sure gone up over time!
+B: Yes, but beauty is worth it!
+A: When I look this good, I guess you're right.
+B: Thank you for letting me cut your hair.
+
+11
+A: What have you done to my hair?
+B: I did exactly what you told me to do.
+A: I asked for a light trim, not for a butchering!
+B: I had to cut out all the split ends.
+A: I look like a grapefruit! My head is too round!
+B: It's a short bob, very stylish.
+A: It looks more like a bowl cut to me!
+B: It looks fantastic, don't exaggerate.
+A: I hate it! I'm not paying for this!
+B: You have to pay me for my labor!
+A: I'm never coming here ever again!
+B: Trust me, you won't be missed.
+
+12
+A: I don't have any clean laundry for tomorrow!
+B: Well, you should do your laundry then.
+A: Laundry is such a hassle!
+B: Pack the laundry bags and let's go to the Laundromat.
+A: Oh, alright. I don't have much, though.
+B: Do you have any quarters?
+A: Yes. I have enough for the washer and dryer.
+B: Alright then, let's get going.
+A: This is going to take forever.
+B: The longer you keep complaining, the longer it'll feel.
+A: I'd rather be playing video games.
+B: I'd rather you wore a clean shirt to school tomorrow.
+
+13
+A: Put your wet clothes into the dryer, please!
+B: How long should I put them in for?
+A: Put them on low heat for thirty minutes.
+B: Why low heat?
+A: If the air is too hot, the clothes will shrink.
+B: I need to wash another load of laundry.
+A: If they're colored, wash them in cold water.
+B: Does warm water make them fade?
+A: Yes. Put the detergent here, and don't use bleach.
+B: Oh, that's where to put the detergent.
+A: Don't forget to add fabric softener after the first rinse.
+B: Okay, I won't. Thanks.
+
+14
+A: Excuse me. Can I borrow your fabric softener?
+B: Of course, take as much as you need.
+A: Thank you. You're very kind.
+B: It's no problem at all.
+A: I love the subtle smell of this brand!
+B: Me too! It's not overpowering or strong.
+A: I think maybe I'll buy it for myself, too.
+B: What I like about it is that it's hypoallergenic.
+A: No kidding? That's really something.
+B: It's perfect for washing delicate clothing.
+A: Well, thank you for introducing me to this brand!
+B: Anytime, no problem!
+
+15
+A: Sarah! Hurry up and get out of bed!
+B: I can't, the blankets won't let me go.
+A: Quit being lazy and get up!
+B: No, I have to finish my awesome dream!
+A: I can't believe you turned off your alarm this morning.
+B: Why? I do it every morning.
+A: If you don't get out of bed, you'll get to school late.
+B: That's not so bad.
+A: How is it not so bad?
+B: Sleep is good for growing children.
+A: Yes, but you have a math test this morning!
+B: I completely forgot! I'm up, I'm up!
+
+16
+A: Hello, is this Mr. Smith? I'm Mrs. Jones.
+B: Hello, Mrs. Jones. Did you get my message?
+A: Yes, I did, I'm returning your call.
+B: Oh, right, of course.
+A: What's the problem? Is James in trouble?
+B: I caught him copying a classmate's test today.
+A: Oh, that child is incorrigible!
+B: I'm afraid I'll have to give him detention this time.
+A: It's alright, I understand.
+B: James certainly is strong-willed.
+A: Yes, he needs a firm hand and discipline!
+B: He's a good boy. Now if only he'd stop cheating!
+
+17
+A: Hello, Mr. Smith. It's nice to finally meet you.
+B: Likewise, Mrs. Jones. Please sit down.
+A: Is James in trouble again?
+B: Actually, no, he's not.
+A: What's the purpose of this meeting exactly?
+B: I just wanted to let you know that James is doing very well.
+A: Oh, is that right? I'm so proud!
+B: He has been staying for tutoring and his marks have skyrocketed!
+A: I always knew he had it in him!
+B: He behaves better in the classroom, too.
+A: I do believe my James is growing up!
+B: All children need to mature is motivation!
+
+18
+A: You need to try harder in school!
+B: I am doing well in school.
+A: Then why are your marks in science so low?
+B: I don't understand science, that's all.
+A: Is that the same reasoning you have for math?
+B: Yes, and English, too.
+A: Tell me one single subject you're doing well in.
+B: Well, I'm doing wonderfully in my music class.
+A: What about history?
+B: Only the parts about Woodstock.
+A: That's it! You're grounded! No guitar for a month.
+B: Great, now I'll surely have a low GPA.
+
+19
+A: Children, it's time to go to bed!
+B: But we're not sleepy yet!
+A: If you get into bed right now, I'll read you a fairytale.
+B: One with a princess and a prince?
+A: Of course, and a magical dragon, too.
+B: Why do we hear fairytales before bed?
+A: So that the magic from stories can grow while you're sleeping.
+B: What does it grow into?
+A: Why, magical dreams, of course!
+B: Please read us two tonight!
+A: Alright, but only if you sleep as soon as I'm done!
+B: We will. It's a promise!
+
+20
+A: David! Clean your room. It's filthy!
+B: It's not so bad, mom.
+A: I don't even remember what color the carpet is!
+B: It's blue, I remember.
+A: Have you no shame?
+B: What should I be ashamed of?
+A: There are clothes all over the ground!
+B: It's just easier to leave them there.
+A: Your floor is not a gigantic closet.
+B: I never said it was.
+A: Clean your room or you can't go out today.
+B: Fine, fine. I'll clean it now.
+
+21
+A: I think these puppies are hungry!
+B: They've done nothing but play all day.
+A: Do you think they're old enough to eat kibble?
+B: They're six weeks old; I think they're old enough.
+A: Look! They're digging right in!
+B: Now they're settling for a nap.
+A: Between keeping them from chewing things and cleaning, they're a hassle.
+B: Yeah, they are. But look how cute they are while asleep!
+A: Suddenly, I don't mind the chores so much.
+B: Yeah, neither do I.
+A: These puppies are truly worth it.
+B: I wouldn't lose a single minute with them.
+
+22
+A: What's for dinner?
+B: I should be asking you that.
+A: What? Why do you say that?
+B: You're old enough to cook dinner.
+A: Are you saying it's my turn now?
+B: Actually, that's exactly what I'm saying.
+A: What would you like to eat, then?
+B: I'm craving some spaghetti, bread, and even a salad.
+A: Frozen pizza it is, then!
+B: You are so lazy! Can you even cook?
+A: Of course I can cook! I choose not to.
+B: You're having hot pockets for dinner tomorrow.

@@ -1,0 +1,257 @@
+06 Foods
+
+1. Where to Buy Food 
+2. How to Cook a Meal
+3. Breakfast
+4. Lunch
+5. Dinner
+6. Drinks
+7. Fruits
+8. Salads
+9. Desserts
+10. Meat
+11. Snacks
+12. Vegetables
+13. Nutrition of Foods
+14. Ordering Fast Food (1)
+15. Ordering Fast Food (2)
+16. Using Coupons
+17. At the Market
+
+1
+A: I'm starving!
+B: Me too. Let's get something to eat.
+A: What would you like?
+B: I know! Let's go down to the Farmer's Market.
+A: What do they sell to eat there?
+B: Only the best produce in the city!
+A: What makes it so great?
+B: Well it's all organically grown.
+A: Can't we just go to the supermarket?
+B: No way! Those vegetables don't compare at all!
+A: I don't feel like cooking. Let's get burgers.
+B: Fine, let's get some burgers.
+
+2
+A: Can you make dinner for your sister tonight?
+B: Aw, she only eats macaroni and cheese!
+A: What's the problem?
+B: I don't know how to make it.
+A: It's super easy, just follow the box instructions.
+B: We're all out of instant macaroni and cheese.
+A: Well, make it from scratch, then.
+B: How do I do that?!
+A: Just cook the pasta, and mix it in cheese, milk, and butter.
+B: It can't be that easy.
+A: Cooking isn't hard at all. You can do it.
+B: If I accidentally burn the house down, it's not my fault.
+
+3
+A: Did you book the hotel for the trip?
+B: Yes and it comes with something extra!
+A: What would that be, exactly?
+B: Continental breakfast every morning!
+A: Wow! Do you think they serve pancakes?
+B: Oh, with syrup and fresh fruit.
+A: You can't forget the whipped cream!
+B: And freshly brewed coffee!
+A: I can't wait to see it all!
+B: I think I'm more excited for breakfast than the trip.
+A: Well, breakfast is the most important meal of the day.
+B: That's very true.
+
+4
+A: What are we having for lunch?
+B: I'm making some sandwiches.
+A: Can I make some lemonade to drink?
+B: Sure! That'd be great.
+A: We just ate breakfast, but I'm already hungry.
+B: Me too! It's amazing how hungry I get so soon!
+A: I'm really looking forward to those sandwiches.
+B: I just realized we're out of bread!
+A: I guess lunch will have to be delayed.
+B: Can you please go to the store and buy some?
+A: Sure! Don't drink all the lemonade!
+B: I won't! Come back soon. I'm starving!
+
+5
+A: Have you decided what you're going to order?
+B: I think I want to eat a steak today.
+A: That sounds delicious!
+B: I've been craving one all day.
+A: You're making me crave one now!
+B: Well, we might as well order the steak now.
+A: Actually, I change my mind.
+B: What are you having?
+A: Shrimp pasta, it looks delicious.
+B: Do you mind if I try some of that?
+A: Only if you give me some steak!
+B: Alright, it's perfect, thanks!
+
+6
+A: I'm so thirsty!
+B: You might want to buy something refreshing.
+A: I think I'd like a hibiscus tea.
+B: It is kind of hot, isn't it?
+A: Yes, it is. What'll you get?
+B: Same as yours.
+A: Awesome, we match!
+B: Yeah, I guess we do!
+A: Place the order. I'll spot you the money.
+B: In that case, I want the biggest size.
+A: Don't bite the hand that feeds you!
+B: I was only kidding!
+
+7
+A: Why are you eating another apple?
+B: You know what they say about apples!
+A: No, I'm afraid I don't know.
+B: An apple a day keeps the doctor away!
+A: Especially if you throw it at him.
+B: You should eat fruit; it's good for you.
+A: I do eat fruit: just not as often as you do.
+B: Eating healthy is wonderful!
+A: I don't doubt it, but I still want pizza for lunch.
+B: Only if you eat an apple, too.
+A: Alright, I'll also eat an apple.
+B: That's the spirit! You're healthier already.
+
+8
+A: What is that you're eating?
+B: It's a house salad.
+A: What order are you waiting for?
+B: Oh, I'm not waiting for an order to come.
+A: You mean that's all the lunch you're having?
+B: Yes, this is my lunch today.
+A: Are you on a diet?
+B: No, I just felt like eating a salad.
+A: It's only got lettuce!
+B: No. It has cucumbers and carrots, too.
+A: What's that on the top?
+B: Steamed chicken. It's delicious!
+
+9
+A: What do you think I should get for dessert?
+B: I don't know, look at the menu.
+A: Wow! They have icecream, pies, cakes.
+B: It looks like a great selection!
+A: I don't know what to get!
+B: It's kind of hot out. Maybe icecream would be good.
+A: Icecream sounds fantastic!
+B: How about we go to the icecream parlor down the street?
+A: That sounds good to me! Let's go.
+B: That pecan pie is calling my name, though.
+A: Answer to icecream's call only!
+B: You're right! Let's go!
+
+10
+A: What kind of meat are you buying?
+B: I'm just buying some pork shoulders.
+A: Why did you make them cut it in half?
+B: It's tenderer if you do it that way.
+A: Do you need anything else?
+B: Yes, I need some tenderloin pieces.
+A: You sure are buying a lot of meat.
+B: Meat makes you strong!
+A: And it also tastes amazing!
+B: Would you like to come over for dinner?
+A: Sure! I'd like to see how well you cook.
+B: Alright! You'll find it delicious!
+
+11
+A: Throw away those potato chips!
+B: What's so bad about potato chips?
+A: They'll rot your insides!
+B: Oh, they're not so bad.
+A: You should eat a different snack.
+B: I think I'll have some frozen yogurt.
+A: That is a much better snack!
+B: I'd still like to eat potato chips though.
+A: You had some yesterday.
+B: I don't eat them very often.
+A: You can have them later.
+B: I guess that sounds pretty fair.
+
+12
+A: Can you cut the vegetables, please?
+B: How do you want me to cut them?
+A: Cut the potatoes into big chunks.
+B: What about the carrots?
+A: Those you can cut in rounds.
+B: Do I do the same to the celery?
+A: No, you can cut that into strips.
+B: There are so many ways to cut these things!
+A: Yes, there really are!
+B: Can I cut the zucchini into rounds?
+A: That's what I was going to ask you to do.
+B: Great! I'll get started now.
+
+13
+A: You really need a more balanced diet!
+B: It's fine. I eat three times a day.
+A: All three times and all you eat is fatty foods.
+B: I'm not always eating junk food!
+A: Not junk food, just fatty and oily food!
+B: Try to eat equal amounts of meat and vegetables.
+A: Why should I measure the portions that way?
+B: You need to eat enough protein and vitamins!
+A: Yeah, I'll take your advice.
+B: You'll feel much healthier.
+A: I believe you. Thanks for the advice!
+
+14
+A: Hi! Can I get a pizza slice, please?
+B: Sure, is there anything else you'd like?
+A: I'll also take that bag of chips.
+B: What size drink would you like?
+A: A medium soft drink, please.
+B: Alright, you can go fill it at the fountain.
+A: Can I also buy this banana, please?
+B: Certainly. Will that be all?
+A: Yes, that's all! What is my total?
+B: Your total is $12.36.
+A: Thank you! Have a nice day.
+B: Thank you, you too.
+
+15
+A: Where do I go to get my food?
+B: Just walk around and pick what you want.
+A: I'll take a sandwich and a pear.
+B: I think I'll have the same.
+A: What are you getting to drink?
+B: I'll just have water.
+A: Where do we pay for all of this?
+B: Carry your tray to the cash register.
+A: This reminds me of the school lunch line.
+B: Well, it does work the same way.
+A: Don't forget to grab napkins!
+B: Thanks for reminding me!
+
+16
+A: What are you carrying?
+B: It's a newspaper with coupons.
+A: Why do you keep looking at it?
+B: I'm buying the fruit that is not on sale at Ralphs.
+A: Is it on sale here?
+B: No, but it's a bit cheaper.
+A: Why is it cheaper?
+B: It's a town supermarket, not a big chain.
+A: Look! Milk prices rose.
+B: Lucky for me. I have a coupon for Super Foods.
+A: I have to start couponing, too.
+B: You sure save a lot of money!
+
+17
+A: I can't find the jasmine rice!
+B: Isn't it in the rice section?
+A: No, they don't have it there.
+B: Let's check again. Is it this one?
+A: No, that's short grain white rice.
+B: What about this one? It's longer.
+A: No, that's brown rice.
+B: How are we supposed to find jasmine rice?
+A: Oh, I see more rice in another isle.
+B: I found it in the international section.
+A: I find it funny that Americans think this rice is exotic!
+B: Me, too! But Americans call everything different exotic.
+

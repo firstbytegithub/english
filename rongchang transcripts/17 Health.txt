@@ -1,0 +1,379 @@
+17 Health
+
+1. Health Insurance
+2. A Medical Emergency
+3. Going to an Emergency Room
+4. A Stomachache
+5. A Toothache
+6. Buying Over-the-Counter Medicine
+7. Filling Prescription
+8. Calling about Test Results
+9. Calling in Sick
+10. Discussing Test Results
+11. Changing an Appointment Time
+12. Going Home Early Because Of Being Ill
+13. Having a Blood Test in the Lab
+14. Having a Cold
+15. Making a Doctor's Appointment
+16. Blood Pressure
+17. Not Feeling Well
+18. Physical Check-up
+19. Seeing a Doctor in an Emergency
+20. Taking an X-Ray
+21. Seeing the Doctor
+22. Asking the Doctor Questions
+23. Taking a Urine Sample
+24. How to Stay Healthy
+25. Prescribing Medicine
+
+1
+A:I don't understand how health insurance works in the U.S.
+B: Do you have health insurance through your job?
+A: I'm a part-time employee, so that is not part of my benefits package.
+B: You can buy health insurance based on your income.
+A: How exactly does that work?
+B: If you go to healthcare.gov, you can see what plans you are eligible for.
+A: Then what happens?
+B: You pay a fee every month and choose a primary care doctor from your plan.
+A: What is a primary care doctor?
+B: A primary care doctor is the doctor you visit when you have a headache or for regular check-ups.
+A: Do I go to my primary care doctor in an emergency?
+B: No, in an emergency, you just go to the closest emergency room.
+
+2
+A: This is 911. What is your emergency?
+B: I think my wife just had a stroke or a heart attack.
+A: Can you describe her symptoms?
+B: She is unconscious but breathing. She won't wake up.
+A: We are sending an ambulance right now.
+B: How do you know my address?
+A: We can track it down through our phone system.
+B: How long will it take for the ambulance to get here?
+A: It should be there in less than five minutes, sir.
+B: I think I hear the ambulance coming now.
+A: Please let the paramedics in so they can take your wife to the nearest hospital.
+B: Thank you. I'll open the door.
+
+3
+A: I cut myself pretty badly with a knife. I think I need stitches.
+B: Come inside so the triage nurse can stop the bleeding.
+A: I was just preparing dinner and my hand slipped.
+B: This cut does need stitches, but I stopped the bleeding for now.
+A: Will you give me stitches right now?
+B: No, since the bleeding has stopped you have to wait in the Emergency Room waiting area.
+A: What do I do while waiting?
+B: Fill out these registration forms.
+A: When will I get my hand stitched up?
+B: Here in the ER we take care of people based on how bad their injury is.
+A: I was here before many of these other people.
+B: Some of them are in worse shape than you.
+
+4
+A: I woke up with the worse stomachache.
+B: Did you try going to the bathroom?
+A: I went to the bathroom, but that didn't make the pain go away.
+B: Did you eat anything strange last night? Maybe you have food poisoning.
+A: No. Because then I would be vomiting.
+B: Where exactly is the pain?
+A: It hurts here on my right side.
+B: That's where it hurt when I had to get my appendix taken out.
+A: It's probably just gas.
+B: Did you take any medication?
+A: I took an antacid an hour ago.
+B: It should have worked by now. This could be serious.
+
+5
+A: Why are you holding your mouth?
+B: I think I cracked a tooth. It hurts so much.
+A: Did you look in the mirror?
+B: No, but I can feel a sharp pain when my tongue touches my molars.
+A: That sort of thing can be infected easily.
+B: So what should I do?
+A: You should find an emergency dentist.
+B: That is going to cost so much money.
+A: Yeah, but it's better than being in pain.
+B: Do you think they'll have to pull the tooth?
+A: Maybe they just have to seal it up.
+B: Get me the yellow pages so I can find a nearby emergency dentist.
+
+6
+A: I have a really bad headache. What do you recommend?
+B: You can purchase some over-the-counter pain relievers in aisle 6.
+A: Do I need a prescription for those?
+B: No. You just pick whichever brand your prefer and pay for it at the register.
+A: There are so many choices.
+B: If you read the labels, you can pick the one that is best for you.
+A: Is there a difference between the name brand pills and the store brand pills?
+B: Usually there isn't. Just compare the labels and look for active ingredients.
+A: The store brand is less expensive.
+B: Usually it is just as effective.
+A: I sure hope so because I want to save money and not have a headache.
+B: I think you can achieve both things.
+
+7
+A: My doctor gave me this prescription.
+B: Can I have the paper and your insurance card?
+A: How long will this take to be filled?
+B: We can have this filled within an hour.
+A: Is there any way to fill it faster? I'm in so much pain.
+B: Unfortunately there are other prescriptions to fill.
+A: What am I supposed to do for the hour?
+B: We can call you when the prescription is ready.
+A: So I can go home and take a nap.
+B: Just leave your number here at the pharmacy and we'll call you.
+A: Can I send someone else to pick up the prescription?
+B: Your medication is a controlled substance so the person needs to be over 18.
+
+8
+A: I'm calling to see if the results of some tests I took are in?
+B: I can check for you. Can I have your name, please?
+A: Sure, my name is Willie Foster.
+B: Mr. Foster, your doctor is Dr. Edwards?
+A: Yes, that's right.
+B: Can you tell me when the tests were taken?
+A: I was there last week.
+B: I see your results are in, Mr. Foster.
+A: Great! Can you read them to me?
+B: Actually I cannot. You need to come in and see the doctor.
+A: Are they that bad? Am I dying?
+B: Sir, I'm just the receptionist. Why don't you come and speak to Dr. Edwards?
+
+9
+A: Hello, this is Isabel Foster.
+B: Hi, Isabel. Why are you calling? You can just come to my office.
+A: I'm actually not in the office right now.
+B: You aren't? Well, why not? Is everything okay?
+A: Actually everything is not okay. I'm pretty sick.
+B: I'm sorry to hear that.
+A: I'm not going to make it into the office today.
+B: There's no way you can come in, just finish that report?
+A: If I come in, I may give everyone what I have.
+B: Well, what do you have?
+A: I have a really bad stomach flu.
+B: Eww yeah, in that case, stay home.
+
+10
+A: What brings you into my examination room today?
+B: I'm here because your receptionist told me I needed to come in to discuss my test results.
+A: Well, let me take a look at your file.
+B: The receptionist made me nervous when she wouldn't tell me the results over the phone.
+A: Legally she can't tell you the results.
+B: So is it bad, doctor?
+A: Your cholesterol is a little high.
+B: Does that mean I'm going to die.
+A: Let's not exaggerate.
+B; I'm going to be okay?
+A: If you change your diet and exercise more, you will be fine.
+B: I will do whatever it takes to be healthy.
+
+11
+A: I'm calling because I need to reschedule my appointment.
+B: What was the original appointment date and time?
+A: I am supposed to come in on Thursday at 10 in the morning.
+B: Are you Tina Williams?
+A: That's me.
+B: When would you like to reschedule the appointment for?
+A: Can Dr. Harris see me next Tuesday at 10?
+B: He doesn't have an opening that day until noon.
+A: I'll have to come on my lunch break then.
+B: So shall I give you that appointment time?
+A: Yeah, put me down for that time.
+B: Just let us know 24 hours in advance if you need to cancel or reschedule.
+
+12
+A: Can I have a minute?
+B: What is going on?
+A: I'm really not feeling very well this afternoon.
+B: Oh, I'm so sorry to hear that.
+A: Do you think I can leave the office early?
+B: Well, I have some medication here on my desk.
+A: I already took some pills and they really aren't helping.
+B: It's just that we have the report due today.
+A: I already gave Dennis what I have so far.
+B: He knows how to finish it?
+A: I emailed him detailed instructions.
+B: All right, go home then, but leave your phone on so we can call you if we have questions.
+
+13
+A: I'm here to have some blood tests done.
+B: We take all the samples in the back room, so please follow me.
+A: I usually have blood taken at the doctor's office.
+B: More and more doctors are outsourcing that to private labs now.
+A: It's kind of pain because I have to make another appointment to go somewhere else.
+B: I understand, but we are professionals.
+A: So you won't mind if I scream when you take blood?
+B: Are you a screamer?
+A: Sometimes I even faint.
+B: I have a very gentle touch.
+A: I'm going to close my eyes.
+B: Well, first you need to fill out these forms.
+
+14
+A: I'm so sick of being sick.
+B: Have you been taking any medicine?
+A: I have taken every over-the-counter medicine in the pharmacy.
+B: Maybe you need a prescription for an antibiotic.
+A: I went to the doctor, and he says it's viral so no antibiotic will help.
+B: Have you tried any home remedies?
+A: What do you suggest?
+B: You can try sitting in the bathroom with the shower running so it's all steamy.
+A: What will that do?
+B: It will help with the congestion.
+A: Yeah, but I can't sit in the bathroom all day.
+B: Do it in the morning and before you go to bed.
+
+15
+A: I need to make an appointment to see Dr. Taylor.
+B: Are you already a patient of Dr. Taylor?
+A: No, this is the first time I've been seeing him.
+B: What kind of appointment is this?
+A: It's for my annual physical.
+B: Can you tell me what insurance you have?
+A: I have Blue Cross.
+B: The earliest appointment I can give you is Wednesday, September 3 at 10 in the morning.
+A: That works for me.
+B: Please bring in your health insurance cards when you come in on that day.
+A: Will you send me a reminder in the mail?
+B: If you give us your phone number, we will remind you the day before.
+
+16
+A: Your blood pressure is very high.
+B: What does high blood pressure mean?
+A: High blood pressure or hypertension means that there is a lot of pressure on your arteries.
+B: That doesn't sound very good.
+A: It isn't very good because it means you are at higher risk to develop heart disease.
+B: I feel fine, though.
+A: High blood pressure is called a silent killer.
+B: What causes high blood pressure?
+A: It could be the sign of some other diseases.
+B: I am already taking medication.
+A: You should tell me the medications you are taking because some meds cause high blood pressure.
+B: I'd better change my lifestyle.
+
+17
+A: Wow, you really look terrible.
+B: Thanks a lot. I really feel awful.
+A: I'm a nurse ,so you should tell me your symptoms.
+B: Well, to begin with, my whole body aches.
+A: Have you taken your temperature to see if you have a fever?
+B: I have, and I'm running a slight fever.
+A: Sounds like you may have the flu.
+B: That's impossible because I got my flu shot.
+A: You can still get the flu even if you get vaccinated.
+B: Well, that makes getting the vaccine pointless.
+A: Not really, because you will probably get over it quickly.
+B: I'm going to make some tea and lie down.
+
+18
+A: What brings you in to see me today?
+B: I'm here for my annual check-up.
+A: Well, the nurse already took your blood pressure and she said it looks a little high.
+B: That could be related to my thyroid medication.
+A: That could be it. Let me listen to your heartbeat.
+B: Does it sound good, doctor?
+A: Sounds nice and strong to me.
+B: I am concerned about some pain I've been having in my knee.
+A: Are you very physically active?
+B: I'm training to run the marathon.
+A: That puts a lot of pressure on your knees.
+B: I hope I don't have to stop training.
+
+19
+A: Help! I need the doctor immediately.
+B: What is the problem, sir?
+A: I think my wife had a stroke.
+B: What symptoms does she have?
+A: Look at her! She is awake, but in a catatonic state.
+B: How long has she been like this?
+A: She's been like this since this morning.
+B: She should be taken to the hospital.
+A: But this is the doctor's office. You can't help her?
+B: She needs to see an emergency specialist.
+A: What can you do for her?
+B: We are going to have her transferred to the nearest hospital.
+
+20
+A: We think your leg may be broken.
+B: How will you know for sure?
+A: We're going to take you to Radiology to get it x-rayed now.
+B: Will the x-ray hurt?
+A: It's a pain free procedure that allows us to take a picture of your bones.
+B: Are there any side effects associated with taking an x-ray?
+A: Diagnostic x-rays are safe as long as they are not overused.
+B: I've never had an x-ray in my entire life.
+A: Then you should be fine.
+B: Can someone be in the room with me?
+A: Someone can be in the room with you, but not next to you during the x-ray.
+B: Please go get my wife then.
+
+21
+A: I'm so glad you could squeeze me into your schedule today, doctor.
+B: Sure, what seems to be the problem?
+A: I was in a small car accident last month, but only recently noticed some neck pain.
+B: Is there any bruising?
+A: Not that I can see.
+B: Show me where the pain is.
+A: The pain feels like a sharp stabbing followed by a dull throbbing.
+B: I don't see bruising, but there could be nerve damage.
+A: So what do I do next?
+B: I'm going to refer you to a nerve specialist.
+A: Do you think I can sue?
+B: Is that what this is all about?
+
+22
+A: Doctor, I have a few questions I would like to ask.
+B: I'd be happy to answer your questions.
+A: Based on my test results, do you think I should be taking a multi-vitamin?
+B: Your levels are all within the normal range, so just eat vitamin rich food.
+A: I am trying to get pregnant.
+B: Then you should take a pre-natal vitamin.
+A: Those are expensive.
+B: An alternative would be to eat food enriched with Folic Acid.
+A: What foods are enriched with Folic Acid?
+B: Some cereals and breads now are enriched with Folic Acid.
+A: What if I'm staying away from grains?
+B: Then you should take a vitamin with Folic Acid.
+
+23
+A: In order to check for an infection, we are going to need a urine sample.
+B: How does that work?
+A: Take this little cup, and pee in it.
+B: Do I have to fill the whole cup?
+A: If you fill it half way, it will be fine.
+B: What do I do with the cup?
+A: Put it in the plastic bag and leave it on the tray in the bathroom.
+B: No one else will take my sample?
+A: The nurse will take it when you leave the bathroom.
+B: I'm glad I drank some water while I was in the waiting room.
+A: We would have given you water and waited until you need to use the bathroom.
+B: You don't need to wait because I'm ready to use the bathroom now.
+
+24
+A: Do you have any tips on how to stay healthy?
+B: How do you think I got to look this good at my age?
+A: Let me guess, you drink a lot of water?
+B: I drink at least eight glasses a day.
+A: I bet you exercise every day, too.
+B: I try, at the very least, to walk 20 minutes a day.
+A: I didn't think walking was good exercise.
+B: Walking briskly is great exercise.
+A: What about eating habits?
+B: Try to eat as much non-processed stuff as possible.
+A: What do you mean non-processed?
+B: If it's in a can, a bag, or a box it's probably processed.
+
+25
+A: I saw a commercial about a heart medication.
+B: You don't have any heart problems.
+A: I know, but the ad suggested I ask my doctor if that medication was right for me.
+B: As your doctor, I can tell you that you don't need any heart medication.
+A: Okay, what about this medication that has the commercial with the couple in the bathtub?
+B: What about it?
+A: Can you prescribe that to me?
+B: The only thing I am prescribing you is an antibiotic for your strep throat.
+A: What do I do with this piece of paper?
+B: Take it to the pharmacy, and the pharmacist will give you the antibiotic.
+A: What if it doesn't work?
+B: Come back to see me again.
+
+

@@ -1,0 +1,233 @@
+24 At a Restaurant
+
+1. Choosing a Good Restaurant
+2. Making a Reservation
+3. Being seated at the Restaurant
+4. Ordering Drinks
+5. Ordering Appetizers
+6. Ordering Main Entree
+7. Ordering Dessert
+8. A mistake by the Waitress
+9. Making Positive Comments on Food
+10. Making Negative Comments on Food
+11. Good Tips for Good Service
+12. Little Tips for Bad Service
+13. Talking Positively about a Restaurant
+14. Talking Negative about a Restaurant
+15. At a Fast Food Restaurant
+
+1
+A: Are you ready for dinner?
+B: I sure am. Where are we going?
+A: I thought we could try the new Italian place.
+B: Oh, that's so heavy.
+A: That's never bothered you before.
+B: I know. The food is good, but it's a ton of carbs, and calories.
+A: But very tasty.
+B: We should try eating healthier.
+A: So what do you suggest?
+B: How about the Thai Hut?
+A: You know I like that place, too. So what's the difference.
+B: It's just not as heavy. Let's go there, okay?
+
+2
+A: Are you having dinner with us tonight?
+B: Yes I am. I'll be out of work soon.
+A: Okay, I'm thinking of the Pasta House.
+B: Oh, that place gets crowded. Maybe we should make reservations.
+A: That's a good idea. We waited an hour the last time.
+B: Yes. It is best to do that first.
+A: What time should we set the reservation for?
+B: Well, I'll be home by 6 o'clock.
+A: Okay, I'll make the call. I'll let you know.
+B: That's great, thanks. I hoped they're not booked.
+A: We should be able to get a table. I'll call right now.
+B: Don't worry about the time. We can eat later if we have to.
+
+3
+A: Welcome to the Silver Wok. How can I help you?
+B: Hello, I was hoping you have a table.
+A: We should be okay. How many guests?
+B: It's a birthday dinner. We have 12 guests.
+A: Oh, let me check if I have room for you. Your name, please.
+B: I'm Mr. Johnson. I would appreciate it.
+A: Okay, Mr. Johnson. I will have a table soon.
+B: Oh, that's wonderful.
+A: It's near the back. Is that okay?
+B: Yes, I suppose it is. I was hoping for window seating though.
+A: I can accommodate you, but it will take a little more time, sir.
+B: That's okay. We'll wait.
+
+4
+A: Good Evening. I am Joseph, and I'll be your waiter tonight.
+B: Hello, Joseph.
+A: Can I start you off with some refreshments?
+B: Yes, you can. I'll take a Long Island Iced Tea.
+A: And for the lady?
+B: She will have a vodka martini.
+A: Those are excellent choices. How about the kids?
+B: They will take regular iced teas.
+A: Will there be anything else?
+B: Yes, as a matter of fact. Can you bring me a beer chaser?
+A: Certainly. What kind of beer would you like?
+B: I want something imported. How about something from Mexico?
+
+5
+A: Now that you have your beverages, can I offer you some appetizers?
+B: Yes, that sounds good. What do you have?
+A: We have a wide selection of tempting appetizers.
+B: May I see a menu, please?
+A: Certainly. It's on the regular menu under "Appetizers."
+B: Can you recommend something?
+A: Of course. The potato skins are very popular.
+B: Hmmm. I don't like potatoes much. What else you got?
+A: How about some stuffed mushrooms, or fried zucchini?
+B: That sounds better, but I'm still not sold.
+A: We have an appetizer platter that includes all our selections.
+B: That sounds excellent. Let's have it.
+
+6
+A: Are you ready to order?
+B: Yes, I think we are, thank you.
+A: Okay, what can I get you?
+B: I like the look of that plate on the next table.
+A: Oh yes, sir. That's our seafood platter.
+B: What does it come with?
+A: Fried white fish, shrimp, and scallops, along with fries, and vegetables.
+B: Does it come with a salad?
+A: Of course. It comes with the soup of the day, and a green salad.
+B: What's the soup of the day.
+A: Today's soup is clam chowder.
+B: Is that New England, or Manhattan style?
+A: It is the creamy-white, New England style.
+B: Oh, that's my favorite. I'll take the soup.
+
+7
+A: Waiter!
+B: Yes, sir. How can I help you?
+A: That was an excellent meal, but we could not finish.
+B: Would you like a doggy-bag to take your leftovers home?
+A: Yes, please. We would.
+B: And did you leave enough room for dessert?
+A: Dessert? Why yes, I think so.
+B: Here is our dessert menu.
+A: Do you have a house specialty?
+B: Yes, we do. It's the apple pie a la mode.
+A: That sounds good. What kind of ice cream do you have?
+B: Vanilla, French vanilla, chocolate, and strawberry.
+A: I'll take the pie a la mode, but put the ice cream on the side, not on top.
+B: Excellent choice! Okay, ice cream on the side.
+
+8
+A: Here comes our food. I'm so hungry. It looks delicious.
+B: Here's your order.
+A: Excuse me, but I don't think this order is correct.
+B: Really? What did you order?
+A: I ordered the fried chicken. This is grilled.
+B: Let me check. Oh yes, you did order the fried chicken.
+A: Yes, I did. Thank you.
+B: Not to worry. I'll get your order out in no time.
+A: Please do. Two of us would like to eat at the same time.
+B: If you like, I can keep your plate warm while preparing her meal.
+
+9
+A: Honey, this steak looks delicious.
+B: Yes, it does, Michael. It has a nice color.
+A: Yum, and it's perfectly cooked.
+B: It looks a bit rare. How did you order it?
+A: Medium-rare, as always.
+B: That looks rare to me, dear.
+A: It might be a bit pink on the inside, but I don't care. This is delicious.
+B: That's all that matters, dear.
+A: I have to tell the waiter to send my compliments to the chef.
+B: That would be a nice gesture.
+A: The baked potato is also very tasty.
+B: Well, make sure you tell the chef that also.
+
+10
+A: Here's your dinner, folks. Enjoy!
+B: Thank you. This looks delicious.
+A: You're welcome.
+B: Excuse me.
+A: Yes, how can I help you?
+B: This salmon steak tastes a little funny.
+A: Funny? In what way?
+B: I don't know for sure, but, I think it might be spoiled.
+A: Not to worry. We will bring you a new steak.
+B: Yes, please do. This one turned my stomach.
+A: Oh, no. Are you okay?
+B: I think so, but I'm not in the mood for dinner now.
+A: That's perfectly alright. We will refund your money.
+
+11
+A: That was an excellent meal. Don't you think so, Judy?
+B: Absolutely! I especially liked the dessert.
+A: Yes, me too. That chocolate cake was delicious.
+B: Here comes our waitress.
+A: Hello again, and thank you. That was very good.
+B: Yes, the dessert was delicious.
+A: I would like the bill, please.
+B: Her service and attitude were good also. How much are you tipping her?
+A: You're right about the service. I think 20 percent.
+B: Twenty percent? That's a bit high, isn't it?
+A: I know, but the food was good, and the service was excellent.
+B: You're right, dear. She deserves it.
+
+12
+A: Wow! Our order is sure taking long.
+B: Yes, it is. It's been nearly 45 minutes now.
+A: Well, maybe they're just very busy.
+B: I don't know, dear. I was watching our waiter.
+A: What did you see?
+B: He actually handed in orders for two tables before us.
+A: You mean after he took our order.
+B: Yes. He was goofing off. I could see him from here.
+A: How do you know he did this.
+B: Like I said, I was watching. He forgot our order.
+A: That's terrible.
+B: Yes, well he's not going to get a good tip from me.
+
+13
+A: Have you heard of the new burger place down the street?
+B: Yes, I have. Have you tried it yet?
+A: It's the bomb. The burgers are so good.
+B: Is it expensive?
+A: Not really. Not more than most places.
+B: What do you like about it?
+A: The food is great, and the waitresses bring you food on roller skates.
+B: That's like those old-time drive-in places.
+A: Yes, it is. Like in the ‘50s.
+B: Wow, I got to go there soon.
+A: I would highly recommend it.
+B: Thanks. I'll definite go.
+
+14
+A: I just came back from eating at the new steak place.
+B: Oh, I've been wanting to go there. How was it?
+A: Don't bother going.
+B: Really? Why?
+A: It was terrible. The food was cold, and the service sucked.
+B: Oh, no. I was looking forward to trying it out.
+A: Like I said, don't bother.
+B: I mean, how bad was the food?
+A: It was awful. They got my order wrong, and it was cold.
+B: Well, maybe it was just an isolated incident.
+A: I don't think so. I spoke to other diners, and they were disappointed, too.
+B: I guess that means I have to find another place.
+
+15
+A: So what are you ordering?
+B: I'm not sure. I like their burgers.
+A: Yeah, me too. Have you tried their fish sandwich?
+B: Yuck. Yes, I have. I didn't like it.
+A: Really? Why not?
+B: It was too greasy. I think I'll get the No. 2 instead.
+A: What's that?
+B: That's their bacon burger special.
+A: Is it good?
+B: It's very tasty. They use thick bacon.
+A: Oh, good. Other places use paper-thin bacon.
+B: I think I like think bacon better.
+
+
+	

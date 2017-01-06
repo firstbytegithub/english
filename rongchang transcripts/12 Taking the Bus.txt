@@ -1,0 +1,523 @@
+12 Taking the Bus
+
+1. Which Bus to Take (1)
+2. Which Bus to Take (2)
+3. Taking the Bus for the First Time
+4. Paying the Bus Fare
+5. Asking for a Transfer (1)
+6. Asking for a Transfer (2)
+7. Where to Get Off (1)
+8. Where to Get Off (2)
+9. Complaining about a Late Bus (1)
+10. Complaining about a Late bus (2)
+11. Getting Off Too Early (1)
+12. Getting Off Too Early (2)
+13. How to Buy a Pass (1)
+14. How to Buy a Pass (2)
+15. How to Buy a Pass (3)
+16. Missing the Bus Stop (1)
+17. Missing the Bus Stop (2)
+18. On the Wrong Bus (1)
+19. On the Wrong Bus (2)
+20. Student Discount (1)
+21. Student Discount (2)
+22. Talking on the Bus (1)
+23. Talking on the Bus (2)
+24. The Bus System (1)
+25. The Bus System (2)
+26. Why to Buy a Pass (1)
+27. Why to Buy a Pass (2)
+28. Where to Buy a Pass (1)
+29. Where to Buy a Pass (2)
+30. Where to Take the Bus (1)
+31. Where to Take the Bus (2)
+32. Where to Change the Bus (1)
+33. Where to Change the Bus (2)
+
+1
+A: You seem a little lost.
+B: I actually am lost. How could you tell?
+A: The look on your face said it all.
+B: Maybe you could help me.
+A: I'd be happy to help.
+B: I'm not sure what bus I'm supposed to take.
+A: What's your destination?
+B: I'm heading to Westwood.
+A: I've been there several times by bus.
+B: You have? What bus did you take?
+A: The Line 720 takes you directly there.
+B: Where is the stop for that bus?
+A: Right at the corner over there.
+B: Thank you very much.
+
+2
+A: Excuse me, sir. Care to help me?
+B: What can I do for you?
+A: I'm trying to make way back home, and I'm not sure what bus to take.
+B: Where do you live?
+A: I live in the city of Bell.
+B: I've never heard of that city.
+A: I'm not surprised you haven't. It's not a big city.
+B: What are the surrounding cities?
+A: They're Maywood, Huntington Park, and Downey.
+B: I'm familiar with the city of Downey.
+A: Would you know how to get there by bus?
+B: Yes. Take 764 bus northbound.
+A: Thank you. I'll find my home from there.
+B: You're welcome. Good luck, and take care.
+
+3
+A: I've never taken the bus before.
+B: This is your first time? Wow, that's surprising.
+A: How is it surprising?
+B: I've just never met anyone who hasn't taken the bus before.
+A: Well, now you could say you have.
+B: Why are you finally taking the bus for the first time?
+A: I figured it would be a good way to save money.
+B: That's for sure considering the price of gas nowadays.
+A: No kidding. Listen, I have a few questions about taking the bus.
+B: What are they? I'm sure I could answer them for you.
+A: I was wondering how often the buses pass by.
+B: They usually pass by every thirty minutes, but it could vary.
+
+4
+A: Hello, bus driver. How are you doing today?
+B: Good afternoon. I'm doing just fine.
+A: This is my first time taking the bus.
+B: Is that so? I hope you have enough change for the bus fare.
+A: Yes, I do. Don't you worry about a thing.
+B: That's good. Just put your money into the machine and take a seat.
+A: It's one dollar and fifty cents for the fare, correct?
+B: Yes, that's correct.
+A: Thank you. There you are. I told you I had enough.
+B: Thank you, you're fine to sit down now.
+A: Is there anywhere I can't sit?
+B: The front seats hold priority for the elderly and disabled.
+
+5
+A: I'm trying to get to the city of Lakewood. Does this bus take me there?
+B: No, I'm sorry. You're going to have to make a transfer.
+A: Can't I simply get on another bus?
+B: You could, but you would have to pay again.
+A: I don't think I want to pay again.
+B: Especially when a transfer is free.
+A: How do I get a transfer?
+B: All you have to do is approach the bus driver and ask for one.
+A: Alright, I will do that right now. Thanks for the help.
+B: Have a safe bus ride.
+
+6
+A: Excuse me. I would like to get a transfer.
+B: Do you have your day pass with you?
+A: It's a month pass. Is that okay?
+B: Yes, that's fine. Please scan your pass on the machine.
+A: Did it scan?
+B: Yes it did. Alright, it's going to cost one dollar for the transfer.
+A: I'm sorry. I don't think I have enough for the transfer.
+B: Is this your first time getting a transfer?
+A: Yes, it is. I thought transfers were free.
+B: I'll let it pass since it's your first time.
+A: Thank you so much. It won't happen again.
+B: Don't mention it. Just be prepared the next time.
+
+7
+A: What's wrong? You seem unsure about something.
+B: I'm unsure of where to get off the bus.
+A: Where are you coming from?
+B: I got on the bus in Pasadena.
+A: Where are you heading to?
+B: I'm trying to go downtown.
+A: I could tell you where to get off.
+B: You can? That would be very nice of you. Thank you.
+A: I'm happy to help a stranger anytime.
+B: What's the street that I should get off on?
+A: You're going to get off on Wilshire.
+B: How much further is that stop?
+A: The bus is fifteen minutes away from there.
+B: We're pretty close then.
+
+8
+A: Is this your first time riding the bus?
+B: Yes, it is. How did you tell?
+A: The look on your face gave it away.
+B: I really do look that confused?
+A: I'm sorry to say so, but don't be embarrassed.
+B: You seem friendly. Would you mind answering a question?
+A: No, not at all. What's your question?
+B: I'm trying to get to the airport. Do you know where I should get off?
+A: This bus actually drops you off right in front of the airport.
+B: I know that it does. I've just forgotten on what street.
+A: The stop will say LAX Airport.
+B: Oh, really. That's pretty obvious.
+
+9
+A: This bus is taking so long!
+B: You're right. It's running late.
+A: It was supposed to be here thirty minutes ago.
+B: Just be a little more patient. I'm sure it'll arrive any minute now.
+A: We're going to be so late, all because of this late bus.
+B: The buses usually come on time.
+A: They should always be on time. Don't they know people depend on their swiftness?
+B: Just wait a little longer.
+A: I'm tired of waiting. This bus is never going to come.
+B: Complaining is not helping the situation.
+A: I have every right to be complaining!
+B: Suit yourself then.
+
+10
+A: How long have we've been waiting for this bus?
+B: Almost one hour. I think it's late.
+A: It is late! What is taking this bus driver so long to get here?
+B: Probably traffic. You know how traffic could be on the weekends.
+A: That is not a good excuse. Bus drivers should know how to maneuver past traffic.
+B: That's easy for you to say.
+A: I just want the bus to arrive already. I want to go home.
+B: It's bound to arrive any minute now.
+A: I hope you're right. My patience has all extinguished.
+B: Wait. I think I see it coming in the distance!
+A: Thank goodness! I couldn't possibly wait another minute.
+B: False alarm. It was just a truck. Sorry about that.
+
+11
+A: Wait a second. Where am I?
+B: You're in Los Angeles.
+A: Los Angeles? Oh, no. I got off the bus too early.
+B: Where were you going to?
+A: I need to get to Westwood.
+B: Just hop on the next bus.
+A: And wait exactly how long for it?
+B: Not long. I can tell you that.
+A: Maybe I should just take a taxi.
+B: Take my word, young man, the next bus won't take long.
+B: When will the next one arrive?
+A: I'd say in less than ten minutes.
+
+12
+A: Is this Gage Avenue?
+B: No, this is Florence Avenue.
+A: Oh, no. I must've gotten off the bus too early.
+B: Don't worry. We all make mistakes.
+A: Thank you for that.
+B: Maybe I can help you get to where you're going.
+A: Are you sure it wouldn't be any trouble?
+B: No trouble at all.
+A: How much further is Gage Avenue?
+B: Not too far. It's a fifteen-minute walk from here.
+A: Can you please point me towards the right direction?
+B: Sure. You're going to head south from here.
+A: South is that way?
+B: No that's north. South is the opposite way.
+
+13
+A: I have so many places to go today.
+B: Are you planning on taking the bus?
+A: Yes. I'm going to have to bring so much bus fare with me.
+B: You don't have to. Just buy a pass for the day.
+A: A pass? What's that?
+B: It comes in the form of a card that allows you to pass on any bus.
+A: And is it just for one day?
+B: You can buy a bus pass for the day, week, month, and even a year.
+A: I didn't know that. How do I buy one?
+B: You can ask for one on the bus.
+A: How much does the card cost?
+B: The card itself is one dollar, but a pass for the day is five.
+A: I only need to bring six dollars with me today?
+B: Yes. Unless you want to buy a pass for a week or longer.
+
+14
+A: Hello, I would like to buy a bus pass.
+B: Do you have a card to use for your pass?
+A: What kind of card do I need?
+B: It's a card I can provide you with.
+A: Is it free to get?
+B: No, but it's only one dollar.
+A: It's nearly free. Here's the dollar.
+B: Do you also have money for the day pass?
+A: Yes, I do. How much is it for a day pass again?
+B: Exactly five dollars.
+A: I do have enough. Do I give you the money?
+B: No, please deposit it into the machine.
+A: Alright then. There you go.
+B: Here's your pass for the day. Do take care of that.
+A: Thank you very much. I'll hold on to it.
+B: You're welcome. Have a nice day.
+
+15
+A: I have never bought a bus pass before. Do you know how?
+B: Yes I do. You can buy it from the bus driver.
+A: What kinds of bus passes do they have?
+B: They have day passes, week passes, and month passes.
+A: How much is the monthly pass?
+B: It's 64 dollars, but if you're a student, you can get it for 35 dollars.
+A: Yes. I'm a student. I think I'll get the monthly pass.
+B: Since you'll be getting the student discount, you need to show your student I.D.
+A: Alright. Thank you for your help.
+B: No problem. Anytime!
+
+16
+A: Does this bus stop at Normandy Street?
+B: Yes, it does. Is that your stop?
+A: Yes, it is. How much further until the bus gets there?
+B: Actually, the bus passed by Normandy Street ten minutes ago.
+A: I missed my bus stop? Darn it, I knew this would happen to me.
+B: Are you on your way to work?
+A: Fortunately I'm not, or else I would've been running late.
+B: Are you meeting a friend?
+A: Yes, I am actually. I'm going to have to call him, and tell him I missed my stop.
+B: You should get off on the upcoming stop.
+A: Good idea. I'll just walk back to Normandy.
+B: It might be a long walk.
+
+17
+A: Look! The bus is coming!
+B: Let's see if we can cross the street in time to catch it.
+A: I don't think we are going to make it.
+B: You are right. There it goes.
+A: When will the next bus arrive?
+B: According to the bus stop pamphlet, it should arrive in about fifteen minutes.
+A: We are going to be a bit late.
+B: I hope our friends don't get impatient.
+A: Hopefully they'll understand.
+B: It should be here any moment now.
+A: Look! Here it comes!
+B: Get your bus pass ready to hop on board!
+
+18
+A: I don't recognize any of these streets.
+B: Is this your first time riding this bus?
+A: No, I take this bus to school every day.
+B: This bus always drives by these streets.
+A: Are you sure this is not just a new route.
+B: I'm pretty sure it's not.
+A: Perhaps it could be a detour.
+B: Perhaps you might be on the wrong bus.
+A: There's no way this is the wrong bus.
+B: If you don't believe me, maybe you should go ask the bus driver.
+A: Wait, I don't think I have to. You're right, this is the wrong bus.
+B: I hate to say I told you so, but I told you so.
+A: How could I make such a dumb mistake?
+B: You should get off on the next stop.
+
+19
+A: Excuse me, bus driver. I have a question.
+B: What do you need to know?
+A: I don't recognize where I'm going. Where are we?
+B: You are on the bus headed to East Los Angeles.
+A: Oh, I see. I believe I have gotten on the wrong bus.
+B: Well, I'm sorry, but I can't give you a refund.
+A: That's fine. I need to go to Pasadena. Can you give me directions?
+B: Sure. I have a bus pamphlet for you, too. Here you go.
+A: Thank you. I'm new to the area.
+B: Don't worry. It happens. I'll let you off down here.
+A: Alright. Thank you very much. Have a nice day.
+B: You too, and good luck getting to Pasadena.
+
+20
+A: Top of the morning to you, Mr. Bus Driver.
+B: Hi, good morning. Where are you off to today?
+A: It's my first day of college.
+B: Wow, you must be very excited.
+A: You have no idea how much I am.
+B: Do you know how to get there?
+A: It's actually just a bus ride away.
+B: Are you planning on taking the bus routinely?
+A: Yes, I am. Why to spend money on gas when I could take the bus for less?
+B: You know, as a student you're eligible to receive a discount.
+A: No kidding. How much is the discount?
+B: Are you paying for a month pass?
+A: Yes, it cost fifty dollars.
+B: Well, with a student discount it would cost twenty dollars less.
+A: Thirty dollars for a month pass? That's quite a discount!
+B: You should take advantage of it.
+
+21
+A: Hi, I am here to buy a bus pass.
+B: Alright. What kind are you interested in getting?
+A: I'm not sure. This is my first time.
+B: If you need a monthly pass, it will be sixty-four dollars.
+A: Is there anything cheaper than that?
+B: If you're a student, you get a discount.
+A: Yes. I am a student. How much will it be for a student discount?
+B: The student discount for a monthly pass is thirty-five dollars.
+A: Alright. I think I'll take that.
+B: First I'll need to see your student ID. Then you're all set.
+A: Here is my student ID. Thank you very much.
+B: Here you go. Have a nice day!
+
+22
+A: I'm going to be so late. This bus driver is driving so slowly.
+B: Where are you in a hurry to?
+A: I have doctor's appointment. I hope I make it on time.
+B: I'm sure you will. Where's your clinic?
+A: It's in Long Beach.
+B: I'd say we're about twenty minutes away from there.
+A: I sure hope you're right about that. Where are you heading to?
+B: I'm going to visit my grandma.
+A: Where does she live?
+B: She's also in Long Beach.
+A: What a coincidence! Do you often ride this bus to visit her?
+B: I have for the past two years. I visit her every Sunday.
+A: That's so sweet of you. You must love her very much.
+B: I do. Why are you going to the doctor's?
+A: To get my routine check-up. Nothing serious.
+B: It's so nice to meet friendly people on the bus.
+
+23
+A: Hi! Can I ask you a question?
+B: Sure. What do you need to know?
+A: Is this bus headed toward Monterey Park?
+B: Yes, it is. I'm going to Monterey Park, too.
+A: Thank you. I was just making sure. I'm new to the area.
+B: I've lived in this area for a while.
+A: I'm visiting friends. If you don't mind me asking, what are you going to do?
+B: I'm going to visit the markets and stores there.
+A: Nice. Do you recommend any restaurants in Monterey Park?
+B: You should try the Elite Restaurant. It's pretty good.
+A: I'll be sure to check it out. Here comes our stop. Have a nice day.
+B: Nice talking to you.
+
+24
+A: I have to go to Downtown Los Angeles today.
+B: What for? Are you visiting someone?
+A: No, I have an important job interview there.
+B: How are you planning on getting there?
+A: I would drive. but my car overheated last night.
+B: It looks like you're going to have to ride the bus.
+A: I haven't ridden the bus in years.
+B: I can help you out if you want.
+A: That would be great! What could you tell me about the bus system in Los Angeles?
+B: Speaking from experience, I could tell you how efficient it is.
+A: Do you take the bus to Los Angeles frequently?
+B: Only every week, Monday through Friday for the past two years.
+
+25
+A: I want to get to Monterey Park. What bus should I take?
+B: If you're in Maywood, you can take the 260 bus on Atlantic.
+A: How long will it take me to get there?
+B: It will take you about thirty minutes depending on traffic.
+A: That's not too bad.
+B: Yeah, it really isn't.
+A: Are there a lot of people on that bus?
+B: The 260 bus can get pretty full except on holidays.
+A: Thank you for telling me.
+B: No problem. Where are you going?
+A: I'll be visiting friends.
+B: That's nice. I hope you have fun.
+
+26
+A: How much does it cost to ride the bus?
+B: The cost is one dollar and fifty cents.
+A: I'm going to have to spend nearly ten dollars today on just bus fare alone.
+B: Why do you say that?
+A: I have to take six buses in total today.
+B: Why so many?
+A: Three buses to get to where I'm going and three to get back home.
+B: You should just buy a pass for the day.
+A: A pass? What's that?
+B: It's literally a pass that allows you to ride any bus for free.
+A: Wow, that sounds like a good reason to buy one.
+B: You definitely should. You'd save money in the long run.
+
+27
+A: I'm going to commute to school by bus this year.
+B: You should consider getting a bus pass.
+A: Why should I buy a bus pass?
+B: It's cheaper compared to manually paying every day.
+A: What kind of pass do you recommend I get?
+B: You should get the monthly pass.
+A: How much is a monthly pass?
+B: It is $64, but because you're a student, you can get a student discount.
+A: How much will it be with a student discount?
+B: It will be 35 dollars.
+A: Wow, that is cheap.
+B: You'll need your student ID.
+
+28
+A: I need to buy a bus pass.
+B: Where do you need to go?
+A: I have to go to the Los Angeles Library.
+B: You need to buy a buss pass, that's for sure.
+A: I don't know where to buy it.
+B: You've never purchased a bus pass?
+A: I wouldn't be asking if I did.
+B: It's easy to buy a bus pass. All you have to do is get on the bus and ask for one,
+A: It's that easy? Are you sure?
+B: Don't you believe me?
+A: I do, but I thought it would be more complicated than that.
+B: There are other places where you can buy them.
+A: I think I'll just buy the pass on the bus.
+B: Alright, suit yourself. And you're welcome.
+
+29
+A: Excuse me. May I ask you a question?
+B: Sure. What do you need to know?
+A: Do you know where I can purchase a bus pass?
+B: Yes I do. There are several places where you can purchase them.
+A: Could you please tell me where?
+B: There is one on Norwalk, one in Long beach, and one in Santa Clarita.
+A: Do you know how to get to the one located on Norwalk?
+B: Here is a list of directions you can have.
+A: Can I keep it?
+B: Yes. You can keep it.
+A: Thank you very much. This is very helpful.
+B: No problem. I'm glad I could help.
+
+30
+A: Excuse me. Can I have a minute of your time, please?
+B: Sure, what is it?
+A: I'm trying to take the bus to Downey, but I don't know where to take the bus.
+B: Downey? Let me think. Are you visiting relatives there?
+A: My girlfriend actually is the one I'm going to visit.
+B: That's sweet. I'm sorry, small talk helps me remember.
+A: In that case, let me ask where are you going to?
+B: I'm going to work. I take the bus there every day.
+A: You must save plenty of money on gas and insurance.
+B: Yup, I sure do. Wait, now I remember which bus takes you to Downey!
+A: Can you tell me where to take it?
+B: Sure. You need to take it on Florence Avenue in the city of Bell.
+
+31
+A: Do you know how I can get to the Gold Line?
+B: Yes I do. You'll only need one bus.
+A: Which bus should I take?
+B: You can take the 260 bus on Atlantic.
+A: How long will it take me to get there?
+B: It should take you no longer than 30 minutes depending on traffic.
+A: Thanks. I'll leave in a bit.
+B: Where are you planning to go?
+A: I want to go to Little Tokyo. I heard nice things about it.
+B: Can I go with you?
+A: Sure! You can then show me where the 260 stop is.
+B: Awesome! I'll just grab my bus pass. Then I'll be ready to go.
+
+32
+A: You seem a little lost. Can I be of some assistance?
+B: That would be nice of you. I just have one question.
+A: You can ask as many as you want.
+B: I just need to know where to change buses.
+A: Well, where are you going? I need to know that.
+B: I'm going to Beverly Hills.
+A: In that case, you need to change buses in a few minutes.
+B: What bus do I need to change to?
+A: You're going to get off this one and get on Line 720.
+B: That bus takes me to Beverly Hills?
+A: Yes, right in the center of it.
+B: Where do I change into the 720 bus?
+A: You're going to change on Whittier Avenue.
+B: Thank you, sir. You have been so helpful.
+
+33
+A: Do you know which bus will get me from Maywood to Cal State LA?
+B: Yes, I do. You'll need to take two buses.
+A: Which bus should I take first?
+B: You'll need to take the 260 on Atlantic all the way to Garvey.
+A: Which bus do I take after that?
+B: You'll have to take the 70 bus.
+A: Will I find the 70 bus stop immediately?
+B: Yes. You'll find it right across the street after you get off the 260.
+A: How long might the whole trip take?
+B: It might take you about 40 minutes to an hour depending on traffic.
+A: Alright. Thank you very much.
+B: You're welcome. Glad I could help.
+
+

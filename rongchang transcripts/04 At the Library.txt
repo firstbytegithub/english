@@ -1,0 +1,302 @@
+04 At the Library
+
+1. A Special Library
+2. Where Is the Book
+3. Tiger Books
+4. Reserving a Book
+5. Late Fees
+6. Borrowing a Book from Another Library
+7. Checking Out a Book
+8. Checking Out a Magazine
+9. Checking Out a Video
+10. Checking Books for Damage
+11. Barely Late
+12. Computer Limit
+13. Using a Copier
+14. People at the Printer
+15. Be Quiet
+16. The Library Restroom
+17. Volunteering at the Library
+18. Studying at the Library
+19. Reference Books
+20. A Gross Book
+
+1
+A: Hi, I'm here to apply for a library card.
+B: Is this your first time applying for one?
+A: It's my first time applying for a card here.
+B: Do you have cards with any other libraries?
+A: Yes, I have one with my college and one with my local library.
+B: What college do you go to?
+A: UCLA. They have over 10 libraries!
+B: That's one of the great perks of higher education. 
+A: Even though I have library cards, I really like this library.
+B: What do you like about it?
+A: I like the foreign language books. That's rare for any library.
+B: Yes, it is! We get people all over the world because of that section.
+
+2
+A: I really need a book, but I didn't see it on the shelf. 
+B: According to the computer, it's not checked out yet.
+A: Then why isn't it on the proper shelf?
+B: It means that someone in this library is holding it right now.
+A: So someone else has the book and plans on checking it out?
+B: Either that or someone took it out of the shelf and misplaced it.
+A: I really need that book.
+B: You're going to have to look everywhere for it.
+A: Can't you just make an announcement asking whoever has the book to come forward?
+B: You are not that special. When it comes to books, it's first come, first serve.
+A: But I need it for school.
+B: I'm sorry, but I can't do anything for you.
+
+3
+A: Hi, can you help me find a book on tigers?
+B: Yes, of course. Is it for a school project?
+A: Yes, I'm doing an essay on the life of a tiger.
+B: You're going to want one with a lot of words and less pictures.
+A: But I want the one with pictures!
+B: Pictures are pretty, but they won't help you with your essay that much.
+A: Fine, I admit you're right.
+B: You can borrow the book with pictures for your own pleasure.
+A: Yay! I love tigers.
+B: I have a book that isn't hard to understand, but still has great information.
+A: Great! You're so helpful.
+B: It's my job to be helpful.
+
+4
+A: I would like to reserve The Hunger Games. 
+B: Everyone wants to reserve that book these days.
+A: It's really popular, because the movie just came out.
+B: You have to pay $1 to reserve the book.
+A: What?! That's ridiculous.
+B: Like you said, it's popular.
+A: I have to think about it then.
+B: I personally think $1 is nothing. It's cheaper than buying the book.
+A: How much is the book?
+B: On the back, it says it's $15. It depends on the bookstore you go to though.
+A: Fine, I'll give you a $1.
+B: You won't regret it! The book is really good.
+
+5
+A: I'm sorry, but you can't borrow this book.
+B: What do you mean?
+A: You have not paid your late fees for your overdue books.
+B: I never had any overdue books!
+A: The computer doesn't lie.
+B: What books do I have late fees for?
+A: They're all math books, and according to the system, you still have them.
+B: Oh yeah, I do! I totally forgot about them and left them on my bed.
+A: Once you return them and pay the fee, you can borrow books again.
+B: But I really need to borrow those books now.
+A: I can put them on hold for you.
+B: Yes! You are the best.
+
+6
+A: I'm so frustrated. I can't find any books on my research topic at my library.
+B: Why don't you try a different library?
+A: I don't want to waste gas money.
+B: But you might find your book.
+A: What library do you suggest?
+B: I suggest the one near my house.
+A: That is way too far for me.
+B: They have a lot of books. That library has never disappointed me.
+A: I have an idea! Why don't you borrow them for me?
+B: I don't know about that. What if you lose the books?
+A: I won't. I swear on my life.
+B: Wow, you're so serious.
+
+7
+A: This is a great book you're checking out.
+B: You have read it?
+A: Read it? I memorized it! It's one of my favorites.
+B: That's good to know.
+A: You should check out more books.
+B: I can check out more than one?
+A: Of course! It would be crazy if you could only get one book.
+B: That's awesome! I'll be back.
+A: Don't go crazy now. The limit is 15 books.
+B: Don't worry. I'll probably come back with 5 more books.
+A: It's great to see a kid excited about reading.
+B: Yeah, most kids hate reading. They're more into television.
+
+8
+A: Now, you can only check out this magazine for one week.
+B: Why one week? I thought the borrowing time was two weeks.
+A: That's for books only.
+B: Oh, that's weird.
+A: Well, it doesn't take that long to finish a magazine.
+B: I know, but I like to take my time.
+A: I don't make the rules. Would you like to check it out?
+B: Yes, I'd like to check it out.
+A: Interesting magazine choice. Reading about celebrities is not really smart of you.
+B: Don't judge me. I can't read educational stuff all the time.
+A: I do! I read Time and National Geographic.
+B: Everyone's taste is different.
+
+9
+A: How long do you want to check that video out for?
+B: One week would be nice.
+A: That will be $5.
+B: What?! I thought I could check out videos for free.
+A: You can check out educational videos for free.
+B: This is bogus.
+A: It's still not a bad price.
+B: Okay, what if I only borrow it for a day?
+A: It will be $2.
+B: Okay, here's $2. So much for a library that services the public.
+A: I hope you enjoy the movie.
+B: For 2 bucks, I'd better love the movie.
+
+10
+A: There's a huge rip here.
+B: But there's tape on it!
+A: Did you put the tape there?
+B: No, it was there before.
+A: I know you're lying to me.
+B: If you know, then why did you ask if I put the tape on?
+A: I wanted to see if you were a liar or not.
+B: How did you know I'm lying?
+A: Before you check out the book, the librarian checks it for damage.
+B: Wow, you guys think of everything.
+A: Yes. Anyways, you owe $10.
+B: Fine, here you go.
+
+11
+A: Here are the books I'm returning.
+B: Looks like they're late. The late fee is $5.
+A: Okay, I'm only one minute late.
+B: One minute late, one month late, one year late, it doesn't matter.
+A: Are you kidding me? There's a big difference between one minute and one month.
+B: Look, the point is - they're late.
+A: Screw you! I ain't payin $5.
+B: I guess you'll never borrow another book, magazine, or video here ever again.
+A: It's okay, because I don't even like this library.
+B: This library doesn't like you either!
+A: I am leaving! You are plain rude.
+B: Leave! Nobody wants to see you.
+
+12
+A: Miss, you have been using the computer for over an hour now.
+B: I know, I'm sorry.
+A: Are you looking for something?
+B: I'm researching for my project.
+A: Can you come back tomorrow? Your daily computer limit time is up.
+B: I don't have a computer at home.
+A: I'm sorry to hear that, but other people need to use the computer, too.
+B: My project is due very soon. I need to research.
+A: How about books? This is a library after all.
+B: I looked for books on my project. They're not good at all.
+A: Maybe you don't know how to look for good books. I'll help you.
+B: Thank you. I appreciate it.
+
+13
+A: How much do I need to insert here to make one copy?
+B: It depends. Do you want your copy in color or black and white?
+A: I want it in color.
+B: Then it will be 20 cents per page.
+A: That's kind of expensive.
+B: Yeah, but most of us don't have a copy machine of our own.
+A: I have one, but it's broken.
+B: That sucks. Well, if money's an issue, you can copy your stuff in black and white.
+A: No, it has to be color.
+B: Do you really not have 20 cents?
+A: I do, but I'm really cheap.
+B: Well, you don't really have a choice at this point.
+
+14
+A: Why is the printer line so long?
+B: It's finals week.
+A: Oh yeah, you're right.
+B: This happens every year, so I got smarter.
+A: What do you mean?
+B: I printed my stuff for finals at home.
+A: Oh, that is smart. I have to get in line now.
+B: What do you have to print?
+A: I have to print some notes.
+B: Good luck. You'll be waiting here for a long time.
+A: I bet the ink and paper will go out.
+B: If that happens, you're in trouble.
+
+15
+A: Can you please shut up?
+B: Maybe if you ask nicely, I will!
+A: This is a library, so you have to shut up.
+B: I didn't know laughing was a crime.
+A: It's a crime in the library.
+B: You're just jealous, because I'm having a good time, and you're not.
+A: No, that's not it at all.
+B: I'll shut up if you say you're sorry.
+A: Sorry for what? If anything, you should say sorry.
+B: Okay, fine. I'm sorry that your parents didn't teach you how to be nice.
+A: That does it. I'm getting a librarian.
+B: Go get one!
+
+16
+A: Do you have a restroom?
+B: Only for employees.
+A: But I really need to go.
+B: I can't let you go. There's a restroom in the market across from us though.
+A: That restroom is really dirty. It smells like someone died in there.
+B: Fine, I'll take you to our restroom.
+A: Yay! Thank you so much.
+B: We have to go secretly. If anyone sees you use the restroom, I'll be fired.
+A: Don't worry. I will be small and quiet as a mouse.
+B: Okay, good. The password is 595. Go quickly before anyone sees you.
+A: Thank you for your kindness.
+B: You owe me if we ever see each other again.
+
+17
+A: You should volunteer at the library with me!
+B: What's so good about volunteering there?
+A: It's fun, and you feel good about yourself.
+B: What do you do there?
+A: Everyone does different things. I organize events.
+B: What kind of events?
+A: Movies, art and crafts, magic shows, and more.
+B: That does sound fun!
+A: Do you want to sign up?
+B: Yeah, how do I sign up?
+A: I'll get you an application.
+
+18
+A: I can't study at home, because my family talks so loudly.
+B: Study at the library.
+A: Can you focus in there?
+B: Yes, it's always really quiet.
+A: I'll go today.
+B: Make sure you get a good seat.
+A: Are there not enough seats for everyone?
+B: It depends on when you go.
+A: I'm going at 1:00 a.m.
+B: Dude, it's not even open that late.
+A: But that's the best time for me.
+B: You can always try a cafe. They tend to close late or not at all.
+
+19
+A: You can't check out this one. It's a reference book.
+B: What does that mean?
+A: It means you can only read it in the library.
+B: But I need it for my essay.
+A: You can take pictures of the pages you need.
+B: I need almost all of them.
+A: You can keep coming back here.
+B: That's so inconvenient.
+A: It is, but they have to be kept here.
+B: I guess I can take pictures of the pages then.
+A: Sorry about the inconvenience.
+B: It is okay. It's not your fault.
+
+20
+A: Ew! Look what I found in this book.
+B: What is that?
+A: It's a dead bug.
+B: It's all squished and messy.
+A: I can't read this book without being disgusted.
+B: But don't you really want to check out this book?
+A: I do, but I really can't.
+B: I'll check it out then.
+A: You can read it without being disgusted?
+B: Yeah, I'll just skip that page.
+A: There could be something really interesting on it.
+B: Whatever! I'm just going to check out the book.
+

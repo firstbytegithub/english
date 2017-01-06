@@ -1,0 +1,407 @@
+11 Living in an Apartment
+
+1. Greeting the Neighbor (1)
+2. Greeting the Neighbor (2)
+3. Questions about Parking
+4. Prohibited Parking
+5. Meeting the Mailman
+6. Asking about Local Restaurants
+7. Trash and Recycling (1)
+8. Trash and Recycling (2)
+9. Where Is the Laundry Room
+10. Laundry Room Rules
+11. Asking for Directions (1)
+12. Asking for Directions (2)
+13. Neighbors and Help (1)
+14. Neighbors and Help (2)
+15. Visitors and Extra Tenants (1)
+16. Visitors and Extra Tenants (2)
+17. Key and Lock Problems (1)
+18. Key and Lock Problems (2)
+19. Checking Smoke Detectors
+20. Mailbox Key Missing
+21. Locked Out
+22. A Noisy Neighbor (1)
+23. A Noisy Neighbor (2)
+24. Plumbing Problems
+25. Poor Upkeep
+26. Reporting a Problem to the Landlord
+
+1
+A: Hello, neighbor. I would like to personally welcome you to the neighborhood.
+B: Thank you. It is a pleasure to meet you.
+A: Same here. It's been a few days. How do you like it so far?
+B: I like it. It's convenient for both my job and my family.
+A: That's good to hear. You'll find this neighborhood to be very peaceful.
+B: That's another thing I like about it. My wife thinks the area looks lovely. 
+A: Are you doing anything tomorrow afternoon?
+B: No, why do you ask?
+A: I'm having a barbecue in my backyard. I want to invite you and your family. 
+B: Sure, I'd be happy to join!
+A: Alright. Here's my number. I'll see you tomorrow!
+B: Thank you. I'll see you then.
+
+2
+A: Greetings, neighbor. How's it going?
+B: Hello to you! It's going just fine. Welcome to the neighborhood.
+A: Thank you. How long have you been living here?
+B: It's going to be my tenth year next month.
+A: That's quite some time. Where did you move in from?
+B: I was living in San Diego before I moved here.
+A: That's interesting. Why did you decide to leave San Diego?
+B: I simply felt that it was time for a change.
+A: I see. I've had that feeling before.
+B: why are you moving here.?
+A: Because my new job is in the area.
+B: Well, I'll be seeing you around, my new neighbor.
+
+3
+A: Hello. I'm new to the apartments. I have a question.
+B: Hello, and welcome. What do you need to know?
+A: Is there anything about parking my car that I need to know?
+B: You have an assigned parking spot behind the building.
+A: Are there other parking spots available?
+B: Yes. We have several unassigned spots for visitors.
+A: Where are those visitor parking spots located?
+B: Behind the building as well.
+A: What if all parking spots are filled up?
+B: You could park in the streets, but you might be ticketed if you fail to follow rules.
+A: Could you show me how to enter the parking area?
+B: Yeah, I'll show you. Follow me.
+
+4
+A: Excuse me, sir?
+B: Yes, is there a problem?
+A: I'm sorry to be the one to tell you, but you can't park here.
+B: You mean right here, where I just parked?
+A: Yes, unfortunately you cannot.
+B: Oh, I was not aware that you couldn't park here.
+A: That's alright. It's a common mistake new residents often make.
+B: Thank you for informing me.
+A: Not a problem. I wouldn't want you to get a parking ticket.
+B: That's so considerate of you. Thank you.
+A: You're welcome. Just keep it in mind for the next time.
+B: Don't worry. I won't forget.
+
+5
+A: Good morning. Are you the mailman?
+B: Good morning to you, and yes, I am. What gave it away?
+A: Your uniform was a clear indicator.
+B: That's a good answer. So you're the new tenant?
+A: Yes, I am. I just moved in last week.
+B: I extend to you my welcome. How do you like the neighborhood?
+A: It's absolutely wonderful. Everybody here is so friendly.
+B: You're not wrong. I haven't come across anybody who wasn't nice.
+A: Wow, it sounds like I picked the perfect neighborhood to move in to.
+B: Yup, there's no doubt about that.
+A: I hope I never move again.
+B: I have more deliveries to make, so I'll talk to you later.
+
+6
+A: I sure am hungry.
+B: You should go out and eat.
+A: Do you know of any good places to eat that are around the local area?
+B: I know of a good couple.
+A: Alright, let's hear them. I'm starving.
+B: Let me ask you first, what are you in the mood for?
+A: Well, now that I think about it, I'm not really sure.
+B: Do you like Indian food?
+A: I have never tried it. It sounds interesting.
+B: It's delicious. I would recommend giving it a try.
+A: Indian food it is!
+
+7
+A: Why do you have so many full trash bags?
+B: I had a party last night. I'm cleaning up now and tossing them away.
+A: Wait! What are you doing?
+B: Throwing these bags into the trash can. Why do you seem concerned?
+A: Did you divide the recyclables from the trash?
+B: No, I didn't. I was a bit lazy to do so.
+A: Don't be lazy. You should do your part in helping the environment.
+B: You're right. It's going to be messy though. Mind giving me a hand?
+A: Sure. I'd be glad to.
+B: Thank you. This is a lot to handle alone.
+A: Don't mention it. After all, one person can make a big difference to the environment.
+B: I'll be sure to be more considerate next time.
+
+8
+A: Do you know where I could dispose of my trash?
+B: Yeah, there are two different colored trash cans in the back.
+A: Is there a difference between the two?
+B: Well, one is for recycling and the other is for trash.
+A: Can you tell me which color is the one for recycling?
+B: That would be the blue trash can.
+A: And the black trash can is for regular trash?
+B: Yes, that is correct.
+A: On what day does the garbage truck come by to pick up the trash?
+B: It comes every Thursday.
+A: Thank you for your help. Take care.
+B: Sure. Don't mention it.
+
+9
+A: Hello, neighbor. I just moved into the apartments last week. I have a question.
+B: Sure. What do you need to know?
+A: I need to locate the laundry room. I have a load of clothes to wash.
+B: There is one downstairs.
+A: Thank you very much.
+B: There is also another located in the basement of the neighboring building.
+A: Do I have to pay at a front desk?
+B: No, the machines require exact change. I suggest you take quarters.
+A: Does the laundry room carry detergent?
+B: Yes, but I recommend you take your own. They're expensive.
+A: That's good to know. Thanks again and have a nice day.
+B: No problem. See you around.
+
+10
+A: I need to wash my clothes.
+B: As a tenant of this apartment, you have access to the washer and dryer.
+A: Is that so? I didn't know that.
+B: It's good that you know now.
+A: Are there any laundry rules I should know about?
+B: Yes. There are certain hours you are allowed to use the laundry room.
+A: What are the hours?
+B: You are only allowed to wash clothes from 6:00 a.m. to 10:00 p.m.
+A: That's good to know. Is there anything else I should know?
+B: You're responsible for your belongings.
+A: Well, that's common knowledge.
+B: Also, there is no food or drink allowed in the laundry room.
+A: Thanks for going over the rules and hours with me.
+B: It was my pleasure to help a fellow neighbor.
+
+11
+A: Excuse me. Can you give me a minute of your time?
+B: Sure, I don't see why not.
+A: Thank you kindly. I'm pretty new in town, and I think I might be lost.
+B: Do you need to make a phone call?
+A: No, thank you. I just need some directions.
+B: Where are you trying to get to?
+A: I need to find my way back to Colorado Boulevard.
+B: Colorado Boulevard? Why, you're not far off from there.
+A: Can you point me towards the direction of that street?
+B: Gladly! You're going to walk straight down this street.
+A: Alright, straight down.
+B: Then you make a right after two blocks.
+A: Alright, I got that.
+B: Then a left at the next street, and you should be there.
+A: Thank you so much.
+B: You're welcome. Have a safe trip.
+
+12
+A: You look lost. Are you in need of any directions?
+B: I was just about to ask someone for directions. Thank you for noticing.
+A: Where are you from?
+B: I'm from the inner city.
+A: You're a long way from home then. Are you looking for a certain street?
+B: Actually, I need directions to the nearest public bus.
+A: Which bus number are you looking for?
+B: I'm looking for Line 267.
+A: I know that bus. The stop is just around that corner.
+B: Where? Over there?
+A: In that direction.
+B: Thank you so much. I appreciate the help.
+A: You're welcome. Safe travels, my friend.
+
+13
+A: Hello, neighbor. How are you today?
+B: I'm fine. How are you?
+A: I'm doing alright. I was wondering if I could ask you for a favor.
+B: Sure. What is it?
+A: I'll be away for the weekend. Could you take care of my dog?
+B: Yeah, I'd love to. I'm great with dogs.
+A: Oh, that's fantastic! Thank you very much!
+B: Is there anything I need to know about your dog?
+A: Not really. She's an old, calm, and friendly dog. You'll have no trouble.
+B: Alright. I'll give you a call if I have any questions or concerns.
+A: I'll bring her over in a few minutes along with her food. Thanks again!
+B: No problem. Have a safe trip.
+
+14
+A: Are you my new neighbor?
+B: Yes, I am. It's nice to meet you.
+A: Nice to meet you, too.
+B: How is your day going so far?
+A: It's going just fine. Thank you for asking.
+B: Do you think you can help me with something?
+A: Sure, I would be glad to help, whatever I can.
+B: It's nothing big. I just need help carrying my old couch to the curb.
+A: Alright, do you want me to help you right now?
+B: If it's not a problem.
+A: No. I'll come over right now.
+B: Thank you for the assistance.
+
+15
+A: I have a question about my one-room apartment.
+B: What do you need to know?
+A: Am I allowed to have extra people living with me?
+B: You are only allowed one roommate, but they'll need to have an application on file.
+A: Will I be charged extra for any additional people?
+B: Yes. And you'll also need special permission for that.
+A: Are my visitors allowed to use any of the facilities?
+B: Yes, but you have to be present with them.
+A: Are occasional guest sleepovers fine?
+B: As long as it is occasional, it should be no problem.
+A: Thank you. That is all I needed to know.
+B: Alright. If you have any more questions, don't hesitate to ask.
+
+16
+A: Come inside my apartment! Make yourself feel at home.
+B: Thank you for letting me visit you today.
+A: It's always nice to meet extra tenants of the apartment.
+B: How do you like the apartment so far?
+A: I don't like it, I love it!
+B: I'm glad to hear that.
+A: Everybody I've met is super friendly, and the apartment is beautiful.
+B: I share the exact same thoughts.
+A: How long have you been a tenant here?
+B: Not long. I moved in a few months ago.
+A: Would you like a drink?
+B: Sure, I'm kind of thirsty.
+
+17
+A: Are you locked out of your apartment?
+B: It appears that I am.
+A: Did you forget your key inside your apartment?
+B: No. I think I lost it somewhere in the city.
+A: That's unfortunate. I think I could help you.
+B: Really? Do you have another key?
+A: No, but the landlord does.
+B: He doesn't live here though.
+A: I have his phone number. I'll just give him a call.
+B: Thank you. If you want, I'll talk to him myself.
+A: No, don't worry. I talk to him for you.
+B: Please I insist. I should be the one to ask for help since I'm the one who's in need of it.
+A: Alright, suit yourself.
+
+18
+A: Help, please. My key won't open the front door to my apartment.
+B: Oh, no. Let me try to help you.
+A: Thank you, but I don't think there's much you can do.
+B: Don't be so pessimistic. I'll help you unlock that door.
+A: I already tried using the key. There's no use in trying anymore.
+B: I have another idea. Care to hear it?
+A: Alright, I don't have any other options.
+B: Let me drive you to a locksmith.
+A: What good will that do?
+B: A locksmith can replace your key. The one you have now is probably broken.
+A: It's worth a try, I guess.
+B: There's the spirit! Come on, let's go.
+
+19
+A: Have you checked your smoke detectors recently?
+B: No, I wasn't even aware we had smoke detectors.
+A: All the apartments are equipped with them. It's an essential safety feature.
+B: How do you check if they're working?
+A: It's real easy. If you like, I could show you.
+B: That would be nice of you.
+A: Are you doing anything right now?
+B: No. It's my day off work.
+A: How about I come over and show you how to check them?
+B: Sounds good. Come inside.
+A: It's really easy to check them. Just grab one from the wall, and check the battery in the back.
+B: What does this light mean?
+A: If you see the light, that means it's functioning.
+B: So I don't need to replace the battery. Thank you so much.
+
+20
+A: Have you seen my mailbox key lying around somewhere?
+B: No, I'm sorry. Where did you last leave it?
+A: I thought it was in my pocket.
+B: Is that where you last put it?
+A: Yeah, I'm pretty sure.
+B: Think hard. Where was it before you supposedly put in your pocket?
+A: I was in my apartment cleaning out the kitchen.
+B: Maybe you emptied your pockets while you were cleaning.
+A: Wait! I think I did empty my pockets!
+B: There you go. I knew it.
+A: I remember now. My keys are on the kitchen counter.
+B: That's a relief.
+
+21
+A: Oh, no! I'm locked out again.
+B: Did I overhear you say what I think you just said?
+A: That I'm locked out? Yes, that's what I said.
+B: I'm sorry to hear that. How did you lock yourself out?
+A: I'm pretty sure I left my key inside the apartment.
+B: That happened to me before.
+A: What did you do when it happened?
+B: I climbed into the window to unlock the door.
+A: That doesn't sound like such a bad idea.
+B: Unless you have a spare key.
+A: It seems I'm going to have to break into my own apartment.
+B: Be careful not to break anything.
+A: Is that what you did when you did the same?
+B: Accidentally, yes, I did.
+
+22
+A: I'm sorry to knock on your door at this late hour.
+B: Is there something wrong?
+A: It's just one minor issue I have to bring up with you.
+B: Don't tell me. I think I know what it is.
+A: I hope you can understand.
+B: I completely do. I'm so sorry. I didn't realize how loud my television was.
+A: It's just a little too loud. If you could just lower it a tad bit.
+B: This is so embarrassing for me. You have my sincerest apology.
+A: No, that's alright. It happens to all of us at one point.
+B: It's these new speakers that I bought. I'm just learning how to use them.
+A: Please, say no more. Let's just put the matter to rest.
+B: This won't happen again.
+
+23
+A: Can I help you with something?
+B: Yes, I hope that you can.
+A: What seems to be the problem?
+B: Do you know what time it is?
+A: It's eleven o'clock at night.
+B: Actually, it was eleven an hour ago.
+A: Oh, you're right about that.
+B: I live right next door to you, and your loud music is keeping me awake.
+A: Is that so? It's really that loud?
+B: Yes, it is. I'm going to have to ask you to lower down the noise.
+A: Sorry about that. I'll lower down the music.
+B: Thank you. Please be a little more considerate next time.
+A: I will. Again, I apologize for the noise. It won't happen again.
+B: I sure hope it won't.
+
+24
+A: Who do I have the pleasure to speak to this afternoon?
+B: Hello, my name is James.
+A: You've called your city's local plumber. What can I do for you?
+B: Thank you. I have a problem with my gas line.
+A: I specialize in gas line problems. You're in luck.
+B: I'm glad to hear that. Can you come to my home today?
+A: I'm booked today, sorry. Can I come tomorrow instead?
+B: Tomorrow works for me too. Is three o'clock fine?
+A: Yes, that hour is fine.
+B: What are your rates?
+A: I will provide you with an estimate free of charge when I see the problem.
+B: Alright, that sounds good. Thank you.
+
+25
+A: This floor is falling apart.
+B: How can you tell?
+A: Are you kidding me? Step over here.
+B: You're right. The floor to this apartment is badly damaged.
+A: See, I told you so.
+B: What did you do that made the floor like this?
+A: It wasn't me. It was like this when I moved in here.
+B: You should report this poor upkeep to the landlord.
+A: You're right. I'll call him the first thing in the morning.
+B: Be carful not to damage the floor any further.
+A: I won't. I hope the landlord replaces the floor soon.
+B: He probably will.
+
+26
+A: The floor to my apartment is badly damaged.
+B: I'm sorry to hear that. How bad is it?
+A: It's practically falling apart.
+B: Did some kind of accident cause this?
+A: None that I could've made. I think your previous tenant might have caused this.
+B: That makes sense. He took poor care of the apartment.
+A: I could see that myself.
+B: I'll have that fixed as soon as possible.
+A: If it's not too much trouble, may I request one more thing?
+B: Is there anything else wrong in the apartment?
+A: It's just my bedroom window. I can't seem to get it open.
+B: I'll have that window taken care of as well.
+
+

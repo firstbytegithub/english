@@ -1,0 +1,259 @@
+21 Voting
+
+1. Election Day
+2. Election System
+3. Polling Place
+4. Absentee Ballot
+5. Speaking Negatively about the Candidate
+6. Speaking Positively about the Candidate
+7. Fundraising for Campaigns
+8. Volunteering for Campaigns
+9. Working at the Polling Place
+10. Asking Questions at the Polling Place
+11. Meeting Candidate before Voting
+12. Interviewing a Voter
+13. Excitement after Voting
+14. Discussing Who You Voted for
+15. Disappointed at the Result
+16. Happy with the Result
+17. Comments on the New President
+
+1
+A: Are you voting?
+B: Is Election Day coming up?
+A: It is. Election day is the first Tuesday in November.
+B: I'm not sure if I'm even registered.
+A: Did you fill out a registration form?
+B: I did, and I think I got a card in the mail.
+A: That's your voter card. So you are all set.
+B: Are you going to vote?
+A: I am going to vote. Why don't we go together?
+B: That's a great idea. I still need to decide who I'm voting for.
+A: I received so many mailings from all the candidates.
+B: I'm going to go to your house and read them to help me decide.
+
+2
+A: Election Day is next Tuesday.
+B: Did you register to vote?
+A: How do you register?
+B: If you are a U.S. citizen, 18 years or older, you can fill out a form.
+A: What does the form ask you?
+B: It asks for basic details like your name, address, age, and what political party you want to join.
+A: Do I have to choose a political party?
+B: No, that's optional, but if you choose a party, you can vote in certain primaries.
+A: What happens once I register?
+B: You'll get a voter card in the mail.
+A: What good is that?
+B: It will tell you where your polling place is.
+
+3
+A: Tomorrow's Election Day, but I don't know where I'm supposed to go vote.
+B: You didn't get a card in the mail telling you where you polling place is?
+A: I think I threw it away. Can't I just go with you?
+B: No. Everyone's polling place is different based on your address.
+A: So how do I know where to go now?
+B: You can check the Board of Elections website.
+A: What if I don't have Internet access?
+B: There's also a phone number you can call.
+A: Where is your polling place?
+B: My polling place is at the recreation center a block away from my house.
+A: Will my polling place be close to where I live?
+B: It should be within walking distance.
+
+4
+A: I don't think I'll be in town on Election Day.
+B: You can still vote though.
+A: How can I vote if I won't be here?
+B: You can file an absentee ballot.
+A: How do I do that?
+B: You can ask for a mail-in ballot.
+A: What is that?
+B: It's a form you mail in saying who you want to vote for.
+A: Does it count like a regular ballot?
+B: It's just as if you were voting in person.
+A: I'd better ask for one then.
+B: You should do it quickly since it has to be in a week before Election Day.
+
+5
+A: Are you voting for the same mayoral candidate I am voting for?
+B: There is no way I'm voting for your guy.
+A: Why are you saying that?
+B: Are you kidding? Have you heard him speak?
+A: What do you mean?
+B: I don't agree with his positions.
+A: I think he has a great education plan.
+B: He's going to ruin our schools with his plan.
+A: Come on! How about his jobs plan?
+B: That's even worse than his education plan.
+A: I think you need to give the guy a chance.
+B: The candidate I'm choosing is way better than your guy.
+
+6
+A: I'm really looking forward to casting my vote today.
+B: Oh really? Why?
+A: I think my candidate will really change the way things are done in our city.
+B: How is that?
+A: Her education policy will help all students.
+B: I'll have to review her policy plan before I vote.
+A: You really should. You're a parent.
+B: What else do you like about the candidate?
+A: Her economic policy will lower the unemployment rate in the city.
+B: I've been unemployed for a while.
+A: Then you should vote for her.
+B: I'll read up on her positions.
+
+7
+A: Would you be interested in donating to our candidate's campaign today?
+B: Maybe. Can you tell me more about why you are raising money?
+A: Sure! Campaign ads are expensive, so we want to raise money for TV ads.
+B: Some of those ads are so negative though.
+A: You're right, but the new ads are going to be positive.
+B: How much money are you trying to raise?
+A: We need a few thousand dollars
+B: Is this the only way you are raising money?
+A: No. We are doing phone banking and even having an event.
+B: What kind of event?
+A: We are hosting a lunch with the candidate.
+B: I may be interested in donating for that.
+
+8
+A: I wonder what I can do to get involved in the campaign?
+B: You can volunteer.
+A: What does a campaign volunteer do?
+B: All kinds of things like handing out pamphlets.
+A: Pamphlets about what?
+B: About the candidate and what they stand for.
+A: That sounds like it would be a great way to meet people.
+B: It is. Volunteers also make phone calls and ask for money.
+A: I would feel awkward asking strangers for money.
+B: It's not for you. It's for your candidate.
+A: You have a point.
+B: Volunteering for a campaign is a great experience.
+
+9
+A: I'm really excited about my short-term job.
+B: What's so great about it?
+A: I'll be working at a polling place.
+B: What do you do at that job?
+A: I'll help to make sure voters are voting at the right place and answer basic questions.
+B: Was the job hard to get?
+A: Not really. I filled out an application online.
+B: That's all you had to do?
+A: There was a mandatory training too, but they paid me for that.
+B: Does it pay well?
+A: It pays better than the minimum wage.
+B: Maybe I'll become a poll worker, too.
+
+10
+A: This is my first time voting and I need some help.
+B: I'll be happy to help you. What's your name and address?
+A: Here's my identification.
+B: You are in the right place.
+A: How do you know?
+B: Your name is right here. Sign next to the image of your signature.
+A: Okay, sign here. Then what?
+B: Then you are ready to vote.
+A: Where do I do that?
+B: You can use that empty booth right behind you.
+A: You are so helpful.
+B: I'm just doing my job as a poll worker.
+
+11
+A: I hope you are on your way to vote right now.
+B: I am. And I'm actually voting for you!
+A: Glad to hear that. I appreciate your vote.
+B: Can I ask you a question?
+A: That's why I'm out here today.
+B: Do you really think you can change City Hall?
+A: I am sure going to try.
+B: See that's the reason why you have my vote.
+A: Make sure you tell a friend to vote today.
+B: Should I tell them to vote for you?
+A: You don't have to, but it sure would be appreciated.
+B: Every vote counts.
+
+12
+A: I work for the Big City Newspaper, and I'm doing a story on Election Day.
+B: I read that paper all the time!
+A: Great! So I can interview you for my story?
+B: I would love that!
+A: Did you vote today?
+B: I'm on my way home from voting now.
+A: Who did you vote for?
+B: I voted for our city's first female mayor.
+A: Were there many people voting?
+B: I think turnout was pretty low. It's a shame.
+A: Why do you think that is?
+B: I think people think all politicians are dishonest.
+
+13
+A: That was such a rush.
+B: What did you do?
+A: It was my first time voting in an election.
+B: Oh wow! Congratulations, but why is that so exciting for you?
+A: Are you kidding? I just played a role in history.
+B: What if the incumbent wins?
+A: Still, participating in U.S. democracy is great.
+B: Maybe because I've done it so many times, and it doesn't seem like a big deal to me.
+A: I can't wait to vote again next election.
+B: Not everyone votes, so it's good that you take it seriously.
+A: Everyone should take it seriously.
+B: You're a great example.
+
+14
+A: So, who did you vote for?
+B: I voted for De Blasio.
+A: It's been a while since New York City had a Democrat as a mayor.
+B: It has been too long.
+A: You think so? I'm a Republican.
+B: It's like Obama's campaign. Change is good.
+A: I guess we'll have to wait for the results.
+B: That's true.
+A: May the best person win.
+B: I hope it was my candidate.
+A: What if De Blasio doesn't win?
+B: It's only four years till the next election.
+
+15
+A: I'm really bummed that Di Blasio won the election.
+B: Really? Why is that?
+A: I think Republican mayors have been good for our city.
+B: There's too much inequality.
+A: You think this new mayor will change that?
+B: You bet he will. It was his campaign promise.
+A: Politicians make promises all the time. It doesn't mean anything.
+B: I think you're wrong.
+A: Mark my words. This will mean more crime.
+B: Crime has been going down all over the country.
+A: Thanks to the Democrats.
+B: I guess we'll have to give the new mayor a chance.
+
+16
+A: Finally we'll have a Democratic mayor in New York City.
+B: I don't even know what that is like.
+A: Exactly! There hasn't been a Democrat running this city in a long time.
+B: I hope he will live up to all his campaign promises.
+A: He will. The mayor elect is really sincere.
+B: They all seem sincere in the beginning.
+A: This is really going to turn the city around.
+B: How will that happen?
+A: Are your kidding? There will be better schools.
+B: The school system is pretty bad right now.
+A: There will also be more affordable housing.
+B: The city sure could use that.
+
+17
+A: Having a new president will change the course of history.
+B: Why do you say that?
+A: Well, Obama was our first black president. Now we have our first woman.
+B: You think gender matters that much?
+A: Absolutely! Women view things differently.
+B: You don't think she'll be too soft on foreign policy?
+A: No way! Look how she handled things as Secretary of State.
+B: That's true. She was tough, but also sympathetic.
+A: Exactly. We need someone who is more than just tough.
+B: I worry about people being too tough on her.
+A: She was a first lady so she knows the ins and outs.
+B: She definitely has experience.
+
+

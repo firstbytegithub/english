@@ -1,0 +1,218 @@
+08 Buying a Car
+
+1. Deciding to Buy a Car
+2. Where to Buy a Used Car
+3. Declining to Buy the Car
+4. Detecting a Problem with the Car
+5. How to Pay for the Used Car
+6. Negotiating a Price with the Owner
+7. Negotiating a Price with a Dealer
+8. Test Driving the Car
+9. Taking It to the Mechanic
+10. Title Transfer
+11. Making an Appointment with DMV
+12. At the Window of DMV
+13. Asking about Car Insurance
+14. Buying Insurance
+
+1
+A: I have finally saved up enough to buy my first car.
+B: That's great, dear. Do you have a car in mind?
+A: I want a Honda Civic. I like to drive stick.
+B: Have you been looking around?
+A: Yes, I checked online. I have also been to some dealers.
+B: You have to be careful when you go to dealers.
+A: I know. They will try to take advantage of people.
+B: Yes, you should take somebody that knows about cars.
+A: Yeah, I'm going to take Joseph. He knows everything about cars.
+B: Good idea. How much are you planning to spend?
+A: I have $20,000.
+B: Wow. Are you going to pay for the car? Or will you be making payments?
+A: I was thinking about making payments. I don't want to get stuck without cash.
+B: That sounds like a good idea.
+
+2
+A: Hey, Mark. Do you know where I can look for used cars?
+B: You could always check online. My friend bought a car from Craigslist.
+A: Yeah, I was thinking about that. Do you know any other way?
+B: There is a dealership that sells used cars on Atlantic Boulevard.
+A: Where is it? I have never seen one.
+B: It's on the corner of 7th and Atlantic.
+A: Oh, by the Burger King?
+B: Yeah. They have a pretty good selection. You should check it out.
+A: I'm down. Can you go with me?
+B: Sure, I am free tomorrow and Thursday. Shoot me a text.
+A: Will do, man. Thanks.
+B: Sure thing, bro. You owe me, though.
+
+3
+A: So, what did you think about the car?
+B: It was a good test drive, but I need to think it over.
+A: Do you have any questions or concerns?
+B: I'm sorry, but I don't think I am going to purchase this car.
+A: If I may ask, what didn't you like about the car?
+B: I don't see myself driving this car.
+A: Is it the price? Let me talk to my manager; we might lower the price.
+B: It's not the price. I just don't think it's the right fit for me.
+A: Would you like to see another car at the dealership?
+B: I'm sorry, but I didn't see any other car I liked.
+A: Well, thanks for considering our dealership.
+B: If I change my mind, I will let you know. Thank you.
+
+4
+A: I felt the car's transmission was lagging a bit.
+B: Really? I haven't felt anything.
+A: Have you had the transmission checked?
+B: I took it for a tune-up the other day.
+A: The mechanic didn't say anything?
+B: Nope. He told me that the car was in tip-top shape.
+A: Would you mind if I took it to my mechanic? Just want to be sure.
+B: Sure, go ahead. Would you like to take it right now?
+A: Let me check with my mechanic.
+B: If he is busy, then you can come back tomorrow. I am free.
+A: He said he is free tomorrow. I guess I can come back tomorrow.
+B: Great. Feel free to call me at any time.
+
+5
+A: I really liked this car. How much are you asking for it?
+B: I'm asking for $2,000. It has some minor problems.
+A: Yes, my mechanic told me it was a quick fix.
+B: So, you want to take the car?
+A: Yes, I could write you a check right now.
+B: That sounds good. Could I cash it today?
+A: Yeah, go ahead. It will clear, don't worry.
+B: Didn't mean anything by it.
+A: No, it's cool. I know sometimes you have to wait for a check to clear.
+B: Great. So, could you make it out to Michael Slender?
+A: Sure thing. I'm going to put "Car Payment," under the memo.
+B: Sounds good, man. I will take care of things at the DMV tomorrow.
+
+6
+A: The test drive went well. How much are you asking for?
+B: I am selling the car for $10,000.
+A: Oh, wow. That's a little steep, don't you think?
+B: What were you thinking? Keep in mind, it's in perfect condition.
+A: Well, I would want to take it to my mechanic first.
+B: From the test drive, what price are you thinking?
+A: I was thinking $7,500.
+B: I can't do that price. I've put a lot of work into this car.
+A: Let's cut to the chase. What's your minimum price?
+B: I can let it go for an extra grand.
+A: So, you would let it go for $8,500?
+B: Yes, that would be fine.
+
+7
+A: I liked the car, but I am not happy with the price.
+B: I'm sorry, but that's the best we can do.
+A: Could you talk to your manager and have it brought down?
+B: I could try, but it probably won't work.
+A: I can't afford $15,000. The most I can spend is $10,000.
+B: Let me call my manager. He is out of the office.
+A: I can pay it all off now. I don't want to be making payments.
+B: Well, my manager said that we can work with $11,000.
+A: I can't do $11,000. How about $10,500?
+B: Let me check.
+A: Great. I can pay you with a check today.
+B: It seems that $10,500 will work. Let's get the paperwork filled.
+
+8
+A: How many miles does the car have?
+B: It has 55,150 miles on it.
+A: Let's take it around the block, see what this baby has.
+B: Sure thing. Here are the keys.
+A: The air-conditioning doesn't work?
+B: No, it does not. It's an easy fix though.
+A: Okay. Are there any other problems with it?
+B: Everything should be in order.
+A: The power steering seems to need some fixing.
+B: Why do you say that?
+A: It's hard to turn the steering wheel when turning.
+B: You may take it to a mechanic to make sure.
+
+9
+A: I checked the whole car, and it has some problems.
+B: What kind of problems does it have?
+A: The brakes need to be replaced, as well as the power steering.
+B: Is that all? That seems like an easy fix.
+A: That's not all. The alternator seems to be malfunctioning.
+B: How much would it cost me to fix it all?
+A: It'll cost around $300 to $400.
+B: That's not too bad. Is there anything else?
+A: From what I can tell, no. I would recommend buying it.
+B: Let me call the seller, and I will let you know if you can start.
+A: Great. I can start right away, if he gives you the thumbs up.
+B: He said that it's fine. I will be back for the car when you're done.
+
+10
+A: So, I can give you the title transfer after you pay me.
+B: Okay, I can pay you in full today.
+A: That's great. I have the title transfer here with me.
+B: Great, what do I need to do?
+A: I just need you to fill in the information on this form.
+B: And then you are going to take it to the DMV?
+A: Yes, you should receive a notice from the DMV in the mail.
+B: Okay, that sounds good.
+A: Once you fill out everything, be sure to sign your name at the bottom.
+B: Will do. When can you take the paper to the DMV?
+A: I can take it later on today. If not, I can definitely take it tomorrow.
+B: Awesome. I just want to get everything done fast.
+
+11
+A: Excuse me, but I'd like to make an appointment for next week.
+B: I can help with that. Did you try doing it over the phone or online?
+A: Yes, but it seemed so confusing.
+B: I know what you mean. They are working on it.
+A: Great. So, I wanted to come in sometime next week.
+B: How does Monday sound?
+A: Monday is no good. Is Wednesday okay?
+B: Yes, Wednesday works. We have these times available.
+A: I can come in at 10 a.m.
+B: Great. I need your name and phone number.
+A: My name is Christopher Clark and my phone number is (555) 323-2465
+B: Great. We will see you on Wednesday.
+
+12
+A: Hello, I'm here to renew my registration.
+B: Okay, may I please have your renewal notice?
+A: Yes, here it is. Do you need my driver's license?
+B: No, this is fine. It seems you missed your deadline.
+A: Yes, I completely forgot.
+B: Well, it's going to cost you a bit more to renew it.
+A: How much more will it cost?
+B: It was going to be $88, now it's going to be $120.
+A: Well, I guess I'm going to have to be more careful.
+B: It would be a good idea. Have you done the smog check?
+A: No, is that required?
+B: It is this year. You'll have to do it again two years from now.
+A: Can I come back tomorrow?
+B: Yes. Don't wait in line. Come directly to me.
+
+13
+A: Hello, I wanted to ask you about car insurance prices.
+B: Sure thing. Please, have a seat.
+A: Thank you. I just bought my first car.
+B: Great, congratulations! What kind of car is it?
+A: It's a 1994 Oldsmobile Cutlass Supreme.
+B: Oh, so it's an older make.
+A: Yes, but it's in good condition. So, how much would the payments be?
+B: Depends. Have you been in any accidents?
+A: No, I have not.
+B: Have you gotten any driving tickets?
+A: Nope. That can affect the insurance rate?
+B: At times. Well, everything seems in order. You would have to pay $75 monthly.
+A: That sounds great.
+
+14
+A: Welcome to Infinity Insurance.
+B: Hello. I am looking to buy insurance for my car.
+A: Well, you have come to the right place. Please, sit.
+B: I came in the other day, and I spoke with David.
+A: Oh, great. Did he take down all your information?
+B: Yes. He told me that I had to bring in this paper from the DMV.
+A: Great. This should go by pretty quick, then.
+B: David gave me a price yesterday, as well. He told me it would be $75.
+A: Yes, that is what we charge for first time drivers.
+B: Okay, I would like to make my first payment today.
+A: Good. How would you be paying: cash, debit, or credit card?
+B: I will be paying debit.
+

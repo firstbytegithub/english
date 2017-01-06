@@ -1,0 +1,546 @@
+03 College Life
+
+1. Easy or Hard?
+2. A Restriction
+3. The Quiet Student
+4. Finding the Classroom
+5. Buying Textbooks
+6. Professor Hernandez
+7. A Busy Professor
+8. Turning Homework in Late
+9. An Honest Student
+10. Borrowing Class Notes
+11. 90% Is a B
+12. Rounding It Up
+13. Being Absent
+14. Leaving School
+15. In Need of a Counselor
+16. Talking to a Counselor
+17. Adding a Class
+18. Writing Workshop
+19. Studying Abroad
+20. Job Fair
+21. A Restaurant by the College
+22. Vending Machine Problems
+23. Forgetting Your Student ID
+24. The Overdue Hold
+25. Post-Undergraduate Plans
+26. Purchasing a Parking Permit
+27. Parking Issue
+28. Fighting a Parking Ticket
+29. Sports
+30. Clubs
+31. Early Morning Class
+32. A Bad Roommate
+33. Homesick
+34. Changing Majors
+35. Dropping Out
+36. Freshman 15
+
+1
+A: I don't know which class to register for.
+B: You should pick the class you need.
+A: I know I need a science class.
+B: I would take biology with Mr. Green.
+A: It's a challenging yet fun class.
+B: I don't like challenges.
+A: Why are you in college then?
+B: My mom forced me to enroll.
+A: You should go to a vocational school instead.
+B: I don't think you understand. My mom is scary.
+A: Okay, fine. I recommend Earth Science 125 with Mr. Anderson.
+B: Thanks for the recommendation!
+
+2
+A: I am so upset.
+B: Oh, no. Talk to me about it.
+A: I can't register for a class I really need.
+B: Is it full?
+A: I have a hold on my record, because my library books were overdue.
+B: Can't you just pay the overdue fees?
+A: I can't afford it. I'm totally broke.
+B: How much do you need?
+A: I need $50.
+B: Wow, you must have kept those books long past the due date.
+A: Yes, I know I am horrible.
+B: I'll lend you the money.
+
+3
+A: Hi, I'm James. What's your name?
+B: Hi James. My name is Lisa.
+A: I'm taking this class because it seems interesting. Why are you?
+B: I'm taking this class because it's a requirement.
+A: We should get to know each other.
+B: I don't think so. I like keeping to myself.
+A: So you don't like meeting new students?
+B: Nope. I would rather just be alone.
+A: That is so sad!
+B: It's not. It's really peaceful and self-empowering.
+A: Can we at least study together?
+B: Nope, we can't do that.
+
+4
+A: It takes me hours to find my classroom.
+B: I might be able to help you.
+A: Really? That would be great!
+B: What's your classroom number?
+A: My classroom number is A21.
+B: So the "A" is the building type.
+A: Okay, but I don't know where that is.
+B: Do you know where the gym is?
+A: Yeah, I do.
+B: Okay, your classroom is behind the gym.
+A: That's really helpful! Thank you.
+B: No problem, and the "21" means it's upstairs.
+
+5
+A: I can't spend anymore money after I buy my English textbook.
+B: How much is your English textbook?
+A: It's $198. I'm not kidding.
+B: That's ridiculously expensive! What's the title of the textbook?
+A: It's called How to Write Well.
+B: Dude, someone is selling that book for $30.
+A: No way. What edition is it?
+B: I think it was the 10th edition.
+A: Oh, no wonder he or she is selling it for only $30.
+B: What edition do you need?
+A: I need the 21st edition.
+B: The publisher seems to be really making money, considering the number of editions.
+
+6
+A: I hate Professor Hernandez!
+B: Me too! He keeps calling me stupid!
+A: You think that's bad? He gave me an F, because I double spaced my essay!
+B: But every professor wants essays double spaced. He's crazy!
+A: Professor Hernandez is weird. He wants essays triple spaced.
+B: That's just a waste of paper. Why does he like triple spacing?
+A: He says it's because he has to make a lot of corrections, because we're stupid.
+B: We should start a petition, and get him fired!
+A: We should, but he can find out.
+B: I know. If he found out, he would ruin everyone's lives.
+A: He is so evil.
+B: That's why this petition has to work!
+
+7
+A: Hey, Professor Hill.
+B: What is it?
+A: I've been having trouble with derivatives.
+B: That's not good. There's a test on derivatives next week.
+A: I know. Can I make an appointment with you for some help?
+B: I'm a busy man.
+A: You didn't even check your schedule yet!
+B: I know I'm busy, because many people already made appointments.
+A: So I'm hopeless?
+B: Of course not! There's the tutoring center.
+A: But the tutors are not professors. They're just students.
+B: They might surprise you.
+
+8
+A: May I turn in my homework tomorrow?
+B: It's due today.
+A: I know, but I don't have it right now.
+B: How come? Your dog ate it?
+A: No! I left it at home.
+B: I can't take your word for it.
+A: Why not? I'm an A+ student.
+B: How do I know if you even did the homework?
+A: I'll ask my mom to take a picture of it and send it to me.
+B: That's fair enough.
+A: Thanks. Also, you should try trusting students more. We're not all bad.
+B: I'll try, but I can't promise anything.
+
+9
+A: I have to tell you something.
+B: What is it?
+A: You graded my test incorrectly. I got this wrong, but you didn't mark it.
+B: Wow! I have never met a more honest student.
+A: I just felt wrong.
+B: Just keep the score you have.
+A: Really? That's awesome.
+B: Yes. I have to ask, why did you decide to tell me?
+A: I'm really bad at lying.
+B: That's a good thing! Your honesty is praiseworthy.
+A: Thanks. Want to give me extra credit?
+B: Don't push it.
+
+10
+A: Can I borrow your class notes from yesterday's lecture?
+B: Heck no! You're so lazy.
+A: What are you talking about? I was sick yesterday.
+B: I don't care. Ask someone else.
+A: You're so mean!
+B: I can't let anyone borrow my class notes.
+A: Why not? They're just notes.
+B: I let a classmate borrow my notes once, and she sold copies to people.
+A: That's crazy! For how much?
+B: She sold each class note set for $5.
+A: Don't worry, I promise not to sell your notes.
+B: I can't take your word for it.
+
+11
+A: I think your grading policy is unfair.
+B: I beg your pardon?!
+A: Why is a 90% a B?
+B: I'm trying to challenge you guys.
+A: That's not a challenge, that's a punishment.
+B: I've had this policy since I started teaching.
+A: It's time for a change.
+B: I'm not changing my policy because you don't like it.
+A: Put yourself in my shoes.
+B: I have been a student once, and I think my policy is fair.
+A: I'm going to drop your class!
+B: Go ahead! Less for me to grade!
+
+12
+A: I have a 89.5%.
+B: Okay, so what?
+A: It's really close to an A.
+B: You know I don't round up.
+A: But I really need a 4.0 GPA.
+B: You get what you deserve.
+A: I know I deserve an A. I always do great work and participate.
+B: I can't change it.
+A: Please? I'll wash your car.
+B: Are you bribing me?
+A: I just want an A.
+B: I'll give you a C if you don't leave now.
+
+13
+A: Why were you absent yesterday?
+B: Why do you care?
+A: You should be thankful I care so much about your education.
+B: The truth is, I didn't hear the alarm clock.
+A: You missed out on a very important lecture.
+B: It happens. I'll just ask my friend what was on the lecture.
+A: Is she a good note taker?
+B: I don't know. I guess?
+A: If you were in class, you wouldn't have to rely on anyone's notes.
+B: I can't change the past.
+A: I know. Anyways, you should increase the volume on your alarm clock.
+B: I suppose I could do that.
+
+14
+A: I have to leave class early tomorrow.
+B: I don't like that. Just don't come to class.
+A: Don't be like that, Professor! I have to attend my mom's funeral.
+B: I'm sorry for your loss.
+A: It's okay. I'm going to miss her.
+B: I lost my mom when I was in college, too.
+A: Saddest thing ever, right?
+B: Yes. You know what? Take a week off school.
+A: I can't do that. I have too many responsibilities.
+B: Take my advice.
+A: I'll think about it.
+B: If you ever need to talk, my door is open.
+
+15
+A: I would like to see my counselor now.
+B: Sorry, she doesn't have any time today.
+A: Are you serious?
+B: Yes, I am. Please make an appointment for next week.
+A: I really need to see her.
+B: I'm sorry, but you really can't.
+A: I swear, I will bang on her door and scream.
+B: Don't make a scene.
+A: If you don't want me to make a scene, tell the counselor I'm here.
+B: Fine! You can only talk to her for five minutes, though.
+A: That's all I need.
+B: Next time, you'd better make an appointment.
+
+16
+A: I'm glad you came to talk to me today.
+B: You kind of forced me to.
+A: That's because I'm worried.
+B: What are you worried about?
+A: You withdrew from 4 of your 5 classes last semester.
+B: I was doing poorly!
+A: And why was that exactly?
+B: It was just too hard.
+A: You're really behind now. You might have to spend 6 years here.
+B: Can't I just take summer classes?
+A: Yes, but you don't want to stress yourself out.
+B: I don't really have a choice.
+
+17
+A: I'm thinking of adding another class.
+B: Another one? You already have 7 classes.
+A: I know, but I really want to add Psychology 101. It seems interesting.
+B: You're going to be so stressed out.
+A: I think I can handle 8 classes.
+B: Seriously? You're going to be constantly in class or studying.
+A: I know, but it's worth it.
+B: Tell me that when I'm partying and you're not.
+A: How many classes are you taking? Two?
+B: Haha! You're funny. I'm taking three.
+A: That's so little. Don't you feel like an underachiever?
+B: Remind me again why we're friends.
+
+18
+A: Want to go to the writing workshop with me today?
+B: Nah man, my writing skills is tight.
+A: You mean "are" instead of "is," right?
+B: Yeah, of course!
+A: You should come with me. Our college has great workshops.
+B: I don't want to look stupid.
+A: You won't. You look stupid using incorrect grammar.
+B: Fine. How long is the workshop?
+A: It's about an hour.
+B: I don't think my attention span is more than 5 minutes.
+A: Don't worry, I'll pinch you to wake you up.
+B: That's a clever idea.
+
+19
+A: I'm planning to study abroad this summer.
+B: Cool! Where are you going?
+A: I'm going to Italy.
+B: What are you studying there?
+A: I'm taking a cooking class.
+B: That sounds interesting.
+A: I'm excited to learn in a totally new environment.
+B: Italy seems beautiful.
+A: It's beautiful in the pictures I've seen.
+B: Take a lot when you're there.
+A: I will, and I'll study hard, too.
+B: Also, learn some Italian while you're there.
+
+20
+A: I hope I can find a job after graduation.
+B: What is your major?
+A: My major is geology.
+B: Geology majors aren't very high in demand, but you'll do fine.
+A: What makes you say that?
+B: You're smart and likeable. Don't worry.
+A: Thanks, but I'm still scared.
+B: Oh, hey! You should go to the job fair.
+A: We have that here?
+B: Yes. Take advantage of it.
+A: Have you ever been there?
+B: Yes, and it's really helpful. Dress nicely!
+
+21
+A: I am so sick of dining hall food.
+B: Me too! It's so unhealthy.
+A: We should go to a restaurant nearby.
+B: Want to go to Health Nut?
+A: What a funny name!
+B: I like it!
+A: Do they sell nuts?
+B: I'm not sure. Anyways, I want to try their organic tofu.
+A: I'm allergic to tofu.
+B: That's okay! They serve a wide variety of food.
+A: Great! I'm just glad we're not eating dining hall food.
+B: Me too. Let's go!
+
+22
+A: Why are you taking so long? Is something wrong?
+B: Sorry, my bag of chips got stuck.
+A: Vending machines suck, huh?
+B: They're the worst, but the food is great.
+A: It might come out if someone buys an item from the same column yours is on.
+B: Can you be that "someone?"
+A: Sure, why not? I could use some chips.
+B: Thanks! Hey, what is your name?
+A: My name is Charlie.
+B: Nice to meet you, Charlie.
+A: What is your name?
+B: Hater of Vending Machines.
+
+23
+A: I would like to purchase the book for Sociology 130.
+B: May I see your student ID?
+A: I didn't know we needed it.
+B: Please go get your ID, and get in line again.
+A: But I waited in line for two hours!
+B: I'm sorry, but you need a student ID to purchase textbooks here.
+A: Are there any other options?
+B: Show me proof that you're a student at this college, and you'll be good.
+A: I have my report card. Here it is.
+B: This will do. Nice grades by the way.
+A: Thanks! I worked very hard for them.
+B: Good luck with this semester.
+
+24
+A: Wow! Your books are over the due date by one month.
+B: It would have been longer if there wasn't a hold on my record.
+A: What kind of hold is on your record?
+B: A hold that won't let me go to the college football game.
+A: Oh, that's tough.
+B: Yeah. My girlfriend is actually a cheerleader, and so I have to go.
+A: You're not going to like what I'm going to say.
+B: What is it?
+A: I can't remove the hold even if you pay the overdue fee.
+B: Is it a technical error?
+A: I don't know! I just can't remove it!
+B: If my girlfriend breaks up with me, I'm blaming you.
+
+25
+A: What do you plan to do after you graduate from here?
+B: I'm planning to go to medical school. You?
+A: I'm planning to teach English in underprivileged countries.
+B: That's really kind of you.
+A: Thanks. The first country I'm teaching in is Kenya.
+B: While you're at Kenya, I'll be studying for medical school.
+A: What kind of doctor do you want to be?
+B: I want to be a pediatrician.
+A: Because you like kids?
+B: I don't really have a good reason. I just think I'll be good at it.
+A: You should do what you love, not necessarily what you're good at.
+B: That is very cheesy advice.
+
+26
+A: The parking permit is $200 per semester, right?
+B: It's actually $300.
+A: Why?! That's ridiculous.
+B: It's because of the budget cuts.
+A: That's a terrible excuse.
+B: It's the truth.
+A: Give me something better than that.
+B: Miss, if you don't want to pay, then don't.
+A: This is so stressful.
+B: I advise writing a letter to the dean.
+A: I bet he'll just throw it away.
+B: You would be surprised.
+
+27
+A: Do you have a car on campus?
+B: No, because it's hard to find parking here.
+A: How do you get to places then?
+B: I walk or take the bus.
+A: That's crazy! I could never do that.
+B: You should. It's great for the environment.
+A: That's true. What do you do for fun then?
+B: There's a lot of stuff to do around campus.
+A: I never realized.
+B: You should do some exploring.
+A: You convinced me. I won't bring my car this semester.
+B: We can walk to places together now!
+
+28
+A: You know you can't park here, right?
+B: Listen, I had to talk to my friend really quickly, and there was no parking spaces.
+A: I'm going to have to give you a ticket.
+B: I'm a broke college student.
+A: And I'm a broke police officer. Deal with it.
+B: Can't you just let me off with a warning?
+A: No way. I have to be firm with you.
+B: I'll buy you a box of donuts.
+A: You have got to be kidding me.
+B: I thought all cops liked donuts.
+A: That's a stereotype. You should really learn to be quiet.
+B: I'll stay quiet if you let me off with a warning.
+
+29
+A: I'm thinking of joining a sports club on campus.
+B: You should! It takes away the stress of studying.
+A: What sport do you play?
+B: I actually play on our university's baseball team.
+A: That's cool! You must be really good.
+B: Yeah, I have a baseball scholarship.
+A: No wonder you're in such great shape!
+B: You'll be in great shape too after joining a sports club.
+A: I'm thinking of joining the tennis club.
+B: I wouldn't if I were you. The members don't even play tennis.
+A: What do they do then?
+B: They just talk about tennis. They never even touched a racket, though.
+
+30
+A: College is so boring. All I do is go to class.
+B: You should join some clubs.
+A: Are you a part of any clubs?
+B: Yes! I am currently in the Animal Lovers Club and the Knitting Club.
+A: What do you do in the Animal Lovers Club?
+B: We do a lot of things! Last week, we walked dogs.
+A: That sounds fun. What's the wildest animal you ever interacted with?
+B: I touched a dodo bird a couple weeks ago.
+A: Dodo birds are extinct.
+B: I'm just messing with you!
+A: You're silly! Okay, I'll join the Animal Lovers Club.
+B: Great! We always welcome new members.
+
+31
+A: I have to go to bed early.
+B: Why? The night is still young!
+A: I have a class at 7 a.m.
+B: That's tough! My earliest class is at 9 a.m.
+A: That sounds amazing to me.
+B: How do you stay awake in that class?
+A: Before I go to class, I drink four cups of coffee and take a cold shower.
+B: Interesting routine. Does it work?
+A: Kind of. It's better than not doing it at all.
+B: Why are you taking that class?
+A: It's only offered once a year, so I have to take it now.
+B: I hope the class is interesting, at least.
+
+32
+A: I hate my roommate.
+B: I'm sorry to hear that. What's wrong with her?
+A: A lot of things. First of all, she snores so loudly!
+B: That's not really her fault. What else?
+A: She never takes a shower.
+B: That's disgusting! You should tell her to take a shower.
+A: I did! She got mad at me and then proceeded to slap me.
+B: Ouch! Did you try to get a new roommate?
+A: I tried, but I could not. No one was willing to switch.
+B: I guess you can get a new room by yourself.
+A: I can't afford it. Ugh, I hate her so much.
+B: It's okay. The year will be over before you know it.
+
+33
+A: Are you okay? You look really sad.
+B: I'm homesick. I feel so out of place here.
+A: But this college is so awesome.
+B: I know, but I really miss home.
+A: How far do you live?
+B: Far. Let's just say I need an airplane to get there.
+A: It's almost winter break. Hang in there.
+B: I don't think I can handle it anymore.
+A: Try calling your friends and family from your hometown.
+B: I don't want them to worry about me.
+A: Just call them. Don't you want to stop feeling sad?
+B: Okay, I'll call them now.
+
+34
+A: I was wondering if I could change my major from biology to political science.
+B: Those majors are very different from each other.
+A: I know, but I hate biology. I can't see myself studying it anymore.
+B: You can change it, but you'll have to take more classes.
+A: I don't mind. Political science is really interesting to me.
+B: You would be graduating a year late.
+A: Oh, no. I have to think a little more about this then.
+B: I think you should change it, since you hate biology.
+A: Yeah, you're right. I'm sorry I am so indecisive.
+B: A lot of people change majors. It's normal.
+A: But not as late as I did. I hate that I'm graduating after all my friends.
+B: You're making the right choice.
+
+35
+A: I have decided to drop out of college.
+B: You're making the worst decision of your life.
+A: I just don't get the point of college. It's just memorizing.
+B: What are you going to do then?
+A: I'm going to get a job!
+B: As what? A burger flipper?
+A: Don't be mean. I'm going to be rich and successful when I'm older.
+B: It's almost impossible to be rich and successful without a college degree.
+A: Look at Steve Jobs! He dropped out of college.
+B: He's a rare case.
+A: Watch me prove you wrong.
+B: I'd like to see you try.
+
+36
+A: I gained so much weight because my college dining hall is all-you-can-eat.
+B: It's called the "freshman 15."
+A: What is that exactly?
+B: It's an expression to refer to the observation that many college freshmen gain weight.
+A: Oh, I see. I definitely got the freshman 15 then.
+B: You should use your college's gym.
+A: I never have time.
+B: Oh, please! You just have to make time.
+A: I guess I should set an hour to work out.
+B: That's the attitude I like to hear!
+A: Did you gain any weight?
+B: Yeah, I just wear big clothes to hide my fat.
+
+
+
+

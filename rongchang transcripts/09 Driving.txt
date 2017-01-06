@@ -1,0 +1,306 @@
+09 Driving
+
+1. Applying for a Driving Permit
+2. Taking the Written Test
+3. Learning how to Drive (1)
+4. Learning how to Drive (2)
+5. Failing the Road Test
+6. Passing the Road Test
+7. Getting the Driver's License
+8. Where to Park on Campus
+9. Getting a Parking Ticket
+10. Paying off Parking Tickets
+11. Failing to Stop at a Stop Sign
+12. Driving through a Red Light
+13. Fighting a Ticket in Court (1)
+14. Fighting a Ticket in Court (2)
+15. Paying the Ticket Fine
+16. Calling a Traffic School
+17. At the Traffic School
+18. A Traffic Incident
+19. A Car Accident
+20. Calling the Insurance Company
+
+1
+A: Hello. I am number G85.
+B: How may I help you today?
+A: I would like to apply for my driving permit.
+B: Are you 16 years old? That's the minimum age.
+A: Yes, I am. Here is my ID.
+B: Thank you. May I see your form?
+A: Oh, of course. Would I be able to take the written today?
+B: If you have the $30, then yes, you can take it.
+A: Oh, I must have forgotten my money at home.
+B: Well, you can make an appointment to take it tomorrow.
+A: That sounds like a good idea.
+B: Okay, I will set up the appointment.
+
+2
+A: Before you take your written test, we need to take your picture.
+B: Okay, where do I go?
+A: I can take the photo. Stand behind the red line, please.
+B: Where do I go to take the test?
+A: Go on the other side of the wall, and pick a stall.
+B: Sounds good. May I have a pencil?
+A: Sure, the pencils are at the front desk.
+B: Where do I obtain the test?
+A: They will give you your test. Remember, eyes on your own test.
+B: Of course. This reminds me of school.
+A: Yeah, we get that a lot.
+B: Will they let me know if I passed the test or not?
+A: Yes, they will let you know after you finish.
+
+3
+A: The first thing you want to do is fasten your seat belt.
+B: Check. What's next?
+A: Check your mirrors and make sure you can see behind you.
+B: Done. Should I put it in reverse, now?
+A: Yes, ease off the brake slowly.
+B: Okay, I need to turn to leave the parking lot.
+A: Make sure there are no pedestrians walking behind you.
+B: Okay, do I turn the steering wheel to the left?
+A: Yes, make sure you are paying attention to the cars.
+B: Will do. Do I put it in drive now?
+A: Yes, but remember have your foot on the brake and then ease it off.
+B: Wow, this seems easy. Let's go out on the street.
+
+4
+A: Where should my hands be on the steering wheel?
+B: Your hands should be on 10 and 2.
+A: 10 and 2? What do you mean?
+B: Think of the steering wheel as a clock, and put your hands on 10 and 2.
+A: Oh, okay. What about my eyes? Should I be looking at the signs?
+B: Take a quick glance at the signs, but always look in front.
+A: When do I have to use my horn?
+B: You should use your horn for an emergency.
+A: What about if someone cuts me off?
+B: That's not an appropriate use of your horn.
+A: Am I ready to start driving yet?
+B: No, you need to learn some more of the basics.
+
+5
+A: Unfortunately, you made a lot of mistakes. I cannot pass you.
+B: What mistakes did I make?
+A: You failed to put your turn signals when turning a corner.
+B: How many mistakes am I allowed?
+A: You are allowed three mistakes. You got five.
+B: Which other mistakes did I make?
+A: You hit the curb when you were parallel parking.
+B: I thought you might have missed that.
+A: No, you also didn't pay attention to some of the signs.
+B: Which signs are you talking about?
+A: You passed a yield sign, and you did not yield.
+B: Can I take the test again?
+A: You can take it again on Monday.
+
+6
+A: Dad, I passed my driving test!
+B: You did? That's great news!
+A: Where do you want to go first, dad?
+B: You're going to take me out for a ride?
+A: Yes, where do you want to go?
+B: How about we go get you a nice steak dinner?
+A: That sounds great. I could go for a nice steak around now.
+B: Come to the house and pick me up.
+A: Would I be able to drive by myself?
+B: No, you have to drive with someone over the age of 21.
+A: Oh, okay. Well, can we drop off my friend that took me to the DMV?
+B: Sure, we can go drop him off before we leave.
+
+7
+A: Finally, I got my driver's license.
+B: Congratulations! Can I see it?
+A: Sure. Here it is. I don't like my picture.
+B: Oh, wow. You blinked.
+A: Yeah, they didn't want to take another picture.
+B: I didn't know your middle name was David.
+A: Oh, no. I didn't want anyone to know.
+B: Well, you shouldn't have put it on your license.
+A: I had to. When are you going to get your license?
+B: I was thinking about going tomorrow to the DMV.
+A: You want me to take you? I do have my license now.
+B: Sure! Pick me up from my house at noon.
+
+8
+A: Excuse me. This is my first time on campus. Where can I park?
+B: There are three parking lots on campus.
+A: Can you point me to the direction of the nearest one?
+B: Keep driving straight. When you get to the light, make a left.
+A: Thank you. Do I have to pay?
+B: The first floor has visitors parking.
+A: So, do I have to pay? Do they take credit cards?
+B: Yes, you would have to pay, and they do take credit cards.
+A: How much does it cost to park?
+B: I believe it is $3. I could be wrong.
+A: Oh, okay. Thank you very much.
+B: You're welcome. Have a nice day.
+
+9
+A: Sir, is this your car?
+B: Yes, are you giving me a ticket?
+A: Unfortunately, yes, I am. Read the sign.
+B: Which sign? I don't see a sign.
+A: The sign above you, sir.
+B: So, what? It says that we can't park on Mondays.
+A: Yes, it does. Although, it also says that you can't park without a permit.
+B: I didn't see that.
+A: Well, I'm sorry, but I still have to give you the ticket.
+B: Can't you just give me a warning?
+A: I'm sorry, but I already started writing the ticket.
+B: Fine. Give me the ticket. I'll fight it in court.
+
+10
+A: Dad, I got a parking ticket at school.
+B: Well, you should pay it off as soon as possible.
+A: Where can I pay it off?
+B: You can go to Downtown and go to the court there.
+A: Can I pay it off online?
+B: Yes, you can. Look at the fine. It should give a website.
+A: Oh, okay. Let me go get the ticket. It's in my car.
+B: Hurry, because I need to leave to work.
+A: Oh, wait. I forgot I put it in my wallet.
+B: Well, take it out. Look in the back. It should give you a website.
+A: Yes, it's in the back. Am I going to pay with my debit card?
+B: Yes, do you have the money to pay?
+
+11
+A: Do you know why I stopped you?
+B: No, officer. Why?
+A: You failed to stop at the stop sign.
+B: I'm sorry, officer. I didn't see the stop sign.
+A: Have you had anything to drink?
+B: No, I have not. Do you need to see my license?
+A: Yes, I need your license and registration.
+B: Okay, here is my paperwork.
+A: I will be back. I need to check your background.
+B: Sure thing, officer.
+A: Everything seems to be in order. I'm going to give you a warning.
+B: Thank you, officer. I'll be more careful.
+
+12
+A: Where do you want to go eat?
+B: I'm not sure. Wait, watch out! The light is red!
+A: Oh, damn. Well, there I passed it.
+B: I think there was a cop at the light.
+A: Can you check? Look behind you.
+B: I don't see anything. Wait, there is a car turning the corner.
+A: Is it a police car? Well, is it?
+B: Oh, no. I think it is.
+A: Well, hopefully he doesn't stop us.
+B: Oh, no. He just turned on his lights.
+A: Damn, I have to pull over.
+B: Yes, I hope I don't get a ticket.
+
+13
+A: Your Honour, I'd like to challenge this ticket.
+B: What is your reason for challenging this ticket?
+A: The police officer did not have the right to issue the ticket.
+B: Can you explain what you mean with that statement?
+A: I was rightfully parked. He told me that I was parked in a handicap space. 
+B: Well, was it a handicap space?
+A: It used to be. It is not anymore.
+B: Well, was there a sign letting you know it was a handicap space?
+A: No, because the spot has since been removed.
+B: So, did you explain to the officer that it was no longer a handicap space.
+A: I tried, but he wouldn't listen. He said I was trying to get away from paying.
+B: Thank you. I will question the officer, and get his side of the story.
+
+14
+A: I can't pay for the ticket.
+B: Why can't you pay for the ticket?
+A: Well, I just got laid off from my job.
+B: Okay, Mr. Richardson. I'm going to give you an alternative.
+A: What do you mean?
+B: I am going to have to give you 36 hours of community service.
+A: Thank you for the opportunity, Your Honor.
+B: You will report to the nearest community service center.
+A: They will tell me where to go?
+B: Yes, they will give you an option of places to go.
+A: Thank you, Your Honour. I greatly appreciate it.
+B: You're welcome. I hope you don't plan on returning to this courtroom anytime soon.
+
+15
+A: So, how much is the ticket going to cost?
+B: Well, it's going to be $200.
+A: $200 for a parking ticket?
+B: Well, it looks like this is your third parking ticket.
+A: Yes, but I haven't gotten one in a couple of months.
+B: This is your third parking ticket this year.
+A: I know. Fine, I will pay the ticket.
+B: How will you be paying the ticket?
+A: I will be paying cash.
+B: So that'll be $200 in cash.
+A: Yes, let me get you your receipt.
+B: Thank you. Have a nice day.
+
+16
+A: Hello. I need to make an appointment.
+B: Were you mandated by the court to go to traffic school?
+A: Yes, I was. Does that matter?
+B: Yes, it does. Let me have your full name.
+A: It's David Johnson. What days do you have available?
+B: We have Tuesday, Thursday, and Saturday.
+A: Oh, okay. I can make it on Thursday. What time should I be in?
+B: Come in at 9 a.m. if you can't make it during that time, please call.
+A: Great. I will see you this Thursday.
+B: Remember to bring your court papers. We will need to sign those.
+A: I seem to have lost them. Could I go to court to get another copy?
+B: Yes, go to the court and print them out before you come over.
+
+17
+A: Thank you for coming in today. I'll see you next week.
+B: Excuse me, instructor. May I speak with you for a moment?
+A: Sure thing, Mr. Davis. What can I help you with?
+B: Well, about next week. I can't make it.
+A: That is a problem. You are mandated by court to attend every week.
+B: I know, but I have a family emergency.
+A: You have to go to the court and ask for an extension.
+B: Do I have to come back over here after?
+A: No, they will give you a make-up date.
+B: Great. Thank you for all your help.
+A: Sure thing. I hope everything is alright.
+B: Thanks. I'll see you next time.
+
+18
+A: What's going on? What happened?
+B: I'm sorry. I wasn't paying attention.
+A: Well, I'm going to need your information.
+B: Yes, I know. I'm sorry. I was distracted with the car accident.
+A: I figured. Well, here is my information.
+B: Let me get my information. I have it in my car.
+A: Yes, please do that.
+B: Well, it seems like I don't have my insurance card.
+A: How could you not have your insurance information?
+B: I drive another car; I must have left it in that one.
+A: Fine. Let me get your information.
+B: Sure, call me later on today. I will give you my information.
+
+19
+A: Hello, officer. I want to report a car accident.
+B: What was the cause of the accident?
+A: The other driver had been drinking.
+B: Are there any casualties?
+A: No, both drivers are fine.
+B: Where did the accident take place?
+A: It's on the corner of Fifth and Vine Street.
+B: How many people are involved in the accident?
+A: There are two cars. Each car has two people in the vehicle.
+B: We will respond as soon as possible.
+A: Thank you. Can you hurry; it looks like one of the drivers wants to leave. 
+B: We will get there as soon as possible.
+
+20
+A: Hello. I was in an accident earlier today.
+B: Okay, did you get the appropriate information from the other driver?
+A: Yes, I did. Just tell me what you need.
+B: It would be better if you came into the office.
+A: When can I come in?
+B: You can come in tomorrow. What time works for you?
+A: I can make it in tomorrow at noon.
+B: Great. Can you give me your full name?
+A: Yes, it's David Mark.
+B: Okay, Mr. Mark. I have you scheduled for tomorrow at noon.
+A: Sounds good. I will see you tomorrow.
+B: Please remember to bring in all the information you got from the other driver.
+
+

@@ -1,0 +1,451 @@
+13 Employment
+
+1. Looking for a Job
+2. Preparing for a Job Interview (1)
+3. Preparing for a Job Interview (2)
+4. Greeted by Receptionist
+5. Job Interview (1)
+6. Job Interview (2)
+7. Asking questions at an Interview
+8. Accepting a Job Offer
+9. Talking on the Phone
+10. Request for Office Supplies
+11. Offering Help
+12. Asking for Help
+13. Responding to a Plea for Help
+14. How to Do a Timesheet
+15. Making a Phone Call
+16. Schedule an Appointment for a Meeting
+17. Rearranging an Appointment
+18. Giving an Excuse for Being Late to Work
+19. Accepting Excuses for Not Meeting Commitments
+20. Asking for a Description of a Person
+21. Asking for Permission
+22. Express Agreement
+23. Express Disagreement
+24. Express Certainty
+25. Express Uncertainty
+26. Express Likes
+27. Express Dislikes
+28. Making Promises
+
+1
+A: Hey Dennis, this is Ron. How's it going?
+B: Hi, Ron. I'm looking for a summer job. I was hoping you could help me.
+A: Okay, how can I help you?
+B: Well, I was wondering if you could hook me up at the place you work.
+A: No problem. I don't know if they're hiring, but I'll find out.
+B: Aw man, you're the bomb!
+A: What kind of job you are interested in doing?
+B: Anything you think that I can do will be fine.
+A: I'll talk to my boss in the morning and get back to you.
+B: Thanks, man. A friend in need is a friend indeed.
+A: Anything else you need me to do?
+B: No. I'm waiting to hear from you.
+
+2
+A: Okay, I talked to my boss. Here's his phone number.
+B: Thanks a lot, bud. Did he say he has an open position?
+A: No, but he said he would talk to you.
+B: That's great! Hey, thanks again.
+A: You know, you should also go online to look for work
+B: Online? Where?
+A: There are many job search websites.
+B: Do you know any by name?
+A: Just Google "Jobs in L.A." and you'll find some.
+B: Okay, I'll try that when I get home.
+A: You can do it on your smartphone, you know.
+B: I know, but I think it's better at home, thanks again.
+
+3
+A: I am so excited. I've got my first job interview.
+B: Interview for what?
+A: It's an engineering internship for the city of L.A.
+B: Wow, that's impressive.
+A: I'm preparing for the interview by practicing with my sister.
+B: What exactly are you doing?
+A: We're doing mock interviews.
+B: Is that helpful?
+A: It sure is. She recorded our first interview, and pointed out things I should avoid.
+B: What are some of the things she saw?
+A: She said that I said,"You know" too much, and that I looked nervous.
+B: Cool! That should help.
+A: It has. I feel so confident now.
+B: Well, good luck, my friend.
+
+4
+A: Good morning. Welcome to ABC Technologies.
+B: Hi, good morning.
+A: How can I help you?
+B: I have an appointment with Mr. Rogers today.
+A: Oh, what time is that? I don't see it on his schedule.
+B: Well there's no set time. I'm an old friend of his.
+A: Okay, Let me call him. What is your name?
+B: I'm Tom Williams. He will know me.
+A: Just a minute, sir. Please take a seat.
+B: Thank you.
+A: Yes, Mr. Williams. Mr. Rogers will see you soon.
+B: That's wonderful. I know how busy he is. Thanks.
+
+5
+A: Good morning. My name is Robert Stevens.
+B: Good morning, Mr. Stevens. My name is Richard Jones.
+A: Please have a seat, and let's get started.
+B: Thank you, Mr. Stevens.
+A: Please call me Robert, and I'll call you Richard. We are informal here.
+B: That's good to know, Robert. Thanks.
+A: I see you have two years experience. Can you tell me a little about that?
+B: Oh, yes. I worked in the mailroom at Acme Corporation last year.
+A: Go on, please.
+B: It was a temporary job, but I gained a lot of experience.
+A: Excellent! We are always looking for someone with experience.
+B: I think this experience will help me blend into a job working here.
+
+6
+A: Hello, my name is Angela Davis.
+B: Good morning, Angela. I am Dick Williams. I'll be interviewing you today.
+A: Good morning, Mr. Williams.
+B: So, what do you know about our company, Angela?
+A: Well, I did a little Internet research last night, and I know the company is growing.
+B: Excellent! What else?
+A: I learned the company is a leading seller of office technology equipment.
+B: That's good, Angela. I'm happy to see you taking the time to do research.
+A: Thank you, Mr. Williams.
+B: I am going to recommend you for the job.
+A: Thanks again.
+B: Someone will contact you soon. Congratulations!
+
+7
+A: That concludes my part of the interview. Do you have any questions for me?
+B: Yes, thank you, Mr. Thompson, I do.
+A: Okay, what's on your mind?
+B: Is this a new position?
+A: Yes, we have created this new position recently.
+B: If you hire me, when do you want me to start?
+A: We plan to hire someone by the end of this month.
+B: Are there some times of the year that are busier than others?
+A: Yes. The summer months are very busy here.
+B: That's good to know. Does it matter if I take night classes?
+A: No. The hours for the job are in the daytime.
+B: Okay, I have no more questions. Thank you.
+
+8
+A: Hello, may I speak to Susan, please?
+B: Yes, this is Susan.
+A: This is Mr. Jones from the ABC Company.
+B: Hello, Mr. Jones.
+A: I have a job offer if you are still interested.
+B: Oh, that's wonderful. Is it for the customer service job?
+A: Yes, we would like you to start next Monday. It pays $15 per hour.
+B: Next Monday? Sure. I'll take it.
+A: Super. I'll email you some literature you can read about our company.
+B: Oh, that's great news, Mr. Jones.
+A: Welcome to the ABC Company. We'll see you Monday.
+B: Okay, Monday it is. See you then.
+
+9
+A: Hello.
+B: Hi, baby, it's Joe.
+A: What's up, honey?
+B: I just got off work. What are you doing tonight?
+A: I don't have any plans. I'll be getting home at about 6:00.
+B: Well, I got a hold of some Dodger tickets for tonight.
+A: How did you manage that?
+B: A friend at work was selling them. He couldn't go himself.
+A: That's great! Who are they playing?
+B: They're playing the Giants. It should be a good game.
+A: Alright then, count me in.
+B: Okay, I'll pick you up at 6:30.
+
+10
+A: Hey Alice, do you have a stapler I can use?
+B: Of course I do. It's on my desk.
+A: Thanks. Mine broke two weeks ago.
+B: Didn't you put in a office supply request?
+A: I asked Joseph if he would get me one.
+B: I know he's in charge, but you should submit a form.
+A: A form? What form?
+B: An Office Supply form. Don't rely on Joseph. Put it in writing.
+A: Oh, I could use a couple of other supplies, too.
+B: Yes, by all means, get what you need.
+A: Where are these forms?
+B: I'll email it to you. Just print it, and send it in.
+A: Thanks, Alice.
+B: No problem.
+
+11
+A: Hi, Michelle. What are you up to?
+B: I'm looking for work online.
+A: Cool! What kind of job are you looking for?
+B: I need a part-time job, but I'm not doing too well.
+A: I'm pretty good at this. Can I help?
+B: You sure can.
+A: Okay, let's see. You can narrow your search on this site.
+B: How can I do that?
+A: Go to the "Advanced Search" button and click on it.
+B: I see it. Okay, now what?
+A: There are many options. You can search by city, by job, or pay.
+B: I see. Let me try searching by city. Thanks.
+
+12
+A: Hello, my name is Sally. I am hoping you could help me.
+B: Of course I can, that's what I'm here for.
+A: I want to look for a job, but I don't have Internet access at home.
+B: That's okay, let's get started.
+A: Great! What do I do first?
+B: You're going to need an email address. Do you have one?
+A: Yes, I have my own email.
+B: Okay, I can show you a couple of good websites for jobs.
+A: That would be awesome! Thanks.
+B: We also have job bulletins on that table over there. You can search through those, too.
+A: Well, thank you, miss. I greatly appreciate your help.
+B: No problem. If you have any questions, don't hesitate to ask.
+
+13
+A: Hey, Richard, I could sure use your help.
+B: What is it, Jerry?
+A: I can't seem to land an interview.
+B: Have you applied to many places?
+A: Yes I have. I've sent out about 50 resumes.
+B: Did you include cover letters?
+A: On some I did, others, no.
+B: Well, that may be your problem. You should always include a cover letter.
+A: Really? Why?
+B: It shows you took the time to research the company. HR people like that.
+A: Okay, I will. Thanks.
+B: You're welcome. I think you will see more interest in your resume now.
+
+14
+A: This is the first time I've ever had to do a timesheet.
+B: Well, they're very easy to do.
+A: You've done this before. Maybe you can help me.
+B: Sure, I can help.
+A: What do I need?
+B: You'll need your employee number.
+A: Okay, I'll look it up.
+B: Once you have that, all you need to do is log your hours.
+A: I have a good idea what hours I worked this week.
+B: You need to be accurate.
+A: It will be pretty close.
+B: It must be exact. You don't want to cheat the company, or yourself.
+
+15
+A: Hi! How are you?
+B: I'm doing good. How are you?
+A: I'm great, but a little nervous.
+B: Why is that?
+A: I have a phone interview for a job in an hour.
+B: A phone interview? That's great!
+A: It is, but I'm convinced I'm going to mess it up.
+B: Oh, you shouldn't say that. You'll be fine.
+A: I wish I had your confidence.
+B: Just relax, and be yourself. A phone interview is easier than in person.
+A: That's right. I wasn't looking at it that way.
+B: Be yourself. Don't pretend to be anyone else, and you'll do well.
+
+16A: I know a lot of you have been working double shifts lately.
+B: Yes, we have.
+A: I am pleased to say that we have hired some help.
+B: Alright! That's great. When do they start?
+A: One person will start next week. The others will follow.
+B: Only one? You promised more help last week.
+A: I know I did, but the search has taken longer than I thought.
+B: Oh, no. That's terrible.
+A: Don't worry. I promise you all, I'll get some help.
+B: Okay, thanks. These 16-hour days are killing us.
+A: Help is on the way. I promise.
+B: That's good enough for us.
+A: Good morning, Jet Office Products.
+B: Hello, my name is Richard Lee, and I would like to make an appointment.
+A: Good morning, Mr. Lee. My name is Sheila.
+B: Hello, Sheila. I was asked by Mrs. Roberts to schedule a meeting with her.
+A: Is this for an interview?
+B: No, I've already interviewed with her.
+A: Oh, I see. It's for a follow-up meeting. When are you free?
+B: My schedule is fairly open. When will she be available?
+A: How about Tuesday at 9 a.m.?
+B: This Tuesday, the 5th?
+A: Yes, that's correct.
+B: That will be fine. I'll be there. Thanks.
+
+17
+A: Good afternoon. Jet Office Products.
+B: Hello, my name is Richard Lee. I need to reschedule an appointment.
+A: I could help you with that.
+B: I have an appointment for 9 a.m. Tuesday that I need to change.
+A: Who was your appointment with?
+B: I was scheduled to see Mrs. Roberts.
+A: Okay. Thank you for calling.
+B: You're welcome. Can I reschedule?
+A: Yes, of course. When will you be free?
+B: Does Mrs. Roberts have any time on Wednesday?
+A: No, but she's free Thursday afternoon at 1:00 p.m.
+B: That's perfect. Thank you. I'll see her then.
+
+18
+A: Good morning, Peterson Industries.
+B: Hello, Betty. This is Roger.
+A: Hey, Roger. Where are you?
+B: I am stuck on the 60 freeway. I'm going to be late for work.
+A: Oh, no. Any traffic accident happened?
+B: I really don't know, Betty. All I know is that traffic is crawling.
+A: I will tell your supervisor you called in late.
+B: That would be great, but I could tell him myself.
+A: Well, normally that would be okay, but he's stuck in the same traffic jam.
+B: Oh no! Really? Okay.
+A: At least he'll know your excuse is true!
+B: Yes. Thank you. See you soon.
+
+19
+A: Please have a seat.
+B: Thank you.
+A: I am very disappointed in you.
+B: I know. Believe me, I tried very hard to make your deadline.
+A: I was depending on that report.
+B: I know, but unexpected circumstances came up.
+A: Unexpected circumstances?
+B: Yes. I would have had it ready in time, but the computer crashed.
+A: The company computer crashed?
+B: Yes, it did. I had weeks of saved work on it when it crashed.
+A: So your report was ready?
+B: Yes, it was. The crash deleted all my work.
+A: Okay, I'll check with IT. Thanks.
+B: You're welcome.
+
+20
+A: Hi! How are you?
+B: I'm doing good. Hey, did you apply for the job?
+A: I sure did. I'm meeting your boss today.
+B: Today, but it's Saturday.
+A: I know. I'm meeting with him at a restaurant later.
+B: That's cool. He must be very interested.
+A: Can you describe him?
+B: Sure. He's a tall Asian, who is a bit overweight with long black hair.
+A: Well, that helps. This is the first time I will see him.
+B: He's really friendly, and he always wears a tie.
+A: Okay, thanks. That helps.
+B: No problem, my friend. Good luck on your interview.
+
+21
+A: Hello, this is my first time here. I could use some help.
+B: Okay, I can help. What is it you want to do?
+A: I need to use the database on your computer.
+B: Well, I need something from you before I can allow you to do that.
+A: What do you need from me?A: I know a lot of you have been working double shifts lately.
+B: Yes, we have.
+A: I am pleased to say that we have hired some help.
+B: Alright! That's great. When do they start?
+A: One person will start next week. The others will follow.
+B: Only one? You promised more help last week.
+A: I know I did, but the search has taken longer than I thought.
+B: Oh, no. That's terrible.
+A: Don't worry. I promise you all, I'll get some help.
+B: Okay, thanks. These 16-hour days are killing us.
+A: Help is on the way. I promise.
+B: That's good enough for us.
+B: I will need you to fill out this form, and show me identification.
+A: Okay, I'll do that. I can then search your database?
+B: Oh, no. You'll need to ask for permission.
+A: Here's the form and my ID.
+B: Wonderful. You can ask Mr. Lee for permission now.
+A: That's super. Thanks.
+B: You're welcome. Good luck.
+
+22
+A: how's it going?
+B: Same old stuff. What's up?
+A: I'm working on this project. Can you look at it?
+B: Yeah, I'll take a look at it. What is it supposed to be?
+A: It's a presentation on how to increase productivity.
+B: Really? This is your project?
+A: Yes. I came up with an idea, and my boss wants to see it.
+B: That's awesome. Let's see it.
+A: Well, that's it. What do you think?
+B: I really liked the graphics. I think it's a winner.
+A: That's great. I am really nervous.
+B: Don't be. It is very professional, and it's a great idea.
+
+23
+A: Hey! Are you busy?
+B: Not at the moment. What's going on?
+A: I wanted to run something by you. It's an idea for work.
+B: Okay, shoot.
+A: Well, I'm thinking of asking my boss to change the work schedule.
+B: Why? What's your idea?
+A: It's to change from five, eight-hour days, to four, ten-hour days.
+B: Wow. That's a big change. I don't think he'll go for it.
+A: It's still 40 hours per week, and everyone will get an extra day off.
+B: I don't think it will work. It's not a good idea.
+A: Why is it not a good idea?
+B: Companies should be open five days a week. Sorry, I don't like it.
+
+24
+A: I just read your proposal.
+B: What did you think about it?
+A: You definitely have some good ideas.
+B: Well, I worked on it very hard.
+A: I'm concerned about the cost, though.
+B: I thought you might be. Here's a cost analysis I ran.
+A: It says here that your proposal will pay for itself in a year.
+B: That's what I put in the report. 
+A: That's impressive. If this is true, I'm certain this can work.
+B: I'm quite sure it will work.
+A: You have done a good job. We'll discuss this at our next meeting.
+B: I appreciate your confidence in me.
+
+25
+A: How are you?
+B: I'm doing well. How are you?
+A: I'm fine, thanks. I was wondering if you read my report.
+B: Yes, I did read your report.
+A: Well, what did you think?
+B: To be truthful, I didn't like it much.
+A: Oh, no. Why not?
+B: I don't have the time to discuss this now. Let's make an appointment.
+A: Okay, but generally speaking, what was wrong with it?
+B: I just don't feel confident in it.
+A: I can make it work. All I need is time.
+B: I like your enthusiasm, but it's too risky, sorry.
+
+26
+A: Hello, my name is George. What's your name?
+B: Hi George, I'm Christine. Nice to meet you.
+A: Hi Christine. Have you worked here long?
+B: Almost two years now, and you?
+A: This is my first week. I really like it so far.
+B: Yes, it's a good place to work.
+A: I like how it seems so organized.
+B: That's one of the things I like best, too.
+A: The benefits aren't bad, either.
+B: No, they're not. I especially like the health plan.
+A: That's great. I'll be eligible in July for that.
+B: You're going to like it here. This is the best place I've worked.
+
+27
+A: Oh, I am so tired.
+B: I know what you mean.
+A: I don't know if I can continue working like this.
+B: I know. I've been doing it a lot longer than you.
+A: Isn't there something we can do?
+B: I have complained about the double shifts before.
+A: What has management told you?
+B: They said they are hiring more people, and that this is temporary.
+A: I need this job, but I don't like these hours at all.
+B: Just hang in there. I'm sure it will change.
+A: It'd better change, and the sooner the better.
+B: You're right. People may start leaving.
+
+28
+A: I know a lot of you have been working double shifts lately.
+B: Yes, we have.
+A: I am pleased to say that we have hired some help.
+B: Alright! That's great. When do they start?
+A: One person will start next week. The others will follow.
+B: Only one? You promised more help last week.
+A: I know I did, but the search has taken longer than I thought.
+B: Oh, no. That's terrible.
+A: Don't worry. I promise you all, I'll get some help.
+B: Okay, thanks. These 16-hour days are killing us.
+A: Help is on the way. I promise.
+B: That's good enough for us.
+

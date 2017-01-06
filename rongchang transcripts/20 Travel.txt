@@ -1,0 +1,409 @@
+20 Travel
+
+1. Visiting a Travel Agent
+2. Making a Plane Reservation
+3. Booking a Flight Online
+4. Buying a Plane Ticket
+5. Making a Hotel Reservation
+6. Getting a Passport
+7. Luggage Limits
+8. Carry-on Luggage
+9. Dropping Off at the Airport
+10. Picking Up at the Airport
+11. Going through the Customs
+12. Talking to a Curbside Agent
+13. Talking to a Flight Attendant
+14. Talking to a Seatmate
+15. Ordering Food and Drink
+16. Missing Connecting Flight
+17. Ground Transportation
+18. Arranging a Tour of the City
+19. Complaining about a Tour
+20. Sightseeing
+21. Making Alternate Plans
+22. Shopping for Souvenirs
+23. Losing the Wallet and Passport
+24. Being Cautious in a Big City
+25. Local Customs
+26. Shuttle Bus at the Airport
+27. Arriving Home
+
+1
+A: Thank you for coming to our travel agency. How can I help you?
+B: I would like to book a trip to Disney World for my family.
+A: Your family will have much fun. When do you want to go?
+B: We want to go during the summer when the kids have off from school.
+A: I suggest early June because it won't rain too much and the park isn't as crowded as later in the season.
+B: Great! let's do the second week in June.
+A: How many adults and how many children will be travelling?
+B: There are two adults and two children.
+A: Do you have an airline preference?
+B: No. I have no preference as long as the flight is non-stop.
+A: Do you want a budget hotel or a luxury hotel?
+B: Can you book something in between?
+
+2
+A: Thank you for calling Eagle Airline.
+B: I would like to book a round trip flight from Los Angeles to New York City
+A: What date do you want to leave Los Angeles?
+B: I want to leave on September 1st.
+A: Do you prefer a morning flight?
+B: Can you get me on a red-eye out of LAX?
+A: I can book you on an overnight flight that will get you into New York City at 6 a.m.
+B: Make sure I land in JFK not LaGuardia airport
+A: Okay, so I have you on an overnight flight from Los Angeles International Airport leaving at 10 p.m. to JFK.
+B: I don't want to have anyone climbing over me to use the bathroom while I sleep, so I want a window seat.
+A: I will put you in window seat 13A.
+B: Make sure that isn't an exit row because I don't want to have to help in an emergency.
+
+3
+A: Let's book a trip to Puerto Rico.
+B: There are so many online services that let us book from our computer right here at home.
+A: How will we know we're getting a good deal though?
+B: If we use a site like Expedia or Priceline, we can find something within our budget.
+A: Can we book both flights and hotels online?
+B: Yes, and we can even rent a car as part of our package.
+A: I just logged onto those websites, so now what?
+B: Just put the dates you want to travel, where you're traveling from, and where you want to go.
+A: Wow, there are even reviews from people who stayed at the hotels.
+B: Yes. You can even see pictures of what the hotel rooms look like.
+A: We don't get paper tickets though.
+B: We can print out all the information after we book it online if you want.
+
+4
+A: I would like to buy a plane ticket to Boston, Massachusetts.
+B: What date would you like to leave and where are you leaving from?
+A: I would like to travel for the Labor Day holiday and I'm leaving from Burbank airport.
+B: We don't have any direct flights from Burbank to Boston's Logan airport.
+A: I don't want to have a long layover.
+B: I can make a reservation for you for a flight that changes planes in Denver.
+A: How long is the layover?
+B: The layover is two hours.
+A: That will give me enough time to grab a bite. Book it.
+B: Do you have a frequent flyer number?
+A: What is that?
+B: If you fly with us enough, you get points to earn towards a free flight.
+
+5
+A: Good afternoon! This is the Beach Palace Hotel. How can I help you?
+B: Do you have any rooms available for this weekend?
+A: Yes. How many nights will you be staying?
+B: My wife and I would like to stay for two nights.
+A: Do you want a room with a view of the beach?
+B: Is that more expensive?
+A: The room without a view is 200 dollars a night.
+B: How much is a room with a view?
+A: A room with a view is $300 a night.
+B: Is there a room with a partial view?
+A: There is a room with an obstructed view.
+B: I'll take it, but only if it's less than $300.
+
+6
+A: Good afternoon. I want to get a U.S. Passport.
+B: Is this your first passport?
+A: It is my first U.S. Passport.
+B: Did you fill out the application form?
+A: I downloaded the form at home and have it here.
+B: Did you bring proof of U.S. citizenship?
+A: What kind of proof do I need?
+B: A birth certificate if you were born in the U.S. or naturalization papers.
+A: I'm a new citizen so I have naturalization papers.
+B: This is good because it also serves as your identification.
+A: What else do I need to provide?
+B: I just need $165 and two photographs.
+
+7
+A: Can you tell me what are the luggage limits for this domestic flight?
+B: You are allowed one carry-on luggage and one personal item.
+A: So I can bring this roll-away suitcase on the plane?
+B: Yes. That will fit in the overhead bin so it won't cost you.
+A: What is a personal item?
+B: Anything that will fit under the seat in front of you is a personal item.
+A: Can I bring my really big suitcase on the plane?
+B: No. We will have to check that in for $35.
+A: That's not included in the cost of the ticket?
+B: No. The first checked bag is $35 and another will be an additional $25.
+A: When I was younger, everything was included in the price of the ticket.
+B: Times have changed.
+
+8
+A: You are allowed two carry-on items on this flight.
+B: Can I bring on this suitcase?
+A: It looks smaller than 45 inches, so it should fit in the overhead compartment.
+B: I don't want to put my computer bag in the overhead though.
+A: The laptop bag can go underneath the seat in front of you.
+B: It's cold in Buffalo, so can I bring my coat?
+A: Your coat doesn't count as a carry-on.
+B: I have a separate bag with a tuna sandwich I just bought.
+A: The bag of food doesn't count as a carry-on.
+B: This pillow doesn't fit in my bag either and I need it for the flight.
+A: You can bring a pillow or blanket, too.
+B: I forgot my blanket at home.
+
+9
+A: Can you give me a ride to the airport tomorrow?
+B: Depends on what time you need to be at the airport.
+A: Well, my flight leaves at 10:30 in the morning.
+B: Did you check in online already?
+A: Yes, I checked in and I don't have any bags to check.
+B: So we should leave by 9:00, so you can be there by 9:30.
+A: It's an international flight.
+B: Oh, so you need to be there two hours before your flight.
+A: Can you get me to the airport by 8:30?
+B: That's when I take the kids to school, so no.
+A: So how am I going to get to the airport then?
+B: Guess you'll have to pay for a cab.
+
+10
+A: I'll pick you up at the airport when you come back from your business trip.
+B: I'm taking the red-eye, so I land early in the morning.
+A: Tell me the airline and terminal number so I know where to get you.
+B: I'm taking Jet Air so that's terminal 4.
+A: Call me when you land.
+B: My flight comes in at 6 a.m., so just wait for me then.
+A: Cars aren't allowed to wait outside the terminal for more than a few minutes.
+B: I don't want to have to wait at the curb for too long.
+A: Well, I don't want to get a ticket.
+B: Fine, I'll call you when I'm at the baggage claim.
+A: Call me after you get your bags from the baggage claim.
+B: Fine, but don't make me wait too long for you.
+
+11
+A: Do you have your customs form?
+B: Yes, I filled it out on the plane.
+A: I also need your passport.
+B: I'm a U.S. citizen.
+A: I still need to see your passport.
+B: What other documents do you need?
+A: Do you have anything to declare?
+B: I bought some leather wallets in Morocco.
+A: You're going to have to show them to me.
+B: Are you going to take then away from me?
+A: I'll only confiscate them if they are made of python skin.
+B: They are just leather wallets.
+
+12
+A: Can I check in here at the curb?
+B: Sure! Do you have any bags you need to check in?
+A: I have one suitcase.
+B: That will be $35.
+A: Oh, but I paid online already.
+B: Can I see your ID and I'll check for you.
+A: Here is my driver's license.
+B: Sorry about that. You did pay already.
+A: I told you so.
+B: Looks like you're leaving out of gate 12A, but check the screens inside.
+A: Can my mom come with me to the gate?
+B: Not unless she is flying with you.
+
+13
+A: Can I please have a rum and coke?
+B: You are going to have to wait until we take off and are at a cruising altitude.
+A: I hate flying though, and I really need something to take the edge off.
+B: I'm sorry we don't serve anything until after take-off.
+A: I can pay you in cash.
+B: We don't take cash on the plane anymore.
+A: So how can I pay?
+B: When I come around after we take off, you can pay with a debit or credit card.
+A: I only have cash.
+B: See if someone will buy you a drink then.
+A: Can I smoke a cigarette to relax in the meantime?
+B: Smoking isn't allowed on flights.
+
+14
+A: Do you hate flying as much as I do?
+B: Only when I have chatty seatmates.
+A: You look like a business traveler, am I right?
+B: I'm in sales, but please excuse me. I have a lot of work to do.
+A: Is that computer connected to the airplane wi-fi network?
+B: It is, so I can send work to my office even when travelling.
+A: I hope they pay you really well.
+B: That's really none of your business.
+A: Do you have a company credit card?
+B: I do because I travel so much.
+A: Maybe you can buy me a drink since all I have is cash.
+B: I can only pay for business expenses, not alcohol.
+
+15
+A: Can I get you something to eat or drink?
+B: I'd like a coffee and a breakfast sandwich.
+A: The coffee is complimentary, but the sandwich costs five dollars.
+B: So much for a measly sandwich?!
+A: Will that be all for you?
+B: For now, but if I'm hungry or thirsty later, can I have something else?
+A: As long as it's before we land.
+B: What else can I have to eat or drink?
+A: There is a menu in your seatback pocket.
+B: How do I get your attention when I'm ready to order something else?
+A: Just press the button above your head with the image of a person.
+B: Can I have a copy of my receipt?
+
+16
+A: I missed my connecting flight to Washington D.C.
+B: How did you miss your flight?
+A: I was sitting in the airport bar and I lost track of time.
+B: Well, that's not really our fault.
+A: Fine, but what can you do for me?
+B: I can put you on the stand-by list.
+A: What does that mean?
+B: It means that if there are empty seats on the next flight out, you can get on.
+A: What if there are no seats?
+B: You can buy another ticket.
+A: I didn't even buy the first ticket.
+B: I guess you have to buy a ticket.
+
+17
+A: I need to get into downtown as quickly as possible.
+B: We have many ground transportation options.
+A: I don't want to have to share a car with anyone.
+B: Then a taxi would probably be the best option.
+A: Where can I get a taxi?
+B: There is a special taxi line right outside the revolving doors.
+A: How much is that going to cost me?
+B: The city taxis have a meter so you pay by the mile.
+A: Does the fare include the tip?
+B: No, How much you tip is up to you.
+A: Does the taxi take credit cards?
+B: No. Taxis here are cash only.
+
+18
+A: Where can I get a tour of the city?
+B: We can arrange a tour for you right here at our concierge desk.
+A: How much is the tour?
+B: It depends on what kind of tour you want.
+A: I hear you have a half-day bus tour.
+B: We do, and it is $25 per person.
+A: Can I get off the bus and explore on my own?
+B: You can only do that if you take the all-day bus tour.
+A: Is that more money?
+B: It doubles the price.
+A: That's highway robbery, but book me anyway.
+B: That will be $50 then.
+
+19
+A: I want to make a complaint about the all-day bus tour I took yesterday.
+B: I'm sorry you have a complaint.
+A: I actually have a few complaints.
+B: Please tell me what went wrong.
+A: We were stuck in traffic for an hour.
+B: Well, that's out of our control.
+A: The bus had no air conditioning.
+B: It was 60 degrees out yesterday though.
+A: I want a full refund.
+B: I can't give you a full refund since you enjoyed part of the tour.
+A: How about a partial refund then?
+B: I will give you a partial refund for the unsatisfactory tour.
+
+20
+A: What are some of the best things to see in this city?
+B: If you want to go sightseeing, we have a tour that leaves from the hotel.
+A: I'd rather explore the city on my own.
+B: In that case I can give you a map that highlights some of the best things to see.
+A: That sounds perfect.
+B: The map also has coupons attached for some restaurants and shops near the landmarks.
+A: I love a bargain.
+B: You can walk around the city, but I'll also give you a subway map in case you want to take the train.
+A: The subway looks scary in the movies and on TV.
+B: It isn't scary at all.
+A: Can I get a subway pass from you?
+B: No, you'll have to buy that at the train station.
+
+21
+A: I'm sorry, but today's bus tour has been canceled because of the weather.
+B: Now what am I supposed to do?
+A: The hotel's concierge will be happy to find you tickets to a local theater production.
+B: I'm not really a theater person.
+A: How about we get you reservations to one of the city's finest restaurants?
+B: That sounds good.
+A: What kind of food do you like?
+B: I love seafood, especially lobster.
+A: I'll book you a table at the Lobster Shack restaurant then.
+B: Will the hotel provide transportation?
+A: We can get you a cab.
+B: I'd prefer a limo.
+
+22
+A: I can't believe today is the last day of our vacation.
+B: We should shop for some souvenirs to bring back home to our friends.
+A: I'd much rather we spend another day seeing the sights.
+B: We can sightsee and buy souvenirs along the way.
+A: Why don't we just buy souvenirs at the airport?
+B: The airport charges way too much for souvenirs.
+A: Our friends won't know the difference.
+B: We will know!
+A: The hotel has postcards in the lobby, I think.
+B: Postcards are to be mailed not given as souvenirs.
+A: Fine! Let's go to the museum gift shop.
+B: That's a great idea.
+
+23
+A: Officer, my wallet and passport are gone.
+B: We'll file a report so that no one else tries to use your passport.
+A: What about my credit cards?
+B: You'll have to call the credit card companies and have them cancel the cards.
+A: How will I get home without a passport?
+B: You can't get home without a passport.
+A: So what should I do?
+B: Call the nearest U.S. Embassy and tell them what happened.
+A: Will I need to apply for a new passport?
+B: Most likely you will.
+A: Is that going to take a long time?
+B: Just take a copy of this police report and see if that will make the process faster.
+
+24
+A: You really shouldn't wear all that bling when we go sightseeing today.
+B: Why are you such a scared cat?
+A: You look like you want to be mugged.
+B: Stop nagging me and walk with me to the ATM so I can get a lot of cash out.
+A: You should only carry what you need for the day.
+B: I don't want to have to make multiple trips to the ATM.
+A: If you are robbed, they will take everything though.
+B: Why are you so obsessed with crime?
+A: It's just that criminals look for careless tourists.
+B: You make it sound like every city is dangerous.
+A: Cities have good and bad things.
+B: Well, let's enjoy the good things and not expect the worse.
+
+25
+A: Come inside and meet my family.
+B: How should I greet them?
+A: They will probably want to hug you.
+B: That's a little awkward.
+A: It's just part of their culture.
+B: Anything else I should prepare myself for before going in?
+A: You should accept something to eat or drink even if you are not hungry or thirsty.
+B: Is that part of the custom?
+A: Yes. If you refuse, it is considered very rude.
+B: I don't want to disrespect your family.
+A: You'd better not disrespect them.
+B: Don't worry, I'll do you a solid.
+
+26
+A: Where can I find the shuttle bus?
+B: There're a number of shuttle buses you can take here at the airport.
+A: I am looking for the shuttle bus that will take me to the rental car location.
+B: Those are out the doors and to the left.
+A: Are those shuttle buses free?
+B: If you have a reservation with the car rental company, they are.
+A: I forgot to make a reservation.
+B: The rental car companies have kiosks at the other end of the airport.
+A: Maybe I'll just take the shuttle bus to the subway.
+B: That shuttle bus is free and is to the right when you exit.
+A: Is there a shuttle bus to take me all the way home?
+B: There is a company that offers that for a fee.
+
+27
+A: There really is no place like home even after a vacation.
+B: Um honey, did you tell the neighbor to water the plants?
+A: I thought you did.
+B: What about the mail, did you tell the neighbor to pick that up?
+A: So I have to do everything around here?
+B: What about the cat?
+A: What about the cat?
+B: Did you get the neighbor to feed the cat while we were gone?
+A: Cats are pretty good at taking care of themselves.
+B: I can't believe you!
+A: At least no one broke into the house while we were gone.
+B: Thank goodness for the small miracle.
+
+

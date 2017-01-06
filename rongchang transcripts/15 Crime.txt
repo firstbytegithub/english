@@ -1,0 +1,219 @@
+15 Crime
+
+1. A News Report on Crime
+2. About a Robbery
+3. Being Robbed
+4. Witnessing a Robbery
+5. Reporting a Break-in
+6. Picking a Suspect Out of a Line-up
+7. Answering Questions of the Police
+8. Being Pulled Over
+9. Being Arrested
+10. Pleading Not Guilty in Court
+11. Being Set Free
+12. Discussing a Lawsuit against the Police
+13. Talking to a Lawyer
+14. Filing a Complaint at the Police Station
+
+1
+A: Police are still searching for a robbery suspect in San Bernardino.
+B: Where did you hear about this?
+A: I saw it on the news last night.
+B: Did he rob a store or a home?
+A: He robbed a check cashing place.
+B: Did he have a weapon?
+A: He had a gun but he tricked a woman working there to let him in the back.
+B: How did he do that?
+A: He pretended to be blind and the woman felt bad for him.
+B: Why would she feel bad for him?
+A: He said he was thirsty so she opened the back to give him a glass of water.
+B: That's why I don't use check cashing places.
+
+2
+A: Did you see the police posters in the neighborhood?
+B: I haven't seen them. What do they say?
+A: They say not to leave anything valuable in your cars at night.
+B: Sometimes I leave my purse in the car.
+A: Well, the posters say that there has been an increase in car break-ins in our neighborhood.
+B: Do they have any suspects?
+A: The police haven't released any details yet.
+B: I'd better be more careful about what I leave in my car overnight.
+A: Yeah, you should be on the look out for suspicious people.
+B: What makes a person look suspicious?
+A: People looking into cars seems suspicious.
+B: Maybe I'll park my car in the garage from now on.
+
+3
+A: I need to report a robbery.
+B: Who was robbed?
+A: I was robbed.
+B: I'm so sorry. When did this happen?
+A: It happened 10 minutes ago.
+B: Where were you robbed?
+A: Right outside the bank. I had just taken money from the ATM.
+B: Can you describe the person who robbed you?
+A: He was wearing dark sunglasses and a Yankees baseball cap.
+B: How much money did he take from you?
+A: He took everything I had in my wallet.
+B: You're going to have to fill out a police report.
+
+4
+A: Can you describe the robbery you saw?
+B: It happened right here in front of the bank.
+A: Can you describe the suspect?
+B: He was tall, wearing sunglasses and a Yankees baseball cap.
+A: Did he have any weapons?
+B: I didn't see a gun, but he had his hand in his pocket.
+A: So he could have had a gun?
+B: I suppose so.
+A: Did you see which way the suspect went?
+B: I was so scared, and was shaking, but I think he went towards the train station.
+A: Could you pick the suspect out of a lineup?
+B: Only if I'm sure that he can't see me.
+
+5
+A: Someone broke into my house.
+B: How do you know?
+A: The front window is broken and there is glass everywhere.
+B: You shouldn't go in the house until we send an officer there.
+A: I'm already in the house. The house is trashed.
+B: Don't touch anything until the police get there.
+A: My new flatscreen tv is gone.
+B: Is there anything else that is obviously missing?
+A: I can't tell unless I go further into my house.
+B: Please wait outside in case the robber is still inside.
+A: You think he could still be inside?
+B: It's a possibility. A police car will be there shortly.
+
+6
+A: Do you think you can identify the man you saw robbing the woman outside the bank?
+B: I think I remember what he looked like.
+A: Please take a look at the six men lined up.
+B: Can they see me?
+A: No, they cannot see you. This is one-way glass.
+B: I see the man who robbed the lady outside the bank.
+A: Can you tell us which one he is?
+B: It's number three for sure.
+A: Number three, please step forward.
+B: That's him. You're sure he can't see me?
+A: He can't see you. Thanks for your help today.
+B: Please don't let him rob anyone else.
+
+7
+A: Can you tell us what you saw?
+B: I didn't see much. I was afraid.
+A: Why were you afraid?
+B: The man had his hand in his pocket like he had a gun.
+A: Did you actually see a gun?
+B: No, I didn't.
+A: Did you see the man take the woman's wallet?
+B: I did. I was inside the bank waiting on line.
+A: Could you come to the precinct and fill out a witness statement?
+B: Is it going to take very long?
+A: No, it won't and an officer will drive you home.
+B: I guess I can go to the precinct then.
+
+8
+A: Can I have you license and registration, sir?
+B: What seems to be the problem, officer?
+A: You have no idea why I pulled you over?
+B: I don't have any idea, officer.
+A: You were going 60 miles an hour and the speed limit is only 45.
+B: Sorry, officer. I guess I was in a rush.
+A: Where are you rushing to?
+B: I'm late picking up my kids from school.
+A: I'm going to have to give you a ticket.
+B: Can't you just let me off with a warning? I'll be more careful next time.
+A: You could have caused an accident and never made it to get your kids.
+B: You have a point, officer.
+
+9
+A: Open the door, police.
+B: What's going on?
+A: We have a warrant for your arrest.
+B: What's the charge?
+A: You are being arrested for robbery.
+B: I didn't rob anyone.
+A: Tell it to the judge. Turn around, please.
+B: I know my rights!
+A: You have the right to remain silent.
+B: How about my right to a lawyer?
+A: You can call your attorney after we process you.
+B: I'm not saying anything else until I speak to a lawyer.
+
+10
+A: How do you plea to the charges?
+B: I plead not guilty.
+A: There are several witnesses that can testify to you being the robber.
+B: I understand that, Your Honour. But I did not do it.
+A: There is video surveillance that shows you robbing the victim.
+B: I would like to review that evidence, Your Honour.
+A: Your attorney can provide you with that evidence.
+B: I am sure I can prove my innocence once I see the footage.
+A: Would you like to present any of that evidence now?
+B: May I confer with my attorney?
+A: I can call a half hour recess.
+B: I won't need more time than that, Your Honour.
+
+11
+A: Given the evidence that has just been provided, the court releases you.
+B: I'm free to go, Your Honour?
+A: You are free to go.
+B: Thank you. I am happy justice has been served.
+A: The court is pleased as well.
+B: I don't ever plan to be back in this courtroom, Your Honour.
+A: I sure hope not.
+B: Your Honour, I didn't commit the crime I was accused of.
+A: Do you know how many times I have heard that?
+B: I'm sure many times, but I mean it.
+A: Many people say they mean it, and I still see them before me.
+B: I won't be one of those people.
+
+12
+A: I want to file a wrongful arrest lawsuit.
+B: What proof do you have that you were wrongfully arrested?
+A: Well, I didn't rob anybody.
+B: Why were you arrested then?
+A: I fit the description of the suspect.
+B: Well, how was that a wrongful arrest?
+A: They didn't investigate if I had a twin brother or not.
+B: Do you have a twin brother?
+A: I have an identical twin brother.
+B: Did the police find out?
+A: The police found out when I told them.
+B: We may have a case then.
+
+13
+A: I would like to hire you to represent me in court.
+B: What is the court case about?
+A: I'm being accused of robbery.
+B: Did you commit the robbery?
+A: No! It was my twin brother.
+B: Do you have proof of that?
+A: I do have proof of that. I also have an airtight alibi.
+B: When is the next court date?
+A: I have to appear next week.
+B: That doesn't give me much time to prepare.
+A: I can pay whatever you ask.
+B: In that case, let me have my secretary draw up a contract.
+
+14
+A: I'd like to file a complaint.
+B: Of course you want to file a complaint.
+A: Are you the on-duty supervisor?
+B: I am the on-duty supervisor.
+A: Than you can take my complaint.
+B: What is the nature of your complaint?
+A: My neighbor is illegally dumping garbage in my yard.
+B: Would you like us to send some officers to speak to him?
+A: They already did that and he is still throwing nasty garbage in my yard.
+B: All right, you're going to have to see the community police officer upstairs on the third floor.
+A: They will take my complaint?
+B: Yes, they will take it and conduct a full investigation.
+
+
+
+
+
+
+

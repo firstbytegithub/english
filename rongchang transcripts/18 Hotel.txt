@@ -1,0 +1,334 @@
+18 Hotel
+
+1. Calling to Make a Reservation
+2. Making an Online Reservation
+3. Checking into the Hotel
+4. Requesting a Wake-up Call
+5. Asking the Concierge for Sightseeing Advice
+6. Asking the Concierge for Restaurant Advice
+7. Talking to Room Service
+8. Calling to Report a Cockroach Problem (1)
+9. Calling to Report a Cockroach Problem (2)
+10. Asking about the Hotel Gym
+11. Asking for More Amenities
+12. Asking Where to Make a Copy
+13. Calling to Report a Medical Emergency
+14. Calling for a Wireless Connection
+15. Requesting More Supplies for the Minibar
+16. Asking about the Swimming Pool
+17. Getting a Taxi via the Front Desk
+18. Checking Out
+19. Disputing the Bill
+20. Storing Luggage for a Few Hours
+21. To Hold a Parcel for Pick-up
+22. Calling to Cancel a Reservation
+
+1
+A: I'd like to make a reservation.
+B: Can you tell me what dates you would like to stay?
+A: I want to stay from April first through the third.
+B: That's two nights. What kind of room would you like?
+A: I'd like an economy room, please.
+B: Do you want two twin beds or one queen bed?
+A: I'll be staying in the room alone, so one queen bed is fine.
+B: That will be a total of $219. I need your credit card number.
+A: I have to pay right now?
+B: We need a credit card so we can hold your reservation.
+A: What if I need to cancel?
+B: You need to let us know 24 hours in advance, or else we charge you regardless.
+
+2
+A: I'm going to book our hotel reservation online.
+B: Are you going to book directly from the hotel website?
+A: I think if I use a service like Hotels.com, it is cheaper.
+B: You should compare the websites and see which gives us a better deal.
+A: It asks us how many nights we are staying.
+B: You are also going to have to tell them how many adults and children are staying in the room.
+A: The hotels.com website compares prices for different hotels.
+B: Pick the one that is cheapest, but has the nicest rooms.
+A: How can I tell?
+B: Look at the pictures and also read the reviews.
+A: How do I pay once I pick a hotel?
+B: Here, take my credit card.
+
+3
+A: I'm checking in.
+B: What name is the reservation under?
+A: It is under my name, Michael Roberts.
+B: Can I see your identification, please?
+A: Here is my driver's license.
+B: I have you staying for two nights. Is that correct?
+A: That's correct.
+B: I need a credit card for any incidentals.
+A: I don't plan on using the phone or the mini-bar.
+B: I still need a credit card though.
+A: Can I pay cash?
+B: You will have to pay a $200 cash deposit if you don't want to leave a credit card.
+
+4
+A: I have an early meeting, so can I get a wake-up call?
+B: Sure! What time should we call you?
+A: Can you call my room at six in the morning?
+B: Just tell me your room number.
+A: I'm staying in room 302.
+B: Okay, Mr. Roberts. We'll call you at 6 a.m.
+A: What happens if I don't answer?
+B: Then you'll probably miss your meeting.
+A: Can I request a second wake-up call?
+B: What time should we schedule the second wake-up call?
+A: Call me again at 6:15 a.m. if I don't answer at six.
+B: So we have one wake-up call at six and a second one fifteen minutes later.
+
+5
+A: I have a few hours to explore the city.
+B: I can make some recommendations for you.
+A: Great! I want to see some museums.
+B: Here are some brochures for some local museums. Do you like modern or classic art?
+A: I like modern art. Are the museums far?
+B: It depends on which one of the two modern art museums you want to see.
+A: Where is the closest one?
+B: Let me show you on the map. This one is in walking distance from the hotel.
+A: Is the ticket to get in very expensive?
+B: It's normally $20.
+A: Does the hotel offer any discount tickets?
+B: If you buy the ticket here, it will only cost you $15.
+
+6
+A: Are there any good French restaurants around here?
+B: There are quite a few. I have some menus you can look at.
+A: Which one do you recommend? It's my wife's birthday.
+B: The French Quarter is very romantic.
+A: Is it very expensive?
+B: It is about $50 a person, not including alcohol or tip.
+A: Do I need a reservation?
+B: Yes, but I would be happy to make that reservation for you.
+A: Great! Get us a table for two at 8.
+B: Will you also need transportation to the restaurant?
+A: Can you get a limo to pick us up?
+B: I can do that for $30.
+
+7
+A: I'd like to order room service, please.
+B: What would you like to order?
+A: I'm really hungry. What are my choices?
+B: There should be a menu in your room.
+A: I have it in front of me. Can I have a cheeseburger deluxe with bacon and fries?
+B: Sure. How do you want your burger?
+A: Bloody, and I want my bacon extra crispy.
+B: Would you like anything to drink?
+A: Can I have a beer?
+B: Are you 21 or older?
+A: I'm way older than 21.
+B: We'll send that to your room in 30 minutes. You can pay upon delivery or we can charge your room.
+
+8
+A: Hi, I'm calling from room 117, and there is a big problem.
+B: I'm so sorry. What seems to be the issue?
+A: The issue is a huge disgusting cockroach in my bathroom.
+B: Is it just one cockroach?
+A: Yeah, there is only one, but it's the size of my hand!
+B: Why don't you just kill it?
+A: I shouldn't have to kill cockroaches while I'm on vacation.
+B: Do you want me to send someone to kill it for you?
+A: You can send someone, but I also want to be moved to a different room.
+B: I don't know if we have any other rooms available right now.
+A: Well, I'm not staying in this room if there are gigantic roaches sharing it with me.
+B: I'll send someone to your room right away to see if we can move you.
+
+9
+A: There're a few problems with room 217, and I'd liked to be moved.
+B: Maybe it's a problem we can fix without moving you.
+A: If you can kill the 8 cockroaches I've seen this morning.
+B: Did you say 8 cockroaches? Are you exaggerating just a little?
+A: I know how to count and I took pictures and video with my cell phone.
+B: We can call an exterminator and send him to your room.
+A: Great, and then I'm supposed to breathe in toxins after that?
+B: At least you won't have any more roaches.
+A: You can't be serious right now. Can I speak to your supervisor?
+B: I can transfer your call right now.
+A: Can you also transfer my room?
+B: I'll check to see if we have any vacant rooms we can move you to.
+
+10
+A: Is there a gym in this hotel?
+B: Yes, the fitness center is located on the third floor.
+A: Is there a charge for me to use it?
+B: No, it's free to all of our guests.
+A: Wonderful! Can I go use it right now?
+B: Unfortunately, the gym is only open from 5 a.m. to 7 p.m. and it's 10 p.m. now.
+A: I guess I'll use it in the morning then.
+B: Just use your room key card to get in.
+A: Are there weight machines?
+B: The gym has weight machines, some treadmills, and some elliptical machines, too.
+A: What about a personal trainer?
+B: No, there are no personal trainers, just the machines.
+
+11
+A: There are some amenities missing from my hotel room.
+B: I'm so sorry to hear that. What is your room number and what's missing?
+A: I'm in room 143; there is no hairdryer.
+B: I can send one up to you right away.
+A: Great! So that I can use that hairdryer, can you also send up shampoo and conditioner?
+B: There should have been a basket in the bathroom with all that.
+A: Well, there isn't.
+B: Anything else I can send up to your room?
+A: Yes, I need an iron and an ironing board.
+B: Those aren't in your closet?
+A: Maybe they are invisible. I don't see them.
+B: I do apologize. I'll bring them personally.
+
+12
+A: Is there a copy machine for guests?
+B: Yes, we have copy machines in our business center, which is to your right.
+A: I need to make a color copy.
+B: There are two black and white machines and one color copier.
+A: Is there a charge to use the machine?
+B: The cost per sheet on the color copy machine is 25 cents.
+A: Does the machine take credit cards?
+B: No, but I'd be happy to give you change if you have bills.
+A: I need to make four color copies, so give me change for a dollar.
+B: The machine also takes one dollar bills, so you don't need change.
+A: Is there usually a wait for the machines.
+B: Our business center is pretty empty right now, so you should have the run of the place.
+
+13
+A: Is there a doctor on call?
+B: What seems to be the problem?
+A: My husband is having chest pain. I think it's a heart attack.
+B: We are calling for an ambulance right now.
+A: I don't need an ambulance, I need a doctor.
+B: We don't have a doctor on duty at the hotel.
+A: I think he is going to die!
+B: The paramedics are on their way.
+A: Is there no one on staff to help us?
+B: Calm down, someone is coming up right now.
+A: Someone is knocking on the door.
+B: Take a deep breath; it may be the paramedics.
+
+14
+A: I'm having trouble connecting to the wireless network.
+B: What network are you trying to connect to?
+A: I'm trying to connect to the Bay Hotel Network.
+B: You need to connect to Bay Hotel Guest Network.
+A: What login do I use?
+B: Your room number is your login.
+A: What about the password?
+B: The password for all guests is "vacationconnect", all one word, all lower case.
+A: That seems to work. Thanks so much.
+B: No problem. In the future, refer to the guest folder located by the television.
+A: I'm so stupid. I didn't even think to look there.
+B: No problem. That's what we're here for.
+
+15
+A: I need someone to come up and restock the minibar in my room.
+B: Does everything need to be restocked?
+A: The good stuff needs to be restocked.
+B: Tell me what's good to you, sir.
+A: The three mini bottles of Grey Goose were great.
+B: Do you need the mixers to be restocked, too?
+A: I just need more cranberry juice to go with the vodka.
+B: Do any of the snacks need to be restocked?
+A: Bring a can of the honey roasted nuts.
+B: You like nuts, sir?
+A: I'm nuts about nuts.
+B: Okay, just give me your room number and someone will restock those items.
+
+16
+A: Can you tell me where the pool is?
+B: It's right outside the automatic sliding doors to your left.
+A: Is it open 24 hours?
+B: No. The pool is open from 7 a.m. to 10 p.m.
+A: Where can I get towels for the pool?
+B: There are wicker baskets by the pool with fresh towels.
+A: Is the pool heated?
+B: We keep the pool heated to 80 degrees.
+A: How deep is the pool?
+B: The pool is 3 feet on one end and goes up to 12 feet at the other end.
+A: How often do they clean the pool?
+B: It's cleaned every day before it opens.
+
+17
+A: I need a cab to the theater district.
+B: We can get that for you right away.
+A: Well, I don't need to be there for another hour.
+B: Would you like to reserve a limo then?
+A: That seems a bit much for me. Just a regular cab is fine.
+B: We can't reserve a taxi that far in advance, sir.
+A: So how do I get a cab in an hour then?
+B: If you go right outside our lobby when you are ready, a staff member will hail one for you.
+A: Do I have to tip the guy who gets the cab for me?
+B: Tips aren't mandatory, but they are appreciated.
+A: Maybe I'll just hail the cab myself then.
+B: That's also an option.
+
+18
+A: I'm ready to check out.
+B: Give me your room key, and tell me your room number, please?
+A: Here's the key. I was in room 250.
+B: Let me print out a copy of all your charges for your review.
+A: This looks right.
+B: Excellent! Will you be paying with the credit card you used when you checked in?
+A: Yeah, just charge the total to that.
+B: I just need your signature and you're all set.
+A: Thanks so much. I had a wonderful stay.
+B: I hope you will stay with us again in the future.
+A: I stay here all the time when I'm in town on business.
+B: In that case, we'll see you soon.
+
+19
+A: There are some charges on the final bill that are incorrect.
+B: Okay, sir. Can you tell me which ones are in dispute?
+A: I never ordered this movie "The Care Bears Christmas."
+B: Are you sure your kids didn't order it?
+A: I don't have any kids. Besides I was at the theater at that time.
+B: All right, I'll take that charge off your bill. Anything else?
+A: Yeah, I didn't drink 4 bottles of Grey Goose from the minibar.
+B: I remember you calling for more vodka, sir.
+A: Yeah I ordered three more bottles, but I didn't drink any of them.
+B: Maybe you don't remember drinking the additional three bottles?
+A: What are you trying to say, that I'm an alcoholic?
+B: No, sir. I'm just reading what is in our system.
+
+20
+A: I'm checking out, but is there a place I can store my luggage for a few hours?
+B: Why do you need us to hold your luggage, sir?
+A: My flight doesn't leave for another four hours.
+B: We can hold your luggage, but there is an additional cost associated with that service.
+A: How much is it going to cost me?
+B: It will be $6 an hour.
+A: I'm going to drink at your hotel bar. Can you hook me up?
+B: Unfortunately, sir, we cannot. Shall I take your credit card?
+A: No, forget it. It's cheaper for me to use a locker at the airport.
+B: Those airport lockers are not always safe though.
+A: I'll take my chances.
+B: Good luck with that, sir.
+
+21
+A: Can I leave a package here to be picked up?
+B: Absolutely, sir. What is your name?
+A: I'm Bill Collins. My room is 108.
+B: Who will be picking up the package?
+A: It's my girlfriend, Katie Black.
+B: She will have to present identification when she picks it up.
+A: That's fine. I'll let her know.
+B: What time will she be picking the package up?
+A: She'll be here after 2 p.m. Is that all right?
+B: Not a problem at all. Could you just write all the info down?
+A: Why did I bother telling you everything then?
+B: Writing it down will make sure that if I'm not here someone will know what to do.
+
+22
+A: I need to cancel a reservation.
+B: Can you tell me the name the reservation is under?
+A: Sure! The reservation is under the name Carlos Jones.
+B: Can you please confirm your billing address?
+A: It's 116 Lighthouse Road in Boston.
+B: Did you want to reschedule the reservation?
+A: No, I need to cancel it outright.
+B: So I'm canceling the reservation from March 3 through 5th, correct?
+A: That is right.
+B: The cancelation will be subject to a $15 cancellation fee.
+A: No one told me that when I made the reservation.
+B: I'm sorry, sir. You can pay the cancellation fee or be charged for the full stay.
+
+
